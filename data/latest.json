@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T20:05:29.494Z",
+  "generatedAt": "2026-02-02T20:19:52.234Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1280,
-    "totalDurationMs": 753461780,
-    "totalTokens": 1900818453,
+    "totalSessions": 1282,
+    "totalDurationMs": 755030228,
+    "totalTokens": 1907438092,
     "projectCount": 13
   },
   "projects": [
@@ -3215,36 +3215,58 @@
     {
       "projectName": "gaia",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 521,
-      "totalDurationMs": 243674702,
+      "totalSessions": 523,
+      "totalDurationMs": 244407117,
       "totalTokens": {
-        "inputTokens": 4563365,
-        "outputTokens": 636397,
-        "cacheReadTokens": 722000821,
-        "cacheCreationTokens": 73310671
+        "inputTokens": 4606050,
+        "outputTokens": 636681,
+        "cacheReadTokens": 726423129,
+        "cacheCreationTokens": 73933398
       },
       "sessions": [
+        {
+          "id": "c9366e89-0d57-4090-99d4-94923bf4659a",
+          "title": null,
+          "timestamp": "2026-02-02T20:19:45.816Z",
+          "durationMs": 4962,
+          "totalDurationMs": 4962,
+          "gitBranch": "jared/prod-8732-fix-chat-bubble-styles",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 9,
+            "outputTokens": 12,
+            "cacheReadTokens": 77280,
+            "cacheCreationTokens": 12570
+          },
+          "totalTokens": {
+            "inputTokens": 9,
+            "outputTokens": 12,
+            "cacheReadTokens": 77280,
+            "cacheCreationTokens": 12570
+          },
+          "subagentCount": 0
+        },
         {
           "id": "76fb3e9e-a021-4093-8a61-b09103dafe9e",
           "title": null,
           "timestamp": "2026-02-02T20:04:58.135Z",
-          "durationMs": 30760,
-          "totalDurationMs": 82881,
+          "durationMs": 553349,
+          "totalDurationMs": 810334,
           "gitBranch": "jared/prod-8732-fix-chat-bubble-styles",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 50,
-            "outputTokens": 5,
-            "cacheReadTokens": 0,
-            "cacheCreationTokens": 148975
+            "inputTokens": 15361,
+            "outputTokens": 27,
+            "cacheReadTokens": 627872,
+            "cacheCreationTokens": 243192
           },
           "totalTokens": {
-            "inputTokens": 22839,
-            "outputTokens": 110,
-            "cacheReadTokens": 854091,
-            "cacheCreationTokens": 583918
+            "inputTokens": 65515,
+            "outputTokens": 382,
+            "cacheReadTokens": 5199119,
+            "cacheCreationTokens": 1194075
           },
-          "subagentCount": 3
+          "subagentCount": 4
         },
         {
           "id": "3739f6af-f7e2-4c7e-beee-30e8a96fdd81",
@@ -7012,33 +7034,33 @@
       "projectName": "clog-web",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
       "totalSessions": 24,
-      "totalDurationMs": 5603151,
+      "totalDurationMs": 6439184,
       "totalTokens": {
-        "inputTokens": 128606,
-        "outputTokens": 3411,
-        "cacheReadTokens": 20942395,
-        "cacheCreationTokens": 2017718
+        "inputTokens": 128877,
+        "outputTokens": 3611,
+        "cacheReadTokens": 22376376,
+        "cacheCreationTokens": 2114901
       },
       "sessions": [
         {
           "id": "2162d697-8908-4724-99de-2c788db556c4",
           "title": null,
           "timestamp": "2026-02-02T20:05:27.271Z",
-          "durationMs": 2,
-          "totalDurationMs": 2,
+          "durationMs": 836035,
+          "totalDurationMs": 836035,
           "gitBranch": "main",
-          "model": null,
+          "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 0,
-            "outputTokens": 0,
-            "cacheReadTokens": 0,
-            "cacheCreationTokens": 0
+            "inputTokens": 271,
+            "outputTokens": 200,
+            "cacheReadTokens": 1433981,
+            "cacheCreationTokens": 97183
           },
           "totalTokens": {
-            "inputTokens": 0,
-            "outputTokens": 0,
-            "cacheReadTokens": 0,
-            "cacheCreationTokens": 0
+            "inputTokens": 271,
+            "outputTokens": 200,
+            "cacheReadTokens": 1433981,
+            "cacheCreationTokens": 97183
           },
           "subagentCount": 0
         },
@@ -7761,8 +7783,8 @@
       "durationMs": 240812752
     },
     "2026-02-02": {
-      "sessions": 81,
-      "durationMs": 26016814
+      "sessions": 83,
+      "durationMs": 27585262
     },
     "2026-01-30": {
       "sessions": 22,
