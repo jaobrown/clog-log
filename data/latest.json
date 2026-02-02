@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T21:45:44.084Z",
+  "generatedAt": "2026-02-02T21:52:43.612Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 1299,
-    "totalDurationMs": 759827457,
-    "totalTokens": 1935690756,
+    "totalDurationMs": 760247138,
+    "totalTokens": 1941291644,
     "projectCount": 13
   },
   "projects": [
@@ -3216,33 +3216,33 @@
       "projectName": "gaia",
       "projectPath": "/Users/jared/Developer/contra/gaia",
       "totalSessions": 533,
-      "totalDurationMs": 247322026,
+      "totalDurationMs": 247741707,
       "totalTokens": {
-        "inputTokens": 5046078,
-        "outputTokens": 639894,
-        "cacheReadTokens": 743633174,
-        "cacheCreationTokens": 76508908
+        "inputTokens": 5078947,
+        "outputTokens": 640231,
+        "cacheReadTokens": 748954099,
+        "cacheCreationTokens": 76755665
       },
       "sessions": [
         {
           "id": "399d07b8-6dc6-4ebc-a3f8-2bfbf5fca315",
           "title": null,
           "timestamp": "2026-02-02T21:45:38.490Z",
-          "durationMs": 4586,
-          "totalDurationMs": 4586,
+          "durationMs": 424267,
+          "totalDurationMs": 424267,
           "gitBranch": "jared/prod-8735-setup-scraping-workflow",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 15,
-            "outputTokens": 20,
-            "cacheReadTokens": 140925,
-            "cacheCreationTokens": 7380
+            "inputTokens": 32884,
+            "outputTokens": 357,
+            "cacheReadTokens": 5461850,
+            "cacheCreationTokens": 254137
           },
           "totalTokens": {
-            "inputTokens": 15,
-            "outputTokens": 20,
-            "cacheReadTokens": 140925,
-            "cacheCreationTokens": 7380
+            "inputTokens": 32884,
+            "outputTokens": 357,
+            "cacheReadTokens": 5461850,
+            "cacheCreationTokens": 254137
           },
           "subagentCount": 0
         },
@@ -7916,7 +7916,7 @@
     },
     "2026-02-02": {
       "sessions": 100,
-      "durationMs": 32382491
+      "durationMs": 32802172
     },
     "2026-01-30": {
       "sessions": 22,
