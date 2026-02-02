@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-02-02T21:52:43.612Z",
+  "generatedAt": "2026-02-02T21:52:44.301Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 1299,
-    "totalDurationMs": 760247138,
+    "totalDurationMs": 760248138,
     "totalTokens": 1941291644,
     "projectCount": 13
   },
@@ -3216,7 +3216,7 @@
       "projectName": "gaia",
       "projectPath": "/Users/jared/Developer/contra/gaia",
       "totalSessions": 533,
-      "totalDurationMs": 247741707,
+      "totalDurationMs": 247742707,
       "totalTokens": {
         "inputTokens": 5078947,
         "outputTokens": 640231,
@@ -3228,8 +3228,8 @@
           "id": "399d07b8-6dc6-4ebc-a3f8-2bfbf5fca315",
           "title": null,
           "timestamp": "2026-02-02T21:45:38.490Z",
-          "durationMs": 424267,
-          "totalDurationMs": 424267,
+          "durationMs": 425267,
+          "totalDurationMs": 425267,
           "gitBranch": "jared/prod-8735-setup-scraping-workflow",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -7916,7 +7916,7 @@
     },
     "2026-02-02": {
       "sessions": 100,
-      "durationMs": 32802172
+      "durationMs": 32803172
     },
     "2026-01-30": {
       "sessions": 22,
