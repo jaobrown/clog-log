@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T18:44:37.447Z",
+  "generatedAt": "2026-02-02T19:08:58.985Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1257,
-    "totalDurationMs": 749532972,
-    "totalTokens": 1887028187,
+    "totalSessions": 1265,
+    "totalDurationMs": 750160649,
+    "totalTokens": 1889460212,
     "projectCount": 13
   },
   "projects": [
@@ -6901,18 +6901,62 @@
     {
       "projectName": "clog",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog",
-      "totalSessions": 16,
-      "totalDurationMs": 4864748,
+      "totalSessions": 21,
+      "totalDurationMs": 5261964,
       "totalTokens": {
-        "inputTokens": 54062,
-        "outputTokens": 2109,
-        "cacheReadTokens": 12534052,
-        "cacheCreationTokens": 1122955
+        "inputTokens": 65337,
+        "outputTokens": 2540,
+        "cacheReadTokens": 13940184,
+        "cacheCreationTokens": 1462124
       },
       "sessions": [
         {
-          "id": "16a0b4d8-705c-46f2-85f5-b06e9261ee9a",
+          "id": "fb65aa74-de97-4851-905e-27e96c32c360",
           "title": null,
+          "timestamp": "2026-02-02T19:08:56.389Z",
+          "durationMs": 3,
+          "totalDurationMs": 3,
+          "gitBranch": "main",
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "639486b6-6c7c-48da-a619-451eb24eafa4",
+          "title": null,
+          "timestamp": "2026-02-02T18:54:15.400Z",
+          "durationMs": 257062,
+          "totalDurationMs": 397213,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 18,
+            "outputTokens": 180,
+            "cacheReadTokens": 667659,
+            "cacheCreationTokens": 65055
+          },
+          "totalTokens": {
+            "inputTokens": 11275,
+            "outputTokens": 431,
+            "cacheReadTokens": 1406132,
+            "cacheCreationTokens": 339169
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "16a0b4d8-705c-46f2-85f5-b06e9261ee9a",
+          "title": "Code consistency fix: Token calculation utility",
           "timestamp": "2026-02-02T17:54:21.492Z",
           "durationMs": 50409,
           "totalDurationMs": 50409,
@@ -6934,7 +6978,7 @@
         },
         {
           "id": "46102d08-7c3c-4282-91c7-bac23c8c698a",
-          "title": null,
+          "title": "Audit Claude Code token usage and math logic",
           "timestamp": "2026-02-02T17:49:53.420Z",
           "durationMs": 238701,
           "totalDurationMs": 328577,
@@ -7229,18 +7273,40 @@
     {
       "projectName": "Developer",
       "projectPath": "/Users/jared/Developer",
-      "totalSessions": 1,
-      "totalDurationMs": 1365886,
+      "totalSessions": 3,
+      "totalDurationMs": 1578807,
       "totalTokens": {
-        "inputTokens": 30359,
-        "outputTokens": 527,
-        "cacheReadTokens": 1344085,
-        "cacheCreationTokens": 84984
+        "inputTokens": 30503,
+        "outputTokens": 596,
+        "cacheReadTokens": 1652549,
+        "cacheCreationTokens": 168007
       },
       "sessions": [
         {
-          "id": "561f3fa6-1caa-47b1-ba11-e4897f468c99",
+          "id": "d22456ef-ea09-404f-9c4d-0594014f2147",
           "title": null,
+          "timestamp": "2026-02-02T18:46:09.994Z",
+          "durationMs": 195339,
+          "totalDurationMs": 212921,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 108,
+            "outputTokens": 58,
+            "cacheReadTokens": 236848,
+            "cacheCreationTokens": 9334
+          },
+          "totalTokens": {
+            "inputTokens": 144,
+            "outputTokens": 69,
+            "cacheReadTokens": 308464,
+            "cacheCreationTokens": 83023
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "561f3fa6-1caa-47b1-ba11-e4897f468c99",
+          "title": "Claude Code Session Logger Setup",
           "timestamp": "2026-01-27T18:31:16.033Z",
           "durationMs": 1365886,
           "totalDurationMs": 1365886,
@@ -7301,18 +7367,40 @@
     {
       "projectName": "clogs",
       "projectPath": "/Users/jared/Developer/tools/clogs",
-      "totalSessions": 1,
-      "totalDurationMs": 345436,
+      "totalSessions": 2,
+      "totalDurationMs": 362976,
       "totalTokens": {
-        "inputTokens": 36360,
-        "outputTokens": 119,
-        "cacheReadTokens": 3104081,
-        "cacheCreationTokens": 177750
+        "inputTokens": 43004,
+        "outputTokens": 151,
+        "cacheReadTokens": 3345815,
+        "cacheCreationTokens": 212658
       },
       "sessions": [
         {
-          "id": "ccf8cb34-aee4-46fb-ac12-b0fdd3ef0784",
+          "id": "a445a6cf-44ff-4435-825e-59ec5d21f056",
           "title": null,
+          "timestamp": "2026-02-02T18:51:03.137Z",
+          "durationMs": 17540,
+          "totalDurationMs": 17540,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 6644,
+            "outputTokens": 32,
+            "cacheReadTokens": 241734,
+            "cacheCreationTokens": 34908
+          },
+          "totalTokens": {
+            "inputTokens": 6644,
+            "outputTokens": 32,
+            "cacheReadTokens": 241734,
+            "cacheCreationTokens": 34908
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "ccf8cb34-aee4-46fb-ac12-b0fdd3ef0784",
+          "title": "Updated install commands to use npx",
           "timestamp": "2026-02-02T15:55:13.331Z",
           "durationMs": 345436,
           "totalDurationMs": 345436,
@@ -7497,8 +7585,8 @@
       "durationMs": 240812752
     },
     "2026-02-02": {
-      "sessions": 58,
-      "durationMs": 22088006
+      "sessions": 66,
+      "durationMs": 22715683
     },
     "2026-01-30": {
       "sessions": 22,
