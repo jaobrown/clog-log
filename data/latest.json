@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T21:22:21.163Z",
+  "generatedAt": "2026-02-02T21:27:43.861Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1288,
-    "totalDurationMs": 757236191,
-    "totalTokens": 1921095827,
+    "totalSessions": 1293,
+    "totalDurationMs": 757870679,
+    "totalTokens": 1924581684,
     "projectCount": 13
   },
   "projects": [
@@ -7055,18 +7055,62 @@
     {
       "projectName": "clog-web",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
-      "totalSessions": 26,
-      "totalDurationMs": 7003912,
+      "totalSessions": 31,
+      "totalDurationMs": 7638400,
       "totalTokens": {
-        "inputTokens": 139892,
-        "outputTokens": 4259,
-        "cacheReadTokens": 25361080,
-        "cacheCreationTokens": 2457580
+        "inputTokens": 215292,
+        "outputTokens": 5763,
+        "cacheReadTokens": 28176457,
+        "cacheCreationTokens": 3051156
       },
       "sessions": [
         {
-          "id": "6f7d88fd-b8df-4948-ba1d-6d09e686e4f3",
+          "id": "3496c628-e1ae-49c7-bf1c-8ebf1e8d2ee6",
           "title": null,
+          "timestamp": "2026-02-02T21:27:41.662Z",
+          "durationMs": 1,
+          "totalDurationMs": 1,
+          "gitBranch": "main",
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "e682e92d-c889-4dd9-b695-96b6f9a1b81d",
+          "title": null,
+          "timestamp": "2026-02-02T21:23:27.675Z",
+          "durationMs": 242281,
+          "totalDurationMs": 634487,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 20,
+            "outputTokens": 70,
+            "cacheReadTokens": 604628,
+            "cacheCreationTokens": 122933
+          },
+          "totalTokens": {
+            "inputTokens": 75400,
+            "outputTokens": 1504,
+            "cacheReadTokens": 2815377,
+            "cacheCreationTokens": 593576
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "6f7d88fd-b8df-4948-ba1d-6d09e686e4f3",
+          "title": "Responsive mobile-first design updates complete",
           "timestamp": "2026-02-02T21:14:25.234Z",
           "durationMs": 453688,
           "totalDurationMs": 531032,
@@ -7827,8 +7871,8 @@
       "durationMs": 240812752
     },
     "2026-02-02": {
-      "sessions": 89,
-      "durationMs": 29791225
+      "sessions": 94,
+      "durationMs": 30425713
     },
     "2026-01-30": {
       "sessions": 22,
