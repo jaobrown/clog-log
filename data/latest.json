@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T14:39:26.449Z",
+  "generatedAt": "2026-02-02T15:54:34.832Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1236,
-    "totalDurationMs": 736925805,
-    "totalTokens": 1843839779,
+    "totalSessions": 1241,
+    "totalDurationMs": 740292213,
+    "totalTokens": 1852899754,
     "projectCount": 12
   },
   "projects": [
@@ -3215,18 +3215,40 @@
     {
       "projectName": "gaia",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 505,
-      "totalDurationMs": 236427406,
+      "totalSessions": 508,
+      "totalDurationMs": 238098867,
       "totalTokens": {
-        "inputTokens": 4095631,
-        "outputTokens": 633536,
-        "cacheReadTokens": 694328766,
-        "cacheCreationTokens": 69720408
+        "inputTokens": 4190515,
+        "outputTokens": 634331,
+        "cacheReadTokens": 700127536,
+        "cacheCreationTokens": 70518232
       },
       "sessions": [
         {
-          "id": "3801eedc-7638-4d43-92a4-79e86b330219",
+          "id": "282bcc23-93dc-4beb-a086-a8bfe0666c36",
           "title": null,
+          "timestamp": "2026-02-02T15:01:22.566Z",
+          "durationMs": 1450918,
+          "totalDurationMs": 1671461,
+          "gitBranch": "jared/prod-8661-send-indy-ai-chat-message-when-challenge-joined",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 24071,
+            "outputTokens": 284,
+            "cacheReadTokens": 2492299,
+            "cacheCreationTokens": 167091
+          },
+          "totalTokens": {
+            "inputTokens": 94884,
+            "outputTokens": 795,
+            "cacheReadTokens": 5798770,
+            "cacheCreationTokens": 797824
+          },
+          "subagentCount": 2
+        },
+        {
+          "id": "3801eedc-7638-4d43-92a4-79e86b330219",
+          "title": "Schedule 24h challenge reminder workflow",
           "timestamp": "2026-02-02T14:12:10.542Z",
           "durationMs": 751592,
           "totalDurationMs": 1301449,
@@ -6557,18 +6579,40 @@
     {
       "projectName": "clog",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog",
-      "totalSessions": 10,
-      "totalDurationMs": 2790815,
+      "totalSessions": 12,
+      "totalDurationMs": 4485762,
       "totalTokens": {
-        "inputTokens": 13357,
-        "outputTokens": 865,
-        "cacheReadTokens": 8158548,
-        "cacheCreationTokens": 587771
+        "inputTokens": 29537,
+        "outputTokens": 1565,
+        "cacheReadTokens": 10241495,
+        "cacheCreationTokens": 855646
       },
       "sessions": [
         {
-          "id": "a9937521-2087-4f95-b3b4-3755c913f2dc",
+          "id": "8b8ba346-4bf8-4404-8300-e5a4e9d8ef39",
           "title": null,
+          "timestamp": "2026-02-02T15:10:25.604Z",
+          "durationMs": 1604896,
+          "totalDurationMs": 1694947,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 4,
+            "outputTokens": 498,
+            "cacheReadTokens": 1296701,
+            "cacheCreationTokens": 53825
+          },
+          "totalTokens": {
+            "inputTokens": 16180,
+            "outputTokens": 700,
+            "cacheReadTokens": 2082947,
+            "cacheCreationTokens": 267875
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "a9937521-2087-4f95-b3b4-3755c913f2dc",
+          "title": "Fixed session duration calculation using timestamps",
           "timestamp": "2026-02-02T02:48:49.018Z",
           "durationMs": 181067,
           "totalDurationMs": 181067,
@@ -6590,7 +6634,7 @@
         },
         {
           "id": "c3403e95-bbfe-4d4a-932e-8cfc3d67a70f",
-          "title": null,
+          "title": "Time calculation: LLM vs wall-clock duration analysis",
           "timestamp": "2026-02-02T02:45:04.052Z",
           "durationMs": 218619,
           "totalDurationMs": 266917,
@@ -7219,8 +7263,8 @@
       "durationMs": 240812752
     },
     "2026-02-02": {
-      "sessions": 37,
-      "durationMs": 9480839
+      "sessions": 42,
+      "durationMs": 12847247
     },
     "2026-01-30": {
       "sessions": 22,
