@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-02-02T19:54:08.012Z",
+  "generatedAt": "2026-02-02T19:54:52.173Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1272,
-    "totalDurationMs": 753146015,
+    "totalSessions": 1273,
+    "totalDurationMs": 753146018,
     "totalTokens": 1897720133,
     "projectCount": 13
   },
@@ -6989,8 +6989,8 @@
     {
       "projectName": "clog-web",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
-      "totalSessions": 20,
-      "totalDurationMs": 5370267,
+      "totalSessions": 21,
+      "totalDurationMs": 5370270,
       "totalTokens": {
         "inputTokens": 128323,
         "outputTokens": 3180,
@@ -6998,6 +6998,28 @@
         "cacheCreationTokens": 1877826
       },
       "sessions": [
+        {
+          "id": "e0691db3-75e0-48ed-a8da-8f653f11323a",
+          "title": null,
+          "timestamp": "2026-02-02T19:54:49.768Z",
+          "durationMs": 3,
+          "totalDurationMs": 3,
+          "gitBranch": "main",
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
         {
           "id": "ba97555f-aef2-4dc0-9262-e0ce4a848c08",
           "title": null,
@@ -7673,8 +7695,8 @@
       "durationMs": 240812752
     },
     "2026-02-02": {
-      "sessions": 73,
-      "durationMs": 25701049
+      "sessions": 74,
+      "durationMs": 25701052
     },
     "2026-01-30": {
       "sessions": 22,
