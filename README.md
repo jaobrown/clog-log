@@ -6,8 +6,8 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   1273            Tokens     1897.7M
-  Duration   209h 12m        Projects   13
+  Sessions   1273            Tokens     1898.0M
+  Duration   209h 13m        Projects   13
 
 ```
 
@@ -27,7 +27,7 @@ TOP PROJECTS
 RECENT SESSIONS
 ==================================================
 
-  2026-02-02  clog-web    untitled                       0        0m
+  2026-02-02  clog-web    untitled                  235.2k        0m
   2026-02-02  clog-web    untitled                  954.6k        1m
   2026-02-02  clog        untitled                    2.4M        5m
   2026-02-02  clogs       untitled                  179.7k        0m
