@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-02-02T02:56:31.004Z",
+  "generatedAt": "2026-02-02T14:39:26.449Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1233,
-    "totalDurationMs": 735597022,
-    "totalTokens": 1836547923,
+    "totalSessions": 1236,
+    "totalDurationMs": 736925805,
+    "totalTokens": 1843839779,
     "projectCount": 12
   },
   "projects": [
     {
       "projectName": "spool",
       "projectPath": "/Users/jared/Developer/apps/spool",
-      "totalSessions": 637,
-      "totalDurationMs": 463338653,
+      "totalSessions": 634,
+      "totalDurationMs": 463267042,
       "totalTokens": {
-        "inputTokens": 6820876,
-        "outputTokens": 1405556,
-        "cacheReadTokens": 814678947,
-        "cacheCreationTokens": 89562986
+        "inputTokens": 6816018,
+        "outputTokens": 1405233,
+        "cacheReadTokens": 813648253,
+        "cacheCreationTokens": 89333916
       },
       "sessions": [
         {
@@ -3039,7 +3039,7 @@
           "title": "Add PR commenting to code review app",
           "timestamp": "2026-01-03T03:53:47.417Z",
           "durationMs": 739152,
-          "totalDurationMs": 810763,
+          "totalDurationMs": 739152,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3049,12 +3049,12 @@
             "cacheCreationTokens": 204937
           },
           "totalTokens": {
-            "inputTokens": 5552,
-            "outputTokens": 21020,
-            "cacheReadTokens": 5827165,
-            "cacheCreationTokens": 434007
+            "inputTokens": 694,
+            "outputTokens": 20697,
+            "cacheReadTokens": 4796471,
+            "cacheCreationTokens": 204937
           },
-          "subagentCount": 3
+          "subagentCount": 0
         },
         {
           "id": "d2a46524-9a9c-4fb2-ada4-99f0737b6a86",
@@ -3215,18 +3215,40 @@
     {
       "projectName": "gaia",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 500,
-      "totalDurationMs": 235125957,
+      "totalSessions": 505,
+      "totalDurationMs": 236427406,
       "totalTokens": {
-        "inputTokens": 4030870,
-        "outputTokens": 630212,
-        "cacheReadTokens": 687402289,
-        "cacheCreationTokens": 68937364
+        "inputTokens": 4095631,
+        "outputTokens": 633536,
+        "cacheReadTokens": 694328766,
+        "cacheCreationTokens": 69720408
       },
       "sessions": [
         {
-          "id": "b940feaf-37ff-45f6-a774-d14a3ec4cfa5",
+          "id": "3801eedc-7638-4d43-92a4-79e86b330219",
           "title": null,
+          "timestamp": "2026-02-02T14:12:10.542Z",
+          "durationMs": 751592,
+          "totalDurationMs": 1301449,
+          "gitBranch": "jared/prod-8661-send-indy-ai-chat-message-when-challenge-joined",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 210,
+            "outputTokens": 206,
+            "cacheReadTokens": 3076587,
+            "cacheCreationTokens": 287964
+          },
+          "totalTokens": {
+            "inputTokens": 64761,
+            "outputTokens": 3324,
+            "cacheReadTokens": 6926477,
+            "cacheCreationTokens": 783044
+          },
+          "subagentCount": 4
+        },
+        {
+          "id": "b940feaf-37ff-45f6-a774-d14a3ec4cfa5",
+          "title": "Refactor submitChallengeSocialPost with flattened control flow",
           "timestamp": "2026-01-30T23:37:54.672Z",
           "durationMs": 370708,
           "totalDurationMs": 370708,
@@ -3248,7 +3270,7 @@
         },
         {
           "id": "349b18c8-51cc-418b-ad52-0e0b961985ab",
-          "title": null,
+          "title": "Challenge Name Matching Flexibility Improvement",
           "timestamp": "2026-01-30T23:31:46.797Z",
           "durationMs": 347268,
           "totalDurationMs": 395908,
@@ -6701,78 +6723,42 @@
       ]
     },
     {
-      "projectName": "imessage_export",
-      "projectPath": "/Users/jared/imessage_export",
-      "totalSessions": 10,
-      "totalDurationMs": 2167306,
-      "totalTokens": {
-        "inputTokens": 8926,
-        "outputTokens": 23188,
-        "cacheReadTokens": 5478925,
-        "cacheCreationTokens": 532793
-      },
-      "sessions": [
-        {
-          "id": "9f40208f-cf4a-49ee-b09a-2414a7e32501",
-          "title": "Converting HTML chat data for LLM analysis",
-          "timestamp": "2026-01-20T17:56:23.727Z",
-          "durationMs": 0,
-          "totalDurationMs": 2151,
-          "gitBranch": null,
-          "model": null,
-          "tokens": {
-            "inputTokens": 0,
-            "outputTokens": 0,
-            "cacheReadTokens": 0,
-            "cacheCreationTokens": 0
-          },
-          "totalTokens": {
-            "inputTokens": 4049,
-            "outputTokens": 2,
-            "cacheReadTokens": 0,
-            "cacheCreationTokens": 0
-          },
-          "subagentCount": 3
-        },
-        {
-          "id": "71bcfb0d-ea5a-40bf-9d39-5afe8be89d71",
-          "title": "Analyzing 33K iMessage chat with LLM",
-          "timestamp": "2026-01-20T17:27:48.828Z",
-          "durationMs": 2152746,
-          "totalDurationMs": 2165155,
-          "gitBranch": null,
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 812,
-            "outputTokens": 22973,
-            "cacheReadTokens": 5478925,
-            "cacheCreationTokens": 447187
-          },
-          "totalTokens": {
-            "inputTokens": 4877,
-            "outputTokens": 23186,
-            "cacheReadTokens": 5478925,
-            "cacheCreationTokens": 532793
-          },
-          "subagentCount": 5
-        }
-      ]
-    },
-    {
       "projectName": "clog-web",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
-      "totalSessions": 15,
-      "totalDurationMs": 2141540,
+      "totalSessions": 16,
+      "totalDurationMs": 2240485,
       "totalTokens": {
-        "inputTokens": 125081,
-        "outputTokens": 2758,
-        "cacheReadTokens": 13633094,
-        "cacheCreationTokens": 1314535
+        "inputTokens": 125427,
+        "outputTokens": 2807,
+        "cacheReadTokens": 14302061,
+        "cacheCreationTokens": 1424368
       },
       "sessions": [
         {
-          "id": "585ff9af-a218-460c-a485-2f044e3ea613",
+          "id": "925e1c32-c02f-4dae-aef2-5fc6fa3394d7",
           "title": null,
+          "timestamp": "2026-02-02T14:19:57.477Z",
+          "durationMs": 98945,
+          "totalDurationMs": 98945,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 346,
+            "outputTokens": 49,
+            "cacheReadTokens": 668967,
+            "cacheCreationTokens": 109833
+          },
+          "totalTokens": {
+            "inputTokens": 346,
+            "outputTokens": 49,
+            "cacheReadTokens": 668967,
+            "cacheCreationTokens": 109833
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "585ff9af-a218-460c-a485-2f044e3ea613",
+          "title": "Leaderboard Timezone Mismatch Bug Fixed",
           "timestamp": "2026-02-02T02:47:14.349Z",
           "durationMs": 107328,
           "totalDurationMs": 161292,
@@ -6901,6 +6887,64 @@
             "cacheCreationTokens": 153923
           },
           "subagentCount": 0
+        }
+      ]
+    },
+    {
+      "projectName": "imessage_export",
+      "projectPath": "/Users/jared/imessage_export",
+      "totalSessions": 10,
+      "totalDurationMs": 2167306,
+      "totalTokens": {
+        "inputTokens": 8926,
+        "outputTokens": 23188,
+        "cacheReadTokens": 5478925,
+        "cacheCreationTokens": 532793
+      },
+      "sessions": [
+        {
+          "id": "9f40208f-cf4a-49ee-b09a-2414a7e32501",
+          "title": "Converting HTML chat data for LLM analysis",
+          "timestamp": "2026-01-20T17:56:23.727Z",
+          "durationMs": 0,
+          "totalDurationMs": 2151,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 4049,
+            "outputTokens": 2,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "71bcfb0d-ea5a-40bf-9d39-5afe8be89d71",
+          "title": "Analyzing 33K iMessage chat with LLM",
+          "timestamp": "2026-01-20T17:27:48.828Z",
+          "durationMs": 2152746,
+          "totalDurationMs": 2165155,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 812,
+            "outputTokens": 22973,
+            "cacheReadTokens": 5478925,
+            "cacheCreationTokens": 447187
+          },
+          "totalTokens": {
+            "inputTokens": 4877,
+            "outputTokens": 23186,
+            "cacheReadTokens": 5478925,
+            "cacheCreationTokens": 532793
+          },
+          "subagentCount": 5
         }
       ]
     },
@@ -7163,8 +7207,8 @@
       "durationMs": 4482658
     },
     "2026-01-03": {
-      "sessions": 6,
-      "durationMs": 7159733
+      "sessions": 3,
+      "durationMs": 7088122
     },
     "2026-01-02": {
       "sessions": 3,
@@ -7173,6 +7217,10 @@
     "2025-12-30": {
       "sessions": 3,
       "durationMs": 240812752
+    },
+    "2026-02-02": {
+      "sessions": 37,
+      "durationMs": 9480839
     },
     "2026-01-30": {
       "sessions": 22,
@@ -7193,10 +7241,6 @@
     "2026-01-08": {
       "sessions": 20,
       "durationMs": 55669970
-    },
-    "2026-02-02": {
-      "sessions": 31,
-      "durationMs": 8080445
     }
   }
 }
