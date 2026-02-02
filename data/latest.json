@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T19:43:36.686Z",
+  "generatedAt": "2026-02-02T19:46:26.223Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 1269,
-    "totalDurationMs": 752596467,
-    "totalTokens": 1893776108,
+    "totalDurationMs": 752724338,
+    "totalTokens": 1894395436,
     "projectCount": 13
   },
   "projects": [
@@ -6690,33 +6690,33 @@
       "projectName": "clog",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog",
       "totalSessions": 21,
-      "totalDurationMs": 7338181,
+      "totalDurationMs": 7466052,
       "totalTokens": {
-        "inputTokens": 65459,
-        "outputTokens": 2819,
-        "cacheReadTokens": 15291467,
-        "cacheCreationTokens": 1572249
+        "inputTokens": 65555,
+        "outputTokens": 2861,
+        "cacheReadTokens": 15899045,
+        "cacheCreationTokens": 1583861
       },
       "sessions": [
         {
           "id": "fb65aa74-de97-4851-905e-27e96c32c360",
           "title": null,
           "timestamp": "2026-02-02T19:08:56.389Z",
-          "durationMs": 2076220,
-          "totalDurationMs": 2076220,
+          "durationMs": 2204091,
+          "totalDurationMs": 2204091,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 122,
-            "outputTokens": 279,
-            "cacheReadTokens": 1351283,
-            "cacheCreationTokens": 110125
+            "inputTokens": 218,
+            "outputTokens": 321,
+            "cacheReadTokens": 1958861,
+            "cacheCreationTokens": 121737
           },
           "totalTokens": {
-            "inputTokens": 122,
-            "outputTokens": 279,
-            "cacheReadTokens": 1351283,
-            "cacheCreationTokens": 110125
+            "inputTokens": 218,
+            "outputTokens": 321,
+            "cacheReadTokens": 1958861,
+            "cacheCreationTokens": 121737
           },
           "subagentCount": 0
         },
@@ -7630,7 +7630,7 @@
     },
     "2026-02-02": {
       "sessions": 70,
-      "durationMs": 25151501
+      "durationMs": 25279372
     },
     "2026-01-30": {
       "sessions": 22,
