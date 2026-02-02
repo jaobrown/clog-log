@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T02:51:25.266Z",
+  "generatedAt": "2026-02-02T02:52:37.523Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 1233,
-    "totalDurationMs": 735571175,
-    "totalTokens": 1836470200,
+    "totalDurationMs": 735597022,
+    "totalTokens": 1836547923,
     "projectCount": 12
   },
   "projects": [
@@ -6536,33 +6536,33 @@
       "projectName": "clog",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog",
       "totalSessions": 10,
-      "totalDurationMs": 2764968,
+      "totalDurationMs": 2790815,
       "totalTokens": {
-        "inputTokens": 13336,
-        "outputTokens": 848,
-        "cacheReadTokens": 8096909,
-        "cacheCreationTokens": 571725
+        "inputTokens": 13357,
+        "outputTokens": 865,
+        "cacheReadTokens": 8158548,
+        "cacheCreationTokens": 587771
       },
       "sessions": [
         {
           "id": "a9937521-2087-4f95-b3b4-3755c913f2dc",
           "title": null,
           "timestamp": "2026-02-02T02:48:49.018Z",
-          "durationMs": 155220,
-          "totalDurationMs": 155220,
+          "durationMs": 181067,
+          "totalDurationMs": 181067,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 20,
-            "outputTokens": 121,
-            "cacheReadTokens": 362671,
-            "cacheCreationTokens": 13848
+            "inputTokens": 41,
+            "outputTokens": 138,
+            "cacheReadTokens": 424310,
+            "cacheCreationTokens": 29894
           },
           "totalTokens": {
-            "inputTokens": 20,
-            "outputTokens": 121,
-            "cacheReadTokens": 362671,
-            "cacheCreationTokens": 13848
+            "inputTokens": 41,
+            "outputTokens": 138,
+            "cacheReadTokens": 424310,
+            "cacheCreationTokens": 29894
           },
           "subagentCount": 0
         },
@@ -7196,7 +7196,7 @@
     },
     "2026-02-02": {
       "sessions": 31,
-      "durationMs": 8054598
+      "durationMs": 8080445
     }
   }
 }
