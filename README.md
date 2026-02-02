@@ -6,7 +6,7 @@
 ```
 SESSIONS          TOKENS            TIME
 ─────────────────────────────────────────
-1248              1877.1M           207h 9m
+1257              1887.0M           208h 12m
 total             consumed          coded
 ```
 <!-- CLOG_STATS_END -->
@@ -15,11 +15,11 @@ total             consumed          coded
 ```
 // recent
 
-2026-02-02 gaia       - untitled                                   11.8M │ 26m
-2026-02-02 gaia       - untitled                                    4.7M │ 15m
-2026-02-02 clog-web   - untitled                                    4.4M │ 44m
-2026-02-02 clogs      - untitled                                    3.3M │ 5m
-2026-02-02 clog       - untitled                                    2.4M │ 28m
+2026-02-02 clog       - untitled                                   240.1k │ 0m
+2026-02-02 gaia       - untitled                                    3.5M │ 5m
+2026-02-02 clog       - untitled                                    2.3M │ 5m
+2026-02-02 gaia       - Remove Indy AI Conversation Filters        335.2k │ 2m
+2026-02-02 gaia       - Remove filter hiding indy AI conversati…    2.8M │ 2m
 ```
 <!-- CLOG_RECENT_END -->
 

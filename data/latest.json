@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T17:15:30.519Z",
+  "generatedAt": "2026-02-02T17:59:57.992Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1248,
-    "totalDurationMs": 745795267,
-    "totalTokens": 1877073808,
+    "totalSessions": 1257,
+    "totalDurationMs": 749532972,
+    "totalTokens": 1887028187,
     "projectCount": 13
   },
   "projects": [
@@ -3215,40 +3215,106 @@
     {
       "projectName": "gaia",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 513,
-      "totalDurationMs": 240588545,
+      "totalSessions": 517,
+      "totalDurationMs": 243591821,
       "totalTokens": {
-        "inputTokens": 4508910,
-        "outputTokens": 635870,
-        "cacheReadTokens": 714768744,
-        "cacheCreationTokens": 72035915
+        "inputTokens": 4540526,
+        "outputTokens": 636287,
+        "cacheReadTokens": 721146730,
+        "cacheCreationTokens": 72726753
       },
       "sessions": [
         {
-          "id": "13023d10-e35e-4288-92f0-cd886022441f",
+          "id": "3739f6af-f7e2-4c7e-beee-30e8a96fdd81",
           "title": null,
-          "timestamp": "2026-02-02T16:27:32.632Z",
-          "durationMs": 1566999,
-          "totalDurationMs": 1566999,
+          "timestamp": "2026-02-02T17:51:58.904Z",
+          "durationMs": 314942,
+          "totalDurationMs": 314942,
           "gitBranch": "jared/prod-8704-move-indy-ai-to-big-chat",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 329,
-            "outputTokens": 635,
-            "cacheReadTokens": 11290874,
-            "cacheCreationTokens": 481267
+            "inputTokens": 624,
+            "outputTokens": 208,
+            "cacheReadTokens": 3353911,
+            "cacheCreationTokens": 194594
           },
           "totalTokens": {
-            "inputTokens": 329,
-            "outputTokens": 635,
-            "cacheReadTokens": 11290874,
-            "cacheCreationTokens": 481267
+            "inputTokens": 624,
+            "outputTokens": 208,
+            "cacheReadTokens": 3353911,
+            "cacheCreationTokens": 194594
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "c063f7a1-c8ac-4b22-8bf3-06e6ced9918d",
+          "title": "Remove Indy AI Conversation Filters",
+          "timestamp": "2026-02-02T17:47:53.506Z",
+          "durationMs": 138740,
+          "totalDurationMs": 138740,
+          "gitBranch": "jared/prod-8704-move-indy-ai-to-big-chat",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 12,
+            "outputTokens": 28,
+            "cacheReadTokens": 280430,
+            "cacheCreationTokens": 54750
+          },
+          "totalTokens": {
+            "inputTokens": 12,
+            "outputTokens": 28,
+            "cacheReadTokens": 280430,
+            "cacheCreationTokens": 54750
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "c84db30d-dfe5-4b0d-b5f1-dc8595f4a2f7",
+          "title": "Remove filter hiding indy AI conversations from chat list",
+          "timestamp": "2026-02-02T17:45:11.705Z",
+          "durationMs": 132221,
+          "totalDurationMs": 179990,
+          "gitBranch": "jared/prod-8704-move-indy-ai-to-big-chat",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 278,
+            "outputTokens": 94,
+            "cacheReadTokens": 1214427,
+            "cacheCreationTokens": 96208
+          },
+          "totalTokens": {
+            "inputTokens": 30900,
+            "outputTokens": 172,
+            "cacheReadTokens": 2407858,
+            "cacheCreationTokens": 346814
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "13023d10-e35e-4288-92f0-cd886022441f",
+          "title": "Move Indy AI from Mini Chat to Main Chat",
+          "timestamp": "2026-02-02T16:27:32.632Z",
+          "durationMs": 3936603,
+          "totalDurationMs": 3936603,
+          "gitBranch": "jared/prod-8704-move-indy-ai-to-big-chat",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 409,
+            "outputTokens": 644,
+            "cacheReadTokens": 11626661,
+            "cacheCreationTokens": 575947
+          },
+          "totalTokens": {
+            "inputTokens": 409,
+            "outputTokens": 644,
+            "cacheReadTokens": 11626661,
+            "cacheCreationTokens": 575947
           },
           "subagentCount": 0
         },
         {
           "id": "a1123834-bf87-4dc6-b1b7-fc0f6b96451d",
-          "title": null,
+          "title": "Move Indy AI bot to main chat",
           "timestamp": "2026-02-02T16:16:04.111Z",
           "durationMs": 579635,
           "totalDurationMs": 922679,
@@ -6623,18 +6689,40 @@
     {
       "projectName": "clog-web",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
-      "totalSessions": 17,
-      "totalDurationMs": 4908425,
+      "totalSessions": 18,
+      "totalDurationMs": 5263868,
       "totalTokens": {
-        "inputTokens": 126578,
-        "outputTokens": 3066,
-        "cacheReadTokens": 18359818,
-        "cacheCreationTokens": 1742120
+        "inputTokens": 127140,
+        "outputTokens": 3103,
+        "cacheReadTokens": 18606217,
+        "cacheCreationTokens": 1763709
       },
       "sessions": [
         {
-          "id": "0a3c412e-d20f-41de-ab35-7e40763061b3",
+          "id": "86a017d0-cd0a-449d-b5b9-3e74b7f898b7",
           "title": null,
+          "timestamp": "2026-02-02T17:26:59.119Z",
+          "durationMs": 355443,
+          "totalDurationMs": 355443,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 562,
+            "outputTokens": 37,
+            "cacheReadTokens": 246399,
+            "cacheCreationTokens": 21589
+          },
+          "totalTokens": {
+            "inputTokens": 562,
+            "outputTokens": 37,
+            "cacheReadTokens": 246399,
+            "cacheCreationTokens": 21589
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "0a3c412e-d20f-41de-ab35-7e40763061b3",
+          "title": "SEO Audit: Site Setup & Favicon Implementation",
           "timestamp": "2026-02-02T16:12:56.564Z",
           "durationMs": 2667940,
           "totalDurationMs": 2667940,
@@ -6813,18 +6901,62 @@
     {
       "projectName": "clog",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog",
-      "totalSessions": 12,
-      "totalDurationMs": 4485762,
+      "totalSessions": 16,
+      "totalDurationMs": 4864748,
       "totalTokens": {
-        "inputTokens": 29537,
-        "outputTokens": 1565,
-        "cacheReadTokens": 10241495,
-        "cacheCreationTokens": 855646
+        "inputTokens": 54062,
+        "outputTokens": 2109,
+        "cacheReadTokens": 12534052,
+        "cacheCreationTokens": 1122955
       },
       "sessions": [
         {
-          "id": "8b8ba346-4bf8-4404-8300-e5a4e9d8ef39",
+          "id": "16a0b4d8-705c-46f2-85f5-b06e9261ee9a",
           "title": null,
+          "timestamp": "2026-02-02T17:54:21.492Z",
+          "durationMs": 50409,
+          "totalDurationMs": 50409,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 17,
+            "outputTokens": 47,
+            "cacheReadTokens": 229912,
+            "cacheCreationTokens": 10164
+          },
+          "totalTokens": {
+            "inputTokens": 17,
+            "outputTokens": 47,
+            "cacheReadTokens": 229912,
+            "cacheCreationTokens": 10164
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "46102d08-7c3c-4282-91c7-bac23c8c698a",
+          "title": null,
+          "timestamp": "2026-02-02T17:49:53.420Z",
+          "durationMs": 238701,
+          "totalDurationMs": 328577,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 4,
+            "outputTokens": 367,
+            "cacheReadTokens": 823659,
+            "cacheCreationTokens": 86981
+          },
+          "totalTokens": {
+            "inputTokens": 24508,
+            "outputTokens": 497,
+            "cacheReadTokens": 2062645,
+            "cacheCreationTokens": 257145
+          },
+          "subagentCount": 2
+        },
+        {
+          "id": "8b8ba346-4bf8-4404-8300-e5a4e9d8ef39",
+          "title": "Prepare npm package & README for open source",
           "timestamp": "2026-02-02T15:10:25.604Z",
           "durationMs": 1604896,
           "totalDurationMs": 1694947,
@@ -7365,8 +7497,8 @@
       "durationMs": 240812752
     },
     "2026-02-02": {
-      "sessions": 49,
-      "durationMs": 18350301
+      "sessions": 58,
+      "durationMs": 22088006
     },
     "2026-01-30": {
       "sessions": 22,
