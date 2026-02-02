@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T19:52:44.187Z",
+  "generatedAt": "2026-02-02T19:54:08.012Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1271,
-    "totalDurationMs": 753042934,
-    "totalTokens": 1896806050,
+    "totalSessions": 1272,
+    "totalDurationMs": 753146015,
+    "totalTokens": 1897720133,
     "projectCount": 13
   },
   "projects": [
@@ -6989,36 +6989,36 @@
     {
       "projectName": "clog-web",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
-      "totalSessions": 19,
-      "totalDurationMs": 5267186,
+      "totalSessions": 20,
+      "totalDurationMs": 5370267,
       "totalTokens": {
-        "inputTokens": 127160,
-        "outputTokens": 3115,
-        "cacheReadTokens": 18638941,
-        "cacheCreationTokens": 1771469
+        "inputTokens": 128323,
+        "outputTokens": 3180,
+        "cacheReadTokens": 19445439,
+        "cacheCreationTokens": 1877826
       },
       "sessions": [
         {
           "id": "ba97555f-aef2-4dc0-9262-e0ce4a848c08",
           "title": null,
           "timestamp": "2026-02-02T19:52:39.443Z",
-          "durationMs": 3318,
-          "totalDurationMs": 3318,
+          "durationMs": 66606,
+          "totalDurationMs": 106399,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 20,
-            "outputTokens": 12,
-            "cacheReadTokens": 32724,
-            "cacheCreationTokens": 7760
+            "inputTokens": 78,
+            "outputTokens": 24,
+            "cacheReadTokens": 177510,
+            "cacheCreationTokens": 21006
           },
           "totalTokens": {
-            "inputTokens": 20,
-            "outputTokens": 12,
-            "cacheReadTokens": 32724,
-            "cacheCreationTokens": 7760
+            "inputTokens": 1183,
+            "outputTokens": 77,
+            "cacheReadTokens": 839222,
+            "cacheCreationTokens": 114117
           },
-          "subagentCount": 0
+          "subagentCount": 1
         },
         {
           "id": "86a017d0-cd0a-449d-b5b9-3e74b7f898b7",
@@ -7673,8 +7673,8 @@
       "durationMs": 240812752
     },
     "2026-02-02": {
-      "sessions": 72,
-      "durationMs": 25597968
+      "sessions": 73,
+      "durationMs": 25701049
     },
     "2026-01-30": {
       "sessions": 22,
