@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T20:19:52.234Z",
+  "generatedAt": "2026-02-02T20:27:36.636Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 1282,
-    "totalDurationMs": 755030228,
-    "totalTokens": 1907438092,
+    "totalDurationMs": 755291286,
+    "totalTokens": 1909248164,
     "projectCount": 13
   },
   "projects": [
@@ -3216,33 +3216,33 @@
       "projectName": "gaia",
       "projectPath": "/Users/jared/Developer/contra/gaia",
       "totalSessions": 523,
-      "totalDurationMs": 244407117,
+      "totalDurationMs": 244634479,
       "totalTokens": {
-        "inputTokens": 4606050,
-        "outputTokens": 636681,
-        "cacheReadTokens": 726423129,
-        "cacheCreationTokens": 73933398
+        "inputTokens": 4631406,
+        "outputTokens": 636800,
+        "cacheReadTokens": 727936056,
+        "cacheCreationTokens": 74122436
       },
       "sessions": [
         {
           "id": "c9366e89-0d57-4090-99d4-94923bf4659a",
           "title": null,
           "timestamp": "2026-02-02T20:19:45.816Z",
-          "durationMs": 4962,
-          "totalDurationMs": 4962,
+          "durationMs": 232324,
+          "totalDurationMs": 232324,
           "gitBranch": "jared/prod-8732-fix-chat-bubble-styles",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 9,
-            "outputTokens": 12,
-            "cacheReadTokens": 77280,
-            "cacheCreationTokens": 12570
+            "inputTokens": 25365,
+            "outputTokens": 131,
+            "cacheReadTokens": 1590207,
+            "cacheCreationTokens": 201608
           },
           "totalTokens": {
-            "inputTokens": 9,
-            "outputTokens": 12,
-            "cacheReadTokens": 77280,
-            "cacheCreationTokens": 12570
+            "inputTokens": 25365,
+            "outputTokens": 131,
+            "cacheReadTokens": 1590207,
+            "cacheCreationTokens": 201608
           },
           "subagentCount": 0
         },
@@ -7034,33 +7034,33 @@
       "projectName": "clog-web",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
       "totalSessions": 24,
-      "totalDurationMs": 6439184,
+      "totalDurationMs": 6472880,
       "totalTokens": {
-        "inputTokens": 128877,
-        "outputTokens": 3611,
-        "cacheReadTokens": 22376376,
-        "cacheCreationTokens": 2114901
+        "inputTokens": 128893,
+        "outputTokens": 3617,
+        "cacheReadTokens": 22458688,
+        "cacheCreationTokens": 2115199
       },
       "sessions": [
         {
           "id": "2162d697-8908-4724-99de-2c788db556c4",
           "title": null,
           "timestamp": "2026-02-02T20:05:27.271Z",
-          "durationMs": 836035,
-          "totalDurationMs": 836035,
+          "durationMs": 869731,
+          "totalDurationMs": 869731,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 271,
-            "outputTokens": 200,
-            "cacheReadTokens": 1433981,
-            "cacheCreationTokens": 97183
+            "inputTokens": 287,
+            "outputTokens": 206,
+            "cacheReadTokens": 1516293,
+            "cacheCreationTokens": 97481
           },
           "totalTokens": {
-            "inputTokens": 271,
-            "outputTokens": 200,
-            "cacheReadTokens": 1433981,
-            "cacheCreationTokens": 97183
+            "inputTokens": 287,
+            "outputTokens": 206,
+            "cacheReadTokens": 1516293,
+            "cacheCreationTokens": 97481
           },
           "subagentCount": 0
         },
@@ -7784,7 +7784,7 @@
     },
     "2026-02-02": {
       "sessions": 83,
-      "durationMs": 27585262
+      "durationMs": 27846320
     },
     "2026-01-30": {
       "sessions": 22,
