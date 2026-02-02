@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T02:41:24.009Z",
+  "generatedAt": "2026-02-02T02:51:25.266Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1228,
-    "totalDurationMs": 51263049,
-    "totalTokens": 1833368018,
+    "totalSessions": 1233,
+    "totalDurationMs": 735571175,
+    "totalTokens": 1836470200,
     "projectCount": 12
   },
   "projects": [
@@ -12,7 +12,7 @@
       "projectName": "spool",
       "projectPath": "/Users/jared/Developer/apps/spool",
       "totalSessions": 637,
-      "totalDurationMs": 32444349,
+      "totalDurationMs": 463338653,
       "totalTokens": {
         "inputTokens": 6820876,
         "outputTokens": 1405556,
@@ -24,8 +24,8 @@
           "id": "5b682cf2-9a8b-474f-b29a-a014384ee06c",
           "title": null,
           "timestamp": "2026-01-28T15:09:51.988Z",
-          "durationMs": 219386,
-          "totalDurationMs": 219386,
+          "durationMs": 244827,
+          "totalDurationMs": 244827,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -68,8 +68,8 @@
           "id": "3fed42f5-7873-4ae8-a987-f266ac7870f5",
           "title": "Remove timer from tasks UI processing overlay",
           "timestamp": "2026-01-28T01:37:21.193Z",
-          "durationMs": 38806,
-          "totalDurationMs": 38806,
+          "durationMs": 160411,
+          "totalDurationMs": 160411,
           "gitBranch": "moreeeee",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -90,8 +90,8 @@
           "id": "95bea49f-06e4-4d0e-9f97-3b2a20240597",
           "title": "Fix PR merged status detection in polling",
           "timestamp": "2026-01-28T01:32:39.319Z",
-          "durationMs": 147157,
-          "totalDurationMs": 147157,
+          "durationMs": 263909,
+          "totalDurationMs": 331838,
           "gitBranch": "moreeeee",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -112,8 +112,8 @@
           "id": "b958d73a-9743-4d15-9230-8ce7c41d1839",
           "title": "Fix timestamp clicks to prevent page scroll navigation",
           "timestamp": "2026-01-27T22:25:17.571Z",
-          "durationMs": 201945,
-          "totalDurationMs": 201945,
+          "durationMs": 12732805,
+          "totalDurationMs": 12732805,
           "gitBranch": "some-improvements",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -134,8 +134,8 @@
           "id": "3dc2dec3-41ab-4785-97de-a3685448af30",
           "title": "Video Timestamp Accuracy via Two-Pass Gemini Analysis",
           "timestamp": "2026-01-27T21:39:09.146Z",
-          "durationMs": 190729,
-          "totalDurationMs": 190729,
+          "durationMs": 1612175,
+          "totalDurationMs": 2511142,
           "gitBranch": "better-timestamps",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -178,8 +178,8 @@
           "id": "6b140d9c-4922-46f8-9ead-c638bcf1e81e",
           "title": "Static Homepage Rendering Optimization",
           "timestamp": "2026-01-27T14:57:44.828Z",
-          "durationMs": 57312,
-          "totalDurationMs": 57312,
+          "durationMs": 252495,
+          "totalDurationMs": 252495,
           "gitBranch": "seo",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -200,8 +200,8 @@
           "id": "5c9cbc8b-d409-4703-8064-9e7ec31adf7b",
           "title": "SEO Audit: Pre-Launch Optimization for Spool",
           "timestamp": "2026-01-27T14:33:06.885Z",
-          "durationMs": 150731,
-          "totalDurationMs": 150731,
+          "durationMs": 828715,
+          "totalDurationMs": 828715,
           "gitBranch": "seo",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -222,8 +222,8 @@
           "id": "963591b7-0ad0-4821-a61c-1e4c133a47ab",
           "title": "Shadcn Landing Page Setup and Font Integration",
           "timestamp": "2026-01-27T02:28:51.927Z",
-          "durationMs": 135725,
-          "totalDurationMs": 135725,
+          "durationMs": 378600,
+          "totalDurationMs": 378600,
           "gitBranch": "homepage",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -244,8 +244,8 @@
           "id": "26b75cc5-041f-4ce4-87ed-2ef713042fc1",
           "title": "Shareable read-only PR report links",
           "timestamp": "2026-01-27T01:05:54.741Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 5440111,
+          "totalDurationMs": 6107714,
           "gitBranch": "shareable-links",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -266,8 +266,8 @@
           "id": "16d59e62-b966-4460-bb6e-4a6b59b2dc05",
           "title": "Playwright test detection in monorepos",
           "timestamp": "2026-01-26T22:20:56.603Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 9702,
+          "totalDurationMs": 9702,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -288,8 +288,8 @@
           "id": "f8a40458-9332-4486-bbf7-08f9f7ef9dc5",
           "title": "Video verification: improve visual claim detection",
           "timestamp": "2026-01-26T19:59:14.419Z",
-          "durationMs": 160246,
-          "totalDurationMs": 160246,
+          "durationMs": 3324181,
+          "totalDurationMs": 3782443,
           "gitBranch": "report-prompts",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -310,8 +310,8 @@
           "id": "0f7b3b77-e068-4c2e-a98e-f797733967c9",
           "title": "Hide chat panel entry point from UI",
           "timestamp": "2026-01-26T19:54:39.967Z",
-          "durationMs": 46487,
-          "totalDurationMs": 46487,
+          "durationMs": 46489,
+          "totalDurationMs": 46489,
           "gitBranch": "chat",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -332,8 +332,8 @@
           "id": "40db2e43-d9f7-41c7-9c61-a76a32d22bff",
           "title": "Chat UI rework with AI SDK streaming integration",
           "timestamp": "2026-01-26T19:19:34.108Z",
-          "durationMs": 1535605,
-          "totalDurationMs": 1535605,
+          "durationMs": 1948479,
+          "totalDurationMs": 3171084,
           "gitBranch": "chat",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -354,8 +354,8 @@
           "id": "d4b40f2d-529e-49b8-94cd-719419b39433",
           "title": "Fix PR verification \"blocked\" verdict bug",
           "timestamp": "2026-01-26T19:09:44.798Z",
-          "durationMs": 64206,
-          "totalDurationMs": 64206,
+          "durationMs": 233726,
+          "totalDurationMs": 233726,
           "gitBranch": "jared/foo",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -376,8 +376,8 @@
           "id": "e3e11675-d358-4673-8828-60f36c32422e",
           "title": "PR blocked despite passing due to verification processing bug",
           "timestamp": "2026-01-26T19:09:44.798Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 120623,
+          "totalDurationMs": 202177,
           "gitBranch": "jared/foo",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -398,8 +398,8 @@
           "id": "f8229438-e2ca-4693-806f-65c35a011a0f",
           "title": "PR polling: sync merged status updates",
           "timestamp": "2026-01-26T18:48:07.293Z",
-          "durationMs": 372911,
-          "totalDurationMs": 372911,
+          "durationMs": 441974,
+          "totalDurationMs": 899499,
           "gitBranch": "poll-for-pr-updates",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -420,8 +420,8 @@
           "id": "56f19427-271c-4fa9-8a61-23f3c6358101",
           "title": "Spool metadata review and emoji favicon update",
           "timestamp": "2026-01-26T18:37:33.410Z",
-          "durationMs": 43814,
-          "totalDurationMs": 43814,
+          "durationMs": 43818,
+          "totalDurationMs": 43818,
           "gitBranch": "metadata",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -442,8 +442,8 @@
           "id": "5e256993-a9e3-485b-9722-4c11c288c42a",
           "title": "Webhook polling for org repo PRs",
           "timestamp": "2026-01-26T17:34:22.907Z",
-          "durationMs": 662828,
-          "totalDurationMs": 662828,
+          "durationMs": 3461261,
+          "totalDurationMs": 3856543,
           "gitBranch": "not-injesting-pr-in-prod",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -464,8 +464,8 @@
           "id": "c3358f6c-aa63-4940-9880-a282905b053d",
           "title": "Fixed null transcript excerpt validation error",
           "timestamp": "2026-01-26T17:17:28.404Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 98235,
+          "totalDurationMs": 98235,
           "gitBranch": "not-blockers",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -486,8 +486,8 @@
           "id": "143e2094-a525-436b-8cce-b5a611ef12bd",
           "title": "Claims vs Implementation Blocker Analysis",
           "timestamp": "2026-01-26T17:05:48.750Z",
-          "durationMs": 448053,
-          "totalDurationMs": 448053,
+          "durationMs": 599345,
+          "totalDurationMs": 897426,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -508,8 +508,8 @@
           "id": "de1912c7-5869-4b5b-9e7e-f7a3e6a048d4",
           "title": "Auto-download Loom videos in PRs with re-record option",
           "timestamp": "2026-01-26T16:46:23.007Z",
-          "durationMs": 701023,
-          "totalDurationMs": 701023,
+          "durationMs": 872202,
+          "totalDurationMs": 1633777,
           "gitBranch": "checklist-improve",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -530,8 +530,8 @@
           "id": "c2ceab7b-737c-48f0-bf18-25c0da67735b",
           "title": "LLM Checklist Generation Retry Logic",
           "timestamp": "2026-01-26T16:43:47.200Z",
-          "durationMs": 271055,
-          "totalDurationMs": 271055,
+          "durationMs": 331166,
+          "totalDurationMs": 541399,
           "gitBranch": "checklist-improve",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -552,8 +552,8 @@
           "id": "739d5214-4332-49b0-ad8d-cee250df0cda",
           "title": "Add Pulse Animation to Checklist Loading State",
           "timestamp": "2026-01-26T16:36:20.115Z",
-          "durationMs": 31199,
-          "totalDurationMs": 31199,
+          "durationMs": 31202,
+          "totalDurationMs": 31202,
           "gitBranch": "checklist-improve",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -574,8 +574,8 @@
           "id": "5391e107-79f5-4750-872e-83006dcdfa0f",
           "title": "Remove dropzone, refocus on recording",
           "timestamp": "2026-01-26T16:32:40.351Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 103615,
+          "totalDurationMs": 103615,
           "gitBranch": "checklist-improve",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -596,8 +596,8 @@
           "id": "e9e7ffed-a9e7-48d5-87a1-7c04e2fe75d1",
           "title": "Tooltip text wrapping and max-width fix",
           "timestamp": "2026-01-26T16:22:27.432Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 23021,
+          "totalDurationMs": 23021,
           "gitBranch": "checklist-improve",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -618,8 +618,8 @@
           "id": "b5d52469-821d-4bd9-af2f-43551f268ead",
           "title": "PR demo video generator with narration",
           "timestamp": "2026-01-26T13:06:53.833Z",
-          "durationMs": 243616,
-          "totalDurationMs": 243616,
+          "durationMs": 673868,
+          "totalDurationMs": 673868,
           "gitBranch": "claude/pr-demo-video-skill-BBEm2",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -640,8 +640,8 @@
           "id": "595c7b74-122a-4570-b4f6-2ae1d0e48205",
           "title": "Legacy Code Cleanup Post Agent Migration",
           "timestamp": "2026-01-25T23:23:17.848Z",
-          "durationMs": 122865,
-          "totalDurationMs": 122865,
+          "durationMs": 122881,
+          "totalDurationMs": 374549,
           "gitBranch": "agents",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -662,8 +662,8 @@
           "id": "6246a9a2-b0b7-4152-8168-4ce1e002c297",
           "title": "PR pipeline agent migration + re-run button",
           "timestamp": "2026-01-25T22:53:31.741Z",
-          "durationMs": 822833,
-          "totalDurationMs": 822833,
+          "durationMs": 1430456,
+          "totalDurationMs": 2184694,
           "gitBranch": "agents",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -684,8 +684,8 @@
           "id": "b6e92747-8f5a-4d68-8034-147865f18f5a",
           "title": "UI redesign: left-aligned, clearer copy, chain-of-thought steps",
           "timestamp": "2026-01-25T22:36:03.513Z",
-          "durationMs": 254476,
-          "totalDurationMs": 254476,
+          "durationMs": 612843,
+          "totalDurationMs": 612843,
           "gitBranch": "agents",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -706,8 +706,8 @@
           "id": "204e82fd-74fe-477d-a1c8-98bc0ab07021",
           "title": "Product Pipeline Overview Documentation",
           "timestamp": "2026-01-25T22:23:02.198Z",
-          "durationMs": 687306,
-          "totalDurationMs": 687306,
+          "durationMs": 806220,
+          "totalDurationMs": 1308999,
           "gitBranch": "agents",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -728,8 +728,8 @@
           "id": "5ef0234d-539d-445b-bc6d-ccddb7f94d9c",
           "title": "Video Player UI: Remove Cards, Unify Button Layout",
           "timestamp": "2026-01-25T22:20:30.104Z",
-          "durationMs": 290503,
-          "totalDurationMs": 290503,
+          "durationMs": 819526,
+          "totalDurationMs": 819526,
           "gitBranch": "agents",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -750,8 +750,8 @@
           "id": "3fadd678-a062-434f-a13f-919f8ef3d9af",
           "title": "PR Evaluation Re-run Feature Without New PRs",
           "timestamp": "2026-01-25T21:54:08.448Z",
-          "durationMs": 216717,
-          "totalDurationMs": 216717,
+          "durationMs": 1145716,
+          "totalDurationMs": 1916172,
           "gitBranch": "agents",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -772,8 +772,8 @@
           "id": "08a5226b-f341-4f33-bff6-8c8df3c988d8",
           "title": "Convex Agents: Data Loss Fix & Prompt Centralization",
           "timestamp": "2026-01-25T21:21:40.092Z",
-          "durationMs": 1013172,
-          "totalDurationMs": 1013172,
+          "durationMs": 1708873,
+          "totalDurationMs": 2895041,
           "gitBranch": "agents",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -794,8 +794,8 @@
           "id": "306f60b9-c2d0-4c04-b648-76ea80c4bb4d",
           "title": "Lighten walkthrough checklist to feel less component-heavy",
           "timestamp": "2026-01-25T20:23:00.141Z",
-          "durationMs": 89197,
-          "totalDurationMs": 89197,
+          "durationMs": 214710,
+          "totalDurationMs": 214710,
           "gitBranch": "improve-header",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -816,8 +816,8 @@
           "id": "48e51e9e-cde5-47c8-bc56-6b5d5f8afe41",
           "title": "Migrate Verification Pipeline to Convex Agent",
           "timestamp": "2026-01-25T20:18:55.439Z",
-          "durationMs": 425274,
-          "totalDurationMs": 425274,
+          "durationMs": 1812399,
+          "totalDurationMs": 1812399,
           "gitBranch": "improve-header",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -838,8 +838,8 @@
           "id": "4e29301d-8f9f-4891-9d7a-a79e6078604f",
           "title": "Evaluate Convex Agent Component for Review Pipeline",
           "timestamp": "2026-01-25T20:18:55.439Z",
-          "durationMs": 200824,
-          "totalDurationMs": 200824,
+          "durationMs": 1019647,
+          "totalDurationMs": 1800293,
           "gitBranch": "improve-header",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -860,8 +860,8 @@
           "id": "be6065dc-7759-43c2-847e-4873bb478829",
           "title": "PR header responsive layout refinement",
           "timestamp": "2026-01-25T20:15:10.486Z",
-          "durationMs": 36585,
-          "totalDurationMs": 36585,
+          "durationMs": 47781,
+          "totalDurationMs": 47781,
           "gitBranch": "improve-header",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -882,8 +882,8 @@
           "id": "d1d5ad90-cecf-42a9-be4a-abf2b1e5031a",
           "title": "Web Design Guidelines PR Header Review",
           "timestamp": "2026-01-25T20:10:40.767Z",
-          "durationMs": 73635,
-          "totalDurationMs": 73635,
+          "durationMs": 78325,
+          "totalDurationMs": 78325,
           "gitBranch": "improve-header",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -904,8 +904,8 @@
           "id": "dbf9ac02-5002-43ed-8cd5-8de7509920f3",
           "title": "Vercel React Best Practices Skill Installation",
           "timestamp": "2026-01-25T20:08:04.289Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1202,
+          "totalDurationMs": 1202,
           "gitBranch": "improve-header",
           "model": null,
           "tokens": {
@@ -926,8 +926,8 @@
           "id": "de5e1bf5-bfa2-4e07-9774-3bf67e231041",
           "title": "Claude Plugin System Exploration",
           "timestamp": "2026-01-25T20:01:26.681Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1,
+          "totalDurationMs": 1,
           "gitBranch": "improve-header",
           "model": null,
           "tokens": {
@@ -948,8 +948,8 @@
           "id": "c5ad313f-c914-4532-aabb-507ef9f071f6",
           "title": "PR Demo Video Generator with AI Narration",
           "timestamp": "2026-01-25T19:42:30.481Z",
-          "durationMs": 188782,
-          "totalDurationMs": 188782,
+          "durationMs": 435294,
+          "totalDurationMs": 435294,
           "gitBranch": "claude/pr-demo-video-skill-BBEm2",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -970,8 +970,8 @@
           "id": "8ef0480d-f4c0-4e51-9ed2-7237ae31ae5c",
           "title": "Demo video: homepage GitHub icon walkthrough",
           "timestamp": "2026-01-25T05:12:20.268Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 26965,
+          "totalDurationMs": 26965,
           "gitBranch": "claude/demo-video-generator-G5Ccv",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -992,8 +992,8 @@
           "id": "5abe2f4a-7060-4d27-80d5-793cfd67353f",
           "title": "Demo video generator with ElevenLabs API setup",
           "timestamp": "2026-01-25T05:07:38.747Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 253997,
+          "totalDurationMs": 253997,
           "gitBranch": "claude/demo-video-generator-G5Ccv",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1014,8 +1014,8 @@
           "id": "55e13424-a9a7-4467-a9b4-bfa76804d1f3",
           "title": "Fix Playwright Demo Video 404 Route Detection",
           "timestamp": "2026-01-25T04:51:46.099Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 550497,
+          "totalDurationMs": 979997,
           "gitBranch": "claude/demo-video-generator-G5Ccv",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1036,8 +1036,8 @@
           "id": "b247c5ed-5c65-41b2-a102-b66fa3c780c6",
           "title": "Fix Demo Video Route Resolution in TanStack Router",
           "timestamp": "2026-01-25T04:51:46.099Z",
-          "durationMs": 319281,
-          "totalDurationMs": 319281,
+          "durationMs": 925662,
+          "totalDurationMs": 925662,
           "gitBranch": "claude/demo-video-generator-G5Ccv",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1058,8 +1058,8 @@
           "id": "95b5803d-8efa-4a7b-9761-caea990b6325",
           "title": "Demo video generator setup and execution successful",
           "timestamp": "2026-01-25T04:38:39.639Z",
-          "durationMs": 568826,
-          "totalDurationMs": 568826,
+          "durationMs": 658093,
+          "totalDurationMs": 658093,
           "gitBranch": "claude/demo-video-generator-G5Ccv",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1080,8 +1080,8 @@
           "id": "05666b54-37a2-4d2e-a6e7-9842e833ee52",
           "title": "Fix Null Validation Error in VideoVerification Claims",
           "timestamp": "2026-01-25T01:02:35.044Z",
-          "durationMs": 30188,
-          "totalDurationMs": 30188,
+          "durationMs": 30195,
+          "totalDurationMs": 30195,
           "gitBranch": "more-ux",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1102,8 +1102,8 @@
           "id": "e5ff7cbf-2339-49c3-84a4-e76cd134ffbb",
           "title": "Remove AI-generated % feature E2E",
           "timestamp": "2026-01-25T00:48:44.220Z",
-          "durationMs": 411976,
-          "totalDurationMs": 411976,
+          "durationMs": 566090,
+          "totalDurationMs": 738033,
           "gitBranch": "more-ux",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1124,8 +1124,8 @@
           "id": "ad4593f7-88f6-42b9-9e7c-57d91f9e6b8f",
           "title": "Refactor PR review UX to sturdy document-building pattern",
           "timestamp": "2026-01-24T22:00:32.274Z",
-          "durationMs": 297369,
-          "totalDurationMs": 297369,
+          "durationMs": 1798646,
+          "totalDurationMs": 2573734,
           "gitBranch": "ux-improve",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1146,8 +1146,8 @@
           "id": "e6b06028-d258-4148-8677-cb94a4fe04fc",
           "title": "PR Import & Review Feature Implementation",
           "timestamp": "2026-01-24T21:11:30.386Z",
-          "durationMs": 358947,
-          "totalDurationMs": 358947,
+          "durationMs": 1995495,
+          "totalDurationMs": 3049190,
           "gitBranch": "import-pr",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1168,8 +1168,8 @@
           "id": "bce205c0-6826-44ec-bf95-5ce5e3f559c5",
           "title": "Implement Typography Styles for Verification Report",
           "timestamp": "2026-01-24T21:01:51.415Z",
-          "durationMs": 60022,
-          "totalDurationMs": 60022,
+          "durationMs": 60026,
+          "totalDurationMs": 60026,
           "gitBranch": "verificationsss",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1190,8 +1190,8 @@
           "id": "f88383cf-167a-4c05-86b4-6c821183d616",
           "title": "Move video preview to sticky right sidebar column",
           "timestamp": "2026-01-24T20:47:05.635Z",
-          "durationMs": 156202,
-          "totalDurationMs": 156202,
+          "durationMs": 336927,
+          "totalDurationMs": 336927,
           "gitBranch": "verificationsss",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1212,8 +1212,8 @@
           "id": "23d28ba6-16da-43a4-945f-00e95950dce5",
           "title": "Spool Verification Pipeline Implementation Complete",
           "timestamp": "2026-01-24T20:14:09.616Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1553799,
+          "totalDurationMs": 2414560,
           "gitBranch": "verificationsss",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1234,8 +1234,8 @@
           "id": "3aeeaa5c-d925-4afa-814e-e4547b9b9151",
           "title": "Remove code notes feature and related code",
           "timestamp": "2026-01-24T19:16:56.532Z",
-          "durationMs": 825423,
-          "totalDurationMs": 825423,
+          "durationMs": 1038897,
+          "totalDurationMs": 1312597,
           "gitBranch": "remove-code-notes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1256,8 +1256,8 @@
           "id": "b571a54e-792e-429d-abcd-a22b6596f508",
           "title": "Filter GitHub PRs by Current User Only",
           "timestamp": "2026-01-24T19:14:15.587Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1216,
+          "totalDurationMs": 8946,
           "gitBranch": "remove-code-notes",
           "model": null,
           "tokens": {
@@ -1278,8 +1278,8 @@
           "id": "baa9ac76-de86-443a-8503-38a0a9c8d0d1",
           "title": "Filter GitHub PRs by current user",
           "timestamp": "2026-01-23T22:14:17.670Z",
-          "durationMs": 286867,
-          "totalDurationMs": 286867,
+          "durationMs": 393680,
+          "totalDurationMs": 441097,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1300,8 +1300,8 @@
           "id": "3bb1a926-84f6-4553-b0f7-ba96c10d1dcc",
           "title": "Fix S3 multipart upload part size consistency",
           "timestamp": "2026-01-23T22:05:16.844Z",
-          "durationMs": 84238,
-          "totalDurationMs": 84238,
+          "durationMs": 97850,
+          "totalDurationMs": 139303,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1322,8 +1322,8 @@
           "id": "77761965-1eed-4c27-9dc5-84535f862e79",
           "title": "AI Contribution Calibration Feature Implementation",
           "timestamp": "2026-01-23T22:04:27.983Z",
-          "durationMs": 172040,
-          "totalDurationMs": 172040,
+          "durationMs": 346251,
+          "totalDurationMs": 404637,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1344,8 +1344,8 @@
           "id": "eaacefed-33d8-4cfc-bc79-943d51371121",
           "title": "AI Contribution Calibration Feature Implementation Planning",
           "timestamp": "2026-01-23T19:44:34.682Z",
-          "durationMs": 105205,
-          "totalDurationMs": 105205,
+          "durationMs": 105211,
+          "totalDurationMs": 115055,
           "gitBranch": "claude/loom-download-hook-tJNFS",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1366,8 +1366,8 @@
           "id": "55b267b9-d59b-44ae-9922-05e8a18d4de2",
           "title": "AI Contribution Calibration Feature Implementation",
           "timestamp": "2026-01-23T18:48:14.809Z",
-          "durationMs": 761442,
-          "totalDurationMs": 761442,
+          "durationMs": 4062312,
+          "totalDurationMs": 4735002,
           "gitBranch": "review-calibration",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1389,7 +1389,7 @@
           "title": null,
           "timestamp": "2026-01-23T18:40:22.523Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 6428,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -1410,8 +1410,8 @@
           "id": "41389233-7070-4092-b252-0f36301683a8",
           "title": "Phase 5 Final Report Generation Implementation",
           "timestamp": "2026-01-23T18:34:33.737Z",
-          "durationMs": 272551,
-          "totalDurationMs": 272551,
+          "durationMs": 501958,
+          "totalDurationMs": 559245,
           "gitBranch": "finalize",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1432,8 +1432,8 @@
           "id": "2111a8d4-162e-41b2-bd44-d7922c18e9dc",
           "title": "Phase 5 Final Report Generation Implementation",
           "timestamp": "2026-01-23T17:45:06.093Z",
-          "durationMs": 631506,
-          "totalDurationMs": 631506,
+          "durationMs": 2168985,
+          "totalDurationMs": 2600765,
           "gitBranch": "finalize",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1454,8 +1454,8 @@
           "id": "cb777471-7a03-45d9-85e1-01e1df137578",
           "title": "Video Verification Phase Implementation Planning",
           "timestamp": "2026-01-23T17:29:12.440Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 138742,
+          "totalDurationMs": 148925,
           "gitBranch": "verifications",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1476,8 +1476,8 @@
           "id": "ab2a89e0-a344-4012-ae1b-266e7278854c",
           "title": "Phase 4 Video Verification Implementation Complete",
           "timestamp": "2026-01-23T15:47:36.286Z",
-          "durationMs": 1055084,
-          "totalDurationMs": 1055084,
+          "durationMs": 2820751,
+          "totalDurationMs": 3567055,
           "gitBranch": "verifications",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1498,8 +1498,8 @@
           "id": "350524f6-ce89-4fb0-9cec-0c3bcb03b78a",
           "title": "Remove Upload Recovery Functionality Keep Core Features",
           "timestamp": "2026-01-23T15:46:31.461Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 2815,
+          "totalDurationMs": 12217,
           "gitBranch": "verifications",
           "model": null,
           "tokens": {
@@ -1520,8 +1520,8 @@
           "id": "73dbac84-20a2-4c4b-8dfd-1f2c34909946",
           "title": "Remove upload recovery functionality",
           "timestamp": "2026-01-23T02:06:20.423Z",
-          "durationMs": 346726,
-          "totalDurationMs": 346726,
+          "durationMs": 641978,
+          "totalDurationMs": 704288,
           "gitBranch": "recover",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1542,8 +1542,8 @@
           "id": "4125803c-3f74-46f1-b907-901db5d6c189",
           "title": "Code simplification refactoring: tidying up PR",
           "timestamp": "2026-01-23T01:40:35.118Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1456135,
+          "totalDurationMs": 2144473,
           "gitBranch": "recover",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1564,8 +1564,8 @@
           "id": "e0cb8222-ede2-44d7-bf09-12915fce67a7",
           "title": "PR code simplification: refactor duplication",
           "timestamp": "2026-01-23T01:33:43.384Z",
-          "durationMs": 83542,
-          "totalDurationMs": 83542,
+          "durationMs": 403742,
+          "totalDurationMs": 478098,
           "gitBranch": "recover",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1587,7 +1587,7 @@
           "title": "Video Recovery System Audit and Implementation Fix",
           "timestamp": "2026-01-23T01:32:46.372Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 10699,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -1608,8 +1608,8 @@
           "id": "8dea1695-e3c4-4f89-bc0c-cd36b3566980",
           "title": "Video Upload Recovery: Convex-Only Architecture",
           "timestamp": "2026-01-23T00:09:26.540Z",
-          "durationMs": 541721,
-          "totalDurationMs": 541721,
+          "durationMs": 4330794,
+          "totalDurationMs": 7377091,
           "gitBranch": "recover",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1630,8 +1630,8 @@
           "id": "c29b2ca0-742f-472d-bf51-7c653f930dc9",
           "title": "PR Video Playback State Display Fix",
           "timestamp": "2026-01-22T21:17:30.704Z",
-          "durationMs": 2335460,
-          "totalDurationMs": 2335460,
+          "durationMs": 10105369,
+          "totalDurationMs": 10341882,
           "gitBranch": "recover",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1652,8 +1652,8 @@
           "id": "f414a7c7-e84e-4f99-8fbb-da2d8aa5c235",
           "title": "Fix PR video playback when recording exists",
           "timestamp": "2026-01-22T20:53:38.299Z",
-          "durationMs": 516898,
-          "totalDurationMs": 516898,
+          "durationMs": 912485,
+          "totalDurationMs": 954604,
           "gitBranch": "upload-frontend",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1674,8 +1674,8 @@
           "id": "aa50ef1f-ba63-4ad3-a483-0b4960184b8d",
           "title": "Phase 3: Multipart Upload Backend Planning",
           "timestamp": "2026-01-22T19:23:36.385Z",
-          "durationMs": 1027247,
-          "totalDurationMs": 1027247,
+          "durationMs": 5280474,
+          "totalDurationMs": 5604264,
           "gitBranch": "upload-frontend",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1696,8 +1696,8 @@
           "id": "0989986a-e142-4ea5-9e87-61d6601f44db",
           "title": "Phase 3: Multipart Upload Backend Complete",
           "timestamp": "2026-01-22T17:51:31.066Z",
-          "durationMs": 552456,
-          "totalDurationMs": 552456,
+          "durationMs": 2344435,
+          "totalDurationMs": 2619903,
           "gitBranch": "multipart-upload",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1718,8 +1718,8 @@
           "id": "2cb4350e-aeb6-4081-b40f-56927b111b7b",
           "title": "Implementing Phase 2: Upload State Persistence",
           "timestamp": "2026-01-22T15:52:38.487Z",
-          "durationMs": 194811,
-          "totalDurationMs": 194811,
+          "durationMs": 659566,
+          "totalDurationMs": 771667,
           "gitBranch": "improve-walkthrough-notes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1740,8 +1740,8 @@
           "id": "7b7977fc-fabb-452d-ab34-527f1c5d3475",
           "title": "Phase 2: Upload State Persistence Implementation Complete",
           "timestamp": "2026-01-22T13:27:32.630Z",
-          "durationMs": 267899,
-          "totalDurationMs": 267899,
+          "durationMs": 7523912,
+          "totalDurationMs": 7750273,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1762,8 +1762,8 @@
           "id": "2a40eb05-e2e9-429f-8aaf-8b490c086f8d",
           "title": "Phase 1 Core Recording Infrastructure Planning Implementation",
           "timestamp": "2026-01-22T13:14:41.714Z",
-          "durationMs": 119947,
-          "totalDurationMs": 119947,
+          "durationMs": 164433,
+          "totalDurationMs": 173668,
           "gitBranch": "video-recorder",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1784,8 +1784,8 @@
           "id": "bbabe0a6-2e50-4f6c-b43e-f0ae107f6c78",
           "title": "Build Phase 1 Core Recording Infrastructure",
           "timestamp": "2026-01-22T02:12:56.000Z",
-          "durationMs": 772841,
-          "totalDurationMs": 772841,
+          "durationMs": 1317511,
+          "totalDurationMs": 1663594,
           "gitBranch": "video-recorder",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1806,8 +1806,8 @@
           "id": "a2729537-b334-40d2-b3f5-e2b13b80cc77",
           "title": "GitHub OAuth Redirect URI and Token Exchange Errors",
           "timestamp": "2026-01-21T21:30:11.101Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 26998,
+          "totalDurationMs": 37616,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1828,8 +1828,8 @@
           "id": "c568e61a-59e6-4fe4-9848-0b3fe5055c5d",
           "title": "OAuth redirect_uri mismatch, then token exchange failure",
           "timestamp": "2026-01-21T20:23:03.888Z",
-          "durationMs": 68225,
-          "totalDurationMs": 68225,
+          "durationMs": 601402,
+          "totalDurationMs": 661071,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1850,8 +1850,8 @@
           "id": "6b388a10-7346-46f6-8814-8ec6b7413f72",
           "title": "Intelligent Diff Chunking for Large PR Analysis",
           "timestamp": "2026-01-21T17:45:24.603Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 8722553,
+          "totalDurationMs": 12680340,
           "gitBranch": "envs",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1872,8 +1872,8 @@
           "id": "cd2dc927-3713-4524-bbbd-90be0a0c8875",
           "title": "Intelligent diff chunking with multi-model processing",
           "timestamp": "2026-01-21T16:46:44.254Z",
-          "durationMs": 476758,
-          "totalDurationMs": 476758,
+          "durationMs": 1100052,
+          "totalDurationMs": 1304831,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1895,7 +1895,7 @@
           "title": "Phase 3: Code Notes Generation Implementation",
           "timestamp": "2026-01-21T16:45:23.949Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 9441,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -1916,8 +1916,8 @@
           "id": "9be6d070-db68-4ed1-98c7-6b2be4287076",
           "title": "Phase 3: Code Notes Generation Implementation",
           "timestamp": "2026-01-21T16:00:43.325Z",
-          "durationMs": 796310,
-          "totalDurationMs": 796310,
+          "durationMs": 1594259,
+          "totalDurationMs": 1881507,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1938,8 +1938,8 @@
           "id": "aa68168a-0519-48ce-a3cd-cc3372c07b2c",
           "title": "Pipeline Phase 1 Planning and Evaluation",
           "timestamp": "2026-01-21T15:35:04.220Z",
-          "durationMs": 403313,
-          "totalDurationMs": 403313,
+          "durationMs": 998620,
+          "totalDurationMs": 1707753,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1960,8 +1960,8 @@
           "id": "0bd1a937-fe81-4f28-95de-f542dffa469d",
           "title": "AI Review Pipeline Phase 1 Implementation",
           "timestamp": "2026-01-21T14:58:14.641Z",
-          "durationMs": 651198,
-          "totalDurationMs": 651198,
+          "durationMs": 2059414,
+          "totalDurationMs": 2338524,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -1982,8 +1982,8 @@
           "id": "25af1245-8506-43ef-af27-37500db407f1",
           "title": "Collapsed PR history with webhook status handling",
           "timestamp": "2026-01-20T02:14:54.786Z",
-          "durationMs": 162389,
-          "totalDurationMs": 162389,
+          "durationMs": 996090,
+          "totalDurationMs": 1138162,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2004,8 +2004,8 @@
           "id": "c82bcda8-260a-412a-860d-c2f450a66113",
           "title": "PR Status: Closed/Merged Handling UI Fix",
           "timestamp": "2026-01-20T01:59:15.268Z",
-          "durationMs": 245808,
-          "totalDurationMs": 245808,
+          "durationMs": 547000,
+          "totalDurationMs": 605571,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2026,8 +2026,8 @@
           "id": "6412e947-23b4-466a-8019-1ba6509f154f",
           "title": "GitHub Webhook Integration for Automated Repo Sync",
           "timestamp": "2026-01-20T01:47:27.294Z",
-          "durationMs": 39166,
-          "totalDurationMs": 39166,
+          "durationMs": 39173,
+          "totalDurationMs": 49315,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2048,8 +2048,8 @@
           "id": "5f8c99d3-1602-4d9e-a0b2-72a1c2020549",
           "title": "GitHub Webhook Provisioning & Sync Implementation",
           "timestamp": "2026-01-20T01:30:25.232Z",
-          "durationMs": 381469,
-          "totalDurationMs": 381469,
+          "durationMs": 477252,
+          "totalDurationMs": 646417,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2070,8 +2070,8 @@
           "id": "b4c5345e-3719-4de7-b866-6a828e65c341",
           "title": "GitHub Repo Selector and PR List Feature",
           "timestamp": "2026-01-19T22:36:30.806Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1195314,
+          "totalDurationMs": 1205809,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2092,8 +2092,8 @@
           "id": "ecdc60ec-9c0d-494b-a3d4-59da25873419",
           "title": "GitHub repo selector with PR list display",
           "timestamp": "2026-01-19T02:45:46.810Z",
-          "durationMs": 146619,
-          "totalDurationMs": 146619,
+          "durationMs": 146623,
+          "totalDurationMs": 219728,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2115,7 +2115,7 @@
           "title": null,
           "timestamp": "2026-01-19T02:39:49.679Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 8100,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -2136,8 +2136,8 @@
           "id": "8149b6b7-b741-4ae3-b51b-ad8db513d3d5",
           "title": "Delete Authentication Infrastructure",
           "timestamp": "2026-01-19T02:22:08.826Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1382261,
+          "totalDurationMs": 1592275,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2158,8 +2158,8 @@
           "id": "40fbd610-4f36-43fb-b9d5-2ca83a50a0a0",
           "title": "Removed all authentication infrastructure from project",
           "timestamp": "2026-01-19T02:11:42.897Z",
-          "durationMs": 127941,
-          "totalDurationMs": 127941,
+          "durationMs": 127945,
+          "totalDurationMs": 140809,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2180,8 +2180,8 @@
           "id": "a540e1b0-3720-4718-a17d-1924248a8bb4",
           "title": "GitHub OAuth Integration via WorkOS AuthKit",
           "timestamp": "2026-01-19T01:35:27.294Z",
-          "durationMs": 184534,
-          "totalDurationMs": 184534,
+          "durationMs": 2154924,
+          "totalDurationMs": 2422123,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2202,8 +2202,8 @@
           "id": "1574efdf-7372-46d6-a749-b3fb1ddc9b06",
           "title": "GitHub OAuth Integration with WorkOS AuthKit",
           "timestamp": "2026-01-18T22:37:07.550Z",
-          "durationMs": 2205840,
-          "totalDurationMs": 2205840,
+          "durationMs": 9694085,
+          "totalDurationMs": 10008233,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2224,8 +2224,8 @@
           "id": "c38662ed-3b70-492d-a9ba-ef80795dc8a1",
           "title": "Code Review App E2E Pipeline Documentation",
           "timestamp": "2026-01-18T22:03:54.440Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 418090,
+          "totalDurationMs": 494219,
           "gitBranch": "ritual",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2246,8 +2246,8 @@
           "id": "6ec1cf2a-4867-4934-b471-40323c6da73c",
           "title": "Implement diff verification pipeline step",
           "timestamp": "2026-01-18T19:55:27.247Z",
-          "durationMs": 1159104,
-          "totalDurationMs": 1159104,
+          "durationMs": 3058372,
+          "totalDurationMs": 3237942,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2268,8 +2268,8 @@
           "id": "11ea3cd5-6420-4b75-a88e-0ecba318fca0",
           "title": "Spool Review UI: Neutral Mismatch Messaging Refactor",
           "timestamp": "2026-01-14T03:11:32.607Z",
-          "durationMs": 44158,
-          "totalDurationMs": 44158,
+          "durationMs": 77191,
+          "totalDurationMs": 87732,
           "gitBranch": "jared/intent-fixes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2290,8 +2290,8 @@
           "id": "7222c18a-e30a-44a7-90a5-d8e4749f4a17",
           "title": "Neutralize Mismatch Presentation in Review UI",
           "timestamp": "2026-01-14T02:50:27.309Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 743937,
+          "totalDurationMs": 923505,
           "gitBranch": "jared/intent-fixes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2312,8 +2312,8 @@
           "id": "04685927-16b7-4dad-9c27-eb6454bbc1e3",
           "title": "Intent vs Reality: Separating Author Claims from Code Behavior",
           "timestamp": "2026-01-14T01:39:42.450Z",
-          "durationMs": 42140,
-          "totalDurationMs": 42140,
+          "durationMs": 148060,
+          "totalDurationMs": 159266,
           "gitBranch": "jared/intent-fixes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2334,8 +2334,8 @@
           "id": "9aca88d5-a7a2-43d6-8000-912b2f574327",
           "title": "Separating declared intent from code reality in PR analysis",
           "timestamp": "2026-01-14T00:51:24.957Z",
-          "durationMs": 330960,
-          "totalDurationMs": 330960,
+          "durationMs": 1597354,
+          "totalDurationMs": 1685470,
           "gitBranch": "jared/intent-fixes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2356,8 +2356,8 @@
           "id": "90fa194a-8e0d-43a3-ba6a-ac01d247f4d8",
           "title": "Automated Agent-Generated Demo Videos",
           "timestamp": "2026-01-13T22:52:56.251Z",
-          "durationMs": 341010,
-          "totalDurationMs": 341010,
+          "durationMs": 586770,
+          "totalDurationMs": 596359,
           "gitBranch": "document-updates-v2",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2378,8 +2378,8 @@
           "id": "1706b9cd-d4d9-4c0e-84a0-1f4760a1607d",
           "title": "AI-Generated Code Demo & QA Verification System",
           "timestamp": "2026-01-13T20:09:20.167Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 647879,
+          "totalDurationMs": 940875,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2400,8 +2400,8 @@
           "id": "54326371-af08-45ae-a595-0a36a5959303",
           "title": "Build DocumentReviewContent Component Integration",
           "timestamp": "2026-01-13T15:24:51.964Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 2464662,
+          "totalDurationMs": 2609104,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2422,8 +2422,8 @@
           "id": "c8c108d0-45ac-48ec-a429-6ba0425629a6",
           "title": "Wiring Document Review Components Together",
           "timestamp": "2026-01-13T15:11:23.439Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 801553,
+          "totalDurationMs": 812690,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2444,8 +2444,8 @@
           "id": "2766b761-a513-4870-87ba-a40af941fd54",
           "title": "E2E UX Flow Evaluation & Design Enhancement",
           "timestamp": "2026-01-13T04:04:56.806Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1668008,
+          "totalDurationMs": 1831770,
           "gitBranch": "pivot",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2466,8 +2466,8 @@
           "id": "367f3c0a-b468-475b-8076-84b92b24d67e",
           "title": "E2E UX & Design Overhaul for Spool",
           "timestamp": "2026-01-13T03:57:41.725Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 398622,
+          "totalDurationMs": 604919,
           "gitBranch": "pivot",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2488,8 +2488,8 @@
           "id": "47dffae1-682f-45a6-8b26-b47fe69dd977",
           "title": "Auth Token Persistence Issue on Page Refresh",
           "timestamp": "2026-01-12T20:47:31.574Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 15656,
+          "totalDurationMs": 26207,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2510,8 +2510,8 @@
           "id": "9d19b48b-64cc-45b1-833b-7e7b45f3adf5",
           "title": "Auth Token Persistence Issue on Page Refresh",
           "timestamp": "2026-01-12T20:14:33.385Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 502192,
+          "totalDurationMs": 872467,
           "gitBranch": "screen-recorder",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2532,8 +2532,8 @@
           "id": "08dad995-781a-4ad3-ad9d-2792fdeff608",
           "title": "Remove chunk upload indicators from UI",
           "timestamp": "2026-01-10T20:53:31.162Z",
-          "durationMs": 724894,
-          "totalDurationMs": 724894,
+          "durationMs": 1160385,
+          "totalDurationMs": 1365651,
           "gitBranch": "screen-recorder",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2554,8 +2554,8 @@
           "id": "9776fe08-9336-4deb-84d6-de151d5228b2",
           "title": "Remove chunk upload indicators from UI",
           "timestamp": "2026-01-10T20:51:12.995Z",
-          "durationMs": 130525,
-          "totalDurationMs": 130525,
+          "durationMs": 249692,
+          "totalDurationMs": 272517,
           "gitBranch": "screen-recorder",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2576,8 +2576,8 @@
           "id": "8302bfee-c0cc-42d8-b3b4-2103983b92cb",
           "title": "Generic Feedback Tool Adaptability Assessment",
           "timestamp": "2026-01-10T19:51:27.822Z",
-          "durationMs": 147253,
-          "totalDurationMs": 147253,
+          "durationMs": 3532803,
+          "totalDurationMs": 3806682,
           "gitBranch": "screen-recorder",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2598,8 +2598,8 @@
           "id": "e6e91f1d-0044-4942-a4ec-cadf5d59b27a",
           "title": "Generic Feedback Tool Feasibility Assessment",
           "timestamp": "2026-01-09T17:18:00.886Z",
-          "durationMs": 333017,
-          "totalDurationMs": 333017,
+          "durationMs": 1038184,
+          "totalDurationMs": 1315852,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2620,8 +2620,8 @@
           "id": "3fecd3ca-be2f-40d1-8fca-ca334d3a52fa",
           "title": "Implement retry functionality for failed reviews",
           "timestamp": "2026-01-09T14:48:51.780Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 37869,
+          "totalDurationMs": 41777,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -2642,8 +2642,8 @@
           "id": "5849ef92-dd9d-4df4-a6a5-e29df7636d03",
           "title": "Implement retry functionality for failed reviews",
           "timestamp": "2026-01-09T13:16:12.498Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 473768,
+          "totalDurationMs": 751261,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2664,8 +2664,8 @@
           "id": "f1a7eacb-c8e4-47e4-b4c7-813741155dfb",
           "title": "Hide review features for non-owners viewing shared videos",
           "timestamp": "2026-01-09T12:25:18.805Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1459881,
+          "totalDurationMs": 2106075,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2686,8 +2686,8 @@
           "id": "06cb9864-02c7-4fb1-b24b-e66912aa3e79",
           "title": "Hide review features for non-owner viewers",
           "timestamp": "2026-01-07T18:34:27.891Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 291566,
+          "totalDurationMs": 442131,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2709,7 +2709,7 @@
           "title": null,
           "timestamp": "2026-01-07T17:57:42.103Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 16246,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -2730,8 +2730,8 @@
           "id": "6f1d6efb-b1fa-4102-a275-69ad8b7f07d0",
           "title": "Backfill AI-generated video titles with strict prompt",
           "timestamp": "2026-01-07T17:35:48.144Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1475760,
+          "totalDurationMs": 1916888,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2752,8 +2752,8 @@
           "id": "c9985098-fda9-41fc-a14d-e30ac5f15878",
           "title": "Backfill AI titles with stricter prompt rules",
           "timestamp": "2026-01-07T15:54:55.130Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 273748,
+          "totalDurationMs": 338016,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2774,8 +2774,8 @@
           "id": "67c38d3d-f077-42d6-8081-4ff86531e54b",
           "title": "Fix videos route auth guard on page refresh",
           "timestamp": "2026-01-07T15:47:08.695Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 330455,
+          "totalDurationMs": 435139,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2796,8 +2796,8 @@
           "id": "975877a7-2249-4b1a-8d0c-1cc764a46378",
           "title": "Video page refresh authentication error fix",
           "timestamp": "2026-01-07T15:31:14.301Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 35844,
+          "totalDurationMs": 70557,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2818,8 +2818,8 @@
           "id": "21f2decf-3996-4dc7-a82a-28540d3af454",
           "title": "Fix auth error on videos page refresh",
           "timestamp": "2026-01-07T15:30:24.140Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 200365,
+          "totalDurationMs": 298033,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2840,8 +2840,8 @@
           "id": "7b95239c-587d-4f14-8fba-a702872854da",
           "title": "Fix WorkOS AuthKit session state bugs",
           "timestamp": "2026-01-07T15:25:26.146Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 197969,
+          "totalDurationMs": 312520,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2862,8 +2862,8 @@
           "id": "682b09d9-adb4-41b0-8e17-219c9ddcd775",
           "title": "WorkOS AuthKit Convex Auth State Fix",
           "timestamp": "2026-01-07T14:31:24.291Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 3047873,
+          "totalDurationMs": 3169631,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2884,8 +2884,8 @@
           "id": "5d51c99e-1870-435a-8a08-08ebaf91c00a",
           "title": "UI Legibility & Contrast Improvement Pass",
           "timestamp": "2026-01-07T02:33:03.791Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1561595,
+          "totalDurationMs": 1582130,
           "gitBranch": "new-ux",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2906,8 +2906,8 @@
           "id": "ff59a730-9488-4b4e-b3bb-37fcdb038ae5",
           "title": "UI Legibility & Contrast Overhaul Pass",
           "timestamp": "2026-01-07T02:14:29.183Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1025754,
+          "totalDurationMs": 1031523,
           "gitBranch": "new-ux",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2928,8 +2928,8 @@
           "id": "b988b305-0e82-47ea-b57b-2f939c15dd1b",
           "title": "PR Review Workspace: Dense Tool Layout, Pipeline Visualization",
           "timestamp": "2026-01-07T02:10:44.569Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 179703,
+          "totalDurationMs": 185554,
           "gitBranch": "new-ux",
           "model": "<synthetic>",
           "tokens": {
@@ -2950,8 +2950,8 @@
           "id": "ebc3b336-35c0-4349-b030-9a5e8f2241ea",
           "title": "PR Review Workspace & Realtime Pipeline UI",
           "timestamp": "2026-01-07T01:26:48.600Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1597098,
+          "totalDurationMs": 1963870,
           "gitBranch": "new-ux",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2972,8 +2972,8 @@
           "id": "fb7cd018-63b7-4ba7-a5c1-2843ea868d84",
           "title": "Improve PR comment legibility with formatting",
           "timestamp": "2026-01-06T21:36:51.806Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1052843,
+          "totalDurationMs": 1391109,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -2994,8 +2994,8 @@
           "id": "92884567-ef3b-4eed-bad9-c79569808e59",
           "title": "Improve PR comment formatting and readability",
           "timestamp": "2026-01-05T01:14:07.066Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 138141,
+          "totalDurationMs": 162795,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3016,8 +3016,8 @@
           "id": "b17746a2-f62d-4318-bdf3-d1585cf4e7af",
           "title": "Add PR commenting with auto-post on review",
           "timestamp": "2026-01-05T00:15:51.252Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 810666,
+          "totalDurationMs": 912911,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3038,8 +3038,8 @@
           "id": "af483dca-9695-4f06-a000-792ce8c9846d",
           "title": "Add PR commenting to code review app",
           "timestamp": "2026-01-03T03:53:47.417Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 739152,
+          "totalDurationMs": 810763,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3060,8 +3060,8 @@
           "id": "d2a46524-9a9c-4fb2-ada4-99f0737b6a86",
           "title": "GitHub PR Integration for Code Review Tool",
           "timestamp": "2026-01-03T01:57:15.928Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 6050091,
+          "totalDurationMs": 6050091,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3082,8 +3082,8 @@
           "id": "47fbf7bf-cba4-40eb-b846-123a90dd4847",
           "title": "GitHub PR Integration with OAuth & Auto-Review",
           "timestamp": "2026-01-03T01:55:12.778Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 298879,
+          "totalDurationMs": 298879,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3104,8 +3104,8 @@
           "id": "62fd7a52-abfc-4508-bd4e-72def4e37dcf",
           "title": "GitHub PR Integration for Video Reviews",
           "timestamp": "2026-01-02T21:16:22.153Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 16762492,
+          "totalDurationMs": 16762492,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3126,8 +3126,8 @@
           "id": "009c64bd-4376-4efc-ac02-6383e86de49b",
           "title": "Rename Default Branch to Main and Push to GitHub",
           "timestamp": "2026-01-02T20:52:34.325Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 376061,
+          "totalDurationMs": 376061,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3148,8 +3148,8 @@
           "id": "fd422544-ff6d-4a82-b09f-9330158f3bff",
           "title": "Rename Default Branch to Main and Push",
           "timestamp": "2026-01-02T16:37:11.217Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 493147,
+          "totalDurationMs": 493147,
           "gitBranch": "master",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3170,8 +3170,8 @@
           "id": "ac6bfc49-76e7-4dff-b9e1-a4e4d7ade2d2",
           "title": "Hybrid AI PR walkthrough video review system",
           "timestamp": "2025-12-30T21:41:52.924Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 240119214,
+          "totalDurationMs": 240119214,
           "gitBranch": "master",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3192,8 +3192,8 @@
           "id": "ae73882b-6a72-4454-b73b-58b7b7417f0f",
           "title": "Hybrid AI video code review system",
           "timestamp": "2025-12-30T21:41:24.255Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 7433,
+          "totalDurationMs": 7433,
           "gitBranch": "master",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3216,7 +3216,7 @@
       "projectName": "gaia",
       "projectPath": "/Users/jared/Developer/contra/gaia",
       "totalSessions": 500,
-      "totalDurationMs": 11152721,
+      "totalDurationMs": 235125957,
       "totalTokens": {
         "inputTokens": 4030870,
         "outputTokens": 630212,
@@ -3228,8 +3228,8 @@
           "id": "b940feaf-37ff-45f6-a774-d14a3ec4cfa5",
           "title": null,
           "timestamp": "2026-01-30T23:37:54.672Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 370708,
+          "totalDurationMs": 370708,
           "gitBranch": "jared/prod-8661-send-indy-ai-chat-message-when-challenge-joined",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3250,8 +3250,8 @@
           "id": "349b18c8-51cc-418b-ad52-0e0b961985ab",
           "title": null,
           "timestamp": "2026-01-30T23:31:46.797Z",
-          "durationMs": 49680,
-          "totalDurationMs": 49680,
+          "durationMs": 347268,
+          "totalDurationMs": 395908,
           "gitBranch": "jared/prod-8661-send-indy-ai-chat-message-when-challenge-joined",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3272,8 +3272,8 @@
           "id": "fb4e76eb-a9d7-4d94-a79e-c55435422879",
           "title": "Social post submission tool with multi-challenge clarification",
           "timestamp": "2026-01-30T22:28:16.733Z",
-          "durationMs": 181736,
-          "totalDurationMs": 181736,
+          "durationMs": 2325783,
+          "totalDurationMs": 2325783,
           "gitBranch": "jared/prod-8661-send-indy-ai-chat-message-when-challenge-joined",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3294,8 +3294,8 @@
           "id": "f223aac9-91f8-44b9-b7a4-101efd86435e",
           "title": "Challenge social post submission tracking",
           "timestamp": "2026-01-30T22:06:04.858Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1208391,
+          "totalDurationMs": 1939549,
           "gitBranch": "jared/prod-8661-send-indy-ai-chat-message-when-challenge-joined",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3316,8 +3316,8 @@
           "id": "c9cd0306-e4e7-4a35-a1a5-5953c1a1f589",
           "title": "Update Challenge Join Indy AI Message Content",
           "timestamp": "2026-01-30T21:48:42.371Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 21846,
+          "totalDurationMs": 21846,
           "gitBranch": "jared/prod-8661-send-indy-ai-chat-message-when-challenge-joined",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3338,8 +3338,8 @@
           "id": "f85ba69c-ef18-46f7-9118-e4612d6532b7",
           "title": "Implement Indy AI Challenge Join Message Workflow",
           "timestamp": "2026-01-30T21:34:56.595Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 587083,
+          "totalDurationMs": 670188,
           "gitBranch": "jared/prod-8661-send-indy-ai-chat-message-when-challenge-joined",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3360,8 +3360,8 @@
           "id": "f8322e5d-cfb2-4644-9e8f-368f6b104518",
           "title": "Challenge Join Indy AI Message Workflow",
           "timestamp": "2026-01-30T21:20:56.302Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 702823,
+          "totalDurationMs": 1059389,
           "gitBranch": "jared/prod-8661-send-indy-ai-chat-message-when-challenge-joined",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3382,8 +3382,8 @@
           "id": "0e4e2d31-101f-4652-b703-5727753613e3",
           "title": "GraphQL non-nullable field missing from SQL loader",
           "timestamp": "2026-01-30T19:24:05.976Z",
-          "durationMs": 71090,
-          "totalDurationMs": 71090,
+          "durationMs": 71100,
+          "totalDurationMs": 71100,
           "gitBranch": "jared/prod-8391-add-new-category-for-email-marketing-feed-notifications-and",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3404,8 +3404,8 @@
           "id": "776eeb9f-584c-4659-a07d-bf1514b9a028",
           "title": "Resolved Merge Conflicts Keeping Local Changes",
           "timestamp": "2026-01-30T18:03:02.782Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 23225,
+          "totalDurationMs": 23225,
           "gitBranch": "jared/prod-8391-add-new-category-for-email-marketing-feed-notifications-and",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3426,8 +3426,8 @@
           "id": "024fbe1b-8043-44bb-9aec-62b2b8e43f06",
           "title": "Removed unused component directories and files",
           "timestamp": "2026-01-30T17:14:43.815Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 19432,
+          "totalDurationMs": 19432,
           "gitBranch": "jared-cursor/PROD-8417-styled-components-migration-d3b0",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3470,8 +3470,8 @@
           "id": "bdd50635-84cc-4468-a149-e66d2982894c",
           "title": "Remove RequestMembershipModal and entry points",
           "timestamp": "2026-01-30T16:02:11.341Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1447131,
+          "totalDurationMs": 1447131,
           "gitBranch": "jared-cursor/PROD-8417-styled-components-migration-d3b0",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3492,8 +3492,8 @@
           "id": "383a6f6c-7383-40ff-941b-d51c7a9729f8",
           "title": "Document AI instructions in single source",
           "timestamp": "2026-01-29T22:57:01.058Z",
-          "durationMs": 101157,
-          "totalDurationMs": 101157,
+          "durationMs": 1696554,
+          "totalDurationMs": 1757400,
           "gitBranch": "jared/prod-8391-add-new-category-for-email-marketing-feed-notifications-and",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3514,8 +3514,8 @@
           "id": "f5956b8c-ca08-48a3-be9a-626f8b6d8d89",
           "title": "Claude Feature Development Framework",
           "timestamp": "2026-01-29T22:56:42.611Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 3668,
+          "totalDurationMs": 3668,
           "gitBranch": "jared/prod-8391-add-new-category-for-email-marketing-feed-notifications-and",
           "model": null,
           "tokens": {
@@ -3536,8 +3536,8 @@
           "id": "41ed5926-d505-495a-b3d5-fdd6360e4560",
           "title": "Claude Code Session Logger Setup",
           "timestamp": "2026-01-29T22:55:48.299Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 48323,
+          "totalDurationMs": 48323,
           "gitBranch": "jared/prod-8391-add-new-category-for-email-marketing-feed-notifications-and",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3602,8 +3602,8 @@
           "id": "a7f5951d-5490-4c78-80f6-0555fc44d341",
           "title": "Fix Zero ID Falsy Bug in Tag Service",
           "timestamp": "2026-01-29T20:08:33.050Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1106058,
+          "totalDurationMs": 1106058,
           "gitBranch": "jared/eng-20980-error-provided-tag-without-associated-id",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3624,8 +3624,8 @@
           "id": "b7f6e407-276a-457f-9ee6-3dcb51a92386",
           "title": "Email notification categories: feed & challenges",
           "timestamp": "2026-01-29T19:57:20.193Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 14771039,
+          "totalDurationMs": 15005905,
           "gitBranch": "jared/eng-20980-error-provided-tag-without-associated-id",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3646,8 +3646,8 @@
           "id": "ea31ca4a-54c7-4e81-9a1b-a8d713cc4919",
           "title": "Fixed falsy ID check in tag validation logic",
           "timestamp": "2026-01-29T19:42:24.934Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 590586,
+          "totalDurationMs": 865445,
           "gitBranch": "jared/eng-20980-error-provided-tag-without-associated-id",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3668,8 +3668,8 @@
           "id": "90c82b3e-1ae8-40ce-ad0a-719aaeaeaea3",
           "title": "Adding teemux MCP server configuration",
           "timestamp": "2026-01-29T19:40:02.875Z",
-          "durationMs": 36790,
-          "totalDurationMs": 36790,
+          "durationMs": 48750,
+          "totalDurationMs": 48750,
           "gitBranch": "jared/eng-20980-error-provided-tag-without-associated-id",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3690,8 +3690,8 @@
           "id": "c091b6bb-974a-4f42-9ff9-61f9c1c3868c",
           "title": null,
           "timestamp": "2026-01-29T19:39:43.938Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 10289,
+          "totalDurationMs": 10289,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -3712,8 +3712,8 @@
           "id": "8282a6b0-47e6-4fbe-9e3f-8cafccdfa4c9",
           "title": "Social posts poll plaintext backfill workflow",
           "timestamp": "2026-01-29T17:50:18.681Z",
-          "durationMs": 510241,
-          "totalDurationMs": 510241,
+          "durationMs": 4193608,
+          "totalDurationMs": 4883034,
           "gitBranch": "jared/000-backfill-plaintext",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3734,8 +3734,8 @@
           "id": "455c468f-0332-41a8-ab5f-8d441bdbc86e",
           "title": "Test Pattern Consistency for Challenge Creation",
           "timestamp": "2026-01-29T01:43:39.730Z",
-          "durationMs": 31218,
-          "totalDurationMs": 31218,
+          "durationMs": 31222,
+          "totalDurationMs": 31222,
           "gitBranch": "jared/000-distribution-tests",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3756,8 +3756,8 @@
           "id": "b9db2f87-d8b5-4615-aaa0-a2303494e7cd",
           "title": "Refine private challenge feed distribution tests",
           "timestamp": "2026-01-28T22:05:27.786Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 12806202,
+          "totalDurationMs": 12806202,
           "gitBranch": "jared/000-distribution-tests",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3778,8 +3778,8 @@
           "id": "9585833b-121f-4cb5-979f-27d6434fd1d8",
           "title": "Private Challenge Feed Distribution Tests",
           "timestamp": "2026-01-28T21:28:28.102Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1737294,
+          "totalDurationMs": 1987344,
           "gitBranch": "jared/000-distribution-tests",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3800,8 +3800,8 @@
           "id": "017a9529-6f9a-4036-806f-9ae6443adc10",
           "title": "Fix Tool type mismatch in lazy loaded tools",
           "timestamp": "2026-01-28T20:23:28.244Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 505899,
+          "totalDurationMs": 683085,
           "gitBranch": "jared/000-tags-loading",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3822,8 +3822,8 @@
           "id": "06bc53bd-a2a9-4139-a6ed-76b2cfb87f1f",
           "title": "Defer tag loading until user intent",
           "timestamp": "2026-01-28T19:39:47.820Z",
-          "durationMs": 74547,
-          "totalDurationMs": 74547,
+          "durationMs": 1644499,
+          "totalDurationMs": 1644499,
           "gitBranch": "jared/000-tags-loading",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3844,8 +3844,8 @@
           "id": "19439e78-3def-4922-a49f-d8de1c48b2c4",
           "title": "Lazy-load social post tags on hover interaction",
           "timestamp": "2026-01-28T19:30:29.039Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 466886,
+          "totalDurationMs": 797040,
           "gitBranch": "jared/000-tags-loading",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3888,8 +3888,8 @@
           "id": "7da9ceb6-c848-4bca-9875-1fe7c8e044a3",
           "title": "Challenge Visibility Tests: Integration & Distribution",
           "timestamp": "2026-01-28T17:10:18.692Z",
-          "durationMs": 276364,
-          "totalDurationMs": 276364,
+          "durationMs": 3009300,
+          "totalDurationMs": 3071428,
           "gitBranch": "jared/eng-20966-add-tests-for-new-distribution-rule-changes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3910,8 +3910,8 @@
           "id": "22b86e8c-8e35-4820-85c1-a1de19412668",
           "title": "Remove lazy-loaded hooks dependency, fix optimistic updates",
           "timestamp": "2026-01-28T17:08:10.742Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 3245635,
+          "totalDurationMs": 3372476,
           "gitBranch": "jared/eng-20966-add-tests-for-new-distribution-rule-changes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3932,8 +3932,8 @@
           "id": "648fb186-cd47-41a4-a394-d55fe660fac0",
           "title": "Add contra-api tests for challenge visibility",
           "timestamp": "2026-01-28T17:01:09.509Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 467865,
+          "totalDurationMs": 927778,
           "gitBranch": "jared/eng-20966-add-tests-for-new-distribution-rule-changes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3954,8 +3954,8 @@
           "id": "43beb868-842f-455d-a698-9d31f48d0cb3",
           "title": "Fix COMMUNITY_FEED_CREATOR auto-feature flag",
           "timestamp": "2026-01-28T14:56:44.336Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 15248,
+          "totalDurationMs": 15248,
           "gitBranch": "jared/eng-20967-update-community_feed_creator-flags-for-auto-feature-posts",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3976,8 +3976,8 @@
           "id": "0d9cf009-0c61-4e2a-95ae-86182f0dfb76",
           "title": "Linear task: Remove auto-feature flag override",
           "timestamp": "2026-01-28T14:46:14.975Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 212738,
+          "totalDurationMs": 301819,
           "gitBranch": "jared/eng-20967-update-community_feed_creator-flags-for-auto-feature-posts",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -3998,8 +3998,8 @@
           "id": "7cea48ac-1b0e-410f-a9d5-961c8b0f2b5b",
           "title": "Private challenge visibility refactor with enum",
           "timestamp": "2026-01-27T19:07:39.692Z",
-          "durationMs": 445700,
-          "totalDurationMs": 445700,
+          "durationMs": 5715463,
+          "totalDurationMs": 7268508,
           "gitBranch": "jared/eng-20964-add-private-challenge-option-to-disable-content-distribution",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4020,8 +4020,8 @@
           "id": "df655308-96ed-4ba5-862b-cca7a2767f87",
           "title": "Optimize tag search: unified query, server-side search, pagination",
           "timestamp": "2026-01-27T16:32:40.896Z",
-          "durationMs": 751334,
-          "totalDurationMs": 751334,
+          "durationMs": 8877032,
+          "totalDurationMs": 9946932,
           "gitBranch": "jared/community-tags",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4042,8 +4042,8 @@
           "id": "20dc1fff-910d-4a55-9f5c-2d74ca77915e",
           "title": "Profile Pro Upsell Tooltip Demo Video",
           "timestamp": "2026-01-27T00:39:56.291Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 44064,
+          "totalDurationMs": 44064,
           "gitBranch": "jared/demo-changes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4064,8 +4064,8 @@
           "id": "a7c1181d-2883-4c12-b6d1-bd106f0dd663",
           "title": "Demo tooltip on Pro upsell profile page",
           "timestamp": "2026-01-26T22:18:19.341Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 203527,
+          "totalDurationMs": 203527,
           "gitBranch": "jared/demo-changes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4086,8 +4086,8 @@
           "id": "8b56dab0-28d5-4f0b-b391-0ebe34dda08d",
           "title": "Profile Pro Upsell Tooltip Demo Recording",
           "timestamp": "2026-01-26T22:11:10.499Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 221372,
+          "totalDurationMs": 221372,
           "gitBranch": "jared/demo-changes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4108,8 +4108,8 @@
           "id": "e2daf667-c56c-4db4-8dc7-d7e92fb1ebae",
           "title": "Demo video generator: fix Playwright video recording",
           "timestamp": "2026-01-26T21:46:53.797Z",
-          "durationMs": 377071,
-          "totalDurationMs": 377071,
+          "durationMs": 1393060,
+          "totalDurationMs": 1589321,
           "gitBranch": "jared/demo-changes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4130,8 +4130,8 @@
           "id": "b1f3d668-813e-4a50-ad39-e003fff18942",
           "title": "Profile Pro Upsell Tooltip Demo Video",
           "timestamp": "2026-01-26T21:46:12.155Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 25135,
+          "totalDurationMs": 25135,
           "gitBranch": "jared/demo-changes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4152,8 +4152,8 @@
           "id": "2c99b0a2-1f2a-42db-bef8-57f154ff1fb6",
           "title": "Create tooltip demo for Contra Pro upsell",
           "timestamp": "2026-01-26T21:44:33.080Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 15067,
+          "totalDurationMs": 15067,
           "gitBranch": "jared/demo-changes",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4174,8 +4174,8 @@
           "id": "1f300f29-db17-4517-bea2-c951cff30ea2",
           "title": "Mobile input laggy due to layout thrashing",
           "timestamp": "2026-01-26T20:06:30.850Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 312312,
+          "totalDurationMs": 657171,
           "gitBranch": "jared/prod-8404-typing-in-feed-post-input-is-laggy-on-mobile",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4196,8 +4196,8 @@
           "id": "4079f704-ee90-4a06-aa55-ec62491a92b1",
           "title": "Fix Mobile Typing Lag: Layout Thrashing",
           "timestamp": "2026-01-26T20:06:30.850Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 3885532,
+          "totalDurationMs": 3885532,
           "gitBranch": "jared/prod-8404-typing-in-feed-post-input-is-laggy-on-mobile",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4218,8 +4218,8 @@
           "id": "37b64ff1-5ab6-4082-a09f-1a54007b332b",
           "title": "Mobile input lag: render pipeline optimization",
           "timestamp": "2026-01-26T20:05:10.601Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 65260,
+          "totalDurationMs": 199671,
           "gitBranch": "jared/prod-8404-typing-in-feed-post-input-is-laggy-on-mobile",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4240,8 +4240,8 @@
           "id": "5ca37fae-4b9f-4771-8f4f-7a9402260d60",
           "title": "Mobile Input Lag: Frontend Performance Investigation",
           "timestamp": "2026-01-26T20:04:07.805Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 49818,
+          "totalDurationMs": 123891,
           "gitBranch": "jared/prod-8404-typing-in-feed-post-input-is-laggy-on-mobile",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4262,8 +4262,8 @@
           "id": "0cec578c-3ade-4820-a30a-27c3a1df5d79",
           "title": "CSP Configuration: Adding unpkg.com for React Scan",
           "timestamp": "2026-01-26T19:55:33.288Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 16856,
+          "totalDurationMs": 16856,
           "gitBranch": "jared/prod-8404-typing-in-feed-post-input-is-laggy-on-mobile",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4284,8 +4284,8 @@
           "id": "117fe1fc-ff7f-4fc9-8baf-ec44144ae9fc",
           "title": "Mobile typing lag: debounce editor state updates",
           "timestamp": "2026-01-26T17:37:58.818Z",
-          "durationMs": 295601,
-          "totalDurationMs": 295601,
+          "durationMs": 6219361,
+          "totalDurationMs": 6516055,
           "gitBranch": "jared/prod-8404-typing-in-feed-post-input-is-laggy-on-mobile",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4306,8 +4306,8 @@
           "id": "ba5dab56-957c-4032-84cc-d1076cdf9808",
           "title": "Remove Loom and Litmus Label References from Mergify",
           "timestamp": "2026-01-26T17:35:23.985Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 39017,
+          "totalDurationMs": 39017,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4328,8 +4328,8 @@
           "id": "9ea2676a-df96-4e92-95da-c8641039f139",
           "title": "Fix emoji picker not opening on button click",
           "timestamp": "2026-01-26T16:45:23.601Z",
-          "durationMs": 350379,
-          "totalDurationMs": 350379,
+          "durationMs": 1475018,
+          "totalDurationMs": 1475018,
           "gitBranch": "cursor/PROD-8399-community-comments-emoji-button-a409",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4350,8 +4350,8 @@
           "id": "f44bd305-b813-443f-9d6f-333a14b2b112",
           "title": "Fix social feed backfill rollout hole",
           "timestamp": "2026-01-26T16:38:07.189Z",
-          "durationMs": 77242,
-          "totalDurationMs": 77242,
+          "durationMs": 183799,
+          "totalDurationMs": 183799,
           "gitBranch": "claude/migrate-shared-to-feed-timestamp-t54rh",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4372,8 +4372,8 @@
           "id": "81a4203f-0615-480c-8a55-a54007c88f17",
           "title": "Split database migration: UPDATE and INDEX into separate files",
           "timestamp": "2026-01-26T16:06:48.517Z",
-          "durationMs": 37243,
-          "totalDurationMs": 37243,
+          "durationMs": 37250,
+          "totalDurationMs": 37250,
           "gitBranch": "claude/migrate-shared-to-feed-timestamp-t54rh",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4416,8 +4416,8 @@
           "id": "9b4f75bb-d43d-402e-98e7-f724ce27d71e",
           "title": "PR Demo Video Generator Setup & Troubleshooting",
           "timestamp": "2026-01-26T15:06:52.351Z",
-          "durationMs": 958198,
-          "totalDurationMs": 958198,
+          "durationMs": 2603261,
+          "totalDurationMs": 2649454,
           "gitBranch": "jared-cursor/PROD-8398-feature-work-toggle-visibility-7d80",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4438,8 +4438,8 @@
           "id": "b6cc522a-2b91-4640-bed6-23279f48c1d4",
           "title": "PR demo: toggle visibility fix on community page",
           "timestamp": "2026-01-26T15:05:18.698Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 83306,
+          "totalDurationMs": 83306,
           "gitBranch": "jared-cursor/PROD-8398-feature-work-toggle-visibility-7d80",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4460,8 +4460,8 @@
           "id": "a8994679-fb18-47e2-aaa3-6d25b4ca7663",
           "title": "LLM evals async: Temporal workflow optimization",
           "timestamp": "2026-01-23T20:45:01.028Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1162532,
+          "totalDurationMs": 1242822,
           "gitBranch": "jared/social-posting-perf",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4483,7 +4483,7 @@
           "title": "Remove feature flag missing error throws",
           "timestamp": "2026-01-23T20:13:39.850Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 6527,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -4504,8 +4504,8 @@
           "id": "15300acf-59fc-42f2-9257-eff46e1f0a47",
           "title": "Remove feature flags missing errors",
           "timestamp": "2026-01-23T20:04:17.449Z",
-          "durationMs": 69218,
-          "totalDurationMs": 69218,
+          "durationMs": 228089,
+          "totalDurationMs": 238188,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4526,8 +4526,8 @@
           "id": "56b5c38f-508b-42cb-bde4-9659d9b6da0f",
           "title": "Add logging instrumentation to createSocialPost mutation",
           "timestamp": "2026-01-23T16:15:53.625Z",
-          "durationMs": 1106465,
-          "totalDurationMs": 1106465,
+          "durationMs": 3239492,
+          "totalDurationMs": 3358247,
           "gitBranch": "cursor/PROD-8384-work-step-media-and-copy-4b6e",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4549,7 +4549,7 @@
           "title": null,
           "timestamp": "2026-01-22T21:24:41.265Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 2179,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -4570,8 +4570,8 @@
           "id": "ba1839d0-e47e-451e-b36e-75690a570e0e",
           "title": "Add E2E Timing Instrumentation to createSocialPost",
           "timestamp": "2026-01-22T21:00:16.897Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 5575,
+          "totalDurationMs": 16602,
           "gitBranch": "jared/prod-8363-add-work-to-profile-uat-122",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4592,8 +4592,8 @@
           "id": "c7363a72-7167-4659-8b29-ab7a8523b430",
           "title": "Add E2E timing instrumentation to createSocialPost",
           "timestamp": "2026-01-22T20:41:45.660Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 17627200,
+          "totalDurationMs": 17638917,
           "gitBranch": "jared/000-time-logging-social-post-creation",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4615,7 +4615,7 @@
           "title": null,
           "timestamp": "2026-01-22T19:29:55.142Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 9887,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -4636,8 +4636,8 @@
           "id": "2cee59b3-0975-4b08-b239-a9c65e7983bd",
           "title": "Fix trending topics display limit bug on pages",
           "timestamp": "2026-01-22T19:18:08.258Z",
-          "durationMs": 83567,
-          "totalDurationMs": 83567,
+          "durationMs": 736858,
+          "totalDurationMs": 748946,
           "gitBranch": "jared/prod-8363-add-work-to-profile-uat-122",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4658,8 +4658,8 @@
           "id": "faee6483-0cc3-4d43-a184-ddba665fa06d",
           "title": "Fix trending topics limit on topic pages",
           "timestamp": "2026-01-22T19:06:56.764Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 426166,
+          "totalDurationMs": 436708,
           "gitBranch": "jared/prod-8375-trending-topics-shows-only-three-items-on-topic-pages",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4680,8 +4680,8 @@
           "id": "c818042f-6d37-4928-9dbd-858deb306a74",
           "title": "Introduce and Remove Type Errors in Page",
           "timestamp": "2026-01-22T17:53:40.350Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 8204,
+          "totalDurationMs": 18279,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4702,8 +4702,8 @@
           "id": "07c73e43-bf46-4433-a52d-155b1f78f360",
           "title": "Type Errors Introduction and Reversion",
           "timestamp": "2026-01-22T17:40:53.543Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 63712,
+          "totalDurationMs": 74181,
           "gitBranch": "jared/000-claude-hook",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4724,8 +4724,8 @@
           "id": "a58b614f-2ba1-425a-8133-c7612b098678",
           "title": "Fix image fullscreen black screen in reply modal",
           "timestamp": "2026-01-22T17:24:49.927Z",
-          "durationMs": 507330,
-          "totalDurationMs": 507330,
+          "durationMs": 882126,
+          "totalDurationMs": 1151282,
           "gitBranch": "jared/000-claude-hook",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4746,8 +4746,8 @@
           "id": "94ce1a65-368b-4f7f-bb98-a4efd038a3e4",
           "title": "Fix black screen in reply image modal",
           "timestamp": "2026-01-22T16:57:24.239Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 662302,
+          "totalDurationMs": 662302,
           "gitBranch": "jared/prod-8353-black-screen-when-viewing-image-full-screen-in-replies",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4769,7 +4769,7 @@
           "title": null,
           "timestamp": "2026-01-22T16:48:40.342Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 10480,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -4790,8 +4790,8 @@
           "id": "b3563af2-6518-470d-b908-070748e9adc8",
           "title": "Social Post Repost Performance Optimization",
           "timestamp": "2026-01-22T15:32:24.931Z",
-          "durationMs": 280936,
-          "totalDurationMs": 280936,
+          "durationMs": 4599617,
+          "totalDurationMs": 4825707,
           "gitBranch": "jared/000-fix-taste-test",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4813,7 +4813,7 @@
           "title": "Optimize Repost Mutation Performance Bottlenecks",
           "timestamp": "2026-01-21T20:19:21.650Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 9535,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -4835,7 +4835,7 @@
           "title": "Social post repost mutation performance optimization",
           "timestamp": "2026-01-21T19:49:44.312Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 4617,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -4857,7 +4857,7 @@
           "title": "Optimize repost mutation performance bottlenecks",
           "timestamp": "2026-01-21T19:36:18.810Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 11810,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -4878,8 +4878,8 @@
           "id": "cddfeee0-eeed-41e7-b18d-9a952da7bf5e",
           "title": "Repost Performance Bottleneck Analysis & Optimization",
           "timestamp": "2026-01-21T18:46:44.066Z",
-          "durationMs": 168752,
-          "totalDurationMs": 168752,
+          "durationMs": 7838456,
+          "totalDurationMs": 8016870,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4900,8 +4900,8 @@
           "id": "824ba763-d7c1-42bf-ab2e-f7525acefa2e",
           "title": "Modal Close Button Focus Logic Conflict Fix",
           "timestamp": "2026-01-21T17:32:26.092Z",
-          "durationMs": 68158,
-          "totalDurationMs": 68158,
+          "durationMs": 2716343,
+          "totalDurationMs": 3114291,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4922,8 +4922,8 @@
           "id": "65c2859e-ed11-4734-981f-90e2ca0f3dae",
           "title": "Modal close button blocked by social input focus logic",
           "timestamp": "2026-01-21T16:39:37.044Z",
-          "durationMs": 64596,
-          "totalDurationMs": 64596,
+          "durationMs": 64603,
+          "totalDurationMs": 76068,
           "gitBranch": "jared/prod-8335-closing-the-add-work-modal-requires-two-clicks",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4966,8 +4966,8 @@
           "id": "d9de150b-bd16-4aeb-b113-5773e8680f5c",
           "title": "Increase trending topics list limit to 5",
           "timestamp": "2026-01-20T19:51:06.454Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 170990,
+          "totalDurationMs": 225948,
           "gitBranch": "jared/prod-8295-show-up-to-five-items-in-trending-list",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4988,8 +4988,8 @@
           "id": "7162d62b-88d6-4026-92ea-ca58eaf9ea44",
           "title": "Update post modal E2E test for new CreateButtons flow",
           "timestamp": "2026-01-20T17:54:55.976Z",
-          "durationMs": 632475,
-          "totalDurationMs": 632475,
+          "durationMs": 2943764,
+          "totalDurationMs": 3325272,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5010,8 +5010,8 @@
           "id": "f5d973a7-c4da-496c-ae15-626618e84695",
           "title": "Update E2E tests for new CreateButtons modal flow",
           "timestamp": "2026-01-16T22:06:06.442Z",
-          "durationMs": 258834,
-          "totalDurationMs": 258834,
+          "durationMs": 387112,
+          "totalDurationMs": 398997,
           "gitBranch": "jared/000-share-to-feed-update",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5032,8 +5032,8 @@
           "id": "26c17f94-1bb2-43fa-8519-e3f0386a7761",
           "title": "Refactor work section into two side-by-side buttons",
           "timestamp": "2026-01-16T21:25:11.940Z",
-          "durationMs": 413565,
-          "totalDurationMs": 413565,
+          "durationMs": 584376,
+          "totalDurationMs": 720632,
           "gitBranch": "jared/000-share-to-feed-update",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5054,8 +5054,8 @@
           "id": "7d6108ef-b808-40e5-89b1-760d6e61c73e",
           "title": "Portfolio \"Add Work\" Modal Flow Extraction",
           "timestamp": "2026-01-16T20:47:38.460Z",
-          "durationMs": 523496,
-          "totalDurationMs": 523496,
+          "durationMs": 1510533,
+          "totalDurationMs": 1519790,
           "gitBranch": "jared/000-share-to-feed-update",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5076,8 +5076,8 @@
           "id": "4d6f406e-26a3-4c37-9ebd-49bc7959ccb1",
           "title": "Hackathon Post Modal Design Implementation",
           "timestamp": "2026-01-16T20:19:01.054Z",
-          "durationMs": 144313,
-          "totalDurationMs": 144313,
+          "durationMs": 144320,
+          "totalDurationMs": 154134,
           "gitBranch": "jared/000-share-to-feed-update",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5098,8 +5098,8 @@
           "id": "54d53432-1e77-4e60-a30c-9a3305947add",
           "title": "FirstHackathonPostIsLiveModal: Challenge Post Trigger Implementation",
           "timestamp": "2026-01-16T01:11:48.685Z",
-          "durationMs": 435456,
-          "totalDurationMs": 435456,
+          "durationMs": 521968,
+          "totalDurationMs": 655416,
           "gitBranch": "jared/prod-8147-post-to-social-modal-after-challenge-submission",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5120,8 +5120,8 @@
           "id": "be356697-2f2f-4a53-a05d-8c2430ff2299",
           "title": "Challenge submission guidelines acceptance feature",
           "timestamp": "2026-01-15T23:47:59.189Z",
-          "durationMs": 173889,
-          "totalDurationMs": 173889,
+          "durationMs": 784300,
+          "totalDurationMs": 794584,
           "gitBranch": "jared/prod-8146-agree-to-guidelines-modal",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5142,8 +5142,8 @@
           "id": "82588424-6e00-434a-9827-51b1bcf0b6c6",
           "title": "Guidelines acceptance gating for challenges",
           "timestamp": "2026-01-14T20:54:19.176Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 3997449,
+          "totalDurationMs": 4424905,
           "gitBranch": "jared/prod-8146-agree-to-guidelines-modal",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5164,8 +5164,8 @@
           "id": "bafc4312-c76d-4832-ad3a-2fb883eb1a8e",
           "title": "Fixed ESLint naming convention error for __dirname",
           "timestamp": "2026-01-14T17:13:41.545Z",
-          "durationMs": 587226,
-          "totalDurationMs": 587226,
+          "durationMs": 2351006,
+          "totalDurationMs": 4836339,
           "gitBranch": "jared/prod-8096-sc-migration-modal-batch-2",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5186,8 +5186,8 @@
           "id": "0b0a29c5-742c-451e-829e-b590178194ff",
           "title": "Fix ESLint naming convention error for __dirname",
           "timestamp": "2026-01-14T14:43:25.475Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 13095,
+          "totalDurationMs": 23768,
           "gitBranch": "jared/eng-20927-posthog-build-step-check-flags",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5208,8 +5208,8 @@
           "id": "80360c48-bbe6-4dfa-9e23-73f758743007",
           "title": "Implement unfollow topic success toast with undo",
           "timestamp": "2026-01-13T21:14:43.132Z",
-          "durationMs": 110056,
-          "totalDurationMs": 110056,
+          "durationMs": 454767,
+          "totalDurationMs": 464499,
           "gitBranch": "jared/eng-20927-posthog-build-step-check-flags",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5230,8 +5230,8 @@
           "id": "c4f362f5-f324-4d5e-a1b8-b415e556f710",
           "title": "Unfollow Toast with Undo Functionality",
           "timestamp": "2026-01-13T20:46:33.176Z",
-          "durationMs": 236479,
-          "totalDurationMs": 236479,
+          "durationMs": 302729,
+          "totalDurationMs": 451809,
           "gitBranch": "jared/prod-8032-redirect-to-topic-within-same-tab",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5253,7 +5253,7 @@
           "title": "Resolve merge conflicts in SocialPostInput component",
           "timestamp": "2026-01-13T20:35:35.348Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 19402,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -5274,8 +5274,8 @@
           "id": "8a16392e-bfbe-439c-95b6-b899f8e006c1",
           "title": "Resolve SocialPostInput merge conflicts",
           "timestamp": "2026-01-13T19:56:26.287Z",
-          "durationMs": 71144,
-          "totalDurationMs": 71144,
+          "durationMs": 71153,
+          "totalDurationMs": 84459,
           "gitBranch": "jared/prod-7781-new-share-your-work-modal",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5296,8 +5296,8 @@
           "id": "6a4af82d-3427-4c14-9a89-675f1fea4887",
           "title": "Draft Social Post URL Parsing Error Fix",
           "timestamp": "2026-01-13T19:04:30.008Z",
-          "durationMs": 50455,
-          "totalDurationMs": 50455,
+          "durationMs": 50465,
+          "totalDurationMs": 60248,
           "gitBranch": "jared/prod-7781-new-share-your-work-modal",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5318,8 +5318,8 @@
           "id": "ffc52c9f-e2d0-4111-81ae-cc91a02e53af",
           "title": "Fix Draft Social Post URL Parsing Crash",
           "timestamp": "2026-01-13T17:32:26.938Z",
-          "durationMs": 322971,
-          "totalDurationMs": 322971,
+          "durationMs": 437686,
+          "totalDurationMs": 545759,
           "gitBranch": "jared/eng-20934-url-parsing",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5341,7 +5341,7 @@
           "title": "Editorial Content Posts First in For-You Feed",
           "timestamp": "2026-01-12T21:49:21.555Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 8915,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -5363,7 +5363,7 @@
           "title": "Editorial Content Social Post Feed Slotting",
           "timestamp": "2026-01-12T18:15:09.679Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 10060,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -5384,8 +5384,8 @@
           "id": "b9c5f358-0632-4286-b795-67cd9f5e6db7",
           "title": "Editorial Content Posts First in For-You Feed",
           "timestamp": "2026-01-12T17:24:50.989Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1,
+          "totalDurationMs": 6262,
           "gitBranch": "jared/eng-20931-slotting-logic-for-editorial-content",
           "model": null,
           "tokens": {
@@ -5407,7 +5407,7 @@
           "title": "Slot Editorial Content Posts First in For-You Feed",
           "timestamp": "2026-01-12T17:14:25.586Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 7066,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -5428,8 +5428,8 @@
           "id": "989f55dd-ac80-4127-b84f-93e092bde2af",
           "title": "Editorial Content Tag Posts to Feed Slot",
           "timestamp": "2026-01-12T16:50:18.492Z",
-          "durationMs": 217749,
-          "totalDurationMs": 217749,
+          "durationMs": 5268844,
+          "totalDurationMs": 5574732,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5450,8 +5450,8 @@
           "id": "23666ebe-b613-4c06-9e6d-e725a9d41f68",
           "title": "Plugin Command Execution with No Output",
           "timestamp": "2026-01-09T16:43:15.261Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 6847,
+          "totalDurationMs": 90462,
           "gitBranch": "jared/prod-7779-simplify-profile-header",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5472,8 +5472,8 @@
           "id": "68442df6-82cd-488a-b289-bb3bbbfca891",
           "title": "Claude Plugin Command Exploration Session",
           "timestamp": "2026-01-09T16:42:43.664Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 1,
+          "totalDurationMs": 18342,
           "gitBranch": "jared/prod-7779-simplify-profile-header",
           "model": null,
           "tokens": {
@@ -5494,8 +5494,8 @@
           "id": "fc435cc1-024a-4996-bc9c-e0aa77e7165c",
           "title": "Code simplification request with agent issues",
           "timestamp": "2026-01-09T16:41:25.781Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 4,
+          "totalDurationMs": 6794,
           "gitBranch": "jared/prod-7779-simplify-profile-header",
           "model": null,
           "tokens": {
@@ -5516,8 +5516,8 @@
           "id": "083da144-e4c2-4c94-918a-dec6ebc70e36",
           "title": "Code Simplification Attempt With Plugin Issues",
           "timestamp": "2026-01-09T16:38:06.871Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 118736,
+          "totalDurationMs": 132437,
           "gitBranch": "jared/prod-7779-simplify-profile-header",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5539,7 +5539,7 @@
           "title": null,
           "timestamp": "2026-01-08T01:34:25.972Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 5681,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -5561,7 +5561,7 @@
           "title": null,
           "timestamp": "2026-01-08T01:32:08.170Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 5461,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -5583,7 +5583,7 @@
           "title": null,
           "timestamp": "2026-01-08T01:28:20.215Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 5008,
           "gitBranch": null,
           "model": null,
           "tokens": {
@@ -5604,8 +5604,8 @@
           "id": "9004305a-462a-4d84-a561-3729d14b46d6",
           "title": "Add 200ms debounce to TopicsModalV2 search",
           "timestamp": "2026-01-08T01:05:01.254Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 55136881,
+          "totalDurationMs": 55589286,
           "gitBranch": "jared/eng-20927-posthog-build-step-check-flags",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5626,8 +5626,8 @@
           "id": "7f38ebe0-9fe7-42bc-91e2-26df74a35cbc",
           "title": "Add 200ms debounce to TopicsModalV2 search",
           "timestamp": "2026-01-07T22:10:12.235Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 62518,
+          "totalDurationMs": 68960,
           "gitBranch": "jared/prod-7692-topic-search-ux-updates",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5648,8 +5648,8 @@
           "id": "443f5eff-f117-4046-95b7-a7bfc5042114",
           "title": "Add Trending Topics Section to Topics Modal",
           "timestamp": "2026-01-07T21:58:01.405Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 413531,
+          "totalDurationMs": 427785,
           "gitBranch": "jared/prod-7692-topic-search-ux-updates",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5670,8 +5670,8 @@
           "id": "61944fb5-9950-4dbc-8e1d-3ace0d826b21",
           "title": "Add Trending Topics to Topics Modal",
           "timestamp": "2026-01-07T21:20:03.611Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 566794,
+          "totalDurationMs": 572512,
           "gitBranch": "jared/prod-7692-topic-search-ux-updates",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5692,8 +5692,8 @@
           "id": "92971b45-80c1-4800-af33-458ef4f418aa",
           "title": "Implement Figma design in TopicsModalV2",
           "timestamp": "2026-01-07T21:08:01.583Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 455973,
+          "totalDurationMs": 462176,
           "gitBranch": "jared/prod-7692-topic-search-ux-updates",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5714,8 +5714,8 @@
           "id": "7da98508-b951-438e-9c2e-6ae2cfbb782e",
           "title": "Figma UI Design Implementation for Topics Modal",
           "timestamp": "2026-01-07T20:52:12.819Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 686557,
+          "totalDurationMs": 693172,
           "gitBranch": "jared/prod-7692-topic-search-ux-updates",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5736,8 +5736,8 @@
           "id": "f7eae130-f954-4801-97ae-eb729e6c072a",
           "title": "SocialPostTag tagCustomization implementation",
           "timestamp": "2026-01-07T20:04:08.026Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 2298848,
+          "totalDurationMs": 2391406,
           "gitBranch": "jared/prod-7692-topic-search-ux-updates",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5758,8 +5758,8 @@
           "id": "22c031c3-86b2-4eaa-9b72-d48692425106",
           "title": "SocialPostTag tagCustomization implementation",
           "timestamp": "2026-01-06T19:39:54.596Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 2435100,
+          "totalDurationMs": 2681243,
           "gitBranch": "jared/prod-7480-customize-social-post-tags-topics",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5780,8 +5780,8 @@
           "id": "85ed3ef6-ffa8-4e54-a978-54e24e434649",
           "title": "Fix null topLevelSocialPost in notifications mutation",
           "timestamp": "2026-01-06T16:58:05.197Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 8146071,
+          "totalDurationMs": 8410464,
           "gitBranch": "jared/prod-7480-customize-social-post-tags-topics",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5802,8 +5802,8 @@
           "id": "49cf4945-0e89-4b4d-bf78-13952358022b",
           "title": "Fix null topLevelSocialPost in notifications mutation",
           "timestamp": "2026-01-06T16:05:36.992Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 581409,
+          "totalDurationMs": 592052,
           "gitBranch": "jared/eng-20925-top-level-social-post",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5824,8 +5824,8 @@
           "id": "0766e550-c923-4103-81c9-2c00a129e4e6",
           "title": "Cherry-pick commit, stage selectively, exclude three files",
           "timestamp": "2026-01-05T18:30:55.041Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 6490,
+          "totalDurationMs": 15488,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5846,8 +5846,8 @@
           "id": "161f701b-a8a4-4f8f-beb5-e01edaae2908",
           "title": "Cherry-pick commit, stage selectively, exclude three files",
           "timestamp": "2026-01-05T18:26:21.405Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 74233,
+          "totalDurationMs": 83110,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -5868,8 +5868,8 @@
           "id": "f098598d-14e9-461e-8e97-6345e8aedf5d",
           "title": "SC migration batch: Confetti & ConnectedTablePagination",
           "timestamp": "2026-01-05T17:56:44.341Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 97184,
+          "totalDurationMs": 211367,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-sonnet-4-5-20250929",
           "tokens": {
@@ -5890,8 +5890,8 @@
           "id": "a6e9bba9-43ee-4c13-bb76-c68962ed6bbc",
           "title": "Styled-components batch migration coordination for Confetti components",
           "timestamp": "2026-01-05T17:54:23.958Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 58539,
+          "totalDurationMs": 70279,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-sonnet-4-5-20250929",
           "tokens": {
@@ -5912,8 +5912,8 @@
           "id": "a273990d-6544-410d-937c-5f80921f72a1",
           "title": "SC Migration Batch: 2 files, parallel processing complete",
           "timestamp": "2026-01-05T17:39:46.257Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 447678,
+          "totalDurationMs": 1616476,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-sonnet-4-5-20250929",
           "tokens": {
@@ -5934,8 +5934,8 @@
           "id": "e9f9b24a-8914-496e-a40d-7937514deba4",
           "title": "SC migration batch task orchestration",
           "timestamp": "2026-01-05T17:36:03.816Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 35243,
+          "totalDurationMs": 68919,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-sonnet-4-5-20250929",
           "tokens": {
@@ -5956,8 +5956,8 @@
           "id": "df9963f7-bf92-4c2d-9d0c-75b574201da3",
           "title": "Batch migrate styled-components files PROD-7631",
           "timestamp": "2026-01-05T17:29:23.108Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 129652,
+          "totalDurationMs": 644070,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-sonnet-4-5-20250929",
           "tokens": {
@@ -5978,8 +5978,8 @@
           "id": "935f47ac-7b91-4f6c-b462-7b56d2b2ffe6",
           "title": "Batch migration failed: files not found",
           "timestamp": "2026-01-05T16:52:50.161Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 199476,
+          "totalDurationMs": 685308,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-sonnet-4-5-20250929",
           "tokens": {
@@ -6001,7 +6001,7 @@
           "title": "Add collapsible FeaturedTopicsCarousel to for-you page",
           "timestamp": "2026-01-05T16:52:22.198Z",
           "durationMs": 0,
-          "totalDurationMs": 0,
+          "totalDurationMs": 11935,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": null,
           "tokens": {
@@ -6022,8 +6022,8 @@
           "id": "51425906-f2f1-4d74-9418-78b3645671f7",
           "title": "Add collapsible FeaturedTopicsCarousel to for-you page",
           "timestamp": "2025-12-30T19:21:52.907Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 686105,
+          "totalDurationMs": 686105,
           "gitBranch": "jared/prod-7889-add-featured-topics-callout",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6043,244 +6043,10 @@
       ]
     },
     {
-      "projectName": "demo-changes",
-      "projectPath": "/Users/jared/Developer/tools/demo-changes",
-      "totalSessions": 33,
-      "totalDurationMs": 3175432,
-      "totalTokens": {
-        "inputTokens": 321554,
-        "outputTokens": 9285,
-        "cacheReadTokens": 56554668,
-        "cacheCreationTokens": 5949834
-      },
-      "sessions": [
-        {
-          "id": "59720ce2-a7af-49c2-862f-31bee16cd624",
-          "title": null,
-          "timestamp": "2026-01-26T22:37:32.411Z",
-          "durationMs": 631716,
-          "totalDurationMs": 631716,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 760,
-            "outputTokens": 649,
-            "cacheReadTokens": 8202004,
-            "cacheCreationTokens": 562610
-          },
-          "totalTokens": {
-            "inputTokens": 91008,
-            "outputTokens": 2001,
-            "cacheReadTokens": 10805262,
-            "cacheCreationTokens": 1571341
-          },
-          "subagentCount": 7
-        },
-        {
-          "id": "24d20702-20c0-4f08-b49e-9ab3f91fee46",
-          "title": "Monorepo Playwright Detection: CLI Flags Over Auto-Detection",
-          "timestamp": "2026-01-26T22:21:39.882Z",
-          "durationMs": 297701,
-          "totalDurationMs": 297701,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 5052,
-            "outputTokens": 858,
-            "cacheReadTokens": 3850192,
-            "cacheCreationTokens": 121615
-          },
-          "totalTokens": {
-            "inputTokens": 8696,
-            "outputTokens": 901,
-            "cacheReadTokens": 3980485,
-            "cacheCreationTokens": 198225
-          },
-          "subagentCount": 1
-        },
-        {
-          "id": "7931d0f6-9db5-466c-8157-da9878c4cc71",
-          "title": "Codebase cleanup for open source release",
-          "timestamp": "2026-01-26T22:09:58.774Z",
-          "durationMs": 388642,
-          "totalDurationMs": 388642,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 35899,
-            "outputTokens": 863,
-            "cacheReadTokens": 5941961,
-            "cacheCreationTokens": 292570
-          },
-          "totalTokens": {
-            "inputTokens": 55190,
-            "outputTokens": 1352,
-            "cacheReadTokens": 7903682,
-            "cacheCreationTokens": 929072
-          },
-          "subagentCount": 4
-        },
-        {
-          "id": "52354f5e-25b8-4470-a385-6c9ff35a6bda",
-          "title": "Fix demo skill video recording with Bash CLI",
-          "timestamp": "2026-01-26T22:02:45.191Z",
-          "durationMs": 194966,
-          "totalDurationMs": 194966,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 16213,
-            "outputTokens": 717,
-            "cacheReadTokens": 2792847,
-            "cacheCreationTokens": 159808
-          },
-          "totalTokens": {
-            "inputTokens": 16213,
-            "outputTokens": 717,
-            "cacheReadTokens": 2792847,
-            "cacheCreationTokens": 159808
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "1e7e8fd1-d3d6-4b06-91f3-afdba6bc2931",
-          "title": "Simplify Skill: Let Claude Generate Tests & Narration",
-          "timestamp": "2026-01-26T16:02:44.318Z",
-          "durationMs": 228868,
-          "totalDurationMs": 228868,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 69316,
-            "outputTokens": 377,
-            "cacheReadTokens": 6304012,
-            "cacheCreationTokens": 759469
-          },
-          "totalTokens": {
-            "inputTokens": 69316,
-            "outputTokens": 377,
-            "cacheReadTokens": 6304012,
-            "cacheCreationTokens": 759469
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "49eb0313-5342-46d8-a43d-6ae9ce807455",
-          "title": "Claude Code: Simplify test generation with AI",
-          "timestamp": "2026-01-26T16:02:44.318Z",
-          "durationMs": 73556,
-          "totalDurationMs": 73556,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 5114,
-            "outputTokens": 234,
-            "cacheReadTokens": 2864028,
-            "cacheCreationTokens": 423644
-          },
-          "totalTokens": {
-            "inputTokens": 5114,
-            "outputTokens": 234,
-            "cacheReadTokens": 2864028,
-            "cacheCreationTokens": 423644
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "e62d2f3f-30f6-42c3-afa2-5e81343891c3",
-          "title": "Video Recording Fix Custom Fixtures",
-          "timestamp": "2026-01-26T15:50:12.005Z",
-          "durationMs": 586387,
-          "totalDurationMs": 586387,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 31064,
-            "outputTokens": 1025,
-            "cacheReadTokens": 6840642,
-            "cacheCreationTokens": 391339
-          },
-          "totalTokens": {
-            "inputTokens": 64902,
-            "outputTokens": 1457,
-            "cacheReadTokens": 7903987,
-            "cacheCreationTokens": 953997
-          },
-          "subagentCount": 5
-        },
-        {
-          "id": "efaaf539-514f-43e1-9921-bbcd2741de3b",
-          "title": "Playwright Integration for Existing Test Environments",
-          "timestamp": "2026-01-26T14:37:31.919Z",
-          "durationMs": 773596,
-          "totalDurationMs": 773596,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 5730,
-            "outputTokens": 1359,
-            "cacheReadTokens": 12548301,
-            "cacheCreationTokens": 268414
-          },
-          "totalTokens": {
-            "inputTokens": 11006,
-            "outputTokens": 2210,
-            "cacheReadTokens": 13791029,
-            "cacheCreationTokens": 909314
-          },
-          "subagentCount": 6
-        },
-        {
-          "id": "ddc96e6d-b6c7-446c-b10e-a63d285fb180",
-          "title": "Update README installation command to npx",
-          "timestamp": "2026-01-26T14:28:03.756Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 68,
-            "outputTokens": 22,
-            "cacheReadTokens": 139848,
-            "cacheCreationTokens": 20324
-          },
-          "totalTokens": {
-            "inputTokens": 68,
-            "outputTokens": 22,
-            "cacheReadTokens": 139848,
-            "cacheCreationTokens": 20324
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "46a9e03b-6914-43d6-816c-fe8ecb448364",
-          "title": "Git Lock File Removal Resolved",
-          "timestamp": "2026-01-26T14:19:25.999Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
-          "gitBranch": null,
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 41,
-            "outputTokens": 14,
-            "cacheReadTokens": 69488,
-            "cacheCreationTokens": 24640
-          },
-          "totalTokens": {
-            "inputTokens": 41,
-            "outputTokens": 14,
-            "cacheReadTokens": 69488,
-            "cacheCreationTokens": 24640
-          },
-          "subagentCount": 0
-        }
-      ]
-    },
-    {
       "projectName": "clog",
       "projectPath": "/Users/jared/Developer/tools/clog",
       "totalSessions": 16,
-      "totalDurationMs": 1872247,
+      "totalDurationMs": 17252459,
       "totalTokens": {
         "inputTokens": 127442,
         "outputTokens": 5977,
@@ -6292,8 +6058,8 @@
           "id": "09e25120-ad38-4f66-857c-9c8a17b623dd",
           "title": null,
           "timestamp": "2026-02-02T00:48:50.743Z",
-          "durationMs": 290085,
-          "totalDurationMs": 290085,
+          "durationMs": 1079421,
+          "totalDurationMs": 1297049,
           "gitBranch": null,
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6314,8 +6080,8 @@
           "id": "f0d645dc-b279-4a64-8d59-ba4a2a41c1ae",
           "title": "CLI & web leaderboard for Claude Code usage",
           "timestamp": "2026-01-30T17:11:36.830Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 938739,
+          "totalDurationMs": 938739,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6336,8 +6102,8 @@
           "id": "810595b0-b572-46f9-943f-c39f9cf5d48c",
           "title": "Clog: Claude Usage Leaderboard CLI & Web",
           "timestamp": "2026-01-30T16:46:05.032Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 509238,
+          "totalDurationMs": 509238,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6358,8 +6124,8 @@
           "id": "40592004-dc88-4a4c-8aac-2066a5bcd4b5",
           "title": "Claude Code Status Landing Page Builder",
           "timestamp": "2026-01-27T19:06:43.977Z",
-          "durationMs": 33171,
-          "totalDurationMs": 33171,
+          "durationMs": 33175,
+          "totalDurationMs": 33175,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6380,8 +6146,8 @@
           "id": "7c3868d8-559e-4577-8253-5f32def6097b",
           "title": "Separate Personal Clog Data from Template Repo",
           "timestamp": "2026-01-27T17:49:27.979Z",
-          "durationMs": 127368,
-          "totalDurationMs": 127368,
+          "durationMs": 2165738,
+          "totalDurationMs": 2165738,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6402,8 +6168,8 @@
           "id": "ac08fd63-03ca-4855-8bf2-0b1be07b2f91",
           "title": "Isolating Personal Clog Data From Forked Repos",
           "timestamp": "2026-01-27T17:49:27.979Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 168088,
+          "totalDurationMs": 193471,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6424,8 +6190,8 @@
           "id": "279e49a3-1978-4b7c-93e1-2d832a1f92a2",
           "title": "Claude Code Session Logger Setup",
           "timestamp": "2026-01-27T17:21:58.851Z",
-          "durationMs": 157117,
-          "totalDurationMs": 157117,
+          "durationMs": 265126,
+          "totalDurationMs": 265126,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6446,8 +6212,8 @@
           "id": "9cc6cb47-ee56-479a-824d-bdb70ce3811d",
           "title": "git push error: empty repository fix",
           "timestamp": "2026-01-27T15:23:45.903Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 66810,
+          "totalDurationMs": 66810,
           "gitBranch": null,
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6468,8 +6234,8 @@
           "id": "b0370ab1-1829-4df8-854f-0e673751fa83",
           "title": "Git Remote URL Conversion to SSH",
           "timestamp": "2026-01-27T15:20:36.556Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 115750,
+          "totalDurationMs": 115750,
           "gitBranch": null,
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6490,8 +6256,8 @@
           "id": "084b5cf3-425f-4e24-b9fb-91f33f21eddb",
           "title": "\"Build clog: Claude Code daily usage tracker\"",
           "timestamp": "2026-01-27T15:02:35.885Z",
-          "durationMs": 566381,
-          "totalDurationMs": 566381,
+          "durationMs": 4523741,
+          "totalDurationMs": 4603288,
           "gitBranch": null,
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6512,8 +6278,8 @@
           "id": "746dffc6-97b3-4217-8fe8-95556b04bc1d",
           "title": "Topic-Based Leaderboard Discovery Implementation",
           "timestamp": "2026-01-27T15:02:35.885Z",
-          "durationMs": 698125,
-          "totalDurationMs": 698125,
+          "durationMs": 7064075,
+          "totalDurationMs": 7064075,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6533,241 +6299,301 @@
       ]
     },
     {
-      "projectName": "clog-web",
-      "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
-      "totalSessions": 13,
-      "totalDurationMs": 1004897,
+      "projectName": "demo-changes",
+      "projectPath": "/Users/jared/Developer/tools/demo-changes",
+      "totalSessions": 33,
+      "totalDurationMs": 8667176,
       "totalTokens": {
-        "inputTokens": 124018,
-        "outputTokens": 2617,
-        "cacheReadTokens": 12420540,
-        "cacheCreationTokens": 1181798
+        "inputTokens": 321554,
+        "outputTokens": 9285,
+        "cacheReadTokens": 56554668,
+        "cacheCreationTokens": 5949834
       },
       "sessions": [
         {
-          "id": "208e3b49-d3af-4f2c-878a-ba9ccccd3b3c",
+          "id": "59720ce2-a7af-49c2-862f-31bee16cd624",
           "title": null,
-          "timestamp": "2026-02-02T02:29:55.674Z",
-          "durationMs": 409689,
-          "totalDurationMs": 409689,
+          "timestamp": "2026-01-26T22:37:32.411Z",
+          "durationMs": 1209274,
+          "totalDurationMs": 1895427,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 3666,
-            "outputTokens": 612,
-            "cacheReadTokens": 2679064,
-            "cacheCreationTokens": 95451
+            "inputTokens": 760,
+            "outputTokens": 649,
+            "cacheReadTokens": 8202004,
+            "cacheCreationTokens": 562610
           },
           "totalTokens": {
-            "inputTokens": 90434,
-            "outputTokens": 2043,
-            "cacheReadTokens": 4810297,
-            "cacheCreationTokens": 662510
+            "inputTokens": 91008,
+            "outputTokens": 2001,
+            "cacheReadTokens": 10805262,
+            "cacheCreationTokens": 1571341
           },
           "subagentCount": 7
         },
         {
-          "id": "783f493e-b254-4692-ac14-78d708a49ce3",
-          "title": "Homepage Convex Integration Setup",
-          "timestamp": "2026-02-02T02:29:38.999Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
-          "gitBranch": "main",
-          "model": null,
-          "tokens": {
-            "inputTokens": 0,
-            "outputTokens": 0,
-            "cacheReadTokens": 0,
-            "cacheCreationTokens": 0
-          },
-          "totalTokens": {
-            "inputTokens": 0,
-            "outputTokens": 0,
-            "cacheReadTokens": 0,
-            "cacheCreationTokens": 0
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "44a505c0-9937-48d7-bb9f-c2e79359084a",
-          "title": "Claude Code CLI homepage with leaderboard",
-          "timestamp": "2026-02-02T02:18:15.987Z",
-          "durationMs": 124913,
-          "totalDurationMs": 124913,
+          "id": "24d20702-20c0-4f08-b49e-9ab3f91fee46",
+          "title": "Monorepo Playwright Detection: CLI Flags Over Auto-Detection",
+          "timestamp": "2026-01-26T22:21:39.882Z",
+          "durationMs": 865584,
+          "totalDurationMs": 921311,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 320,
-            "outputTokens": 87,
-            "cacheReadTokens": 945141,
-            "cacheCreationTokens": 41019
+            "inputTokens": 5052,
+            "outputTokens": 858,
+            "cacheReadTokens": 3850192,
+            "cacheCreationTokens": 121615
           },
           "totalTokens": {
-            "inputTokens": 320,
-            "outputTokens": 87,
-            "cacheReadTokens": 945141,
-            "cacheCreationTokens": 41019
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "78c7a776-144f-4e0a-a947-4915fefcf056",
-          "title": "Implement homepage & user pages, fix routing",
-          "timestamp": "2026-02-02T02:05:40.587Z",
-          "durationMs": 226357,
-          "totalDurationMs": 226357,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 804,
-            "outputTokens": 178,
-            "cacheReadTokens": 2634189,
-            "cacheCreationTokens": 189490
-          },
-          "totalTokens": {
-            "inputTokens": 15027,
-            "outputTokens": 291,
-            "cacheReadTokens": 3664689,
-            "cacheCreationTokens": 324346
+            "inputTokens": 8696,
+            "outputTokens": 901,
+            "cacheReadTokens": 3980485,
+            "cacheCreationTokens": 198225
           },
           "subagentCount": 1
         },
         {
-          "id": "191ffab4-3420-42c5-996c-5e3f5ab14bb7",
-          "title": "Integrate clog-dashboard as user profile page",
-          "timestamp": "2026-02-02T01:52:44.986Z",
-          "durationMs": 243938,
-          "totalDurationMs": 243938,
+          "id": "7931d0f6-9db5-466c-8157-da9878c4cc71",
+          "title": "Codebase cleanup for open source release",
+          "timestamp": "2026-01-26T22:09:58.774Z",
+          "durationMs": 451892,
+          "totalDurationMs": 781875,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 18237,
-            "outputTokens": 196,
-            "cacheReadTokens": 3000413,
-            "cacheCreationTokens": 153923
+            "inputTokens": 35899,
+            "outputTokens": 863,
+            "cacheReadTokens": 5941961,
+            "cacheCreationTokens": 292570
           },
           "totalTokens": {
-            "inputTokens": 18237,
-            "outputTokens": 196,
-            "cacheReadTokens": 3000413,
-            "cacheCreationTokens": 153923
+            "inputTokens": 55190,
+            "outputTokens": 1352,
+            "cacheReadTokens": 7903682,
+            "cacheCreationTokens": 929072
           },
-          "subagentCount": 0
-        }
-      ]
-    },
-    {
-      "projectName": "imessage_export",
-      "projectPath": "/Users/jared/imessage_export",
-      "totalSessions": 10,
-      "totalDurationMs": 504380,
-      "totalTokens": {
-        "inputTokens": 8926,
-        "outputTokens": 23188,
-        "cacheReadTokens": 5478925,
-        "cacheCreationTokens": 532793
-      },
-      "sessions": [
-        {
-          "id": "9f40208f-cf4a-49ee-b09a-2414a7e32501",
-          "title": "Converting HTML chat data for LLM analysis",
-          "timestamp": "2026-01-20T17:56:23.727Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
-          "gitBranch": null,
-          "model": null,
-          "tokens": {
-            "inputTokens": 0,
-            "outputTokens": 0,
-            "cacheReadTokens": 0,
-            "cacheCreationTokens": 0
-          },
-          "totalTokens": {
-            "inputTokens": 4049,
-            "outputTokens": 2,
-            "cacheReadTokens": 0,
-            "cacheCreationTokens": 0
-          },
-          "subagentCount": 3
+          "subagentCount": 4
         },
         {
-          "id": "71bcfb0d-ea5a-40bf-9d39-5afe8be89d71",
-          "title": "Analyzing 33K iMessage chat with LLM",
-          "timestamp": "2026-01-20T17:27:48.828Z",
-          "durationMs": 504380,
-          "totalDurationMs": 504380,
-          "gitBranch": null,
+          "id": "52354f5e-25b8-4470-a385-6c9ff35a6bda",
+          "title": "Fix demo skill video recording with Bash CLI",
+          "timestamp": "2026-01-26T22:02:45.191Z",
+          "durationMs": 361963,
+          "totalDurationMs": 361963,
+          "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 812,
-            "outputTokens": 22973,
-            "cacheReadTokens": 5478925,
-            "cacheCreationTokens": 447187
+            "inputTokens": 16213,
+            "outputTokens": 717,
+            "cacheReadTokens": 2792847,
+            "cacheCreationTokens": 159808
           },
           "totalTokens": {
-            "inputTokens": 4877,
-            "outputTokens": 23186,
-            "cacheReadTokens": 5478925,
-            "cacheCreationTokens": 532793
+            "inputTokens": 16213,
+            "outputTokens": 717,
+            "cacheReadTokens": 2792847,
+            "cacheCreationTokens": 159808
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "1e7e8fd1-d3d6-4b06-91f3-afdba6bc2931",
+          "title": "Simplify Skill: Let Claude Generate Tests & Narration",
+          "timestamp": "2026-01-26T16:02:44.318Z",
+          "durationMs": 928838,
+          "totalDurationMs": 928838,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 69316,
+            "outputTokens": 377,
+            "cacheReadTokens": 6304012,
+            "cacheCreationTokens": 759469
+          },
+          "totalTokens": {
+            "inputTokens": 69316,
+            "outputTokens": 377,
+            "cacheReadTokens": 6304012,
+            "cacheCreationTokens": 759469
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "49eb0313-5342-46d8-a43d-6ae9ce807455",
+          "title": "Claude Code: Simplify test generation with AI",
+          "timestamp": "2026-01-26T16:02:44.318Z",
+          "durationMs": 693458,
+          "totalDurationMs": 693458,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 5114,
+            "outputTokens": 234,
+            "cacheReadTokens": 2864028,
+            "cacheCreationTokens": 423644
+          },
+          "totalTokens": {
+            "inputTokens": 5114,
+            "outputTokens": 234,
+            "cacheReadTokens": 2864028,
+            "cacheCreationTokens": 423644
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "e62d2f3f-30f6-42c3-afa2-5e81343891c3",
+          "title": "Video Recording Fix Custom Fixtures",
+          "timestamp": "2026-01-26T15:50:12.005Z",
+          "durationMs": 632904,
+          "totalDurationMs": 1043942,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 31064,
+            "outputTokens": 1025,
+            "cacheReadTokens": 6840642,
+            "cacheCreationTokens": 391339
+          },
+          "totalTokens": {
+            "inputTokens": 64902,
+            "outputTokens": 1457,
+            "cacheReadTokens": 7903987,
+            "cacheCreationTokens": 953997
           },
           "subagentCount": 5
-        }
-      ]
-    },
-    {
-      "projectName": "clog-web",
-      "projectPath": "/Users/jared/Developer/tools/clog/clog-web",
-      "totalSessions": 2,
-      "totalDurationMs": 409454,
-      "totalTokens": {
-        "inputTokens": 9177,
-        "outputTokens": 1578,
-        "cacheReadTokens": 14100257,
-        "cacheCreationTokens": 554791
-      },
-      "sessions": [
+        },
         {
-          "id": "883af2fe-6b72-47f5-8029-4c953da4cc5a",
-          "title": null,
-          "timestamp": "2026-02-02T00:50:30.096Z",
-          "durationMs": 409454,
-          "totalDurationMs": 409454,
+          "id": "efaaf539-514f-43e1-9921-bbcd2741de3b",
+          "title": "Playwright Integration for Existing Test Environments",
+          "timestamp": "2026-01-26T14:37:31.919Z",
+          "durationMs": 1524278,
+          "totalDurationMs": 2001104,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 3450,
-            "outputTokens": 1194,
-            "cacheReadTokens": 13319739,
-            "cacheCreationTokens": 425964
+            "inputTokens": 5730,
+            "outputTokens": 1359,
+            "cacheReadTokens": 12548301,
+            "cacheCreationTokens": 268414
           },
           "totalTokens": {
-            "inputTokens": 9177,
-            "outputTokens": 1578,
-            "cacheReadTokens": 14100257,
-            "cacheCreationTokens": 554791
+            "inputTokens": 11006,
+            "outputTokens": 2210,
+            "cacheReadTokens": 13791029,
+            "cacheCreationTokens": 909314
           },
-          "subagentCount": 1
+          "subagentCount": 6
+        },
+        {
+          "id": "ddc96e6d-b6c7-446c-b10e-a63d285fb180",
+          "title": "Update README installation command to npx",
+          "timestamp": "2026-01-26T14:28:03.756Z",
+          "durationMs": 20026,
+          "totalDurationMs": 20026,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 68,
+            "outputTokens": 22,
+            "cacheReadTokens": 139848,
+            "cacheCreationTokens": 20324
+          },
+          "totalTokens": {
+            "inputTokens": 68,
+            "outputTokens": 22,
+            "cacheReadTokens": 139848,
+            "cacheCreationTokens": 20324
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "46a9e03b-6914-43d6-816c-fe8ecb448364",
+          "title": "Git Lock File Removal Resolved",
+          "timestamp": "2026-01-26T14:19:25.999Z",
+          "durationMs": 19232,
+          "totalDurationMs": 19232,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 41,
+            "outputTokens": 14,
+            "cacheReadTokens": 69488,
+            "cacheCreationTokens": 24640
+          },
+          "totalTokens": {
+            "inputTokens": 41,
+            "outputTokens": 14,
+            "cacheReadTokens": 69488,
+            "cacheCreationTokens": 24640
+          },
+          "subagentCount": 0
         }
       ]
     },
     {
       "projectName": "clog",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog",
-      "totalSessions": 7,
-      "totalDurationMs": 360195,
+      "totalSessions": 10,
+      "totalDurationMs": 2764968,
       "totalTokens": {
-        "inputTokens": 9750,
-        "outputTokens": 622,
-        "cacheReadTokens": 6496746,
-        "cacheCreationTokens": 420013
+        "inputTokens": 13336,
+        "outputTokens": 848,
+        "cacheReadTokens": 8096909,
+        "cacheCreationTokens": 571725
       },
       "sessions": [
         {
-          "id": "835561f9-d642-4673-9bb2-c41210440922",
+          "id": "a9937521-2087-4f95-b3b4-3755c913f2dc",
           "title": null,
+          "timestamp": "2026-02-02T02:48:49.018Z",
+          "durationMs": 155220,
+          "totalDurationMs": 155220,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 20,
+            "outputTokens": 121,
+            "cacheReadTokens": 362671,
+            "cacheCreationTokens": 13848
+          },
+          "totalTokens": {
+            "inputTokens": 20,
+            "outputTokens": 121,
+            "cacheReadTokens": 362671,
+            "cacheCreationTokens": 13848
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "c3403e95-bbfe-4d4a-932e-8cfc3d67a70f",
+          "title": null,
+          "timestamp": "2026-02-02T02:45:04.052Z",
+          "durationMs": 218619,
+          "totalDurationMs": 266917,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 214,
+            "outputTokens": 55,
+            "cacheReadTokens": 713343,
+            "cacheCreationTokens": 82675
+          },
+          "totalTokens": {
+            "inputTokens": 3566,
+            "outputTokens": 105,
+            "cacheReadTokens": 1237492,
+            "cacheCreationTokens": 137864
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "835561f9-d642-4673-9bb2-c41210440922",
+          "title": "Add custom repository name prompt to clog init",
           "timestamp": "2026-02-02T02:37:45.108Z",
-          "durationMs": 37095,
-          "totalDurationMs": 37095,
+          "durationMs": 46419,
+          "totalDurationMs": 46419,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6786,10 +6612,10 @@
         },
         {
           "id": "2d94241e-61b7-4155-88eb-589e34ae4d0d",
-          "title": null,
+          "title": "Repository Name Customization in Init Flow",
           "timestamp": "2026-02-02T02:36:25.928Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 68142,
+          "totalDurationMs": 99838,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6810,8 +6636,8 @@
           "id": "f363992e-f11f-458d-9210-f768801a484c",
           "title": "Fix orphaned sub-agent sessions with blank titles",
           "timestamp": "2026-02-02T02:08:56.186Z",
-          "durationMs": 237888,
-          "totalDurationMs": 237888,
+          "durationMs": 1032332,
+          "totalDurationMs": 1032332,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6832,8 +6658,8 @@
           "id": "72ed1d8e-dc07-467c-88ba-0c80786c0967",
           "title": "Sub-agent sessions appear as blank titles at top level",
           "timestamp": "2026-02-02T01:51:30.912Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 963987,
+          "totalDurationMs": 1001492,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6854,8 +6680,8 @@
           "id": "bcd86c55-76c4-4701-bfe3-057abe714ae3",
           "title": "README stats dashboard with CLI sync",
           "timestamp": "2026-02-02T01:25:53.830Z",
-          "durationMs": 85212,
-          "totalDurationMs": 85212,
+          "durationMs": 162750,
+          "totalDurationMs": 162750,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6875,10 +6701,250 @@
       ]
     },
     {
+      "projectName": "imessage_export",
+      "projectPath": "/Users/jared/imessage_export",
+      "totalSessions": 10,
+      "totalDurationMs": 2167306,
+      "totalTokens": {
+        "inputTokens": 8926,
+        "outputTokens": 23188,
+        "cacheReadTokens": 5478925,
+        "cacheCreationTokens": 532793
+      },
+      "sessions": [
+        {
+          "id": "9f40208f-cf4a-49ee-b09a-2414a7e32501",
+          "title": "Converting HTML chat data for LLM analysis",
+          "timestamp": "2026-01-20T17:56:23.727Z",
+          "durationMs": 0,
+          "totalDurationMs": 2151,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 4049,
+            "outputTokens": 2,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "71bcfb0d-ea5a-40bf-9d39-5afe8be89d71",
+          "title": "Analyzing 33K iMessage chat with LLM",
+          "timestamp": "2026-01-20T17:27:48.828Z",
+          "durationMs": 2152746,
+          "totalDurationMs": 2165155,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 812,
+            "outputTokens": 22973,
+            "cacheReadTokens": 5478925,
+            "cacheCreationTokens": 447187
+          },
+          "totalTokens": {
+            "inputTokens": 4877,
+            "outputTokens": 23186,
+            "cacheReadTokens": 5478925,
+            "cacheCreationTokens": 532793
+          },
+          "subagentCount": 5
+        }
+      ]
+    },
+    {
+      "projectName": "clog-web",
+      "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
+      "totalSessions": 15,
+      "totalDurationMs": 2141540,
+      "totalTokens": {
+        "inputTokens": 125081,
+        "outputTokens": 2758,
+        "cacheReadTokens": 13633094,
+        "cacheCreationTokens": 1314535
+      },
+      "sessions": [
+        {
+          "id": "585ff9af-a218-460c-a485-2f044e3ea613",
+          "title": null,
+          "timestamp": "2026-02-02T02:47:14.349Z",
+          "durationMs": 107328,
+          "totalDurationMs": 161292,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 158,
+            "outputTokens": 39,
+            "cacheReadTokens": 423068,
+            "cacheCreationTokens": 58250
+          },
+          "totalTokens": {
+            "inputTokens": 1063,
+            "outputTokens": 141,
+            "cacheReadTokens": 1212554,
+            "cacheCreationTokens": 132737
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "208e3b49-d3af-4f2c-878a-ba9ccccd3b3c",
+          "title": "Wire homepage to Convex user data",
+          "timestamp": "2026-02-02T02:29:55.674Z",
+          "durationMs": 610872,
+          "totalDurationMs": 1038490,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 3666,
+            "outputTokens": 612,
+            "cacheReadTokens": 2679064,
+            "cacheCreationTokens": 95451
+          },
+          "totalTokens": {
+            "inputTokens": 90434,
+            "outputTokens": 2043,
+            "cacheReadTokens": 4810297,
+            "cacheCreationTokens": 662510
+          },
+          "subagentCount": 7
+        },
+        {
+          "id": "783f493e-b254-4692-ac14-78d708a49ce3",
+          "title": "Homepage Convex Integration Setup",
+          "timestamp": "2026-02-02T02:29:38.999Z",
+          "durationMs": 2608,
+          "totalDurationMs": 2608,
+          "gitBranch": "main",
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "44a505c0-9937-48d7-bb9f-c2e79359084a",
+          "title": "Claude Code CLI homepage with leaderboard",
+          "timestamp": "2026-02-02T02:18:15.987Z",
+          "durationMs": 215722,
+          "totalDurationMs": 215722,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 320,
+            "outputTokens": 87,
+            "cacheReadTokens": 945141,
+            "cacheCreationTokens": 41019
+          },
+          "totalTokens": {
+            "inputTokens": 320,
+            "outputTokens": 87,
+            "cacheReadTokens": 945141,
+            "cacheCreationTokens": 41019
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "78c7a776-144f-4e0a-a947-4915fefcf056",
+          "title": "Implement homepage & user pages, fix routing",
+          "timestamp": "2026-02-02T02:05:40.587Z",
+          "durationMs": 274409,
+          "totalDurationMs": 332462,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 804,
+            "outputTokens": 178,
+            "cacheReadTokens": 2634189,
+            "cacheCreationTokens": 189490
+          },
+          "totalTokens": {
+            "inputTokens": 15027,
+            "outputTokens": 291,
+            "cacheReadTokens": 3664689,
+            "cacheCreationTokens": 324346
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "191ffab4-3420-42c5-996c-5e3f5ab14bb7",
+          "title": "Integrate clog-dashboard as user profile page",
+          "timestamp": "2026-02-02T01:52:44.986Z",
+          "durationMs": 390966,
+          "totalDurationMs": 390966,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 18237,
+            "outputTokens": 196,
+            "cacheReadTokens": 3000413,
+            "cacheCreationTokens": 153923
+          },
+          "totalTokens": {
+            "inputTokens": 18237,
+            "outputTokens": 196,
+            "cacheReadTokens": 3000413,
+            "cacheCreationTokens": 153923
+          },
+          "subagentCount": 0
+        }
+      ]
+    },
+    {
+      "projectName": "clog-web",
+      "projectPath": "/Users/jared/Developer/tools/clog/clog-web",
+      "totalSessions": 2,
+      "totalDurationMs": 1851041,
+      "totalTokens": {
+        "inputTokens": 9177,
+        "outputTokens": 1578,
+        "cacheReadTokens": 14100257,
+        "cacheCreationTokens": 554791
+      },
+      "sessions": [
+        {
+          "id": "883af2fe-6b72-47f5-8029-4c953da4cc5a",
+          "title": null,
+          "timestamp": "2026-02-02T00:50:30.096Z",
+          "durationMs": 1746594,
+          "totalDurationMs": 1851041,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 3450,
+            "outputTokens": 1194,
+            "cacheReadTokens": 13319739,
+            "cacheCreationTokens": 425964
+          },
+          "totalTokens": {
+            "inputTokens": 9177,
+            "outputTokens": 1578,
+            "cacheReadTokens": 14100257,
+            "cacheCreationTokens": 554791
+          },
+          "subagentCount": 1
+        }
+      ]
+    },
+    {
       "projectName": "Developer",
       "projectPath": "/Users/jared/Developer",
       "totalSessions": 1,
-      "totalDurationMs": 339374,
+      "totalDurationMs": 1365886,
       "totalTokens": {
         "inputTokens": 30359,
         "outputTokens": 527,
@@ -6890,8 +6956,8 @@
           "id": "561f3fa6-1caa-47b1-ba11-e4897f468c99",
           "title": null,
           "timestamp": "2026-01-27T18:31:16.033Z",
-          "durationMs": 339374,
-          "totalDurationMs": 339374,
+          "durationMs": 1365886,
+          "totalDurationMs": 1365886,
           "gitBranch": null,
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6911,46 +6977,10 @@
       ]
     },
     {
-      "projectName": "jared",
-      "projectPath": "/Users/jared",
-      "totalSessions": 3,
-      "totalDurationMs": 0,
-      "totalTokens": {
-        "inputTokens": 1665,
-        "outputTokens": 268,
-        "cacheReadTokens": 186674,
-        "cacheCreationTokens": 19177
-      },
-      "sessions": [
-        {
-          "id": "895dbe21-8c5f-4c56-a9e4-d2b5e55a7b6d",
-          "title": null,
-          "timestamp": "2026-01-08T16:37:54.402Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
-          "gitBranch": null,
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 83,
-            "outputTokens": 265,
-            "cacheReadTokens": 186674,
-            "cacheCreationTokens": 19177
-          },
-          "totalTokens": {
-            "inputTokens": 1665,
-            "outputTokens": 268,
-            "cacheReadTokens": 186674,
-            "cacheCreationTokens": 19177
-          },
-          "subagentCount": 2
-        }
-      ]
-    },
-    {
       "projectName": "relaxed-feistel",
       "projectPath": "/Users/jared/.claude-worktrees/gaia/relaxed-feistel",
       "totalSessions": 3,
-      "totalDurationMs": 0,
+      "totalDurationMs": 557760,
       "totalTokens": {
         "inputTokens": 26593,
         "outputTokens": 531,
@@ -6962,8 +6992,8 @@
           "id": "8e15155b-6196-49ef-86fa-2f77ff5ebdda",
           "title": null,
           "timestamp": "2026-01-22T16:48:41.661Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 441910,
+          "totalDurationMs": 557760,
           "gitBranch": "relaxed-feistel",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -6986,7 +7016,7 @@
       "projectName": "strange-booth",
       "projectPath": "/Users/jared/.claude-worktrees/spool/strange-booth",
       "totalSessions": 3,
-      "totalDurationMs": 0,
+      "totalDurationMs": 273895,
       "totalTokens": {
         "inputTokens": 14077,
         "outputTokens": 435,
@@ -6998,8 +7028,8 @@
           "id": "bdd0d251-9e97-4058-b80f-82ab62670042",
           "title": null,
           "timestamp": "2026-01-22T16:45:36.672Z",
-          "durationMs": 0,
-          "totalDurationMs": 0,
+          "durationMs": 117041,
+          "totalDurationMs": 273895,
           "gitBranch": "strange-booth",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -7017,120 +7047,156 @@
           "subagentCount": 2
         }
       ]
+    },
+    {
+      "projectName": "jared",
+      "projectPath": "/Users/jared",
+      "totalSessions": 3,
+      "totalDurationMs": 64534,
+      "totalTokens": {
+        "inputTokens": 1665,
+        "outputTokens": 268,
+        "cacheReadTokens": 186674,
+        "cacheCreationTokens": 19177
+      },
+      "sessions": [
+        {
+          "id": "895dbe21-8c5f-4c56-a9e4-d2b5e55a7b6d",
+          "title": null,
+          "timestamp": "2026-01-08T16:37:54.402Z",
+          "durationMs": 57339,
+          "totalDurationMs": 64534,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 83,
+            "outputTokens": 265,
+            "cacheReadTokens": 186674,
+            "cacheCreationTokens": 19177
+          },
+          "totalTokens": {
+            "inputTokens": 1665,
+            "outputTokens": 268,
+            "cacheReadTokens": 186674,
+            "cacheCreationTokens": 19177
+          },
+          "subagentCount": 2
+        }
+      ]
     }
   ],
   "activity": {
     "2026-01-28": {
       "sessions": 33,
-      "durationMs": 756260
+      "durationMs": 26343995
     },
     "2026-01-27": {
       "sessions": 48,
-      "durationMs": 3855012
+      "durationMs": 55944294
     },
     "2026-01-26": {
       "sessions": 122,
-      "durationMs": 9852209
+      "durationMs": 42836642
     },
     "2026-01-25": {
       "sessions": 63,
-      "durationMs": 5752440
+      "durationMs": 18114771
     },
     "2026-01-24": {
       "sessions": 36,
-      "durationMs": 1697963
+      "durationMs": 9755980
     },
     "2026-01-23": {
       "sessions": 118,
-      "durationMs": 5516605
+      "durationMs": 28290162
     },
     "2026-01-22": {
       "sessions": 116,
-      "durationMs": 6659392
+      "durationMs": 56306980
     },
     "2026-01-21": {
       "sessions": 81,
-      "durationMs": 2697310
+      "durationMs": 31854274
     },
     "2026-01-20": {
       "sessions": 51,
-      "durationMs": 1965687
+      "durationMs": 8157991
     },
     "2026-01-19": {
       "sessions": 28,
-      "durationMs": 459094
+      "durationMs": 5588844
     },
     "2026-01-18": {
       "sessions": 18,
-      "durationMs": 3364944
+      "durationMs": 13740394
     },
     "2026-01-14": {
       "sessions": 52,
-      "durationMs": 1004484
+      "durationMs": 12140985
     },
     "2026-01-13": {
       "sessions": 63,
-      "durationMs": 1132115
+      "durationMs": 9021893
     },
     "2026-01-12": {
       "sessions": 35,
-      "durationMs": 217749
+      "durationMs": 6505709
     },
     "2026-01-10": {
       "sessions": 19,
-      "durationMs": 1002672
+      "durationMs": 5444850
     },
     "2026-01-09": {
       "sessions": 38,
-      "durationMs": 333017
+      "durationMs": 4463000
     },
     "2026-01-07": {
       "sessions": 74,
-      "durationMs": 0
+      "durationMs": 16378249
     },
     "2026-01-06": {
       "sessions": 22,
-      "durationMs": 0
+      "durationMs": 13074868
     },
     "2026-01-05": {
       "sessions": 80,
-      "durationMs": 0
+      "durationMs": 4482658
     },
     "2026-01-03": {
       "sessions": 6,
-      "durationMs": 0
+      "durationMs": 7159733
     },
     "2026-01-02": {
       "sessions": 3,
-      "durationMs": 0
+      "durationMs": 17631700
     },
     "2025-12-30": {
       "sessions": 3,
-      "durationMs": 0
+      "durationMs": 240812752
     },
     "2026-01-30": {
       "sessions": 22,
-      "durationMs": 302506
+      "durationMs": 9792236
     },
     "2026-01-29": {
       "sessions": 23,
-      "durationMs": 679406
+      "durationMs": 23760094
     },
     "2026-01-16": {
       "sessions": 24,
-      "durationMs": 1775664
+      "durationMs": 3448969
     },
     "2026-01-15": {
       "sessions": 4,
-      "durationMs": 173889
+      "durationMs": 794584
     },
     "2026-01-08": {
       "sessions": 20,
-      "durationMs": 0
+      "durationMs": 55669970
     },
     "2026-02-02": {
-      "sessions": 26,
-      "durationMs": 2064631
+      "sessions": 31,
+      "durationMs": 8054598
     }
   }
 }

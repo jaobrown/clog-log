@@ -6,7 +6,7 @@
 ```
 SESSIONS          TOKENS            TIME
 ─────────────────────────────────────────
-1228              1833.4M           14h 14m
+1233              1836.5M           204h 19m
 total             consumed          coded
 ```
 <!-- CLOG_STATS_END -->
@@ -15,11 +15,11 @@ total             consumed          coded
 ```
 // recent
 
-2026-02-02 clog       - untitled                                   396.9k │ 0m
-2026-02-02 clog       - untitled                                   780.3k │ 0m
-2026-02-02 clog-web   - untitled                                    5.6M │ 6m
-2026-02-02 clog-web   - Homepage Convex Integration Setup              0 │ 0m
-2026-02-02 clog-web   - Claude Code CLI homepage with leaderboa…   986.6k │ 2m
+2026-02-02 clog       - untitled                                   376.7k │ 2m
+2026-02-02 clog-web   - untitled                                    1.3M │ 2m
+2026-02-02 clog       - untitled                                    1.4M │ 4m
+2026-02-02 clog       - Add custom repository name prompt to cl…   396.9k │ 0m
+2026-02-02 clog       - Repository Name Customization in Init F…   780.3k │ 1m
 ```
 <!-- CLOG_RECENT_END -->
 
