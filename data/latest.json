@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T20:38:02.346Z",
+  "generatedAt": "2026-02-02T21:22:21.163Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1282,
-    "totalDurationMs": 755291286,
-    "totalTokens": 1909248164,
+    "totalSessions": 1288,
+    "totalDurationMs": 757236191,
+    "totalTokens": 1921095827,
     "projectCount": 13
   },
   "projects": [
@@ -3215,18 +3215,40 @@
     {
       "projectName": "gaia",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 523,
-      "totalDurationMs": 244634479,
+      "totalSessions": 527,
+      "totalDurationMs": 246048352,
       "totalTokens": {
-        "inputTokens": 4631406,
-        "outputTokens": 636800,
-        "cacheReadTokens": 727936056,
-        "cacheCreationTokens": 74122436
+        "inputTokens": 4841787,
+        "outputTokens": 637606,
+        "cacheReadTokens": 735120561,
+        "cacheCreationTokens": 75317993
       },
       "sessions": [
         {
-          "id": "c9366e89-0d57-4090-99d4-94923bf4659a",
+          "id": "d43d8575-fddf-498b-94e9-f2e194554b2e",
           "title": null,
+          "timestamp": "2026-02-02T20:39:48.167Z",
+          "durationMs": 1180492,
+          "totalDurationMs": 1413873,
+          "gitBranch": "jared/prod-8733-support-embeds-in-chat",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 135873,
+            "outputTokens": 338,
+            "cacheReadTokens": 2128290,
+            "cacheCreationTokens": 496057
+          },
+          "totalTokens": {
+            "inputTokens": 210381,
+            "outputTokens": 806,
+            "cacheReadTokens": 7184505,
+            "cacheCreationTokens": 1195557
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "c9366e89-0d57-4090-99d4-94923bf4659a",
+          "title": "Normalize chat bubbles & move feedback to hover",
           "timestamp": "2026-02-02T20:19:45.816Z",
           "durationMs": 232324,
           "totalDurationMs": 232324,
@@ -3248,7 +3270,7 @@
         },
         {
           "id": "76fb3e9e-a021-4093-8a61-b09103dafe9e",
-          "title": null,
+          "title": "Chat bubble styling and hover actions unification",
           "timestamp": "2026-02-02T20:04:58.135Z",
           "durationMs": 553349,
           "totalDurationMs": 810334,
@@ -7033,18 +7055,40 @@
     {
       "projectName": "clog-web",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
-      "totalSessions": 24,
-      "totalDurationMs": 6472880,
+      "totalSessions": 26,
+      "totalDurationMs": 7003912,
       "totalTokens": {
-        "inputTokens": 128893,
-        "outputTokens": 3617,
-        "cacheReadTokens": 22458688,
-        "cacheCreationTokens": 2115199
+        "inputTokens": 139892,
+        "outputTokens": 4259,
+        "cacheReadTokens": 25361080,
+        "cacheCreationTokens": 2457580
       },
       "sessions": [
         {
-          "id": "2162d697-8908-4724-99de-2c788db556c4",
+          "id": "6f7d88fd-b8df-4948-ba1d-6d09e686e4f3",
           "title": null,
+          "timestamp": "2026-02-02T21:14:25.234Z",
+          "durationMs": 453688,
+          "totalDurationMs": 531032,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 60,
+            "outputTokens": 386,
+            "cacheReadTokens": 1417471,
+            "cacheCreationTokens": 159361
+          },
+          "totalTokens": {
+            "inputTokens": 10999,
+            "outputTokens": 642,
+            "cacheReadTokens": 2902392,
+            "cacheCreationTokens": 342381
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "2162d697-8908-4724-99de-2c788db556c4",
+          "title": "Unify leaderboard profile stats, fix session counting",
           "timestamp": "2026-02-02T20:05:27.271Z",
           "durationMs": 869731,
           "totalDurationMs": 869731,
@@ -7066,7 +7110,7 @@
         },
         {
           "id": "983ad7bc-da52-47c0-be01-73c32f0a70fa",
-          "title": null,
+          "title": "Sync leaderboard and profile weekly data sources",
           "timestamp": "2026-02-02T20:02:41.653Z",
           "durationMs": 132622,
           "totalDurationMs": 175506,
@@ -7783,8 +7827,8 @@
       "durationMs": 240812752
     },
     "2026-02-02": {
-      "sessions": 83,
-      "durationMs": 27846320
+      "sessions": 89,
+      "durationMs": 29791225
     },
     "2026-01-30": {
       "sessions": 22,
