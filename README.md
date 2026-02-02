@@ -8,8 +8,8 @@
 │                    Claude Code Stats                     │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│   Sessions     1269        Tokens      1893.6M           │
-│   Duration     208h 40m    Projects    13                │
+│   Sessions     1269        Tokens      1893.8M           │
+│   Duration     209h 3m     Projects    13                │
 │                                                          │
 ╰──────────────────────────────────────────────────────────╯
 ```
@@ -21,7 +21,7 @@
 │                                                          │
 │  2026-02-02  clogs     untitled                179.7k      0m│
 │  2026-02-02  clogs     untitled                 2.7M      5m│
-│  2026-02-02  clog      untitled                 1.3M     11m│
+│  2026-02-02  clog      untitled                 1.5M     34m│
 │  2026-02-02  clog      untitled                 1.8M      6m│
 │  2026-02-02  clogs     Update CLI README tem…  283.3k      0m│
 │                                                          │
