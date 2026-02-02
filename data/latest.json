@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-02-02T15:54:34.832Z",
+  "generatedAt": "2026-02-02T17:15:30.519Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1241,
-    "totalDurationMs": 740292213,
-    "totalTokens": 1852899754,
-    "projectCount": 12
+    "totalSessions": 1248,
+    "totalDurationMs": 745795267,
+    "totalTokens": 1877073808,
+    "projectCount": 13
   },
   "projects": [
     {
@@ -3215,18 +3215,62 @@
     {
       "projectName": "gaia",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 508,
-      "totalDurationMs": 238098867,
+      "totalSessions": 513,
+      "totalDurationMs": 240588545,
       "totalTokens": {
-        "inputTokens": 4190515,
-        "outputTokens": 634331,
-        "cacheReadTokens": 700127536,
-        "cacheCreationTokens": 70518232
+        "inputTokens": 4508910,
+        "outputTokens": 635870,
+        "cacheReadTokens": 714768744,
+        "cacheCreationTokens": 72035915
       },
       "sessions": [
         {
-          "id": "282bcc23-93dc-4beb-a086-a8bfe0666c36",
+          "id": "13023d10-e35e-4288-92f0-cd886022441f",
           "title": null,
+          "timestamp": "2026-02-02T16:27:32.632Z",
+          "durationMs": 1566999,
+          "totalDurationMs": 1566999,
+          "gitBranch": "jared/prod-8704-move-indy-ai-to-big-chat",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 329,
+            "outputTokens": 635,
+            "cacheReadTokens": 11290874,
+            "cacheCreationTokens": 481267
+          },
+          "totalTokens": {
+            "inputTokens": 329,
+            "outputTokens": 635,
+            "cacheReadTokens": 11290874,
+            "cacheCreationTokens": 481267
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "a1123834-bf87-4dc6-b1b7-fc0f6b96451d",
+          "title": null,
+          "timestamp": "2026-02-02T16:16:04.111Z",
+          "durationMs": 579635,
+          "totalDurationMs": 922679,
+          "gitBranch": "jared/prod-8704-move-indy-ai-to-big-chat",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 9774,
+            "outputTokens": 328,
+            "cacheReadTokens": 1649726,
+            "cacheCreationTokens": 221263
+          },
+          "totalTokens": {
+            "inputTokens": 318066,
+            "outputTokens": 904,
+            "cacheReadTokens": 3350334,
+            "cacheCreationTokens": 1036416
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "282bcc23-93dc-4beb-a086-a8bfe0666c36",
+          "title": "Add integration tests for challenge join workflow",
           "timestamp": "2026-02-02T15:01:22.566Z",
           "durationMs": 1450918,
           "totalDurationMs": 1671461,
@@ -6577,6 +6621,196 @@
       ]
     },
     {
+      "projectName": "clog-web",
+      "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
+      "totalSessions": 17,
+      "totalDurationMs": 4908425,
+      "totalTokens": {
+        "inputTokens": 126578,
+        "outputTokens": 3066,
+        "cacheReadTokens": 18359818,
+        "cacheCreationTokens": 1742120
+      },
+      "sessions": [
+        {
+          "id": "0a3c412e-d20f-41de-ab35-7e40763061b3",
+          "title": null,
+          "timestamp": "2026-02-02T16:12:56.564Z",
+          "durationMs": 2667940,
+          "totalDurationMs": 2667940,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 1151,
+            "outputTokens": 259,
+            "cacheReadTokens": 4057757,
+            "cacheCreationTokens": 317752
+          },
+          "totalTokens": {
+            "inputTokens": 1151,
+            "outputTokens": 259,
+            "cacheReadTokens": 4057757,
+            "cacheCreationTokens": 317752
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "925e1c32-c02f-4dae-aef2-5fc6fa3394d7",
+          "title": "Create /join page with setup guide",
+          "timestamp": "2026-02-02T14:19:57.477Z",
+          "durationMs": 98945,
+          "totalDurationMs": 98945,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 346,
+            "outputTokens": 49,
+            "cacheReadTokens": 668967,
+            "cacheCreationTokens": 109833
+          },
+          "totalTokens": {
+            "inputTokens": 346,
+            "outputTokens": 49,
+            "cacheReadTokens": 668967,
+            "cacheCreationTokens": 109833
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "585ff9af-a218-460c-a485-2f044e3ea613",
+          "title": "Leaderboard Timezone Mismatch Bug Fixed",
+          "timestamp": "2026-02-02T02:47:14.349Z",
+          "durationMs": 107328,
+          "totalDurationMs": 161292,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 158,
+            "outputTokens": 39,
+            "cacheReadTokens": 423068,
+            "cacheCreationTokens": 58250
+          },
+          "totalTokens": {
+            "inputTokens": 1063,
+            "outputTokens": 141,
+            "cacheReadTokens": 1212554,
+            "cacheCreationTokens": 132737
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "208e3b49-d3af-4f2c-878a-ba9ccccd3b3c",
+          "title": "Wire homepage to Convex user data",
+          "timestamp": "2026-02-02T02:29:55.674Z",
+          "durationMs": 610872,
+          "totalDurationMs": 1038490,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 3666,
+            "outputTokens": 612,
+            "cacheReadTokens": 2679064,
+            "cacheCreationTokens": 95451
+          },
+          "totalTokens": {
+            "inputTokens": 90434,
+            "outputTokens": 2043,
+            "cacheReadTokens": 4810297,
+            "cacheCreationTokens": 662510
+          },
+          "subagentCount": 7
+        },
+        {
+          "id": "783f493e-b254-4692-ac14-78d708a49ce3",
+          "title": "Homepage Convex Integration Setup",
+          "timestamp": "2026-02-02T02:29:38.999Z",
+          "durationMs": 2608,
+          "totalDurationMs": 2608,
+          "gitBranch": "main",
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "44a505c0-9937-48d7-bb9f-c2e79359084a",
+          "title": "Claude Code CLI homepage with leaderboard",
+          "timestamp": "2026-02-02T02:18:15.987Z",
+          "durationMs": 215722,
+          "totalDurationMs": 215722,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 320,
+            "outputTokens": 87,
+            "cacheReadTokens": 945141,
+            "cacheCreationTokens": 41019
+          },
+          "totalTokens": {
+            "inputTokens": 320,
+            "outputTokens": 87,
+            "cacheReadTokens": 945141,
+            "cacheCreationTokens": 41019
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "78c7a776-144f-4e0a-a947-4915fefcf056",
+          "title": "Implement homepage & user pages, fix routing",
+          "timestamp": "2026-02-02T02:05:40.587Z",
+          "durationMs": 274409,
+          "totalDurationMs": 332462,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 804,
+            "outputTokens": 178,
+            "cacheReadTokens": 2634189,
+            "cacheCreationTokens": 189490
+          },
+          "totalTokens": {
+            "inputTokens": 15027,
+            "outputTokens": 291,
+            "cacheReadTokens": 3664689,
+            "cacheCreationTokens": 324346
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "191ffab4-3420-42c5-996c-5e3f5ab14bb7",
+          "title": "Integrate clog-dashboard as user profile page",
+          "timestamp": "2026-02-02T01:52:44.986Z",
+          "durationMs": 390966,
+          "totalDurationMs": 390966,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 18237,
+            "outputTokens": 196,
+            "cacheReadTokens": 3000413,
+            "cacheCreationTokens": 153923
+          },
+          "totalTokens": {
+            "inputTokens": 18237,
+            "outputTokens": 196,
+            "cacheReadTokens": 3000413,
+            "cacheCreationTokens": 153923
+          },
+          "subagentCount": 0
+        }
+      ]
+    },
+    {
       "projectName": "clog",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog",
       "totalSessions": 12,
@@ -6767,174 +7001,6 @@
       ]
     },
     {
-      "projectName": "clog-web",
-      "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
-      "totalSessions": 16,
-      "totalDurationMs": 2240485,
-      "totalTokens": {
-        "inputTokens": 125427,
-        "outputTokens": 2807,
-        "cacheReadTokens": 14302061,
-        "cacheCreationTokens": 1424368
-      },
-      "sessions": [
-        {
-          "id": "925e1c32-c02f-4dae-aef2-5fc6fa3394d7",
-          "title": null,
-          "timestamp": "2026-02-02T14:19:57.477Z",
-          "durationMs": 98945,
-          "totalDurationMs": 98945,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 346,
-            "outputTokens": 49,
-            "cacheReadTokens": 668967,
-            "cacheCreationTokens": 109833
-          },
-          "totalTokens": {
-            "inputTokens": 346,
-            "outputTokens": 49,
-            "cacheReadTokens": 668967,
-            "cacheCreationTokens": 109833
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "585ff9af-a218-460c-a485-2f044e3ea613",
-          "title": "Leaderboard Timezone Mismatch Bug Fixed",
-          "timestamp": "2026-02-02T02:47:14.349Z",
-          "durationMs": 107328,
-          "totalDurationMs": 161292,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 158,
-            "outputTokens": 39,
-            "cacheReadTokens": 423068,
-            "cacheCreationTokens": 58250
-          },
-          "totalTokens": {
-            "inputTokens": 1063,
-            "outputTokens": 141,
-            "cacheReadTokens": 1212554,
-            "cacheCreationTokens": 132737
-          },
-          "subagentCount": 1
-        },
-        {
-          "id": "208e3b49-d3af-4f2c-878a-ba9ccccd3b3c",
-          "title": "Wire homepage to Convex user data",
-          "timestamp": "2026-02-02T02:29:55.674Z",
-          "durationMs": 610872,
-          "totalDurationMs": 1038490,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 3666,
-            "outputTokens": 612,
-            "cacheReadTokens": 2679064,
-            "cacheCreationTokens": 95451
-          },
-          "totalTokens": {
-            "inputTokens": 90434,
-            "outputTokens": 2043,
-            "cacheReadTokens": 4810297,
-            "cacheCreationTokens": 662510
-          },
-          "subagentCount": 7
-        },
-        {
-          "id": "783f493e-b254-4692-ac14-78d708a49ce3",
-          "title": "Homepage Convex Integration Setup",
-          "timestamp": "2026-02-02T02:29:38.999Z",
-          "durationMs": 2608,
-          "totalDurationMs": 2608,
-          "gitBranch": "main",
-          "model": null,
-          "tokens": {
-            "inputTokens": 0,
-            "outputTokens": 0,
-            "cacheReadTokens": 0,
-            "cacheCreationTokens": 0
-          },
-          "totalTokens": {
-            "inputTokens": 0,
-            "outputTokens": 0,
-            "cacheReadTokens": 0,
-            "cacheCreationTokens": 0
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "44a505c0-9937-48d7-bb9f-c2e79359084a",
-          "title": "Claude Code CLI homepage with leaderboard",
-          "timestamp": "2026-02-02T02:18:15.987Z",
-          "durationMs": 215722,
-          "totalDurationMs": 215722,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 320,
-            "outputTokens": 87,
-            "cacheReadTokens": 945141,
-            "cacheCreationTokens": 41019
-          },
-          "totalTokens": {
-            "inputTokens": 320,
-            "outputTokens": 87,
-            "cacheReadTokens": 945141,
-            "cacheCreationTokens": 41019
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "78c7a776-144f-4e0a-a947-4915fefcf056",
-          "title": "Implement homepage & user pages, fix routing",
-          "timestamp": "2026-02-02T02:05:40.587Z",
-          "durationMs": 274409,
-          "totalDurationMs": 332462,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 804,
-            "outputTokens": 178,
-            "cacheReadTokens": 2634189,
-            "cacheCreationTokens": 189490
-          },
-          "totalTokens": {
-            "inputTokens": 15027,
-            "outputTokens": 291,
-            "cacheReadTokens": 3664689,
-            "cacheCreationTokens": 324346
-          },
-          "subagentCount": 1
-        },
-        {
-          "id": "191ffab4-3420-42c5-996c-5e3f5ab14bb7",
-          "title": "Integrate clog-dashboard as user profile page",
-          "timestamp": "2026-02-02T01:52:44.986Z",
-          "durationMs": 390966,
-          "totalDurationMs": 390966,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 18237,
-            "outputTokens": 196,
-            "cacheReadTokens": 3000413,
-            "cacheCreationTokens": 153923
-          },
-          "totalTokens": {
-            "inputTokens": 18237,
-            "outputTokens": 196,
-            "cacheReadTokens": 3000413,
-            "cacheCreationTokens": 153923
-          },
-          "subagentCount": 0
-        }
-      ]
-    },
-    {
       "projectName": "imessage_export",
       "projectPath": "/Users/jared/imessage_export",
       "totalSessions": 10,
@@ -7101,6 +7167,42 @@
       ]
     },
     {
+      "projectName": "clogs",
+      "projectPath": "/Users/jared/Developer/tools/clogs",
+      "totalSessions": 1,
+      "totalDurationMs": 345436,
+      "totalTokens": {
+        "inputTokens": 36360,
+        "outputTokens": 119,
+        "cacheReadTokens": 3104081,
+        "cacheCreationTokens": 177750
+      },
+      "sessions": [
+        {
+          "id": "ccf8cb34-aee4-46fb-ac12-b0fdd3ef0784",
+          "title": null,
+          "timestamp": "2026-02-02T15:55:13.331Z",
+          "durationMs": 345436,
+          "totalDurationMs": 345436,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 36360,
+            "outputTokens": 119,
+            "cacheReadTokens": 3104081,
+            "cacheCreationTokens": 177750
+          },
+          "totalTokens": {
+            "inputTokens": 36360,
+            "outputTokens": 119,
+            "cacheReadTokens": 3104081,
+            "cacheCreationTokens": 177750
+          },
+          "subagentCount": 0
+        }
+      ]
+    },
+    {
       "projectName": "strange-booth",
       "projectPath": "/Users/jared/.claude-worktrees/spool/strange-booth",
       "totalSessions": 3,
@@ -7263,8 +7365,8 @@
       "durationMs": 240812752
     },
     "2026-02-02": {
-      "sessions": 42,
-      "durationMs": 12847247
+      "sessions": 49,
+      "durationMs": 18350301
     },
     "2026-01-30": {
       "sessions": 22,

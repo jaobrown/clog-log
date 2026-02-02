@@ -6,7 +6,7 @@
 ```
 SESSIONS          TOKENS            TIME
 ─────────────────────────────────────────
-1241              1852.9M           205h 38m
+1248              1877.1M           207h 9m
 total             consumed          coded
 ```
 <!-- CLOG_STATS_END -->
@@ -15,11 +15,11 @@ total             consumed          coded
 ```
 // recent
 
+2026-02-02 gaia       - untitled                                   11.8M │ 26m
+2026-02-02 gaia       - untitled                                    4.7M │ 15m
+2026-02-02 clog-web   - untitled                                    4.4M │ 44m
+2026-02-02 clogs      - untitled                                    3.3M │ 5m
 2026-02-02 clog       - untitled                                    2.4M │ 28m
-2026-02-02 gaia       - untitled                                    6.7M │ 27m
-2026-02-02 clog-web   - untitled                                   779.2k │ 1m
-2026-02-02 gaia       - Schedule 24h challenge reminder workflow    7.8M │ 21m
-2026-02-02 clog       - Fixed session duration calculation usin…   454.4k │ 3m
 ```
 <!-- CLOG_RECENT_END -->
 
