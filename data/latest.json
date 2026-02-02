@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T19:46:26.223Z",
+  "generatedAt": "2026-02-02T19:52:44.187Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1269,
-    "totalDurationMs": 752724338,
-    "totalTokens": 1894395436,
+    "totalSessions": 1271,
+    "totalDurationMs": 753042934,
+    "totalTokens": 1896806050,
     "projectCount": 13
   },
   "projects": [
@@ -6689,18 +6689,40 @@
     {
       "projectName": "clog",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog",
-      "totalSessions": 21,
-      "totalDurationMs": 7466052,
+      "totalSessions": 22,
+      "totalDurationMs": 7781330,
       "totalTokens": {
-        "inputTokens": 65555,
-        "outputTokens": 2861,
-        "cacheReadTokens": 15899045,
-        "cacheCreationTokens": 1583861
+        "inputTokens": 65941,
+        "outputTokens": 3282,
+        "cacheReadTokens": 18164391,
+        "cacheCreationTokens": 1687806
       },
       "sessions": [
         {
-          "id": "fb65aa74-de97-4851-905e-27e96c32c360",
+          "id": "3542c4df-ab5a-4570-af56-096bb001c841",
           "title": null,
+          "timestamp": "2026-02-02T19:47:12.204Z",
+          "durationMs": 315278,
+          "totalDurationMs": 315278,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 386,
+            "outputTokens": 421,
+            "cacheReadTokens": 2265346,
+            "cacheCreationTokens": 103945
+          },
+          "totalTokens": {
+            "inputTokens": 386,
+            "outputTokens": 421,
+            "cacheReadTokens": 2265346,
+            "cacheCreationTokens": 103945
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "fb65aa74-de97-4851-905e-27e96c32c360",
+          "title": "README Output with Box-Style Cards, Bar Charts",
           "timestamp": "2026-02-02T19:08:56.389Z",
           "durationMs": 2204091,
           "totalDurationMs": 2204091,
@@ -6722,7 +6744,7 @@
         },
         {
           "id": "639486b6-6c7c-48da-a619-451eb24eafa4",
-          "title": null,
+          "title": "README badges and stats visualization enhancement",
           "timestamp": "2026-02-02T18:54:15.400Z",
           "durationMs": 257062,
           "totalDurationMs": 397213,
@@ -6967,18 +6989,40 @@
     {
       "projectName": "clog-web",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
-      "totalSessions": 18,
-      "totalDurationMs": 5263868,
+      "totalSessions": 19,
+      "totalDurationMs": 5267186,
       "totalTokens": {
-        "inputTokens": 127140,
-        "outputTokens": 3103,
-        "cacheReadTokens": 18606217,
-        "cacheCreationTokens": 1763709
+        "inputTokens": 127160,
+        "outputTokens": 3115,
+        "cacheReadTokens": 18638941,
+        "cacheCreationTokens": 1771469
       },
       "sessions": [
         {
-          "id": "86a017d0-cd0a-449d-b5b9-3e74b7f898b7",
+          "id": "ba97555f-aef2-4dc0-9262-e0ce4a848c08",
           "title": null,
+          "timestamp": "2026-02-02T19:52:39.443Z",
+          "durationMs": 3318,
+          "totalDurationMs": 3318,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 20,
+            "outputTokens": 12,
+            "cacheReadTokens": 32724,
+            "cacheCreationTokens": 7760
+          },
+          "totalTokens": {
+            "inputTokens": 20,
+            "outputTokens": 12,
+            "cacheReadTokens": 32724,
+            "cacheCreationTokens": 7760
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "86a017d0-cd0a-449d-b5b9-3e74b7f898b7",
+          "title": "Fix brown color in social share card metadata",
           "timestamp": "2026-02-02T17:26:59.119Z",
           "durationMs": 355443,
           "totalDurationMs": 355443,
@@ -7629,8 +7673,8 @@
       "durationMs": 240812752
     },
     "2026-02-02": {
-      "sessions": 70,
-      "durationMs": 25279372
+      "sessions": 72,
+      "durationMs": 25597968
     },
     "2026-01-30": {
       "sessions": 22,

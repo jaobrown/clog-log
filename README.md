@@ -1,32 +1,40 @@
 # 📓 clog
 
-> [@jaobrown](https://clog.dev/u/jaobrown)'s claude code work log
+> [@jaobrown](https://clog.sh/u/jaobrown)'s claude code work log
 
-<!-- CLOG_STATS_START -->
 ```
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   1269            Tokens     1894.4M
-  Duration   209h 5m         Projects   13
+  Sessions   1271            Tokens     1896.8M
+  Duration   209h 10m        Projects   13
 
 ```
-<!-- CLOG_STATS_END -->
 
-<!-- CLOG_RECENT_START -->
+```
+TOP PROJECTS
+==================================================
+
+  spool          ####################  128h 41m
+  gaia           ###########---------   67h 39m
+  clog           #-------------------    4h 47m
+  demo-changes   --------------------    2h 24m
+  clog           --------------------     2h 9m
+
+```
+
 ```
 RECENT SESSIONS
 ==================================================
 
+  2026-02-02  clog-web    untitled                   40.5k        0m
+  2026-02-02  clog        untitled                    2.4M        5m
   2026-02-02  clogs       untitled                  179.7k        0m
   2026-02-02  clogs       untitled                    2.7M        5m
-  2026-02-02  clog        untitled                    2.1M       36m
-  2026-02-02  clog        untitled                    1.8M        6m
-  2026-02-02  clogs       Update CLI README templ…  283.3k        0m
+  2026-02-02  clog        README Output with Box-…    2.1M       36m
 
 ```
-<!-- CLOG_RECENT_END -->
 
 ---
 
-<sub>auto-synced with [clog](https://clog.dev) • [view full profile →](https://clog.dev/u/jaobrown)</sub>
+<sub>auto-synced with [clog](https://clog.sh) • [view full profile →](https://clog.sh/u/jaobrown)</sub>
