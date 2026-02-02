@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T21:27:43.861Z",
+  "generatedAt": "2026-02-02T21:39:58.185Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1293,
-    "totalDurationMs": 757870679,
-    "totalTokens": 1924581684,
+    "totalSessions": 1298,
+    "totalDurationMs": 759510811,
+    "totalTokens": 1934422626,
     "projectCount": 13
   },
   "projects": [
@@ -3215,18 +3215,40 @@
     {
       "projectName": "gaia",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 527,
-      "totalDurationMs": 246048352,
+      "totalSessions": 532,
+      "totalDurationMs": 247005380,
       "totalTokens": {
-        "inputTokens": 4841787,
-        "outputTokens": 637606,
-        "cacheReadTokens": 735120561,
-        "cacheCreationTokens": 75317993
+        "inputTokens": 5043131,
+        "outputTokens": 639661,
+        "cacheReadTokens": 742406263,
+        "cacheCreationTokens": 76470869
       },
       "sessions": [
         {
-          "id": "d43d8575-fddf-498b-94e9-f2e194554b2e",
+          "id": "1fb9dd65-1b46-4d9a-b66d-ba8b643b7415",
           "title": null,
+          "timestamp": "2026-02-02T21:32:20.399Z",
+          "durationMs": 436229,
+          "totalDurationMs": 957028,
+          "gitBranch": "jared/prod-8735-setup-scraping-workflow",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 20,
+            "outputTokens": 394,
+            "cacheReadTokens": 1328319,
+            "cacheCreationTokens": 124891
+          },
+          "totalTokens": {
+            "inputTokens": 201344,
+            "outputTokens": 2055,
+            "cacheReadTokens": 7285702,
+            "cacheCreationTokens": 1152876
+          },
+          "subagentCount": 4
+        },
+        {
+          "id": "d43d8575-fddf-498b-94e9-f2e194554b2e",
+          "title": "Scope full embed support in chat",
           "timestamp": "2026-02-02T20:39:48.167Z",
           "durationMs": 1180492,
           "totalDurationMs": 1413873,
@@ -6753,336 +6775,36 @@
       ]
     },
     {
-      "projectName": "clog",
-      "projectPath": "/Users/jared/Developer/tools/clogs/clog",
-      "totalSessions": 22,
-      "totalDurationMs": 7781330,
-      "totalTokens": {
-        "inputTokens": 65941,
-        "outputTokens": 3282,
-        "cacheReadTokens": 18164391,
-        "cacheCreationTokens": 1687806
-      },
-      "sessions": [
-        {
-          "id": "3542c4df-ab5a-4570-af56-096bb001c841",
-          "title": null,
-          "timestamp": "2026-02-02T19:47:12.204Z",
-          "durationMs": 315278,
-          "totalDurationMs": 315278,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 386,
-            "outputTokens": 421,
-            "cacheReadTokens": 2265346,
-            "cacheCreationTokens": 103945
-          },
-          "totalTokens": {
-            "inputTokens": 386,
-            "outputTokens": 421,
-            "cacheReadTokens": 2265346,
-            "cacheCreationTokens": 103945
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "fb65aa74-de97-4851-905e-27e96c32c360",
-          "title": "README Output with Box-Style Cards, Bar Charts",
-          "timestamp": "2026-02-02T19:08:56.389Z",
-          "durationMs": 2204091,
-          "totalDurationMs": 2204091,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 218,
-            "outputTokens": 321,
-            "cacheReadTokens": 1958861,
-            "cacheCreationTokens": 121737
-          },
-          "totalTokens": {
-            "inputTokens": 218,
-            "outputTokens": 321,
-            "cacheReadTokens": 1958861,
-            "cacheCreationTokens": 121737
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "639486b6-6c7c-48da-a619-451eb24eafa4",
-          "title": "README badges and stats visualization enhancement",
-          "timestamp": "2026-02-02T18:54:15.400Z",
-          "durationMs": 257062,
-          "totalDurationMs": 397213,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 18,
-            "outputTokens": 180,
-            "cacheReadTokens": 667659,
-            "cacheCreationTokens": 65055
-          },
-          "totalTokens": {
-            "inputTokens": 11275,
-            "outputTokens": 431,
-            "cacheReadTokens": 1406132,
-            "cacheCreationTokens": 339169
-          },
-          "subagentCount": 3
-        },
-        {
-          "id": "16a0b4d8-705c-46f2-85f5-b06e9261ee9a",
-          "title": "Code consistency fix: Token calculation utility",
-          "timestamp": "2026-02-02T17:54:21.492Z",
-          "durationMs": 50409,
-          "totalDurationMs": 50409,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 17,
-            "outputTokens": 47,
-            "cacheReadTokens": 229912,
-            "cacheCreationTokens": 10164
-          },
-          "totalTokens": {
-            "inputTokens": 17,
-            "outputTokens": 47,
-            "cacheReadTokens": 229912,
-            "cacheCreationTokens": 10164
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "46102d08-7c3c-4282-91c7-bac23c8c698a",
-          "title": "Audit Claude Code token usage and math logic",
-          "timestamp": "2026-02-02T17:49:53.420Z",
-          "durationMs": 238701,
-          "totalDurationMs": 328577,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 4,
-            "outputTokens": 367,
-            "cacheReadTokens": 823659,
-            "cacheCreationTokens": 86981
-          },
-          "totalTokens": {
-            "inputTokens": 24508,
-            "outputTokens": 497,
-            "cacheReadTokens": 2062645,
-            "cacheCreationTokens": 257145
-          },
-          "subagentCount": 2
-        },
-        {
-          "id": "8b8ba346-4bf8-4404-8300-e5a4e9d8ef39",
-          "title": "Prepare npm package & README for open source",
-          "timestamp": "2026-02-02T15:10:25.604Z",
-          "durationMs": 1604896,
-          "totalDurationMs": 1694947,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 4,
-            "outputTokens": 498,
-            "cacheReadTokens": 1296701,
-            "cacheCreationTokens": 53825
-          },
-          "totalTokens": {
-            "inputTokens": 16180,
-            "outputTokens": 700,
-            "cacheReadTokens": 2082947,
-            "cacheCreationTokens": 267875
-          },
-          "subagentCount": 1
-        },
-        {
-          "id": "a9937521-2087-4f95-b3b4-3755c913f2dc",
-          "title": "Fixed session duration calculation using timestamps",
-          "timestamp": "2026-02-02T02:48:49.018Z",
-          "durationMs": 181067,
-          "totalDurationMs": 181067,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 41,
-            "outputTokens": 138,
-            "cacheReadTokens": 424310,
-            "cacheCreationTokens": 29894
-          },
-          "totalTokens": {
-            "inputTokens": 41,
-            "outputTokens": 138,
-            "cacheReadTokens": 424310,
-            "cacheCreationTokens": 29894
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "c3403e95-bbfe-4d4a-932e-8cfc3d67a70f",
-          "title": "Time calculation: LLM vs wall-clock duration analysis",
-          "timestamp": "2026-02-02T02:45:04.052Z",
-          "durationMs": 218619,
-          "totalDurationMs": 266917,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 214,
-            "outputTokens": 55,
-            "cacheReadTokens": 713343,
-            "cacheCreationTokens": 82675
-          },
-          "totalTokens": {
-            "inputTokens": 3566,
-            "outputTokens": 105,
-            "cacheReadTokens": 1237492,
-            "cacheCreationTokens": 137864
-          },
-          "subagentCount": 1
-        },
-        {
-          "id": "835561f9-d642-4673-9bb2-c41210440922",
-          "title": "Add custom repository name prompt to clog init",
-          "timestamp": "2026-02-02T02:37:45.108Z",
-          "durationMs": 46419,
-          "totalDurationMs": 46419,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 23,
-            "outputTokens": 43,
-            "cacheReadTokens": 373593,
-            "cacheCreationTokens": 23277
-          },
-          "totalTokens": {
-            "inputTokens": 23,
-            "outputTokens": 43,
-            "cacheReadTokens": 373593,
-            "cacheCreationTokens": 23277
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "2d94241e-61b7-4155-88eb-589e34ae4d0d",
-          "title": "Repository Name Customization in Init Flow",
-          "timestamp": "2026-02-02T02:36:25.928Z",
-          "durationMs": 68142,
-          "totalDurationMs": 99838,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 134,
-            "outputTokens": 28,
-            "cacheReadTokens": 342475,
-            "cacheCreationTokens": 34160
-          },
-          "totalTokens": {
-            "inputTokens": 217,
-            "outputTokens": 62,
-            "cacheReadTokens": 700848,
-            "cacheCreationTokens": 79200
-          },
-          "subagentCount": 1
-        },
-        {
-          "id": "f363992e-f11f-458d-9210-f768801a484c",
-          "title": "Fix orphaned sub-agent sessions with blank titles",
-          "timestamp": "2026-02-02T02:08:56.186Z",
-          "durationMs": 1032332,
-          "totalDurationMs": 1032332,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 386,
-            "outputTokens": 239,
-            "cacheReadTokens": 2375845,
-            "cacheCreationTokens": 99973
-          },
-          "totalTokens": {
-            "inputTokens": 386,
-            "outputTokens": 239,
-            "cacheReadTokens": 2375845,
-            "cacheCreationTokens": 99973
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "72ed1d8e-dc07-467c-88ba-0c80786c0967",
-          "title": "Sub-agent sessions appear as blank titles at top level",
-          "timestamp": "2026-02-02T01:51:30.912Z",
-          "durationMs": 963987,
-          "totalDurationMs": 1001492,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 422,
-            "outputTokens": 103,
-            "cacheReadTokens": 1681166,
-            "cacheCreationTokens": 74743
-          },
-          "totalTokens": {
-            "inputTokens": 518,
-            "outputTokens": 155,
-            "cacheReadTokens": 2035836,
-            "cacheCreationTokens": 144731
-          },
-          "subagentCount": 1
-        },
-        {
-          "id": "bcd86c55-76c4-4701-bfe3-057abe714ae3",
-          "title": "README stats dashboard with CLI sync",
-          "timestamp": "2026-02-02T01:25:53.830Z",
-          "durationMs": 162750,
-          "totalDurationMs": 162750,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 8606,
-            "outputTokens": 123,
-            "cacheReadTokens": 1010624,
-            "cacheCreationTokens": 72832
-          },
-          "totalTokens": {
-            "inputTokens": 8606,
-            "outputTokens": 123,
-            "cacheReadTokens": 1010624,
-            "cacheCreationTokens": 72832
-          },
-          "subagentCount": 0
-        }
-      ]
-    },
-    {
       "projectName": "clog-web",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
       "totalSessions": 31,
-      "totalDurationMs": 7638400,
+      "totalDurationMs": 8321504,
       "totalTokens": {
-        "inputTokens": 215292,
-        "outputTokens": 5763,
-        "cacheReadTokens": 28176457,
-        "cacheCreationTokens": 3051156
+        "inputTokens": 215395,
+        "outputTokens": 5871,
+        "cacheReadTokens": 29162727,
+        "cacheCreationTokens": 3263640
       },
       "sessions": [
         {
           "id": "3496c628-e1ae-49c7-bf1c-8ebf1e8d2ee6",
           "title": null,
           "timestamp": "2026-02-02T21:27:41.662Z",
-          "durationMs": 1,
-          "totalDurationMs": 1,
+          "durationMs": 683105,
+          "totalDurationMs": 683105,
           "gitBranch": "main",
-          "model": null,
+          "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 0,
-            "outputTokens": 0,
-            "cacheReadTokens": 0,
-            "cacheCreationTokens": 0
+            "inputTokens": 103,
+            "outputTokens": 108,
+            "cacheReadTokens": 986270,
+            "cacheCreationTokens": 212484
           },
           "totalTokens": {
-            "inputTokens": 0,
-            "outputTokens": 0,
-            "cacheReadTokens": 0,
-            "cacheCreationTokens": 0
+            "inputTokens": 103,
+            "outputTokens": 108,
+            "cacheReadTokens": 986270,
+            "cacheCreationTokens": 212484
           },
           "subagentCount": 0
         },
@@ -7413,6 +7135,306 @@
             "outputTokens": 196,
             "cacheReadTokens": 3000413,
             "cacheCreationTokens": 153923
+          },
+          "subagentCount": 0
+        }
+      ]
+    },
+    {
+      "projectName": "clog",
+      "projectPath": "/Users/jared/Developer/tools/clogs/clog",
+      "totalSessions": 22,
+      "totalDurationMs": 7781330,
+      "totalTokens": {
+        "inputTokens": 65941,
+        "outputTokens": 3282,
+        "cacheReadTokens": 18164391,
+        "cacheCreationTokens": 1687806
+      },
+      "sessions": [
+        {
+          "id": "3542c4df-ab5a-4570-af56-096bb001c841",
+          "title": null,
+          "timestamp": "2026-02-02T19:47:12.204Z",
+          "durationMs": 315278,
+          "totalDurationMs": 315278,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 386,
+            "outputTokens": 421,
+            "cacheReadTokens": 2265346,
+            "cacheCreationTokens": 103945
+          },
+          "totalTokens": {
+            "inputTokens": 386,
+            "outputTokens": 421,
+            "cacheReadTokens": 2265346,
+            "cacheCreationTokens": 103945
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "fb65aa74-de97-4851-905e-27e96c32c360",
+          "title": "README Output with Box-Style Cards, Bar Charts",
+          "timestamp": "2026-02-02T19:08:56.389Z",
+          "durationMs": 2204091,
+          "totalDurationMs": 2204091,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 218,
+            "outputTokens": 321,
+            "cacheReadTokens": 1958861,
+            "cacheCreationTokens": 121737
+          },
+          "totalTokens": {
+            "inputTokens": 218,
+            "outputTokens": 321,
+            "cacheReadTokens": 1958861,
+            "cacheCreationTokens": 121737
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "639486b6-6c7c-48da-a619-451eb24eafa4",
+          "title": "README badges and stats visualization enhancement",
+          "timestamp": "2026-02-02T18:54:15.400Z",
+          "durationMs": 257062,
+          "totalDurationMs": 397213,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 18,
+            "outputTokens": 180,
+            "cacheReadTokens": 667659,
+            "cacheCreationTokens": 65055
+          },
+          "totalTokens": {
+            "inputTokens": 11275,
+            "outputTokens": 431,
+            "cacheReadTokens": 1406132,
+            "cacheCreationTokens": 339169
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "16a0b4d8-705c-46f2-85f5-b06e9261ee9a",
+          "title": "Code consistency fix: Token calculation utility",
+          "timestamp": "2026-02-02T17:54:21.492Z",
+          "durationMs": 50409,
+          "totalDurationMs": 50409,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 17,
+            "outputTokens": 47,
+            "cacheReadTokens": 229912,
+            "cacheCreationTokens": 10164
+          },
+          "totalTokens": {
+            "inputTokens": 17,
+            "outputTokens": 47,
+            "cacheReadTokens": 229912,
+            "cacheCreationTokens": 10164
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "46102d08-7c3c-4282-91c7-bac23c8c698a",
+          "title": "Audit Claude Code token usage and math logic",
+          "timestamp": "2026-02-02T17:49:53.420Z",
+          "durationMs": 238701,
+          "totalDurationMs": 328577,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 4,
+            "outputTokens": 367,
+            "cacheReadTokens": 823659,
+            "cacheCreationTokens": 86981
+          },
+          "totalTokens": {
+            "inputTokens": 24508,
+            "outputTokens": 497,
+            "cacheReadTokens": 2062645,
+            "cacheCreationTokens": 257145
+          },
+          "subagentCount": 2
+        },
+        {
+          "id": "8b8ba346-4bf8-4404-8300-e5a4e9d8ef39",
+          "title": "Prepare npm package & README for open source",
+          "timestamp": "2026-02-02T15:10:25.604Z",
+          "durationMs": 1604896,
+          "totalDurationMs": 1694947,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 4,
+            "outputTokens": 498,
+            "cacheReadTokens": 1296701,
+            "cacheCreationTokens": 53825
+          },
+          "totalTokens": {
+            "inputTokens": 16180,
+            "outputTokens": 700,
+            "cacheReadTokens": 2082947,
+            "cacheCreationTokens": 267875
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "a9937521-2087-4f95-b3b4-3755c913f2dc",
+          "title": "Fixed session duration calculation using timestamps",
+          "timestamp": "2026-02-02T02:48:49.018Z",
+          "durationMs": 181067,
+          "totalDurationMs": 181067,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 41,
+            "outputTokens": 138,
+            "cacheReadTokens": 424310,
+            "cacheCreationTokens": 29894
+          },
+          "totalTokens": {
+            "inputTokens": 41,
+            "outputTokens": 138,
+            "cacheReadTokens": 424310,
+            "cacheCreationTokens": 29894
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "c3403e95-bbfe-4d4a-932e-8cfc3d67a70f",
+          "title": "Time calculation: LLM vs wall-clock duration analysis",
+          "timestamp": "2026-02-02T02:45:04.052Z",
+          "durationMs": 218619,
+          "totalDurationMs": 266917,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 214,
+            "outputTokens": 55,
+            "cacheReadTokens": 713343,
+            "cacheCreationTokens": 82675
+          },
+          "totalTokens": {
+            "inputTokens": 3566,
+            "outputTokens": 105,
+            "cacheReadTokens": 1237492,
+            "cacheCreationTokens": 137864
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "835561f9-d642-4673-9bb2-c41210440922",
+          "title": "Add custom repository name prompt to clog init",
+          "timestamp": "2026-02-02T02:37:45.108Z",
+          "durationMs": 46419,
+          "totalDurationMs": 46419,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 23,
+            "outputTokens": 43,
+            "cacheReadTokens": 373593,
+            "cacheCreationTokens": 23277
+          },
+          "totalTokens": {
+            "inputTokens": 23,
+            "outputTokens": 43,
+            "cacheReadTokens": 373593,
+            "cacheCreationTokens": 23277
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "2d94241e-61b7-4155-88eb-589e34ae4d0d",
+          "title": "Repository Name Customization in Init Flow",
+          "timestamp": "2026-02-02T02:36:25.928Z",
+          "durationMs": 68142,
+          "totalDurationMs": 99838,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 134,
+            "outputTokens": 28,
+            "cacheReadTokens": 342475,
+            "cacheCreationTokens": 34160
+          },
+          "totalTokens": {
+            "inputTokens": 217,
+            "outputTokens": 62,
+            "cacheReadTokens": 700848,
+            "cacheCreationTokens": 79200
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "f363992e-f11f-458d-9210-f768801a484c",
+          "title": "Fix orphaned sub-agent sessions with blank titles",
+          "timestamp": "2026-02-02T02:08:56.186Z",
+          "durationMs": 1032332,
+          "totalDurationMs": 1032332,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 386,
+            "outputTokens": 239,
+            "cacheReadTokens": 2375845,
+            "cacheCreationTokens": 99973
+          },
+          "totalTokens": {
+            "inputTokens": 386,
+            "outputTokens": 239,
+            "cacheReadTokens": 2375845,
+            "cacheCreationTokens": 99973
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "72ed1d8e-dc07-467c-88ba-0c80786c0967",
+          "title": "Sub-agent sessions appear as blank titles at top level",
+          "timestamp": "2026-02-02T01:51:30.912Z",
+          "durationMs": 963987,
+          "totalDurationMs": 1001492,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 422,
+            "outputTokens": 103,
+            "cacheReadTokens": 1681166,
+            "cacheCreationTokens": 74743
+          },
+          "totalTokens": {
+            "inputTokens": 518,
+            "outputTokens": 155,
+            "cacheReadTokens": 2035836,
+            "cacheCreationTokens": 144731
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "bcd86c55-76c4-4701-bfe3-057abe714ae3",
+          "title": "README stats dashboard with CLI sync",
+          "timestamp": "2026-02-02T01:25:53.830Z",
+          "durationMs": 162750,
+          "totalDurationMs": 162750,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 8606,
+            "outputTokens": 123,
+            "cacheReadTokens": 1010624,
+            "cacheCreationTokens": 72832
+          },
+          "totalTokens": {
+            "inputTokens": 8606,
+            "outputTokens": 123,
+            "cacheReadTokens": 1010624,
+            "cacheCreationTokens": 72832
           },
           "subagentCount": 0
         }
@@ -7871,8 +7893,8 @@
       "durationMs": 240812752
     },
     "2026-02-02": {
-      "sessions": 94,
-      "durationMs": 30425713
+      "sessions": 99,
+      "durationMs": 32065845
     },
     "2026-01-30": {
       "sessions": 22,
