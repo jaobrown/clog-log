@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T21:39:58.185Z",
+  "generatedAt": "2026-02-02T21:45:44.084Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1298,
-    "totalDurationMs": 759510811,
-    "totalTokens": 1934422626,
+    "totalSessions": 1299,
+    "totalDurationMs": 759827457,
+    "totalTokens": 1935690756,
     "projectCount": 13
   },
   "projects": [
@@ -3215,34 +3215,56 @@
     {
       "projectName": "gaia",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 532,
-      "totalDurationMs": 247005380,
+      "totalSessions": 533,
+      "totalDurationMs": 247322026,
       "totalTokens": {
-        "inputTokens": 5043131,
-        "outputTokens": 639661,
-        "cacheReadTokens": 742406263,
-        "cacheCreationTokens": 76470869
+        "inputTokens": 5046078,
+        "outputTokens": 639894,
+        "cacheReadTokens": 743633174,
+        "cacheCreationTokens": 76508908
       },
       "sessions": [
+        {
+          "id": "399d07b8-6dc6-4ebc-a3f8-2bfbf5fca315",
+          "title": null,
+          "timestamp": "2026-02-02T21:45:38.490Z",
+          "durationMs": 4586,
+          "totalDurationMs": 4586,
+          "gitBranch": "jared/prod-8735-setup-scraping-workflow",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 15,
+            "outputTokens": 20,
+            "cacheReadTokens": 140925,
+            "cacheCreationTokens": 7380
+          },
+          "totalTokens": {
+            "inputTokens": 15,
+            "outputTokens": 20,
+            "cacheReadTokens": 140925,
+            "cacheCreationTokens": 7380
+          },
+          "subagentCount": 0
+        },
         {
           "id": "1fb9dd65-1b46-4d9a-b66d-ba8b643b7415",
           "title": null,
           "timestamp": "2026-02-02T21:32:20.399Z",
-          "durationMs": 436229,
-          "totalDurationMs": 957028,
+          "durationMs": 695886,
+          "totalDurationMs": 1269088,
           "gitBranch": "jared/prod-8735-setup-scraping-workflow",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
             "inputTokens": 20,
-            "outputTokens": 394,
-            "cacheReadTokens": 1328319,
-            "cacheCreationTokens": 124891
+            "outputTokens": 604,
+            "cacheReadTokens": 2342936,
+            "cacheCreationTokens": 153516
           },
           "totalTokens": {
-            "inputTokens": 201344,
-            "outputTokens": 2055,
-            "cacheReadTokens": 7285702,
-            "cacheCreationTokens": 1152876
+            "inputTokens": 204276,
+            "outputTokens": 2268,
+            "cacheReadTokens": 8371688,
+            "cacheCreationTokens": 1183535
           },
           "subagentCount": 4
         },
@@ -7893,8 +7915,8 @@
       "durationMs": 240812752
     },
     "2026-02-02": {
-      "sessions": 99,
-      "durationMs": 32065845
+      "sessions": 100,
+      "durationMs": 32382491
     },
     "2026-01-30": {
       "sessions": 22,
