@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T19:57:05.476Z",
+  "generatedAt": "2026-02-02T20:05:29.494Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1273,
-    "totalDurationMs": 753203391,
-    "totalTokens": 1897955342,
+    "totalSessions": 1280,
+    "totalDurationMs": 753461780,
+    "totalTokens": 1900818453,
     "projectCount": 13
   },
   "projects": [
@@ -3215,18 +3215,40 @@
     {
       "projectName": "gaia",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 517,
-      "totalDurationMs": 243591821,
+      "totalSessions": 521,
+      "totalDurationMs": 243674702,
       "totalTokens": {
-        "inputTokens": 4540526,
-        "outputTokens": 636287,
-        "cacheReadTokens": 721146730,
-        "cacheCreationTokens": 72726753
+        "inputTokens": 4563365,
+        "outputTokens": 636397,
+        "cacheReadTokens": 722000821,
+        "cacheCreationTokens": 73310671
       },
       "sessions": [
         {
-          "id": "3739f6af-f7e2-4c7e-beee-30e8a96fdd81",
+          "id": "76fb3e9e-a021-4093-8a61-b09103dafe9e",
           "title": null,
+          "timestamp": "2026-02-02T20:04:58.135Z",
+          "durationMs": 30760,
+          "totalDurationMs": 82881,
+          "gitBranch": "jared/prod-8732-fix-chat-bubble-styles",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 50,
+            "outputTokens": 5,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 148975
+          },
+          "totalTokens": {
+            "inputTokens": 22839,
+            "outputTokens": 110,
+            "cacheReadTokens": 854091,
+            "cacheCreationTokens": 583918
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "3739f6af-f7e2-4c7e-beee-30e8a96fdd81",
+          "title": "Fixed nested ChatContext state desync issue",
           "timestamp": "2026-02-02T17:51:58.904Z",
           "durationMs": 314942,
           "totalDurationMs": 314942,
@@ -6989,18 +7011,62 @@
     {
       "projectName": "clog-web",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog-web",
-      "totalSessions": 21,
-      "totalDurationMs": 5427643,
+      "totalSessions": 24,
+      "totalDurationMs": 5603151,
       "totalTokens": {
-        "inputTokens": 128337,
-        "outputTokens": 3213,
-        "cacheReadTokens": 19667708,
-        "cacheCreationTokens": 1890719
+        "inputTokens": 128606,
+        "outputTokens": 3411,
+        "cacheReadTokens": 20942395,
+        "cacheCreationTokens": 2017718
       },
       "sessions": [
         {
-          "id": "e0691db3-75e0-48ed-a8da-8f653f11323a",
+          "id": "2162d697-8908-4724-99de-2c788db556c4",
           "title": null,
+          "timestamp": "2026-02-02T20:05:27.271Z",
+          "durationMs": 2,
+          "totalDurationMs": 2,
+          "gitBranch": "main",
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "983ad7bc-da52-47c0-be01-73c32f0a70fa",
+          "title": null,
+          "timestamp": "2026-02-02T20:02:41.653Z",
+          "durationMs": 132622,
+          "totalDurationMs": 175506,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 204,
+            "outputTokens": 54,
+            "cacheReadTokens": 607288,
+            "cacheCreationTokens": 58878
+          },
+          "totalTokens": {
+            "inputTokens": 269,
+            "outputTokens": 198,
+            "cacheReadTokens": 1274687,
+            "cacheCreationTokens": 126999
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "e0691db3-75e0-48ed-a8da-8f653f11323a",
+          "title": "Fix timezone inconsistency in week calculation",
           "timestamp": "2026-02-02T19:54:49.768Z",
           "durationMs": 57376,
           "totalDurationMs": 57376,
@@ -7022,7 +7088,7 @@
         },
         {
           "id": "ba97555f-aef2-4dc0-9262-e0ce4a848c08",
-          "title": null,
+          "title": "Inconsistent \"This Week\" Timezone Handling in Leaderboard",
           "timestamp": "2026-02-02T19:52:39.443Z",
           "durationMs": 66606,
           "totalDurationMs": 106399,
@@ -7695,8 +7761,8 @@
       "durationMs": 240812752
     },
     "2026-02-02": {
-      "sessions": 74,
-      "durationMs": 25758425
+      "sessions": 81,
+      "durationMs": 26016814
     },
     "2026-01-30": {
       "sessions": 22,

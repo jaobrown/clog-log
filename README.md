@@ -6,8 +6,8 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   1273            Tokens     1898.0M
-  Duration   209h 13m        Projects   13
+  Sessions   1280            Tokens     1900.8M
+  Duration   209h 17m        Projects   13
 
 ```
 
@@ -16,7 +16,7 @@ TOP PROJECTS
 ==================================================
 
   spool          ####################  128h 41m
-  gaia           ###########---------   67h 39m
+  gaia           ###########---------   67h 41m
   clog           #-------------------    4h 47m
   demo-changes   --------------------    2h 24m
   clog           --------------------     2h 9m
@@ -27,11 +27,11 @@ TOP PROJECTS
 RECENT SESSIONS
 ==================================================
 
-  2026-02-02  clog-web    untitled                  235.2k        0m
-  2026-02-02  clog-web    untitled                  954.6k        1m
-  2026-02-02  clog        untitled                    2.4M        5m
-  2026-02-02  clogs       untitled                  179.7k        0m
-  2026-02-02  clogs       untitled                    2.7M        5m
+  2026-02-02  clog-web    untitled                       0        0m
+  2026-02-02  gaia        untitled                    1.5M        1m
+  2026-02-02  clog-web    untitled                    1.4M        2m
+  2026-02-02  clog-web    Fix timezone inconsiste…  235.2k        0m
+  2026-02-02  clog-web    Inconsistent "This Week…  954.6k        1m
 
 ```
 
