@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-03T01:42:09.372Z",
+  "generatedAt": "2026-02-03T01:56:38.753Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1188,
-    "totalDurationMs": 753971527,
-    "totalTokens": 1898527188,
+    "totalSessions": 1192,
+    "totalDurationMs": 754331128,
+    "totalTokens": 1901381275,
     "projectCount": 13
   },
   "projects": [
@@ -9762,62 +9762,78 @@
       ]
     },
     {
-      "projectName": "relaxed-feistel",
-      "projectPath": "/Users/jared/.claude-worktrees/gaia/relaxed-feistel",
-      "totalSessions": 3,
-      "totalDurationMs": 557760,
+      "projectName": "clogs",
+      "projectPath": "/Users/jared/Developer/tools/clogs",
+      "totalSessions": 6,
+      "totalDurationMs": 722577,
       "totalTokens": {
-        "inputTokens": 26593,
-        "outputTokens": 531,
-        "cacheReadTokens": 6623658,
-        "cacheCreationTokens": 912205
+        "inputTokens": 43774,
+        "outputTokens": 396,
+        "cacheReadTokens": 5700816,
+        "cacheCreationTokens": 710729
       },
       "sessions": [
         {
-          "id": "8e15155b-6196-49ef-86fa-2f77ff5ebdda",
-          "title": null,
-          "timestamp": "2026-01-22T16:48:41.661Z",
-          "durationMs": 441910,
-          "totalDurationMs": 557760,
-          "gitBranch": "relaxed-feistel",
+          "id": "a53f4181-a0c5-4d1a-b2cf-817ada6fa998",
+          "title": "CLI Web App Duration Field Sync Fix",
+          "timestamp": "2026-02-02T19:37:35.420Z",
+          "durationMs": 17323,
+          "totalDurationMs": 17323,
+          "gitBranch": null,
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 5930,
-            "outputTokens": 364,
-            "cacheReadTokens": 3313460,
-            "cacheCreationTokens": 250532
+            "inputTokens": 12,
+            "outputTokens": 18,
+            "cacheReadTokens": 166097,
+            "cacheCreationTokens": 13605
           },
           "totalTokens": {
-            "inputTokens": 26593,
-            "outputTokens": 531,
-            "cacheReadTokens": 6623658,
-            "cacheCreationTokens": 912205
+            "inputTokens": 12,
+            "outputTokens": 18,
+            "cacheReadTokens": 166097,
+            "cacheCreationTokens": 13605
+          },
+          "subagentCount": 0,
+          "toolUsage": {
+            "Read": 2,
+            "Edit": 2
+          },
+          "messageCount": 5
+        },
+        {
+          "id": "08ca16e0-df5a-4518-955e-ea19443b2b8b",
+          "title": "Data sync audit: CLI, Convex, web app",
+          "timestamp": "2026-02-02T19:15:47.608Z",
+          "durationMs": 281051,
+          "totalDurationMs": 342278,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 518,
+            "outputTokens": 103,
+            "cacheReadTokens": 1364203,
+            "cacheCreationTokens": 192817
+          },
+          "totalTokens": {
+            "inputTokens": 758,
+            "outputTokens": 227,
+            "cacheReadTokens": 2188904,
+            "cacheCreationTokens": 484466
           },
           "subagentCount": 2,
           "toolUsage": {
+            "TaskCreate": 4,
+            "TaskUpdate": 4,
             "Task": 2,
-            "Read": 39,
-            "Grep": 18,
-            "Glob": 21,
-            "Bash": 10,
+            "Read": 36,
+            "Grep": 4,
             "Write": 1,
-            "ExitPlanMode": 1
-          }
-        }
-      ]
-    },
-    {
-      "projectName": "clogs",
-      "projectPath": "/Users/jared/Developer/tools/clogs",
-      "totalSessions": 2,
-      "totalDurationMs": 362976,
-      "totalTokens": {
-        "inputTokens": 43004,
-        "outputTokens": 151,
-        "cacheReadTokens": 3345815,
-        "cacheCreationTokens": 212658
-      },
-      "sessions": [
+            "AskUserQuestion": 1,
+            "ExitPlanMode": 1,
+            "Bash": 8
+          },
+          "messageCount": 13
+        },
         {
           "id": "a445a6cf-44ff-4435-825e-59ec5d21f056",
           "title": "Update CLI README template links to clog.sh",
@@ -9876,6 +9892,51 @@
             "AskUserQuestion": 1
           },
           "messageCount": 13
+        }
+      ]
+    },
+    {
+      "projectName": "relaxed-feistel",
+      "projectPath": "/Users/jared/.claude-worktrees/gaia/relaxed-feistel",
+      "totalSessions": 3,
+      "totalDurationMs": 557760,
+      "totalTokens": {
+        "inputTokens": 26593,
+        "outputTokens": 531,
+        "cacheReadTokens": 6623658,
+        "cacheCreationTokens": 912205
+      },
+      "sessions": [
+        {
+          "id": "8e15155b-6196-49ef-86fa-2f77ff5ebdda",
+          "title": null,
+          "timestamp": "2026-01-22T16:48:41.661Z",
+          "durationMs": 441910,
+          "totalDurationMs": 557760,
+          "gitBranch": "relaxed-feistel",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 5930,
+            "outputTokens": 364,
+            "cacheReadTokens": 3313460,
+            "cacheCreationTokens": 250532
+          },
+          "totalTokens": {
+            "inputTokens": 26593,
+            "outputTokens": 531,
+            "cacheReadTokens": 6623658,
+            "cacheCreationTokens": 912205
+          },
+          "subagentCount": 2,
+          "toolUsage": {
+            "Task": 2,
+            "Read": 39,
+            "Grep": 18,
+            "Glob": 21,
+            "Bash": 10,
+            "Write": 1,
+            "ExitPlanMode": 1
+          }
         }
       ]
     },
@@ -10052,8 +10113,8 @@
       "durationMs": 240812752
     },
     "2026-02-02": {
-      "sessions": 79,
-      "durationMs": 27921654
+      "sessions": 83,
+      "durationMs": 28281255
     },
     "2026-01-30": {
       "sessions": 21,
