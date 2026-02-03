@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-03T01:09:41.773Z",
+  "generatedAt": "2026-02-03T01:19:35.210Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1305,
-    "totalDurationMs": 761536300,
-    "totalTokens": 1946889740,
+    "totalSessions": 1310,
+    "totalDurationMs": 762292415,
+    "totalTokens": 1952973581,
     "projectCount": 13
   },
   "projects": [
@@ -6565,18 +6565,62 @@
     {
       "projectName": "clog",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog",
-      "totalSessions": 28,
-      "totalDurationMs": 8746099,
+      "totalSessions": 33,
+      "totalDurationMs": 9502214,
       "totalTokens": {
-        "inputTokens": 181904,
-        "outputTokens": 3656,
-        "cacheReadTokens": 22322079,
-        "cacheCreationTokens": 2384785
+        "inputTokens": 244025,
+        "outputTokens": 4596,
+        "cacheReadTokens": 27840732,
+        "cacheCreationTokens": 2886912
       },
       "sessions": [
         {
-          "id": "2ed6000d-a4f4-400d-8819-f770f83328fa",
+          "id": "7effafdf-9082-4f8f-b082-56eea59a43cb",
           "title": null,
+          "timestamp": "2026-02-03T01:19:33.897Z",
+          "durationMs": 3,
+          "totalDurationMs": 3,
+          "gitBranch": "main",
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "7f0a99b1-ae70-4b89-8ece-fd66606ca0ae",
+          "title": null,
+          "timestamp": "2026-02-03T01:09:58.991Z",
+          "durationMs": 457723,
+          "totalDurationMs": 756112,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 24960,
+            "outputTokens": 363,
+            "cacheReadTokens": 2787837,
+            "cacheCreationTokens": 161200
+          },
+          "totalTokens": {
+            "inputTokens": 62121,
+            "outputTokens": 940,
+            "cacheReadTokens": 5518653,
+            "cacheCreationTokens": 502127
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "2ed6000d-a4f4-400d-8819-f770f83328fa",
+          "title": "Claude leaderboard data assembly from .claude sessions",
           "timestamp": "2026-02-03T01:08:16.582Z",
           "durationMs": 83079,
           "totalDurationMs": 192033,
@@ -7983,8 +8027,8 @@
       "durationMs": 55669970
     },
     "2026-02-03": {
-      "sessions": 6,
-      "durationMs": 964769
+      "sessions": 11,
+      "durationMs": 1720884
     }
   }
 }
