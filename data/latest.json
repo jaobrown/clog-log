@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-03T00:56:07.700Z",
+  "generatedAt": "2026-02-03T01:09:41.773Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1302,
-    "totalDurationMs": 761344267,
-    "totalTokens": 1946138883,
+    "totalSessions": 1305,
+    "totalDurationMs": 761536300,
+    "totalTokens": 1946889740,
     "projectCount": 13
   },
   "projects": [
@@ -6563,254 +6563,42 @@
       ]
     },
     {
-      "projectName": "demo-changes",
-      "projectPath": "/Users/jared/Developer/tools/demo-changes",
-      "totalSessions": 33,
-      "totalDurationMs": 8667176,
-      "totalTokens": {
-        "inputTokens": 321554,
-        "outputTokens": 9285,
-        "cacheReadTokens": 56554668,
-        "cacheCreationTokens": 5949834
-      },
-      "sessions": [
-        {
-          "id": "59720ce2-a7af-49c2-862f-31bee16cd624",
-          "title": null,
-          "timestamp": "2026-01-26T22:37:32.411Z",
-          "durationMs": 1209274,
-          "totalDurationMs": 1895427,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 760,
-            "outputTokens": 649,
-            "cacheReadTokens": 8202004,
-            "cacheCreationTokens": 562610
-          },
-          "totalTokens": {
-            "inputTokens": 91008,
-            "outputTokens": 2001,
-            "cacheReadTokens": 10805262,
-            "cacheCreationTokens": 1571341
-          },
-          "subagentCount": 7
-        },
-        {
-          "id": "24d20702-20c0-4f08-b49e-9ab3f91fee46",
-          "title": "Monorepo Playwright Detection: CLI Flags Over Auto-Detection",
-          "timestamp": "2026-01-26T22:21:39.882Z",
-          "durationMs": 865584,
-          "totalDurationMs": 921311,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 5052,
-            "outputTokens": 858,
-            "cacheReadTokens": 3850192,
-            "cacheCreationTokens": 121615
-          },
-          "totalTokens": {
-            "inputTokens": 8696,
-            "outputTokens": 901,
-            "cacheReadTokens": 3980485,
-            "cacheCreationTokens": 198225
-          },
-          "subagentCount": 1
-        },
-        {
-          "id": "7931d0f6-9db5-466c-8157-da9878c4cc71",
-          "title": "Codebase cleanup for open source release",
-          "timestamp": "2026-01-26T22:09:58.774Z",
-          "durationMs": 451892,
-          "totalDurationMs": 781875,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 35899,
-            "outputTokens": 863,
-            "cacheReadTokens": 5941961,
-            "cacheCreationTokens": 292570
-          },
-          "totalTokens": {
-            "inputTokens": 55190,
-            "outputTokens": 1352,
-            "cacheReadTokens": 7903682,
-            "cacheCreationTokens": 929072
-          },
-          "subagentCount": 4
-        },
-        {
-          "id": "52354f5e-25b8-4470-a385-6c9ff35a6bda",
-          "title": "Fix demo skill video recording with Bash CLI",
-          "timestamp": "2026-01-26T22:02:45.191Z",
-          "durationMs": 361963,
-          "totalDurationMs": 361963,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 16213,
-            "outputTokens": 717,
-            "cacheReadTokens": 2792847,
-            "cacheCreationTokens": 159808
-          },
-          "totalTokens": {
-            "inputTokens": 16213,
-            "outputTokens": 717,
-            "cacheReadTokens": 2792847,
-            "cacheCreationTokens": 159808
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "1e7e8fd1-d3d6-4b06-91f3-afdba6bc2931",
-          "title": "Simplify Skill: Let Claude Generate Tests & Narration",
-          "timestamp": "2026-01-26T16:02:44.318Z",
-          "durationMs": 928838,
-          "totalDurationMs": 928838,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 69316,
-            "outputTokens": 377,
-            "cacheReadTokens": 6304012,
-            "cacheCreationTokens": 759469
-          },
-          "totalTokens": {
-            "inputTokens": 69316,
-            "outputTokens": 377,
-            "cacheReadTokens": 6304012,
-            "cacheCreationTokens": 759469
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "49eb0313-5342-46d8-a43d-6ae9ce807455",
-          "title": "Claude Code: Simplify test generation with AI",
-          "timestamp": "2026-01-26T16:02:44.318Z",
-          "durationMs": 693458,
-          "totalDurationMs": 693458,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 5114,
-            "outputTokens": 234,
-            "cacheReadTokens": 2864028,
-            "cacheCreationTokens": 423644
-          },
-          "totalTokens": {
-            "inputTokens": 5114,
-            "outputTokens": 234,
-            "cacheReadTokens": 2864028,
-            "cacheCreationTokens": 423644
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "e62d2f3f-30f6-42c3-afa2-5e81343891c3",
-          "title": "Video Recording Fix Custom Fixtures",
-          "timestamp": "2026-01-26T15:50:12.005Z",
-          "durationMs": 632904,
-          "totalDurationMs": 1043942,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 31064,
-            "outputTokens": 1025,
-            "cacheReadTokens": 6840642,
-            "cacheCreationTokens": 391339
-          },
-          "totalTokens": {
-            "inputTokens": 64902,
-            "outputTokens": 1457,
-            "cacheReadTokens": 7903987,
-            "cacheCreationTokens": 953997
-          },
-          "subagentCount": 5
-        },
-        {
-          "id": "efaaf539-514f-43e1-9921-bbcd2741de3b",
-          "title": "Playwright Integration for Existing Test Environments",
-          "timestamp": "2026-01-26T14:37:31.919Z",
-          "durationMs": 1524278,
-          "totalDurationMs": 2001104,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 5730,
-            "outputTokens": 1359,
-            "cacheReadTokens": 12548301,
-            "cacheCreationTokens": 268414
-          },
-          "totalTokens": {
-            "inputTokens": 11006,
-            "outputTokens": 2210,
-            "cacheReadTokens": 13791029,
-            "cacheCreationTokens": 909314
-          },
-          "subagentCount": 6
-        },
-        {
-          "id": "ddc96e6d-b6c7-446c-b10e-a63d285fb180",
-          "title": "Update README installation command to npx",
-          "timestamp": "2026-01-26T14:28:03.756Z",
-          "durationMs": 20026,
-          "totalDurationMs": 20026,
-          "gitBranch": "main",
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 68,
-            "outputTokens": 22,
-            "cacheReadTokens": 139848,
-            "cacheCreationTokens": 20324
-          },
-          "totalTokens": {
-            "inputTokens": 68,
-            "outputTokens": 22,
-            "cacheReadTokens": 139848,
-            "cacheCreationTokens": 20324
-          },
-          "subagentCount": 0
-        },
-        {
-          "id": "46a9e03b-6914-43d6-816c-fe8ecb448364",
-          "title": "Git Lock File Removal Resolved",
-          "timestamp": "2026-01-26T14:19:25.999Z",
-          "durationMs": 19232,
-          "totalDurationMs": 19232,
-          "gitBranch": null,
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 41,
-            "outputTokens": 14,
-            "cacheReadTokens": 69488,
-            "cacheCreationTokens": 24640
-          },
-          "totalTokens": {
-            "inputTokens": 41,
-            "outputTokens": 14,
-            "cacheReadTokens": 69488,
-            "cacheCreationTokens": 24640
-          },
-          "subagentCount": 0
-        }
-      ]
-    },
-    {
       "projectName": "clog",
       "projectPath": "/Users/jared/Developer/tools/clogs/clog",
-      "totalSessions": 25,
-      "totalDurationMs": 8554066,
+      "totalSessions": 28,
+      "totalDurationMs": 8746099,
       "totalTokens": {
-        "inputTokens": 181762,
-        "outputTokens": 3485,
-        "cacheReadTokens": 21664133,
-        "cacheCreationTokens": 2292187
+        "inputTokens": 181904,
+        "outputTokens": 3656,
+        "cacheReadTokens": 22322079,
+        "cacheCreationTokens": 2384785
       },
       "sessions": [
         {
-          "id": "d2d6eaad-2a6f-4efa-b373-f62b79ef3ade",
+          "id": "2ed6000d-a4f4-400d-8819-f770f83328fa",
           "title": null,
+          "timestamp": "2026-02-03T01:08:16.582Z",
+          "durationMs": 83079,
+          "totalDurationMs": 192033,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 8,
+            "outputTokens": 90,
+            "cacheReadTokens": 135125,
+            "cacheCreationTokens": 12635
+          },
+          "totalTokens": {
+            "inputTokens": 142,
+            "outputTokens": 171,
+            "cacheReadTokens": 657946,
+            "cacheCreationTokens": 92598
+          },
+          "subagentCount": 2
+        },
+        {
+          "id": "d2d6eaad-2a6f-4efa-b373-f62b79ef3ade",
+          "title": "Sessions-index.json fallback for missing titles",
           "timestamp": "2026-02-03T00:46:15.784Z",
           "durationMs": 590311,
           "totalDurationMs": 772736,
@@ -7113,6 +6901,240 @@
             "outputTokens": 123,
             "cacheReadTokens": 1010624,
             "cacheCreationTokens": 72832
+          },
+          "subagentCount": 0
+        }
+      ]
+    },
+    {
+      "projectName": "demo-changes",
+      "projectPath": "/Users/jared/Developer/tools/demo-changes",
+      "totalSessions": 33,
+      "totalDurationMs": 8667176,
+      "totalTokens": {
+        "inputTokens": 321554,
+        "outputTokens": 9285,
+        "cacheReadTokens": 56554668,
+        "cacheCreationTokens": 5949834
+      },
+      "sessions": [
+        {
+          "id": "59720ce2-a7af-49c2-862f-31bee16cd624",
+          "title": null,
+          "timestamp": "2026-01-26T22:37:32.411Z",
+          "durationMs": 1209274,
+          "totalDurationMs": 1895427,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 760,
+            "outputTokens": 649,
+            "cacheReadTokens": 8202004,
+            "cacheCreationTokens": 562610
+          },
+          "totalTokens": {
+            "inputTokens": 91008,
+            "outputTokens": 2001,
+            "cacheReadTokens": 10805262,
+            "cacheCreationTokens": 1571341
+          },
+          "subagentCount": 7
+        },
+        {
+          "id": "24d20702-20c0-4f08-b49e-9ab3f91fee46",
+          "title": "Monorepo Playwright Detection: CLI Flags Over Auto-Detection",
+          "timestamp": "2026-01-26T22:21:39.882Z",
+          "durationMs": 865584,
+          "totalDurationMs": 921311,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 5052,
+            "outputTokens": 858,
+            "cacheReadTokens": 3850192,
+            "cacheCreationTokens": 121615
+          },
+          "totalTokens": {
+            "inputTokens": 8696,
+            "outputTokens": 901,
+            "cacheReadTokens": 3980485,
+            "cacheCreationTokens": 198225
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "7931d0f6-9db5-466c-8157-da9878c4cc71",
+          "title": "Codebase cleanup for open source release",
+          "timestamp": "2026-01-26T22:09:58.774Z",
+          "durationMs": 451892,
+          "totalDurationMs": 781875,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 35899,
+            "outputTokens": 863,
+            "cacheReadTokens": 5941961,
+            "cacheCreationTokens": 292570
+          },
+          "totalTokens": {
+            "inputTokens": 55190,
+            "outputTokens": 1352,
+            "cacheReadTokens": 7903682,
+            "cacheCreationTokens": 929072
+          },
+          "subagentCount": 4
+        },
+        {
+          "id": "52354f5e-25b8-4470-a385-6c9ff35a6bda",
+          "title": "Fix demo skill video recording with Bash CLI",
+          "timestamp": "2026-01-26T22:02:45.191Z",
+          "durationMs": 361963,
+          "totalDurationMs": 361963,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 16213,
+            "outputTokens": 717,
+            "cacheReadTokens": 2792847,
+            "cacheCreationTokens": 159808
+          },
+          "totalTokens": {
+            "inputTokens": 16213,
+            "outputTokens": 717,
+            "cacheReadTokens": 2792847,
+            "cacheCreationTokens": 159808
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "1e7e8fd1-d3d6-4b06-91f3-afdba6bc2931",
+          "title": "Simplify Skill: Let Claude Generate Tests & Narration",
+          "timestamp": "2026-01-26T16:02:44.318Z",
+          "durationMs": 928838,
+          "totalDurationMs": 928838,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 69316,
+            "outputTokens": 377,
+            "cacheReadTokens": 6304012,
+            "cacheCreationTokens": 759469
+          },
+          "totalTokens": {
+            "inputTokens": 69316,
+            "outputTokens": 377,
+            "cacheReadTokens": 6304012,
+            "cacheCreationTokens": 759469
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "49eb0313-5342-46d8-a43d-6ae9ce807455",
+          "title": "Claude Code: Simplify test generation with AI",
+          "timestamp": "2026-01-26T16:02:44.318Z",
+          "durationMs": 693458,
+          "totalDurationMs": 693458,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 5114,
+            "outputTokens": 234,
+            "cacheReadTokens": 2864028,
+            "cacheCreationTokens": 423644
+          },
+          "totalTokens": {
+            "inputTokens": 5114,
+            "outputTokens": 234,
+            "cacheReadTokens": 2864028,
+            "cacheCreationTokens": 423644
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "e62d2f3f-30f6-42c3-afa2-5e81343891c3",
+          "title": "Video Recording Fix Custom Fixtures",
+          "timestamp": "2026-01-26T15:50:12.005Z",
+          "durationMs": 632904,
+          "totalDurationMs": 1043942,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 31064,
+            "outputTokens": 1025,
+            "cacheReadTokens": 6840642,
+            "cacheCreationTokens": 391339
+          },
+          "totalTokens": {
+            "inputTokens": 64902,
+            "outputTokens": 1457,
+            "cacheReadTokens": 7903987,
+            "cacheCreationTokens": 953997
+          },
+          "subagentCount": 5
+        },
+        {
+          "id": "efaaf539-514f-43e1-9921-bbcd2741de3b",
+          "title": "Playwright Integration for Existing Test Environments",
+          "timestamp": "2026-01-26T14:37:31.919Z",
+          "durationMs": 1524278,
+          "totalDurationMs": 2001104,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 5730,
+            "outputTokens": 1359,
+            "cacheReadTokens": 12548301,
+            "cacheCreationTokens": 268414
+          },
+          "totalTokens": {
+            "inputTokens": 11006,
+            "outputTokens": 2210,
+            "cacheReadTokens": 13791029,
+            "cacheCreationTokens": 909314
+          },
+          "subagentCount": 6
+        },
+        {
+          "id": "ddc96e6d-b6c7-446c-b10e-a63d285fb180",
+          "title": "Update README installation command to npx",
+          "timestamp": "2026-01-26T14:28:03.756Z",
+          "durationMs": 20026,
+          "totalDurationMs": 20026,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 68,
+            "outputTokens": 22,
+            "cacheReadTokens": 139848,
+            "cacheCreationTokens": 20324
+          },
+          "totalTokens": {
+            "inputTokens": 68,
+            "outputTokens": 22,
+            "cacheReadTokens": 139848,
+            "cacheCreationTokens": 20324
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "46a9e03b-6914-43d6-816c-fe8ecb448364",
+          "title": "Git Lock File Removal Resolved",
+          "timestamp": "2026-01-26T14:19:25.999Z",
+          "durationMs": 19232,
+          "totalDurationMs": 19232,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 41,
+            "outputTokens": 14,
+            "cacheReadTokens": 69488,
+            "cacheCreationTokens": 24640
+          },
+          "totalTokens": {
+            "inputTokens": 41,
+            "outputTokens": 14,
+            "cacheReadTokens": 69488,
+            "cacheCreationTokens": 24640
           },
           "subagentCount": 0
         }
@@ -7961,8 +7983,8 @@
       "durationMs": 55669970
     },
     "2026-02-03": {
-      "sessions": 3,
-      "durationMs": 772736
+      "sessions": 6,
+      "durationMs": 964769
     }
   }
 }
