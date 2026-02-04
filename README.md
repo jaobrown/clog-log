@@ -6,9 +6,9 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   1198            Tokens     1.9B
-  Duration   210h 5m         Projects   13
-  Streak     1 day
+  Sessions   1207            Tokens     1.9B
+  Duration   213h 9m         Projects   13
+  Streak     2 days
 
 ```
 
@@ -17,7 +17,7 @@ TOP PROJECTS
 ==================================================
 
   spool          ####################  128h 35m
-  gaia           ###########---------   68h 52m
+  gaia           ###########---------   71h 55m
   clog           #-------------------    4h 25m
   clog           --------------------    2h 25m
   clog-web       --------------------    1h 56m
@@ -28,11 +28,11 @@ TOP PROJECTS
 RECENT SESSIONS
 ==================================================
 
+  2026-02-03  gaia        Tilt Log Level Filterin...    5.2M       37m
+  2026-02-03  gaia        Twitter/X Scraping Impl...    2.8M    1h 51m
+  2026-02-03  gaia        Implement social media ...    7.8M       34m
   2026-02-03  clog        Claude leaderboard data...  750.9k        3m
   2026-02-03  clog        Sessions-index.json fal...    4.2M       12m
-  2026-02-02  gaia        Social media engagement...    6.4M       12m
-  2026-02-02  gaia        Temporal workflow for h...    9.8M       21m
-  2026-02-02  clog-web    Responsive mobile-first...    3.3M        8m
 
 ```
 
