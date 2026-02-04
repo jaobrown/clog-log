@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-04T18:34:54.789Z",
+  "generatedAt": "2026-02-04T19:00:01.096Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1202,
-    "totalDurationMs": 767235534,
-    "totalTokens": 1932614655,
+    "totalSessions": 1138,
+    "totalDurationMs": 764877077,
+    "totalTokens": 1916556050,
     "projectCount": 13
   },
   "projects": [
@@ -4381,13 +4381,13 @@
     {
       "projectName": "top secret",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 479,
-      "totalDurationMs": 258952740,
+      "totalSessions": 415,
+      "totalDurationMs": 256594283,
       "totalTokens": {
-        "inputTokens": 5133271,
-        "outputTokens": 639813,
-        "cacheReadTokens": 763233804,
-        "cacheCreationTokens": 78408482
+        "inputTokens": 5098244,
+        "outputTokens": 595922,
+        "cacheReadTokens": 750487366,
+        "cacheCreationTokens": 75175233
       },
       "sessions": [
         {
@@ -7936,7 +7936,7 @@
           "title": "**********",
           "timestamp": "2026-01-05T18:30:55.041Z",
           "durationMs": 6490,
-          "totalDurationMs": 15488,
+          "totalDurationMs": 6490,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -7946,12 +7946,12 @@
             "cacheCreationTokens": 3501
           },
           "totalTokens": {
-            "inputTokens": 1919,
-            "outputTokens": 4,
+            "inputTokens": 3,
+            "outputTokens": 1,
             "cacheReadTokens": 22374,
             "cacheCreationTokens": 3501
           },
-          "subagentCount": 2,
+          "subagentCount": 0,
           "messageCount": 2
         },
         {
@@ -7959,7 +7959,7 @@
           "title": "**********",
           "timestamp": "2026-01-05T18:26:21.405Z",
           "durationMs": 74233,
-          "totalDurationMs": 83110,
+          "totalDurationMs": 74233,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -7969,12 +7969,12 @@
             "cacheCreationTokens": 50649
           },
           "totalTokens": {
-            "inputTokens": 2136,
-            "outputTokens": 927,
+            "inputTokens": 182,
+            "outputTokens": 923,
             "cacheReadTokens": 568687,
             "cacheCreationTokens": 50649
           },
-          "subagentCount": 2,
+          "subagentCount": 0,
           "toolUsage": {
             "Bash": 7
           },
@@ -7985,7 +7985,7 @@
           "title": "**********",
           "timestamp": "2026-01-05T17:56:44.341Z",
           "durationMs": 97184,
-          "totalDurationMs": 211367,
+          "totalDurationMs": 97184,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-sonnet-4-5-20250929",
           "tokens": {
@@ -7995,19 +7995,17 @@
             "cacheCreationTokens": 14218
           },
           "totalTokens": {
-            "inputTokens": 3523,
-            "outputTokens": 2235,
-            "cacheReadTokens": 1272011,
-            "cacheCreationTokens": 219512
+            "inputTokens": 63,
+            "outputTokens": 846,
+            "cacheReadTokens": 368888,
+            "cacheCreationTokens": 14218
           },
-          "subagentCount": 5,
+          "subagentCount": 0,
           "toolUsage": {
-            "Read": 10,
+            "Read": 1,
             "Task": 3,
             "TodoWrite": 2,
-            "TaskOutput": 4,
-            "Glob": 6,
-            "Bash": 4
+            "TaskOutput": 4
           },
           "messageCount": 7
         },
@@ -8016,7 +8014,7 @@
           "title": "**********",
           "timestamp": "2026-01-05T17:54:23.958Z",
           "durationMs": 58539,
-          "totalDurationMs": 70279,
+          "totalDurationMs": 58539,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-sonnet-4-5-20250929",
           "tokens": {
@@ -8026,12 +8024,12 @@
             "cacheCreationTokens": 123858
           },
           "totalTokens": {
-            "inputTokens": 3465,
-            "outputTokens": 534,
+            "inputTokens": 303,
+            "outputTokens": 525,
             "cacheReadTokens": 350909,
             "cacheCreationTokens": 123858
           },
-          "subagentCount": 3,
+          "subagentCount": 0,
           "toolUsage": {
             "Read": 5,
             "Task": 1,
@@ -8045,7 +8043,7 @@
           "title": "**********",
           "timestamp": "2026-01-05T17:39:46.257Z",
           "durationMs": 447678,
-          "totalDurationMs": 1616476,
+          "totalDurationMs": 447678,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-sonnet-4-5-20250929",
           "tokens": {
@@ -8055,23 +8053,17 @@
             "cacheCreationTokens": 655776
           },
           "totalTokens": {
-            "inputTokens": 61573,
-            "outputTokens": 33981,
-            "cacheReadTokens": 7277243,
-            "cacheCreationTokens": 1416726
+            "inputTokens": 51217,
+            "outputTokens": 1667,
+            "cacheReadTokens": 2536072,
+            "cacheCreationTokens": 655776
           },
-          "subagentCount": 16,
+          "subagentCount": 0,
           "toolUsage": {
-            "Read": 49,
+            "Read": 4,
             "Task": 14,
             "TaskOutput": 23,
-            "Grep": 7,
-            "Edit": 18,
-            "Skill": 11,
-            "Bash": 30,
-            "mcp__linear-server__get_issue": 1,
-            "TodoWrite": 3,
-            "Write": 2
+            "Grep": 7
           },
           "messageCount": 11
         },
@@ -8080,7 +8072,7 @@
           "title": "**********",
           "timestamp": "2026-01-05T17:36:03.816Z",
           "durationMs": 35243,
-          "totalDurationMs": 68919,
+          "totalDurationMs": 35243,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-sonnet-4-5-20250929",
           "tokens": {
@@ -8090,17 +8082,16 @@
             "cacheCreationTokens": 10408
           },
           "totalTokens": {
-            "inputTokens": 3338,
-            "outputTokens": 712,
-            "cacheReadTokens": 265191,
-            "cacheCreationTokens": 126276
+            "inputTokens": 39,
+            "outputTokens": 208,
+            "cacheReadTokens": 211595,
+            "cacheCreationTokens": 10408
           },
-          "subagentCount": 5,
+          "subagentCount": 0,
           "toolUsage": {
-            "Read": 7,
+            "Read": 1,
             "Task": 3,
-            "TaskOutput": 2,
-            "Glob": 1
+            "TaskOutput": 2
           },
           "messageCount": 5
         },
@@ -8109,7 +8100,7 @@
           "title": "**********",
           "timestamp": "2026-01-05T17:29:23.108Z",
           "durationMs": 129652,
-          "totalDurationMs": 644070,
+          "totalDurationMs": 129652,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-sonnet-4-5-20250929",
           "tokens": {
@@ -8119,21 +8110,16 @@
             "cacheCreationTokens": 135945
           },
           "totalTokens": {
-            "inputTokens": 21441,
-            "outputTokens": 8082,
-            "cacheReadTokens": 4296217,
-            "cacheCreationTokens": 988023
+            "inputTokens": 17524,
+            "outputTokens": 1709,
+            "cacheReadTokens": 734342,
+            "cacheCreationTokens": 135945
           },
-          "subagentCount": 13,
+          "subagentCount": 0,
           "toolUsage": {
-            "Read": 38,
+            "Read": 1,
             "Task": 11,
-            "TaskOutput": 16,
-            "Glob": 20,
-            "Bash": 22,
-            "Edit": 2,
-            "Skill": 2,
-            "Grep": 2
+            "TaskOutput": 16
           },
           "messageCount": 7
         },
@@ -8142,7 +8128,7 @@
           "title": "**********",
           "timestamp": "2026-01-05T16:52:50.161Z",
           "durationMs": 199476,
-          "totalDurationMs": 685308,
+          "totalDurationMs": 199476,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": "claude-sonnet-4-5-20250929",
           "tokens": {
@@ -8152,20 +8138,17 @@
             "cacheCreationTokens": 172264
           },
           "totalTokens": {
-            "inputTokens": 8410,
-            "outputTokens": 5610,
-            "cacheReadTokens": 4633258,
-            "cacheCreationTokens": 1471323
+            "inputTokens": 3467,
+            "outputTokens": 2319,
+            "cacheReadTokens": 1146585,
+            "cacheCreationTokens": 172264
           },
-          "subagentCount": 16,
+          "subagentCount": 0,
           "toolUsage": {
-            "Read": 41,
+            "Read": 2,
             "Task": 14,
             "TodoWrite": 3,
-            "TaskOutput": 16,
-            "Bash": 33,
-            "Glob": 29,
-            "Grep": 1
+            "TaskOutput": 16
           },
           "messageCount": 12
         },
@@ -8174,7 +8157,7 @@
           "title": "**********",
           "timestamp": "2026-01-05T16:52:22.198Z",
           "durationMs": 0,
-          "totalDurationMs": 11935,
+          "totalDurationMs": 0,
           "gitBranch": "jared/prod-7631-sc-migration-batch-10-confetti",
           "model": null,
           "tokens": {
@@ -8184,12 +8167,12 @@
             "cacheCreationTokens": 0
           },
           "totalTokens": {
-            "inputTokens": 2020,
-            "outputTokens": 4,
+            "inputTokens": 0,
+            "outputTokens": 0,
             "cacheReadTokens": 0,
             "cacheCreationTokens": 0
           },
-          "subagentCount": 2,
+          "subagentCount": 0,
           "messageCount": 1
         },
         {
@@ -10260,8 +10243,8 @@
       "durationMs": 13074868
     },
     "2026-01-05": {
-      "sessions": 75,
-      "durationMs": 4355759
+      "sessions": 11,
+      "durationMs": 1997302
     },
     "2026-01-03": {
       "sessions": 3,
