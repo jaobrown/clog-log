@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-02-04T15:03:37.825Z",
+  "generatedAt": "2026-02-04T15:30:58.990Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1207,
-    "totalDurationMs": 767362433,
-    "totalTokens": 1933366415,
+    "totalSessions": 1202,
+    "totalDurationMs": 767235534,
+    "totalTokens": 1932614655,
     "projectCount": 13
   },
   "projects": [
     {
       "projectName": "spool",
       "projectPath": "/Users/jared/Developer/apps/spool",
-      "totalSessions": 609,
-      "totalDurationMs": 462929524,
+      "totalSessions": 604,
+      "totalDurationMs": 462802625,
       "totalTokens": {
-        "inputTokens": 6806159,
-        "outputTokens": 1403652,
-        "cacheReadTokens": 810740033,
-        "cacheCreationTokens": 88695490
+        "inputTokens": 6763643,
+        "outputTokens": 1403284,
+        "cacheReadTokens": 810227665,
+        "cacheCreationTokens": 88498982
       },
       "sessions": [
         {
@@ -4074,7 +4074,7 @@
           "title": "Improve PR comment formatting and readability",
           "timestamp": "2026-01-05T01:14:07.066Z",
           "durationMs": 138141,
-          "totalDurationMs": 162795,
+          "totalDurationMs": 138141,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4084,12 +4084,12 @@
             "cacheCreationTokens": 79533
           },
           "totalTokens": {
-            "inputTokens": 2130,
-            "outputTokens": 3976,
+            "inputTokens": 290,
+            "outputTokens": 3863,
             "cacheReadTokens": 609258,
             "cacheCreationTokens": 79533
           },
-          "subagentCount": 2,
+          "subagentCount": 0,
           "toolUsage": {
             "Grep": 2,
             "Read": 2,
@@ -4102,7 +4102,7 @@
           "title": "Refactor PR comments to be conversational and concise",
           "timestamp": "2026-01-05T00:15:51.252Z",
           "durationMs": 810666,
-          "totalDurationMs": 912911,
+          "totalDurationMs": 810666,
           "gitBranch": "main",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -4112,23 +4112,22 @@
             "cacheCreationTokens": 92582
           },
           "totalTokens": {
-            "inputTokens": 41336,
-            "outputTokens": 9246,
-            "cacheReadTokens": 3478831,
-            "cacheCreationTokens": 289090
+            "inputTokens": 660,
+            "outputTokens": 8991,
+            "cacheReadTokens": 2966463,
+            "cacheCreationTokens": 92582
           },
-          "subagentCount": 3,
+          "subagentCount": 0,
           "toolUsage": {
             "Task": 1,
-            "Read": 12,
+            "Read": 5,
             "AskUserQuestion": 1,
             "Write": 1,
             "ExitPlanMode": 1,
             "TodoWrite": 6,
             "Edit": 11,
-            "Bash": 8,
-            "Grep": 5,
-            "Glob": 5
+            "Bash": 5,
+            "Grep": 3
           },
           "messageCount": 14
         },
@@ -10261,8 +10260,8 @@
       "durationMs": 13074868
     },
     "2026-01-05": {
-      "sessions": 80,
-      "durationMs": 4482658
+      "sessions": 75,
+      "durationMs": 4355759
     },
     "2026-01-03": {
       "sessions": 3,
@@ -10307,9 +10306,9 @@
   },
   "modelBreakdown": {
     "opus-4.5": {
-      "inputTokens": 2513171,
-      "outputTokens": 1696082,
-      "cacheTokens": 1432837237
+      "inputTokens": 2516701,
+      "outputTokens": 1696342,
+      "cacheTokens": 1436027304
     },
     "sonnet-4.5": {
       "inputTokens": 72613,
@@ -10318,9 +10317,9 @@
     }
   },
   "peakHours": [
-    15,
-    16,
-    17
+    17,
+    20,
+    19
   ],
   "currentStreak": 2
 }
