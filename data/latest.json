@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-05T15:04:27.587Z",
+  "generatedAt": "2026-02-05T17:18:53.776Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1281,
-    "totalDurationMs": 782490073,
-    "totalTokens": 2011756957,
+    "totalSessions": 1284,
+    "totalDurationMs": 783462204,
+    "totalTokens": 2018368316,
     "projectCount": 13
   },
   "projects": [
@@ -4613,15 +4613,51 @@
     {
       "projectName": "top secret",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 504,
-      "totalDurationMs": 265947971,
+      "totalSessions": 507,
+      "totalDurationMs": 266920102,
       "totalTokens": {
-        "inputTokens": 5287062,
-        "outputTokens": 639126,
-        "cacheReadTokens": 794716219,
-        "cacheCreationTokens": 80234346
+        "inputTokens": 5292902,
+        "outputTokens": 643099,
+        "cacheReadTokens": 800467926,
+        "cacheCreationTokens": 81084185
       },
       "sessions": [
+        {
+          "id": "3368e286-09a2-456e-bfd6-99140f9cc160",
+          "title": "**********",
+          "timestamp": "2026-02-05T15:06:28.187Z",
+          "durationMs": 895771,
+          "totalDurationMs": 972131,
+          "gitBranch": "jared/prod-8883-show-exact-challenge-submission-deadline-1159pm-pst-in",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 99,
+            "outputTokens": 3798,
+            "cacheReadTokens": 3796364,
+            "cacheCreationTokens": 501398
+          },
+          "totalTokens": {
+            "inputTokens": 5840,
+            "outputTokens": 3973,
+            "cacheReadTokens": 5751707,
+            "cacheCreationTokens": 849839
+          },
+          "subagentCount": 2,
+          "toolUsage": {
+            "mcp__figma-desktop__get_design_context": 3,
+            "Task": 2,
+            "mcp__figma-desktop__get_screenshot": 2,
+            "Read": 15,
+            "mcp__figma-desktop__get_metadata": 4,
+            "Grep": 11,
+            "TaskCreate": 3,
+            "TaskUpdate": 6,
+            "Edit": 6,
+            "Bash": 17,
+            "Glob": 10
+          },
+          "messageCount": 112
+        },
         {
           "id": "cc223a36-a283-424e-8063-917e9e846fec",
           "title": "**********",
@@ -11559,6 +11595,10 @@
       "sessions": 3,
       "durationMs": 240812752
     },
+    "2026-02-05": {
+      "sessions": 3,
+      "durationMs": 972131
+    },
     "2026-02-04": {
       "sessions": 26,
       "durationMs": 9226771
@@ -11594,9 +11634,9 @@
   },
   "modelBreakdown": {
     "opus-4.5": {
-      "inputTokens": 2516701,
-      "outputTokens": 1696342,
-      "cacheTokens": 1436027304
+      "inputTokens": 2523011,
+      "outputTokens": 1732188,
+      "cacheTokens": 1456780138
     },
     "sonnet-4.5": {
       "inputTokens": 72613,
@@ -11606,8 +11646,8 @@
   },
   "peakHours": [
     17,
-    20,
-    19
+    19,
+    20
   ],
   "currentStreak": 0
 }
