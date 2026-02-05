@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-05T18:44:57.709Z",
+  "generatedAt": "2026-02-05T19:39:53.148Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 1282,
-    "totalDurationMs": 783969040,
-    "totalTokens": 2025338830,
+    "totalDurationMs": 785466206,
+    "totalTokens": 2026627742,
     "projectCount": 13
   },
   "projects": [
@@ -4614,14 +4614,66 @@
       "projectName": "top secret",
       "projectPath": "/Users/jared/Developer/contra/gaia",
       "totalSessions": 505,
-      "totalDurationMs": 267426938,
+      "totalDurationMs": 268924104,
       "totalTokens": {
-        "inputTokens": 5294615,
-        "outputTokens": 644772,
-        "cacheReadTokens": 807293075,
-        "cacheCreationTokens": 81226164
+        "inputTokens": 5292701,
+        "outputTokens": 647223,
+        "cacheReadTokens": 808435947,
+        "cacheCreationTokens": 81371667
       },
       "sessions": [
+        {
+          "id": "687df9a9-3f2d-41fc-896c-c09d5ec05f93",
+          "title": "**********",
+          "timestamp": "2026-02-05T19:39:43.273Z",
+          "durationMs": 1042,
+          "totalDurationMs": 1042,
+          "gitBranch": "jared/prod-8667-build-the-ui",
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0,
+          "messageCount": 3
+        },
+        {
+          "id": "2e101cdb-12d1-472b-84fa-c151b5c0250c",
+          "title": "**********",
+          "timestamp": "2026-02-05T18:46:26.644Z",
+          "durationMs": 1499941,
+          "totalDurationMs": 1499941,
+          "gitBranch": "jared/eng-20997-post-new-challenge-social-links-to-slack-channel",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 44,
+            "outputTokens": 2456,
+            "cacheReadTokens": 1142872,
+            "cacheCreationTokens": 145503
+          },
+          "totalTokens": {
+            "inputTokens": 44,
+            "outputTokens": 2456,
+            "cacheReadTokens": 1142872,
+            "cacheCreationTokens": 145503
+          },
+          "subagentCount": 0,
+          "toolUsage": {
+            "Bash": 7,
+            "Read": 3,
+            "Grep": 4,
+            "Edit": 3
+          },
+          "messageCount": 49
+        },
         {
           "id": "b6dc8606-42f6-413e-9ad1-69cae5349fc4",
           "title": "**********",
@@ -8909,7 +8961,7 @@
           "title": "**********",
           "timestamp": "2026-01-06T19:39:54.596Z",
           "durationMs": 2435100,
-          "totalDurationMs": 2681243,
+          "totalDurationMs": 2677426,
           "gitBranch": "jared/prod-7480-customize-social-post-tags-topics",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -8919,12 +8971,12 @@
             "cacheCreationTokens": 813670
           },
           "totalTokens": {
-            "inputTokens": 194507,
-            "outputTokens": 27473,
+            "inputTokens": 192549,
+            "outputTokens": 27468,
             "cacheReadTokens": 16446604,
             "cacheCreationTokens": 1595777
           },
-          "subagentCount": 6,
+          "subagentCount": 4,
           "toolUsage": {
             "Task": 4,
             "Read": 49,
@@ -11610,8 +11662,8 @@
       "durationMs": 16378249
     },
     "2026-01-06": {
-      "sessions": 15,
-      "durationMs": 12799832
+      "sessions": 13,
+      "durationMs": 12796015
     },
     "2026-01-05": {
       "sessions": 11,
@@ -11630,8 +11682,8 @@
       "durationMs": 240812752
     },
     "2026-02-05": {
-      "sessions": 8,
-      "durationMs": 1754003
+      "sessions": 10,
+      "durationMs": 3254986
     },
     "2026-02-04": {
       "sessions": 26,
@@ -11683,5 +11735,5 @@
     19,
     20
   ],
-  "currentStreak": 0
+  "currentStreak": 3
 }
