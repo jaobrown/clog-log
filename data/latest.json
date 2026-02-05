@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-05T17:40:19.352Z",
+  "generatedAt": "2026-02-05T18:43:28.591Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1284,
-    "totalDurationMs": 783462204,
-    "totalTokens": 2018368316,
+    "totalSessions": 1282,
+    "totalDurationMs": 783969040,
+    "totalTokens": 2025338830,
     "projectCount": 13
   },
   "projects": [
@@ -4613,15 +4613,49 @@
     {
       "projectName": "top secret",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 507,
-      "totalDurationMs": 266920102,
+      "totalSessions": 505,
+      "totalDurationMs": 267426938,
       "totalTokens": {
-        "inputTokens": 5292902,
-        "outputTokens": 643099,
-        "cacheReadTokens": 800467926,
-        "cacheCreationTokens": 81084185
+        "inputTokens": 5294615,
+        "outputTokens": 644772,
+        "cacheReadTokens": 807293075,
+        "cacheCreationTokens": 81226164
       },
       "sessions": [
+        {
+          "id": "b6dc8606-42f6-413e-9ad1-69cae5349fc4",
+          "title": "**********",
+          "timestamp": "2026-02-05T18:28:51.174Z",
+          "durationMs": 535898,
+          "totalDurationMs": 781872,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 10664,
+            "outputTokens": 4071,
+            "cacheReadTokens": 4983378,
+            "cacheCreationTokens": 472881
+          },
+          "totalTokens": {
+            "inputTokens": 46685,
+            "outputTokens": 4651,
+            "cacheReadTokens": 11724635,
+            "cacheCreationTokens": 861736
+          },
+          "subagentCount": 4,
+          "toolUsage": {
+            "Read": 53,
+            "mcp__linear-server__get_issue": 1,
+            "Task": 4,
+            "Glob": 8,
+            "Grep": 16,
+            "Bash": 56,
+            "Write": 2,
+            "Edit": 4,
+            "Skill": 1
+          },
+          "messageCount": 130
+        },
         {
           "id": "3368e286-09a2-456e-bfd6-99140f9cc160",
           "title": "**********",
@@ -8911,7 +8945,7 @@
           "title": "**********",
           "timestamp": "2026-01-06T17:44:08.152Z",
           "durationMs": 8146071,
-          "totalDurationMs": 8410464,
+          "totalDurationMs": 8146071,
           "gitBranch": "jared/prod-7480-customize-social-post-tags-topics",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -8921,23 +8955,23 @@
             "cacheCreationTokens": 1591085
           },
           "totalTokens": {
-            "inputTokens": 54502,
-            "outputTokens": 39294,
-            "cacheReadTokens": 43020627,
-            "cacheCreationTokens": 2310842
+            "inputTokens": 11476,
+            "outputTokens": 36321,
+            "cacheReadTokens": 38121141,
+            "cacheCreationTokens": 1591085
           },
-          "subagentCount": 5,
+          "subagentCount": 0,
           "toolUsage": {
             "Task": 3,
             "Write": 6,
             "AskUserQuestion": 1,
-            "Read": 76,
-            "Grep": 47,
+            "Read": 35,
+            "Grep": 36,
             "ExitPlanMode": 2,
             "Edit": 48,
             "TodoWrite": 17,
-            "Bash": 28,
-            "Glob": 21,
+            "Bash": 8,
+            "Glob": 8,
             "Skill": 1
           },
           "messageCount": 12
@@ -8947,7 +8981,7 @@
           "title": "**********",
           "timestamp": "2026-01-06T16:05:36.992Z",
           "durationMs": 581409,
-          "totalDurationMs": 592052,
+          "totalDurationMs": 581409,
           "gitBranch": "jared/eng-20925-top-level-social-post",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -8957,12 +8991,12 @@
             "cacheCreationTokens": 302754
           },
           "totalTokens": {
-            "inputTokens": 17330,
-            "outputTokens": 12303,
+            "inputTokens": 15384,
+            "outputTokens": 12298,
             "cacheReadTokens": 5080444,
             "cacheCreationTokens": 302754
           },
-          "subagentCount": 2,
+          "subagentCount": 0,
           "toolUsage": {
             "Grep": 10,
             "Read": 12,
@@ -11576,8 +11610,8 @@
       "durationMs": 16378249
     },
     "2026-01-06": {
-      "sessions": 22,
-      "durationMs": 13074868
+      "sessions": 15,
+      "durationMs": 12799832
     },
     "2026-01-05": {
       "sessions": 11,
@@ -11596,8 +11630,8 @@
       "durationMs": 240812752
     },
     "2026-02-05": {
-      "sessions": 3,
-      "durationMs": 972131
+      "sessions": 8,
+      "durationMs": 1754003
     },
     "2026-02-04": {
       "sessions": 26,
