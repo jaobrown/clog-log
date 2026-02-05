@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-05T19:39:53.148Z",
+  "generatedAt": "2026-02-05T20:17:01.411Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1282,
-    "totalDurationMs": 785466206,
-    "totalTokens": 2026627742,
+    "totalSessions": 1287,
+    "totalDurationMs": 787530700,
+    "totalTokens": 2037055309,
     "projectCount": 13
   },
   "projects": [
@@ -4613,15 +4613,107 @@
     {
       "projectName": "top secret",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 505,
-      "totalDurationMs": 268924104,
+      "totalSessions": 510,
+      "totalDurationMs": 270988598,
       "totalTokens": {
-        "inputTokens": 5292701,
-        "outputTokens": 647223,
-        "cacheReadTokens": 808435947,
-        "cacheCreationTokens": 81371667
+        "inputTokens": 5205927,
+        "outputTokens": 650398,
+        "cacheReadTokens": 818204996,
+        "cacheCreationTokens": 82113784
       },
       "sessions": [
+        {
+          "id": "63a12329-41f9-46f8-a5d6-68c7dfe2289d",
+          "title": "**********",
+          "timestamp": "2026-02-05T20:16:55.536Z",
+          "durationMs": 3903,
+          "totalDurationMs": 3903,
+          "gitBranch": "jared/prod-8667-build-the-ui",
+          "model": "claude-opus-4-6",
+          "tokens": {
+            "inputTokens": 6,
+            "outputTokens": 4,
+            "cacheReadTokens": 60536,
+            "cacheCreationTokens": 9340
+          },
+          "totalTokens": {
+            "inputTokens": 6,
+            "outputTokens": 4,
+            "cacheReadTokens": 60536,
+            "cacheCreationTokens": 9340
+          },
+          "subagentCount": 0,
+          "toolUsage": {
+            "Bash": 1
+          },
+          "messageCount": 3
+        },
+        {
+          "id": "591f8b4a-498d-43c3-a07a-f0e502b972e2",
+          "title": "**********",
+          "timestamp": "2026-02-05T20:06:36.621Z",
+          "durationMs": 559429,
+          "totalDurationMs": 893559,
+          "gitBranch": "jared/prod-8667-build-the-ui",
+          "model": "claude-opus-4-6",
+          "tokens": {
+            "inputTokens": 13401,
+            "outputTokens": 2951,
+            "cacheReadTokens": 2549335,
+            "cacheCreationTokens": 335261
+          },
+          "totalTokens": {
+            "inputTokens": 78024,
+            "outputTokens": 3167,
+            "cacheReadTokens": 5366156,
+            "cacheCreationTokens": 640009
+          },
+          "subagentCount": 3,
+          "toolUsage": {
+            "Read": 36,
+            "Task": 5,
+            "Glob": 12,
+            "Edit": 9,
+            "Bash": 9,
+            "Skill": 1,
+            "Grep": 11
+          },
+          "messageCount": 77
+        },
+        {
+          "id": "b78d4135-67c0-463e-9f70-6aa7dc4fa7c2",
+          "title": "**********",
+          "timestamp": "2026-02-05T20:01:36.954Z",
+          "durationMs": 918585,
+          "totalDurationMs": 1409358,
+          "gitBranch": "jared/prod-8667-build-the-ui",
+          "model": "claude-opus-4-6",
+          "tokens": {
+            "inputTokens": 9155,
+            "outputTokens": 1729,
+            "cacheReadTokens": 1533615,
+            "cacheCreationTokens": 367337
+          },
+          "totalTokens": {
+            "inputTokens": 14681,
+            "outputTokens": 2080,
+            "cacheReadTokens": 7499002,
+            "cacheCreationTokens": 874875
+          },
+          "subagentCount": 3,
+          "toolUsage": {
+            "WebFetch": 1,
+            "Task": 3,
+            "Read": 50,
+            "Glob": 8,
+            "Bash": 54,
+            "Write": 1,
+            "ExitPlanMode": 2,
+            "Edit": 2,
+            "Grep": 1
+          },
+          "messageCount": 53
+        },
         {
           "id": "687df9a9-3f2d-41fc-896c-c09d5ec05f93",
           "title": "**********",
@@ -8961,7 +9053,7 @@
           "title": "**********",
           "timestamp": "2026-01-06T19:39:54.596Z",
           "durationMs": 2435100,
-          "totalDurationMs": 2677426,
+          "totalDurationMs": 2435100,
           "gitBranch": "jared/prod-7480-customize-social-post-tags-topics",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -8971,24 +9063,22 @@
             "cacheCreationTokens": 813670
           },
           "totalTokens": {
-            "inputTokens": 192549,
-            "outputTokens": 27468,
-            "cacheReadTokens": 16446604,
-            "cacheCreationTokens": 1595777
+            "inputTokens": 13064,
+            "outputTokens": 25392,
+            "cacheReadTokens": 13289959,
+            "cacheCreationTokens": 813670
           },
-          "subagentCount": 4,
+          "subagentCount": 0,
           "toolUsage": {
             "Task": 4,
-            "Read": 49,
+            "Read": 12,
             "Write": 1,
             "AskUserQuestion": 1,
             "Edit": 29,
             "ExitPlanMode": 1,
             "TodoWrite": 4,
-            "Bash": 13,
-            "Skill": 1,
-            "Glob": 15,
-            "Grep": 21
+            "Bash": 9,
+            "Skill": 1
           },
           "messageCount": 45
         },
@@ -11662,8 +11752,8 @@
       "durationMs": 16378249
     },
     "2026-01-06": {
-      "sessions": 13,
-      "durationMs": 12796015
+      "sessions": 9,
+      "durationMs": 12553689
     },
     "2026-01-05": {
       "sessions": 11,
@@ -11682,8 +11772,8 @@
       "durationMs": 240812752
     },
     "2026-02-05": {
-      "sessions": 10,
-      "durationMs": 3254986
+      "sessions": 19,
+      "durationMs": 5561806
     },
     "2026-02-04": {
       "sessions": 26,
