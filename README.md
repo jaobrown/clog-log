@@ -6,8 +6,8 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   1138            Tokens     1.9B
-  Duration   212h 27m        Projects   13
+  Sessions   1281            Tokens     2.0B
+  Duration   217h 21m        Projects   13
 
 ```
 
@@ -15,11 +15,11 @@ CLAUDE CODE STATS
 TOP PROJECTS
 ==================================================
 
-  spool          ####################  128h 33m
-  top secret     ###########---------   71h 16m
-  clog           #-------------------    4h 25m
-  clog           --------------------    2h 25m
-  clog-web       --------------------    1h 56m
+  spool          ####################  128h 39m
+  top secret     ###########---------   73h 52m
+  clog           #-------------------    4h 47m
+  clog           --------------------    2h 54m
+  demo-changes   --------------------    2h 24m
 
 ```
 
@@ -27,11 +27,11 @@ TOP PROJECTS
 RECENT SESSIONS
 ==================================================
 
-  2026-02-03  top secret  **********                  5.2M       37m
-  2026-02-03  top secret  **********                  2.8M    1h 51m
-  2026-02-03  top secret  **********                  7.8M       34m
-  2026-02-03  clog        Claude leaderboard data...  750.9k        3m
-  2026-02-03  clog        Sessions-index.json fal...    4.2M       12m
+  2026-02-04  top secret  **********                  3.0M       18m
+  2026-02-04  top secret  **********                  5.8M       16m
+  2026-02-04  top secret  **********                 13.5M       38m
+  2026-02-04  top secret  **********                  7.7M       23m
+  2026-02-04  top secret  **********                  4.2M        6m
 
 ```
 
