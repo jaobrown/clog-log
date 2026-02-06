@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-05T21:35:37.963Z",
+  "generatedAt": "2026-02-06T02:41:00.898Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1292,
-    "totalDurationMs": 792077242,
-    "totalTokens": 2056993897,
+    "totalSessions": 1293,
+    "totalDurationMs": 792842525,
+    "totalTokens": 2064712068,
     "projectCount": 13
   },
   "projects": [
@@ -4613,45 +4613,48 @@
     {
       "projectName": "top secret",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 515,
-      "totalDurationMs": 275535140,
+      "totalSessions": 516,
+      "totalDurationMs": 276300423,
       "totalTokens": {
-        "inputTokens": 5217711,
-        "outputTokens": 666565,
-        "cacheReadTokens": 837198252,
-        "cacheCreationTokens": 83031165
+        "inputTokens": 5230646,
+        "outputTokens": 672869,
+        "cacheReadTokens": 844690201,
+        "cacheCreationTokens": 83238148
       },
       "sessions": [
         {
           "id": "347177ae-372f-43a5-9e2e-0a9a72fafb02",
           "title": "**********",
           "timestamp": "2026-02-05T21:32:02.273Z",
-          "durationMs": 212802,
-          "totalDurationMs": 576159,
+          "durationMs": 864346,
+          "totalDurationMs": 1341442,
           "gitBranch": "jared/prod-8667-build-the-ui",
           "model": "claude-opus-4-6",
           "tokens": {
-            "inputTokens": 50,
-            "outputTokens": 791,
-            "cacheReadTokens": 1182124,
-            "cacheCreationTokens": 147723
+            "inputTokens": 146,
+            "outputTokens": 6756,
+            "cacheReadTokens": 8038040,
+            "cacheCreationTokens": 228685
           },
           "totalTokens": {
-            "inputTokens": 578,
-            "outputTokens": 1329,
-            "cacheReadTokens": 2892101,
-            "cacheCreationTokens": 594507
+            "inputTokens": 13513,
+            "outputTokens": 7633,
+            "cacheReadTokens": 10384050,
+            "cacheCreationTokens": 801490
           },
-          "subagentCount": 3,
+          "subagentCount": 4,
           "toolUsage": {
             "TaskCreate": 7,
-            "TaskUpdate": 9,
-            "Task": 3,
-            "Read": 36,
-            "Glob": 12,
-            "Grep": 15
+            "TaskUpdate": 17,
+            "Task": 4,
+            "Read": 67,
+            "Write": 5,
+            "Edit": 7,
+            "Grep": 35,
+            "Glob": 18,
+            "Bash": 8
           },
-          "messageCount": 54
+          "messageCount": 191
         },
         {
           "id": "63a12329-41f9-46f8-a5d6-68c7dfe2289d",
@@ -11806,8 +11809,8 @@
       "durationMs": 240812752
     },
     "2026-02-05": {
-      "sessions": 24,
-      "durationMs": 10108348
+      "sessions": 25,
+      "durationMs": 10873631
     },
     "2026-02-04": {
       "sessions": 26,
