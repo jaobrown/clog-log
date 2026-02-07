@@ -6,8 +6,8 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   0               Tokens     0
-  Duration   0m              Projects   0
+  Sessions   1299            Tokens     2.1B
+  Duration   224h 42m        Projects   13
 
 ```
 
@@ -15,7 +15,11 @@ CLAUDE CODE STATS
 TOP PROJECTS
 ==================================================
 
-  No projects yet - run some claude code!
+  spool          ####################   128h 7m
+  top secret     ############--------   77h 41m
+  clog           #-------------------    4h 47m
+  clogs          #-------------------    4h 39m
+  clog           --------------------    2h 54m
 
 ```
 
@@ -23,7 +27,29 @@ TOP PROJECTS
 RECENT SESSIONS
 ==================================================
 
-  No sessions yet - run some claude code!
+  2026-02-06  clogs       (no title)                 24.7M    1h 44m
+  2026-02-06  clogs       (no title)                404.1k        3m
+  2026-02-06  top secret  **********                 43.9M       57m
+  2026-02-06  clogs       (no title)                 21.5M    1h 51m
+  2026-02-06  clogs       (no title)                 12.5M       23m
+
+```
+
+```
+MODEL USAGE
+==================================================
+
+  opus-4.5     ####################     4.3M (1.5B cached)
+  sonnet-4.5   --------------------    79.9k (6.5M cached)
+  opus-4.6     --------------------    49.1k (28.9M cached)
+
+```
+
+```
+PEAK HOURS
+==================================================
+
+  Most active: 5pm, 8pm, 7pm
 
 ```
 

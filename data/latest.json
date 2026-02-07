@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-06T20:10:58.767Z",
+  "generatedAt": "2026-02-07T00:18:52.614Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1260,
-    "totalDurationMs": 792406357,
-    "totalTokens": 2055501660,
+    "totalSessions": 1299,
+    "totalDurationMs": 808935015,
+    "totalTokens": 2144442172,
     "projectCount": 13
   },
   "projects": [
@@ -4578,15 +4578,59 @@
     {
       "projectName": "top secret",
       "projectPath": "/Users/jared/Developer/contra/gaia",
-      "totalSessions": 519,
-      "totalDurationMs": 276355516,
+      "totalSessions": 521,
+      "totalDurationMs": 279666762,
       "totalTokens": {
-        "inputTokens": 5230670,
-        "outputTokens": 674014,
-        "cacheReadTokens": 845462292,
-        "cacheCreationTokens": 83423658
+        "inputTokens": 5471334,
+        "outputTokens": 685046,
+        "cacheReadTokens": 884306503,
+        "cacheCreationTokens": 86740163
       },
       "sessions": [
+        {
+          "id": "2e558b58-f782-4d85-8ee7-69262595e193",
+          "title": "**********",
+          "timestamp": "2026-02-06T22:10:40.661Z",
+          "durationMs": 2214380,
+          "totalDurationMs": 3443036,
+          "gitBranch": "jared/prod-8947-challenge-ugc-submissions-tab-api-web",
+          "model": "claude-opus-4-6",
+          "tokens": {
+            "inputTokens": 328,
+            "outputTokens": 10608,
+            "cacheReadTokens": 23078986,
+            "cacheCreationTokens": 1320286
+          },
+          "totalTokens": {
+            "inputTokens": 278862,
+            "outputTokens": 12992,
+            "cacheReadTokens": 40052559,
+            "cacheCreationTokens": 3517512
+          },
+          "subagentCount": 15,
+          "toolUsage": {
+            "ToolSearch": 4,
+            "mcp__linear-server__get_issue": 6,
+            "mcp__linear-server__list_issues": 1,
+            "mcp__figma-desktop__get_design_context": 1,
+            "mcp__figma-desktop__get_screenshot": 1,
+            "TeamCreate": 1,
+            "TaskCreate": 10,
+            "TaskUpdate": 24,
+            "Task": 8,
+            "SendMessage": 15,
+            "AskUserQuestion": 1,
+            "Read": 176,
+            "Grep": 125,
+            "Bash": 22,
+            "Write": 11,
+            "Edit": 13,
+            "Glob": 18,
+            "Skill": 1,
+            "TaskList": 4
+          },
+          "messageCount": 405
+        },
         {
           "id": "683e3660-6c06-458c-a023-be16123c8ed2",
           "title": "**********",
@@ -8930,7 +8974,7 @@
           "title": "**********",
           "timestamp": "2026-01-07T22:10:12.235Z",
           "durationMs": 62518,
-          "totalDurationMs": 68960,
+          "totalDurationMs": 62518,
           "gitBranch": "jared/prod-7692-topic-search-ux-updates",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -8940,12 +8984,12 @@
             "cacheCreationTokens": 210672
           },
           "totalTokens": {
-            "inputTokens": 2046,
-            "outputTokens": 2040,
+            "inputTokens": 140,
+            "outputTokens": 2036,
             "cacheReadTokens": 454360,
             "cacheCreationTokens": 210672
           },
-          "subagentCount": 2,
+          "subagentCount": 0,
           "toolUsage": {
             "Edit": 4,
             "Grep": 1,
@@ -8958,7 +9002,7 @@
           "title": "**********",
           "timestamp": "2026-01-07T21:58:01.405Z",
           "durationMs": 413531,
-          "totalDurationMs": 427785,
+          "totalDurationMs": 413531,
           "gitBranch": "jared/prod-7692-topic-search-ux-updates",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -8968,12 +9012,12 @@
             "cacheCreationTokens": 204647
           },
           "totalTokens": {
-            "inputTokens": 2380,
-            "outputTokens": 9988,
+            "inputTokens": 462,
+            "outputTokens": 9984,
             "cacheReadTokens": 4082841,
             "cacheCreationTokens": 204647
           },
-          "subagentCount": 2,
+          "subagentCount": 0,
           "toolUsage": {
             "mcp__figma-desktop__get_design_context": 1,
             "mcp__figma-desktop__get_screenshot": 1,
@@ -8991,7 +9035,7 @@
           "title": "**********",
           "timestamp": "2026-01-07T21:20:03.611Z",
           "durationMs": 566794,
-          "totalDurationMs": 572512,
+          "totalDurationMs": 566794,
           "gitBranch": "jared/prod-7692-topic-search-ux-updates",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -9001,12 +9045,12 @@
             "cacheCreationTokens": 562982
           },
           "totalTokens": {
-            "inputTokens": 10773,
-            "outputTokens": 11894,
+            "inputTokens": 8663,
+            "outputTokens": 11890,
             "cacheReadTokens": 5966796,
             "cacheCreationTokens": 562982
           },
-          "subagentCount": 2,
+          "subagentCount": 0,
           "toolUsage": {
             "mcp__figma-desktop__get_design_context": 1,
             "Read": 4,
@@ -9025,7 +9069,7 @@
           "title": "**********",
           "timestamp": "2026-01-07T21:08:01.583Z",
           "durationMs": 455973,
-          "totalDurationMs": 462176,
+          "totalDurationMs": 455973,
           "gitBranch": "jared/prod-7692-topic-search-ux-updates",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -9035,12 +9079,12 @@
             "cacheCreationTokens": 146426
           },
           "totalTokens": {
-            "inputTokens": 17264,
-            "outputTokens": 2772,
+            "inputTokens": 15154,
+            "outputTokens": 2496,
             "cacheReadTokens": 756820,
             "cacheCreationTokens": 146426
           },
-          "subagentCount": 2,
+          "subagentCount": 0,
           "toolUsage": {
             "mcp__figma-desktop__get_design_context": 1,
             "Read": 3,
@@ -9056,7 +9100,7 @@
           "title": "**********",
           "timestamp": "2026-01-07T20:52:12.819Z",
           "durationMs": 686557,
-          "totalDurationMs": 693172,
+          "totalDurationMs": 686557,
           "gitBranch": "jared/prod-7692-topic-search-ux-updates",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -9066,12 +9110,12 @@
             "cacheCreationTokens": 242768
           },
           "totalTokens": {
-            "inputTokens": 3480,
-            "outputTokens": 6208,
+            "inputTokens": 1370,
+            "outputTokens": 6204,
             "cacheReadTokens": 3025476,
             "cacheCreationTokens": 242768
           },
-          "subagentCount": 2,
+          "subagentCount": 0,
           "toolUsage": {
             "Read": 3,
             "mcp__figma-desktop__get_design_context": 1,
@@ -9089,7 +9133,7 @@
           "title": "**********",
           "timestamp": "2026-01-07T20:04:08.026Z",
           "durationMs": 2298848,
-          "totalDurationMs": 2391406,
+          "totalDurationMs": 2298848,
           "gitBranch": "jared/prod-7692-topic-search-ux-updates",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
@@ -9099,20 +9143,20 @@
             "cacheCreationTokens": 675680
           },
           "totalTokens": {
-            "inputTokens": 60927,
-            "outputTokens": 27366,
-            "cacheReadTokens": 8773979,
-            "cacheCreationTokens": 876687
+            "inputTokens": 32883,
+            "outputTokens": 25698,
+            "cacheReadTokens": 7565631,
+            "cacheCreationTokens": 675680
           },
-          "subagentCount": 4,
+          "subagentCount": 0,
           "toolUsage": {
             "Task": 2,
             "mcp__figma-desktop__get_design_context": 1,
-            "Read": 30,
+            "Read": 13,
             "mcp__figma-desktop__get_screenshot": 1,
-            "Grep": 6,
+            "Grep": 2,
             "AskUserQuestion": 1,
-            "Glob": 11,
+            "Glob": 1,
             "Write": 4,
             "ExitPlanMode": 1,
             "TodoWrite": 5,
@@ -9856,6 +9900,348 @@
             "Glob": 5
           },
           "messageCount": 37
+        }
+      ]
+    },
+    {
+      "projectName": "clogs",
+      "projectPath": "/Users/jared/Developer/tools/clogs",
+      "totalSessions": 59,
+      "totalDurationMs": 16794310,
+      "totalTokens": {
+        "inputTokens": 201430,
+        "outputTokens": 26847,
+        "cacheReadTokens": 63978531,
+        "cacheCreationTokens": 7505851
+      },
+      "sessions": [
+        {
+          "id": "af26a41a-dbe2-4289-8d78-32bd5832f274",
+          "title": "(no title)",
+          "timestamp": "2026-02-06T22:28:21.192Z",
+          "durationMs": 5432720,
+          "totalDurationMs": 6297031,
+          "gitBranch": "HEAD",
+          "model": "claude-opus-4-6",
+          "tokens": {
+            "inputTokens": 167,
+            "outputTokens": 3391,
+            "cacheReadTokens": 8710963,
+            "cacheCreationTokens": 521407
+          },
+          "totalTokens": {
+            "inputTokens": 23512,
+            "outputTokens": 4886,
+            "cacheReadTokens": 22228685,
+            "cacheCreationTokens": 2399322
+          },
+          "subagentCount": 17,
+          "toolUsage": {
+            "TeamCreate": 1,
+            "TaskCreate": 6,
+            "TaskUpdate": 20,
+            "Task": 8,
+            "SendMessage": 24,
+            "AskUserQuestion": 1,
+            "Glob": 36,
+            "Read": 148,
+            "Write": 1,
+            "Edit": 9,
+            "Grep": 15,
+            "Bash": 17,
+            "TaskList": 1
+          },
+          "messageCount": 195
+        },
+        {
+          "id": "5a1398e9-d592-49e3-95f6-bd769d786021",
+          "title": "(no title)",
+          "timestamp": "2026-02-06T22:22:23.423Z",
+          "durationMs": 218093,
+          "totalDurationMs": 218093,
+          "gitBranch": "HEAD",
+          "model": "claude-opus-4-6",
+          "tokens": {
+            "inputTokens": 73,
+            "outputTokens": 361,
+            "cacheReadTokens": 267699,
+            "cacheCreationTokens": 135923
+          },
+          "totalTokens": {
+            "inputTokens": 73,
+            "outputTokens": 361,
+            "cacheReadTokens": 267699,
+            "cacheCreationTokens": 135923
+          },
+          "subagentCount": 0,
+          "toolUsage": {
+            "Glob": 5,
+            "Read": 2,
+            "Bash": 1
+          },
+          "messageCount": 22
+        },
+        {
+          "id": "de5e2cb2-2457-4e4c-a8ec-76e19177501c",
+          "title": "(no title)",
+          "timestamp": "2026-02-06T20:36:14.245Z",
+          "durationMs": 5859151,
+          "totalDurationMs": 6702288,
+          "gitBranch": "HEAD",
+          "model": "claude-opus-4-6",
+          "tokens": {
+            "inputTokens": 202,
+            "outputTokens": 10899,
+            "cacheReadTokens": 9717814,
+            "cacheCreationTokens": 527974
+          },
+          "totalTokens": {
+            "inputTokens": 42894,
+            "outputTokens": 12460,
+            "cacheReadTokens": 19528455,
+            "cacheCreationTokens": 1883830
+          },
+          "subagentCount": 17,
+          "toolUsage": {
+            "Teammate": 2,
+            "TaskCreate": 6,
+            "TaskUpdate": 21,
+            "Task": 8,
+            "SendMessage": 24,
+            "AskUserQuestion": 2,
+            "Read": 138,
+            "Edit": 9,
+            "Write": 3,
+            "Grep": 8,
+            "WebSearch": 1,
+            "WebFetch": 1,
+            "Bash": 25,
+            "Glob": 21,
+            "TaskList": 4
+          },
+          "messageCount": 231
+        },
+        {
+          "id": "346fea83-9c90-4a62-9fd6-aaf380763d8e",
+          "title": "(no title)",
+          "timestamp": "2026-02-06T19:44:06.989Z",
+          "durationMs": 922173,
+          "totalDurationMs": 1391513,
+          "gitBranch": "HEAD",
+          "model": "claude-opus-4-6",
+          "tokens": {
+            "inputTokens": 142,
+            "outputTokens": 6577,
+            "cacheReadTokens": 3922739,
+            "cacheCreationTokens": 563623
+          },
+          "totalTokens": {
+            "inputTokens": 29391,
+            "outputTokens": 7509,
+            "cacheReadTokens": 10878021,
+            "cacheCreationTokens": 1563040
+          },
+          "subagentCount": 10,
+          "toolUsage": {
+            "Teammate": 2,
+            "TaskCreate": 8,
+            "Task": 5,
+            "TaskUpdate": 13,
+            "SendMessage": 15,
+            "AskUserQuestion": 1,
+            "Read": 78,
+            "Edit": 7,
+            "Write": 1,
+            "Bash": 16,
+            "Glob": 21,
+            "Grep": 8,
+            "TaskList": 2
+          },
+          "messageCount": 149
+        },
+        {
+          "id": "f5fb4bc3-530f-49a3-b5d3-9c0718a6f9fc",
+          "title": "(no title)",
+          "timestamp": "2026-02-03T01:56:36.232Z",
+          "durationMs": 384077,
+          "totalDurationMs": 384077,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 226,
+            "outputTokens": 174,
+            "cacheReadTokens": 2121252,
+            "cacheCreationTokens": 189481
+          },
+          "totalTokens": {
+            "inputTokens": 226,
+            "outputTokens": 174,
+            "cacheReadTokens": 2121252,
+            "cacheCreationTokens": 189481
+          },
+          "subagentCount": 0,
+          "toolUsage": {
+            "Read": 8,
+            "Write": 6,
+            "Edit": 11,
+            "Bash": 2
+          },
+          "messageCount": 85
+        },
+        {
+          "id": "64ab1323-7631-425f-a924-ba3060bf6c28",
+          "title": "(no title)",
+          "timestamp": "2026-02-03T01:46:52.546Z",
+          "durationMs": 560575,
+          "totalDurationMs": 1078731,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 9690,
+            "outputTokens": 204,
+            "cacheReadTokens": 1369325,
+            "cacheCreationTokens": 195589
+          },
+          "totalTokens": {
+            "inputTokens": 61560,
+            "outputTokens": 1061,
+            "cacheReadTokens": 3253603,
+            "cacheCreationTokens": 623526
+          },
+          "subagentCount": 3,
+          "toolUsage": {
+            "TaskCreate": 4,
+            "TaskUpdate": 7,
+            "Task": 3,
+            "Read": 52,
+            "Glob": 19,
+            "Grep": 12,
+            "Write": 3,
+            "AskUserQuestion": 1,
+            "ExitPlanMode": 1,
+            "Bash": 3
+          },
+          "messageCount": 70
+        },
+        {
+          "id": "a53f4181-a0c5-4d1a-b2cf-817ada6fa998",
+          "title": "CLI Web App Duration Field Sync Fix",
+          "timestamp": "2026-02-02T19:37:35.420Z",
+          "durationMs": 17323,
+          "totalDurationMs": 17323,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 12,
+            "outputTokens": 18,
+            "cacheReadTokens": 166097,
+            "cacheCreationTokens": 13605
+          },
+          "totalTokens": {
+            "inputTokens": 12,
+            "outputTokens": 18,
+            "cacheReadTokens": 166097,
+            "cacheCreationTokens": 13605
+          },
+          "subagentCount": 0,
+          "toolUsage": {
+            "Read": 2,
+            "Edit": 2
+          },
+          "messageCount": 5
+        },
+        {
+          "id": "08ca16e0-df5a-4518-955e-ea19443b2b8b",
+          "title": "Data sync audit: CLI, Convex, web app",
+          "timestamp": "2026-02-02T19:15:47.608Z",
+          "durationMs": 281051,
+          "totalDurationMs": 342278,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 518,
+            "outputTokens": 103,
+            "cacheReadTokens": 1364203,
+            "cacheCreationTokens": 192817
+          },
+          "totalTokens": {
+            "inputTokens": 758,
+            "outputTokens": 227,
+            "cacheReadTokens": 2188904,
+            "cacheCreationTokens": 484466
+          },
+          "subagentCount": 2,
+          "toolUsage": {
+            "TaskCreate": 4,
+            "TaskUpdate": 4,
+            "Task": 2,
+            "Read": 36,
+            "Grep": 4,
+            "Write": 1,
+            "AskUserQuestion": 1,
+            "ExitPlanMode": 1,
+            "Bash": 8
+          },
+          "messageCount": 13
+        },
+        {
+          "id": "a445a6cf-44ff-4435-825e-59ec5d21f056",
+          "title": "Update CLI README template links to clog.sh",
+          "timestamp": "2026-02-02T18:51:03.137Z",
+          "durationMs": 17540,
+          "totalDurationMs": 17540,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 6644,
+            "outputTokens": 32,
+            "cacheReadTokens": 241734,
+            "cacheCreationTokens": 34908
+          },
+          "totalTokens": {
+            "inputTokens": 6644,
+            "outputTokens": 32,
+            "cacheReadTokens": 241734,
+            "cacheCreationTokens": 34908
+          },
+          "subagentCount": 0,
+          "toolUsage": {
+            "Glob": 2,
+            "Read": 1,
+            "Edit": 1
+          },
+          "messageCount": 5
+        },
+        {
+          "id": "ccf8cb34-aee4-46fb-ac12-b0fdd3ef0784",
+          "title": "Updated install commands to use npx",
+          "timestamp": "2026-02-02T15:55:13.331Z",
+          "durationMs": 345436,
+          "totalDurationMs": 345436,
+          "gitBranch": null,
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 36360,
+            "outputTokens": 119,
+            "cacheReadTokens": 3104081,
+            "cacheCreationTokens": 177750
+          },
+          "totalTokens": {
+            "inputTokens": 36360,
+            "outputTokens": 119,
+            "cacheReadTokens": 3104081,
+            "cacheCreationTokens": 177750
+          },
+          "subagentCount": 0,
+          "toolUsage": {
+            "Glob": 5,
+            "Bash": 14,
+            "Read": 8,
+            "Grep": 1,
+            "Edit": 10,
+            "AskUserQuestion": 1
+          },
+          "messageCount": 13
         }
       ]
     },
@@ -11246,242 +11632,6 @@
       ]
     },
     {
-      "projectName": "clogs",
-      "projectPath": "/Users/jared/Developer/tools/clogs",
-      "totalSessions": 22,
-      "totalDurationMs": 3576898,
-      "totalTokens": {
-        "inputTokens": 134951,
-        "outputTokens": 9140,
-        "cacheReadTokens": 21953692,
-        "cacheCreationTokens": 3086776
-      },
-      "sessions": [
-        {
-          "id": "346fea83-9c90-4a62-9fd6-aaf380763d8e",
-          "title": "(no title)",
-          "timestamp": "2026-02-06T19:44:06.989Z",
-          "durationMs": 922173,
-          "totalDurationMs": 1391513,
-          "gitBranch": "HEAD",
-          "model": "claude-opus-4-6",
-          "tokens": {
-            "inputTokens": 142,
-            "outputTokens": 6577,
-            "cacheReadTokens": 3922739,
-            "cacheCreationTokens": 563623
-          },
-          "totalTokens": {
-            "inputTokens": 29391,
-            "outputTokens": 7509,
-            "cacheReadTokens": 10878021,
-            "cacheCreationTokens": 1563040
-          },
-          "subagentCount": 10,
-          "toolUsage": {
-            "Teammate": 2,
-            "TaskCreate": 8,
-            "Task": 5,
-            "TaskUpdate": 13,
-            "SendMessage": 15,
-            "AskUserQuestion": 1,
-            "Read": 78,
-            "Edit": 7,
-            "Write": 1,
-            "Bash": 16,
-            "Glob": 21,
-            "Grep": 8,
-            "TaskList": 2
-          },
-          "messageCount": 149
-        },
-        {
-          "id": "f5fb4bc3-530f-49a3-b5d3-9c0718a6f9fc",
-          "title": "(no title)",
-          "timestamp": "2026-02-03T01:56:36.232Z",
-          "durationMs": 384077,
-          "totalDurationMs": 384077,
-          "gitBranch": null,
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 226,
-            "outputTokens": 174,
-            "cacheReadTokens": 2121252,
-            "cacheCreationTokens": 189481
-          },
-          "totalTokens": {
-            "inputTokens": 226,
-            "outputTokens": 174,
-            "cacheReadTokens": 2121252,
-            "cacheCreationTokens": 189481
-          },
-          "subagentCount": 0,
-          "toolUsage": {
-            "Read": 8,
-            "Write": 6,
-            "Edit": 11,
-            "Bash": 2
-          },
-          "messageCount": 85
-        },
-        {
-          "id": "64ab1323-7631-425f-a924-ba3060bf6c28",
-          "title": "(no title)",
-          "timestamp": "2026-02-03T01:46:52.546Z",
-          "durationMs": 560575,
-          "totalDurationMs": 1078731,
-          "gitBranch": null,
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 9690,
-            "outputTokens": 204,
-            "cacheReadTokens": 1369325,
-            "cacheCreationTokens": 195589
-          },
-          "totalTokens": {
-            "inputTokens": 61560,
-            "outputTokens": 1061,
-            "cacheReadTokens": 3253603,
-            "cacheCreationTokens": 623526
-          },
-          "subagentCount": 3,
-          "toolUsage": {
-            "TaskCreate": 4,
-            "TaskUpdate": 7,
-            "Task": 3,
-            "Read": 52,
-            "Glob": 19,
-            "Grep": 12,
-            "Write": 3,
-            "AskUserQuestion": 1,
-            "ExitPlanMode": 1,
-            "Bash": 3
-          },
-          "messageCount": 70
-        },
-        {
-          "id": "a53f4181-a0c5-4d1a-b2cf-817ada6fa998",
-          "title": "CLI Web App Duration Field Sync Fix",
-          "timestamp": "2026-02-02T19:37:35.420Z",
-          "durationMs": 17323,
-          "totalDurationMs": 17323,
-          "gitBranch": null,
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 12,
-            "outputTokens": 18,
-            "cacheReadTokens": 166097,
-            "cacheCreationTokens": 13605
-          },
-          "totalTokens": {
-            "inputTokens": 12,
-            "outputTokens": 18,
-            "cacheReadTokens": 166097,
-            "cacheCreationTokens": 13605
-          },
-          "subagentCount": 0,
-          "toolUsage": {
-            "Read": 2,
-            "Edit": 2
-          },
-          "messageCount": 5
-        },
-        {
-          "id": "08ca16e0-df5a-4518-955e-ea19443b2b8b",
-          "title": "Data sync audit: CLI, Convex, web app",
-          "timestamp": "2026-02-02T19:15:47.608Z",
-          "durationMs": 281051,
-          "totalDurationMs": 342278,
-          "gitBranch": null,
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 518,
-            "outputTokens": 103,
-            "cacheReadTokens": 1364203,
-            "cacheCreationTokens": 192817
-          },
-          "totalTokens": {
-            "inputTokens": 758,
-            "outputTokens": 227,
-            "cacheReadTokens": 2188904,
-            "cacheCreationTokens": 484466
-          },
-          "subagentCount": 2,
-          "toolUsage": {
-            "TaskCreate": 4,
-            "TaskUpdate": 4,
-            "Task": 2,
-            "Read": 36,
-            "Grep": 4,
-            "Write": 1,
-            "AskUserQuestion": 1,
-            "ExitPlanMode": 1,
-            "Bash": 8
-          },
-          "messageCount": 13
-        },
-        {
-          "id": "a445a6cf-44ff-4435-825e-59ec5d21f056",
-          "title": "Update CLI README template links to clog.sh",
-          "timestamp": "2026-02-02T18:51:03.137Z",
-          "durationMs": 17540,
-          "totalDurationMs": 17540,
-          "gitBranch": null,
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 6644,
-            "outputTokens": 32,
-            "cacheReadTokens": 241734,
-            "cacheCreationTokens": 34908
-          },
-          "totalTokens": {
-            "inputTokens": 6644,
-            "outputTokens": 32,
-            "cacheReadTokens": 241734,
-            "cacheCreationTokens": 34908
-          },
-          "subagentCount": 0,
-          "toolUsage": {
-            "Glob": 2,
-            "Read": 1,
-            "Edit": 1
-          },
-          "messageCount": 5
-        },
-        {
-          "id": "ccf8cb34-aee4-46fb-ac12-b0fdd3ef0784",
-          "title": "Updated install commands to use npx",
-          "timestamp": "2026-02-02T15:55:13.331Z",
-          "durationMs": 345436,
-          "totalDurationMs": 345436,
-          "gitBranch": null,
-          "model": "claude-opus-4-5-20251101",
-          "tokens": {
-            "inputTokens": 36360,
-            "outputTokens": 119,
-            "cacheReadTokens": 3104081,
-            "cacheCreationTokens": 177750
-          },
-          "totalTokens": {
-            "inputTokens": 36360,
-            "outputTokens": 119,
-            "cacheReadTokens": 3104081,
-            "cacheCreationTokens": 177750
-          },
-          "subagentCount": 0,
-          "toolUsage": {
-            "Glob": 5,
-            "Bash": 14,
-            "Read": 8,
-            "Grep": 1,
-            "Edit": 10,
-            "AskUserQuestion": 1
-          },
-          "messageCount": 13
-        }
-      ]
-    },
-    {
       "projectName": "imessage_export",
       "projectPath": "/Users/jared/imessage_export",
       "totalSessions": 10,
@@ -11860,8 +12010,8 @@
       "durationMs": 4463000
     },
     "2026-01-07": {
-      "sessions": 32,
-      "durationMs": 14833741
+      "sessions": 18,
+      "durationMs": 14701951
     },
     "2026-01-06": {
       "sessions": 4,
@@ -11884,8 +12034,8 @@
       "durationMs": 240812752
     },
     "2026-02-06": {
-      "sessions": 14,
-      "durationMs": 1446606
+      "sessions": 67,
+      "durationMs": 18107054
     },
     "2026-02-05": {
       "sessions": 25,
