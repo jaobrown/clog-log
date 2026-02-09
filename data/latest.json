@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-02-09T13:11:35.560Z",
+  "generatedAt": "2026-02-09T17:00:02.614Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1291,
-    "totalDurationMs": 809811246,
+    "totalSessions": 1292,
+    "totalDurationMs": 809831989,
     "totalTokens": 2154192810,
     "projectCount": 12
   },
@@ -875,9 +875,15 @@
     },
     {
       "projectName": "gaia",
-      "totalSessions": 500,
-      "totalDurationMs": 279177716,
+      "totalSessions": 501,
+      "totalDurationMs": 279198459,
       "sessions": [
+        {
+          "id": "b4d662ff-b968-4d87-84a4-3abd91b693c7",
+          "title": "Command Session (/extra-usage)",
+          "timestamp": "2026-02-09T14:26:21.169Z",
+          "totalDurationMs": 20743
+        },
         {
           "id": "2e558b58-f782-4d85-8ee7-69262595e193",
           "title": "Agent Team Session (/team-dev)",
@@ -2456,6 +2462,10 @@
       "sessions": 3,
       "durationMs": 240812752
     },
+    "2026-02-09": {
+      "sessions": 2,
+      "durationMs": 81147
+    },
     "2026-02-06": {
       "sessions": 67,
       "durationMs": 18107054
@@ -2499,10 +2509,6 @@
     "2026-02-07": {
       "sessions": 27,
       "durationMs": 2334871
-    },
-    "2026-02-09": {
-      "sessions": 1,
-      "durationMs": 60404
     }
   },
   "tokenUsage": {
