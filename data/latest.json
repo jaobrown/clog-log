@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-09T17:00:02.614Z",
+  "generatedAt": "2026-02-09T21:00:05.174Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1292,
-    "totalDurationMs": 809831989,
-    "totalTokens": 2154192810,
+    "totalSessions": 1299,
+    "totalDurationMs": 813530508,
+    "totalTokens": 2183852719,
     "projectCount": 12
   },
   "projects": [
@@ -875,9 +875,27 @@
     },
     {
       "projectName": "gaia",
-      "totalSessions": 501,
-      "totalDurationMs": 279198459,
+      "totalSessions": 508,
+      "totalDurationMs": 282896978,
       "sessions": [
+        {
+          "id": "fb84ae16-1ca3-4e0e-99dd-025646f79a18",
+          "title": "Agent Team Session",
+          "timestamp": "2026-02-09T20:14:50.157Z",
+          "totalDurationMs": 2698219
+        },
+        {
+          "id": "71c1f316-3e58-4ddf-8db5-bf546d1ce9ee",
+          "title": "(no title)",
+          "timestamp": "2026-02-09T20:05:49.935Z",
+          "totalDurationMs": 838101
+        },
+        {
+          "id": "77dc0d3d-c464-42d4-9b91-7607a6edb77b",
+          "title": "(no title)",
+          "timestamp": "2026-02-09T19:40:51.728Z",
+          "totalDurationMs": 162199
+        },
         {
           "id": "b4d662ff-b968-4d87-84a4-3abd91b693c7",
           "title": "Command Session (/extra-usage)",
@@ -2463,8 +2481,8 @@
       "durationMs": 240812752
     },
     "2026-02-09": {
-      "sessions": 2,
-      "durationMs": 81147
+      "sessions": 9,
+      "durationMs": 3779666
     },
     "2026-02-06": {
       "sessions": 67,
@@ -2512,25 +2530,25 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 13007450,
-    "outputTokens": 2156363,
-    "cacheReadTokens": 1940286423,
-    "cacheCreationTokens": 198742574
+    "inputTokens": 13008582,
+    "outputTokens": 2187073,
+    "cacheReadTokens": 1967902137,
+    "cacheCreationTokens": 200754927
   },
   "toolUsage": {
-    "Grep": 3156,
-    "Read": 9149,
-    "Edit": 2498,
-    "Bash": 3583,
-    "Task": 647,
-    "Glob": 2060,
+    "Grep": 3239,
+    "Read": 9221,
+    "Edit": 2532,
+    "Bash": 3616,
+    "Task": 651,
+    "Glob": 2079,
     "TaskCreate": 427,
     "TaskUpdate": 761,
     "AskUserQuestion": 181,
-    "Write": 620,
+    "Write": 621,
     "WebFetch": 135,
     "WebSearch": 63,
-    "ExitPlanMode": 153,
+    "ExitPlanMode": 154,
     "mcp__convex__status": 3,
     "mcp__convex__logs": 3,
     "mcp__convex__data": 1,
@@ -2538,12 +2556,12 @@
     "TaskStop": 1,
     "EnterPlanMode": 5,
     "TodoWrite": 606,
-    "Skill": 32,
+    "Skill": 34,
+    "mcp__figma-desktop__get_design_context": 15,
+    "mcp__figma-desktop__get_screenshot": 14,
     "ToolSearch": 4,
     "mcp__linear-server__get_issue": 10,
     "mcp__linear-server__list_issues": 1,
-    "mcp__figma-desktop__get_design_context": 13,
-    "mcp__figma-desktop__get_screenshot": 12,
     "TeamCreate": 3,
     "SendMessage": 113,
     "TaskList": 21,
