@@ -6,8 +6,8 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   1300            Tokens     2.2B
-  Duration   226h 43m        Projects   12
+  Sessions   1311            Tokens     2.2B
+  Duration   226h 53m        Projects   12
 
 ```
 
@@ -19,7 +19,7 @@ TOP PROJECTS
   top secret     ############--------   79h 20m
   clog           #-------------------    4h 47m
   clogs          #-------------------    4h 39m
-  clog-web       --------------------    2h 57m
+  clog-web       --------------------     3h 7m
 
 ```
 
@@ -27,11 +27,11 @@ TOP PROJECTS
 RECENT SESSIONS
 ==================================================
 
-  2026-02-09  top secret  **********                 33.9M    1h 30m
-  2026-02-09  top secret  **********                 10.4M       13m
-  2026-02-09  top secret  **********                  2.1M        2m
-  2026-02-09  top secret  **********                     0        0m
-  2026-02-09  clog        (no title)                454.3k        1m
+  2026-02-10  clog-web    (no title)                 66.9k        0m
+  2026-02-10  clog-web    (no title)                284.0k        0m
+  2026-02-10  clog-web    (no title)                  3.3M        2m
+  2026-02-10  clog-web    (no title)                  2.3M        2m
+  2026-02-10  clog-web    (no title)                  1.3M        1m
 
 ```
 
@@ -40,7 +40,7 @@ MODEL USAGE
 ==================================================
 
   opus-4.5     ####################     4.3M (1.5B cached)
-  opus-4.6     --------------------    94.6k (88.0M cached)
+  opus-4.6     #-------------------   138.3k (126.7M cached)
   sonnet-4.5   --------------------    79.9k (6.5M cached)
 
 ```
