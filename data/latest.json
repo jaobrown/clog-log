@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-09T21:00:05.174Z",
+  "generatedAt": "2026-02-10T01:09:16.623Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1299,
-    "totalDurationMs": 813530508,
-    "totalTokens": 2183852719,
+    "totalSessions": 1300,
+    "totalDurationMs": 816239873,
+    "totalTokens": 2200631253,
     "projectCount": 12
   },
   "projects": [
@@ -874,991 +874,991 @@
       ]
     },
     {
-      "projectName": "gaia",
-      "totalSessions": 508,
-      "totalDurationMs": 282896978,
+      "projectName": "top secret",
+      "totalSessions": 509,
+      "totalDurationMs": 285606343,
       "sessions": [
         {
           "id": "fb84ae16-1ca3-4e0e-99dd-025646f79a18",
-          "title": "Agent Team Session",
+          "title": "**********",
           "timestamp": "2026-02-09T20:14:50.157Z",
-          "totalDurationMs": 2698219
+          "totalDurationMs": 5407584
         },
         {
           "id": "71c1f316-3e58-4ddf-8db5-bf546d1ce9ee",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-02-09T20:05:49.935Z",
           "totalDurationMs": 838101
         },
         {
           "id": "77dc0d3d-c464-42d4-9b91-7607a6edb77b",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-02-09T19:40:51.728Z",
           "totalDurationMs": 162199
         },
         {
           "id": "b4d662ff-b968-4d87-84a4-3abd91b693c7",
-          "title": "Command Session (/extra-usage)",
+          "title": "**********",
           "timestamp": "2026-02-09T14:26:21.169Z",
           "totalDurationMs": 20743
         },
         {
           "id": "2e558b58-f782-4d85-8ee7-69262595e193",
-          "title": "Agent Team Session (/team-dev)",
+          "title": "**********",
           "timestamp": "2026-02-06T22:10:40.661Z",
           "totalDurationMs": 3443036
         },
         {
           "id": "683e3660-6c06-458c-a023-be16123c8ed2",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-02-06T19:38:25.647Z",
           "totalDurationMs": 0
         },
         {
           "id": "7f3d6d0c-d6ac-45ea-ba34-a8869b0e4363",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-02-06T18:42:00.964Z",
           "totalDurationMs": 52299
         },
         {
           "id": "84c9aa39-994f-4f3e-98c5-b099469d55f7",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-02-06T18:41:21.076Z",
           "totalDurationMs": 2794
         },
         {
           "id": "347177ae-372f-43a5-9e2e-0a9a72fafb02",
-          "title": "Agent Team Session (/agent-team)",
+          "title": "**********",
           "timestamp": "2026-02-05T21:32:02.273Z",
           "totalDurationMs": 1341442
         },
         {
           "id": "63a12329-41f9-46f8-a5d6-68c7dfe2289d",
-          "title": "Agent Team Session",
+          "title": "**********",
           "timestamp": "2026-02-05T20:16:55.536Z",
           "totalDurationMs": 55657
         },
         {
           "id": "591f8b4a-498d-43c3-a07a-f0e502b972e2",
-          "title": "Command Session (/frontend-design)",
+          "title": "**********",
           "timestamp": "2026-02-05T20:06:36.621Z",
           "totalDurationMs": 4812188
         },
         {
           "id": "b78d4135-67c0-463e-9f70-6aa7dc4fa7c2",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-02-05T20:01:36.954Z",
           "totalDurationMs": 1409358
         },
         {
           "id": "687df9a9-3f2d-41fc-896c-c09d5ec05f93",
-          "title": "Command Session (/frontend-design)",
+          "title": "**********",
           "timestamp": "2026-02-05T19:39:43.273Z",
           "totalDurationMs": 1042
         },
         {
           "id": "2e101cdb-12d1-472b-84fa-c151b5c0250c",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-02-05T18:46:26.644Z",
           "totalDurationMs": 1499941
         },
         {
           "id": "b6dc8606-42f6-413e-9ad1-69cae5349fc4",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-02-05T18:28:51.174Z",
           "totalDurationMs": 781872
         },
         {
           "id": "3368e286-09a2-456e-bfd6-99140f9cc160",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-02-05T15:06:28.187Z",
           "totalDurationMs": 972131
         },
         {
           "id": "cc223a36-a283-424e-8063-917e9e846fec",
-          "title": "Command Session (/frontend-design)",
+          "title": "**********",
           "timestamp": "2026-02-04T22:03:47.239Z",
           "totalDurationMs": 1132174
         },
         {
           "id": "9e30dbec-20fc-4622-8cc0-7581beeb5cd3",
-          "title": "Command Session (/frontend-design)",
+          "title": "**********",
           "timestamp": "2026-02-04T21:45:57.844Z",
           "totalDurationMs": 972192
         },
         {
           "id": "94af65f7-ec89-4a05-b7d0-df9f833ab2c6",
-          "title": "Agent Team Session (/feature-dev:feature-dev)",
+          "title": "**********",
           "timestamp": "2026-02-04T21:18:27.673Z",
           "totalDurationMs": 2318821
         },
         {
           "id": "a02f091b-f7c6-4ba0-877b-dd30ffffefdc",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-02-04T19:16:06.135Z",
           "totalDurationMs": 1405361
         },
         {
           "id": "5f9ea792-c3ee-4bf0-b996-8265617f47d0",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-02-04T18:45:31.559Z",
           "totalDurationMs": 365252
         },
         {
           "id": "6f39446c-6764-4de2-b13d-dc50333fbcd9",
-          "title": "Agent Team Session (/feature-dev:feature-dev)",
+          "title": "**********",
           "timestamp": "2026-02-04T16:31:59.536Z",
           "totalDurationMs": 814547
         },
         {
           "id": "90bae31f-e67a-491b-a668-b877579c8815",
-          "title": "Agent Team Session (/feature-dev:feature-dev)",
+          "title": "**********",
           "timestamp": "2026-02-04T15:13:29.072Z",
           "totalDurationMs": 1155085
         },
         {
           "id": "424ddaef-3944-4010-9fe5-d9142511417e",
-          "title": "Agent Team Session (/feature-dev:feature-dev)",
+          "title": "**********",
           "timestamp": "2026-02-04T00:07:04.363Z",
           "totalDurationMs": 1063339
         },
         {
           "id": "f2366cf7-73dc-44e1-a0b9-551658588b91",
-          "title": "Tilt Log Level Filtering Not Recognizing App Errors",
+          "title": "**********",
           "timestamp": "2026-02-03T23:55:25.594Z",
           "totalDurationMs": 2268437
         },
         {
           "id": "5126e0a1-071b-44a6-904c-128ec6333a36",
-          "title": "Twitter/X Scraping Implementation with RapidAPI",
+          "title": "**********",
           "timestamp": "2026-02-03T19:26:20.442Z",
           "totalDurationMs": 6697676
         },
         {
           "id": "6b45b31c-e084-419d-b354-49b29f31a2b6",
-          "title": "Implement social media scraper with API validation",
+          "title": "**********",
           "timestamp": "2026-02-03T18:50:08.380Z",
           "totalDurationMs": 2047444
         },
         {
           "id": "399d07b8-6dc6-4ebc-a3f8-2bfbf5fca315",
-          "title": "Social media engagement scraping workflow implementation",
+          "title": "**********",
           "timestamp": "2026-02-02T21:45:38.489Z",
           "totalDurationMs": 748660
         },
         {
           "id": "1fb9dd65-1b46-4d9a-b66d-ba8b643b7415",
-          "title": "Temporal workflow for hourly social metrics scraping",
+          "title": "**********",
           "timestamp": "2026-02-02T21:32:20.399Z",
           "totalDurationMs": 1269088
         },
         {
           "id": "d43d8575-fddf-498b-94e9-f2e194554b2e",
-          "title": "Scope full embed support in chat",
+          "title": "**********",
           "timestamp": "2026-02-02T20:39:48.167Z",
           "totalDurationMs": 1413873
         },
         {
           "id": "c9366e89-0d57-4090-99d4-94923bf4659a",
-          "title": "Normalize chat bubbles & move feedback to hover",
+          "title": "**********",
           "timestamp": "2026-02-02T20:19:45.815Z",
           "totalDurationMs": 232324
         },
         {
           "id": "76fb3e9e-a021-4093-8a61-b09103dafe9e",
-          "title": "Chat bubble styling and hover actions unification",
+          "title": "**********",
           "timestamp": "2026-02-02T20:04:58.135Z",
           "totalDurationMs": 810334
         },
         {
           "id": "3739f6af-f7e2-4c7e-beee-30e8a96fdd81",
-          "title": "Fixed nested ChatContext state desync issue",
+          "title": "**********",
           "timestamp": "2026-02-02T17:51:58.904Z",
           "totalDurationMs": 314942
         },
         {
           "id": "c063f7a1-c8ac-4b22-8bf3-06e6ced9918d",
-          "title": "Remove Indy AI Conversation Filters",
+          "title": "**********",
           "timestamp": "2026-02-02T17:47:53.505Z",
           "totalDurationMs": 138740
         },
         {
           "id": "c84db30d-dfe5-4b0d-b5f1-dc8595f4a2f7",
-          "title": "Remove filter hiding indy AI conversations from chat list",
+          "title": "**********",
           "timestamp": "2026-02-02T17:45:11.705Z",
           "totalDurationMs": 179990
         },
         {
           "id": "13023d10-e35e-4288-92f0-cd886022441f",
-          "title": "Move Indy AI from Mini Chat to Main Chat",
+          "title": "**********",
           "timestamp": "2026-02-02T17:31:59.084Z",
           "totalDurationMs": 3936603
         },
         {
           "id": "a1123834-bf87-4dc6-b1b7-fc0f6b96451d",
-          "title": "Move Indy AI bot to main chat",
+          "title": "**********",
           "timestamp": "2026-02-02T16:16:04.111Z",
           "totalDurationMs": 922679
         },
         {
           "id": "282bcc23-93dc-4beb-a086-a8bfe0666c36",
-          "title": "Add integration tests for challenge join workflow",
+          "title": "**********",
           "timestamp": "2026-02-02T15:01:22.566Z",
           "totalDurationMs": 1671461
         },
         {
           "id": "3801eedc-7638-4d43-92a4-79e86b330219",
-          "title": "Schedule 24h challenge reminder workflow",
+          "title": "**********",
           "timestamp": "2026-02-02T14:12:10.542Z",
           "totalDurationMs": 1301449
         },
         {
           "id": "b940feaf-37ff-45f6-a774-d14a3ec4cfa5",
-          "title": "Refactor submitChallengeSocialPost with flattened control flow",
+          "title": "**********",
           "timestamp": "2026-01-30T23:37:54.670Z",
           "totalDurationMs": 370708
         },
         {
           "id": "349b18c8-51cc-418b-ad52-0e0b961985ab",
-          "title": "Challenge Name Matching Flexibility Improvement",
+          "title": "**********",
           "timestamp": "2026-01-30T23:31:46.797Z",
           "totalDurationMs": 395908
         },
         {
           "id": "fb4e76eb-a9d7-4d94-a79e-c55435422879",
-          "title": "Social post submission tool with multi-challenge clarification",
+          "title": "**********",
           "timestamp": "2026-01-30T23:02:23.572Z",
           "totalDurationMs": 2325783
         },
         {
           "id": "f223aac9-91f8-44b9-b7a4-101efd86435e",
-          "title": "Challenge social post submission tracking",
+          "title": "**********",
           "timestamp": "2026-01-30T22:06:04.858Z",
           "totalDurationMs": 1939549
         },
         {
           "id": "c9cd0306-e4e7-4a35-a1a5-5953c1a1f589",
-          "title": "Update Challenge Join Indy AI Message Content",
+          "title": "**********",
           "timestamp": "2026-01-30T21:48:42.370Z",
           "totalDurationMs": 21846
         },
         {
           "id": "f85ba69c-ef18-46f7-9118-e4612d6532b7",
-          "title": "Implement Indy AI Challenge Join Message Workflow",
+          "title": "**********",
           "timestamp": "2026-01-30T21:34:56.594Z",
           "totalDurationMs": 670188
         },
         {
           "id": "f8322e5d-cfb2-4644-9e8f-368f6b104518",
-          "title": "Challenge Join Indy AI Message Workflow",
+          "title": "**********",
           "timestamp": "2026-01-30T21:20:56.302Z",
           "totalDurationMs": 1059389
         },
         {
           "id": "0e4e2d31-101f-4652-b703-5727753613e3",
-          "title": "GraphQL non-nullable field missing from SQL loader",
+          "title": "**********",
           "timestamp": "2026-01-30T19:24:05.976Z",
           "totalDurationMs": 71100
         },
         {
           "id": "776eeb9f-584c-4659-a07d-bf1514b9a028",
-          "title": "Resolved Merge Conflicts Keeping Local Changes",
+          "title": "**********",
           "timestamp": "2026-01-30T18:03:02.782Z",
           "totalDurationMs": 23225
         },
         {
           "id": "024fbe1b-8043-44bb-9aec-62b2b8e43f06",
-          "title": "Removed unused component directories and files",
+          "title": "**********",
           "timestamp": "2026-01-30T17:14:43.815Z",
           "totalDurationMs": 19432
         },
         {
           "id": "dad9ecc7-1866-4a35-844b-4fa7dc2f4a70",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-01-30T16:25:06.413Z",
           "totalDurationMs": 0
         },
         {
           "id": "bdd50635-84cc-4468-a149-e66d2982894c",
-          "title": "Remove RequestMembershipModal and upsell flow",
+          "title": "**********",
           "timestamp": "2026-01-30T16:02:11.341Z",
           "totalDurationMs": 1447131
         },
         {
           "id": "383a6f6c-7383-40ff-941b-d51c7a9729f8",
-          "title": "Document AI instructions in single source",
+          "title": "**********",
           "timestamp": "2026-01-29T22:57:01.058Z",
           "totalDurationMs": 1757400
         },
         {
           "id": "f5956b8c-ca08-48a3-be9a-626f8b6d8d89",
-          "title": "Claude Feature Development Framework",
+          "title": "**********",
           "timestamp": "2026-01-29T22:56:42.611Z",
           "totalDurationMs": 3668
         },
         {
           "id": "41ed5926-d505-495a-b3d5-fdd6360e4560",
-          "title": "Claude Code Session Logger Setup",
+          "title": "**********",
           "timestamp": "2026-01-29T22:55:48.299Z",
           "totalDurationMs": 48323
         },
         {
           "id": "81b01bb7-78ef-454d-a6b1-f0b5b02f8650",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-01-29T22:52:16.995Z",
           "totalDurationMs": 0
         },
         {
           "id": "fa43b4e4-1aef-4df5-b411-9868624e65af",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-01-29T20:17:22.694Z",
           "totalDurationMs": 0
         },
         {
           "id": "a7f5951d-5490-4c78-80f6-0555fc44d341",
-          "title": "Fix truthy check bug by updating database ID",
+          "title": "**********",
           "timestamp": "2026-01-29T20:08:33.050Z",
           "totalDurationMs": 1106058
         },
         {
           "id": "b7f6e407-276a-457f-9ee6-3dcb51a92386",
-          "title": "Email Marketing Categories: Feed & Challenge",
+          "title": "**********",
           "timestamp": "2026-01-29T19:57:20.193Z",
           "totalDurationMs": 15005905
         },
         {
           "id": "ea31ca4a-54c7-4e81-9a1b-a8d713cc4919",
-          "title": "Fixed falsy ID check in tag validation logic",
+          "title": "**********",
           "timestamp": "2026-01-29T19:42:24.934Z",
           "totalDurationMs": 865445
         },
         {
           "id": "90c82b3e-1ae8-40ce-ad0a-719aaeaeaea3",
-          "title": "Adding teemux MCP server configuration",
+          "title": "**********",
           "timestamp": "2026-01-29T19:40:02.875Z",
           "totalDurationMs": 48750
         },
         {
           "id": "c091b6bb-974a-4f42-9ff9-61f9c1c3868c",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-01-29T19:39:43.938Z",
           "totalDurationMs": 10289
         },
         {
           "id": "8282a6b0-47e6-4fbe-9e3f-8cafccdfa4c9",
-          "title": "Social posts poll plaintext backfill workflow",
+          "title": "**********",
           "timestamp": "2026-01-29T17:50:18.681Z",
           "totalDurationMs": 4883034
         },
         {
           "id": "455c468f-0332-41a8-ab5f-8d441bdbc86e",
-          "title": "Test Pattern Consistency for Challenge Creation",
+          "title": "**********",
           "timestamp": "2026-01-29T01:43:39.730Z",
           "totalDurationMs": 31222
         },
         {
           "id": "b9db2f87-d8b5-4615-aaa0-a2303494e7cd",
-          "title": "Refine private challenge feed distribution tests",
+          "title": "**********",
           "timestamp": "2026-01-28T22:05:27.785Z",
           "totalDurationMs": 12806202
         },
         {
           "id": "9585833b-121f-4cb5-979f-27d6434fd1d8",
-          "title": "Private Challenge Feed Distribution Tests",
+          "title": "**********",
           "timestamp": "2026-01-28T21:28:28.102Z",
           "totalDurationMs": 1987344
         },
         {
           "id": "017a9529-6f9a-4036-806f-9ae6443adc10",
-          "title": "Fix Tool type mismatch in lazy loaded tools",
+          "title": "**********",
           "timestamp": "2026-01-28T20:23:28.244Z",
           "totalDurationMs": 683085
         },
         {
           "id": "06bc53bd-a2a9-4139-a6ed-76b2cfb87f1f",
-          "title": "Defer tag loading until user intent",
+          "title": "**********",
           "timestamp": "2026-01-28T19:39:47.818Z",
           "totalDurationMs": 1644499
         },
         {
           "id": "19439e78-3def-4922-a49f-d8de1c48b2c4",
-          "title": "Lazy-load social post tags on hover interaction",
+          "title": "**********",
           "timestamp": "2026-01-28T19:30:29.039Z",
           "totalDurationMs": 797040
         },
         {
           "id": "7da9ceb6-c848-4bca-9875-1fe7c8e044a3",
-          "title": "Challenge Visibility Tests: Integration & Distribution",
+          "title": "**********",
           "timestamp": "2026-01-28T17:54:47.788Z",
           "totalDurationMs": 3071428
         },
         {
           "id": "97562246-0c6d-474e-b2e4-77b0be335cae",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-01-28T17:38:20.320Z",
           "totalDurationMs": 0
         },
         {
           "id": "22b86e8c-8e35-4820-85c1-a1de19412668",
-          "title": "Remove lazy-loaded hooks dependency, fix optimistic updates",
+          "title": "**********",
           "timestamp": "2026-01-28T17:08:10.742Z",
           "totalDurationMs": 3372476
         },
         {
           "id": "648fb186-cd47-41a4-a394-d55fe660fac0",
-          "title": "Add contra-api tests for challenge visibility",
+          "title": "**********",
           "timestamp": "2026-01-28T17:01:09.509Z",
           "totalDurationMs": 927778
         },
         {
           "id": "43beb868-842f-455d-a698-9d31f48d0cb3",
-          "title": "Fix COMMUNITY_FEED_CREATOR auto-feature flag",
+          "title": "**********",
           "timestamp": "2026-01-28T14:56:44.334Z",
           "totalDurationMs": 15248
         },
         {
           "id": "0d9cf009-0c61-4e2a-95ae-86182f0dfb76",
-          "title": "Linear task: Remove auto-feature flag override",
+          "title": "**********",
           "timestamp": "2026-01-28T14:46:14.975Z",
           "totalDurationMs": 301819
         },
         {
           "id": "7cea48ac-1b0e-410f-a9d5-961c8b0f2b5b",
-          "title": "Private challenge visibility refactor with enum",
+          "title": "**********",
           "timestamp": "2026-01-27T20:09:31.246Z",
           "totalDurationMs": 7268508
         },
         {
           "id": "df655308-96ed-4ba5-862b-cca7a2767f87",
-          "title": "Optimize tag search: unified query, server-side search, pagination",
+          "title": "**********",
           "timestamp": "2026-01-27T16:32:40.896Z",
           "totalDurationMs": 9946932
         },
         {
           "id": "20dc1fff-910d-4a55-9f5c-2d74ca77915e",
-          "title": "Profile Pro Upsell Tooltip Demo Video",
+          "title": "**********",
           "timestamp": "2026-01-27T00:39:56.291Z",
           "totalDurationMs": 44064
         },
         {
           "id": "a7c1181d-2883-4c12-b6d1-bd106f0dd663",
-          "title": "Demo tooltip on Pro upsell profile page",
+          "title": "**********",
           "timestamp": "2026-01-26T22:18:19.341Z",
           "totalDurationMs": 203527
         },
         {
           "id": "8b56dab0-28d5-4f0b-b391-0ebe34dda08d",
-          "title": "Profile Pro Upsell Tooltip Demo Recording",
+          "title": "**********",
           "timestamp": "2026-01-26T22:11:10.499Z",
           "totalDurationMs": 221372
         },
         {
           "id": "e2daf667-c56c-4db4-8dc7-d7e92fb1ebae",
-          "title": "Demo video generator: fix Playwright video recording",
+          "title": "**********",
           "timestamp": "2026-01-26T21:46:53.797Z",
           "totalDurationMs": 1589321
         },
         {
           "id": "b1f3d668-813e-4a50-ad39-e003fff18942",
-          "title": "Profile Pro Upsell Tooltip Demo Video",
+          "title": "**********",
           "timestamp": "2026-01-26T21:46:12.155Z",
           "totalDurationMs": 25135
         },
         {
           "id": "2c99b0a2-1f2a-42db-bef8-57f154ff1fb6",
-          "title": "Create tooltip demo for Contra Pro upsell",
+          "title": "**********",
           "timestamp": "2026-01-26T21:44:33.080Z",
           "totalDurationMs": 15067
         },
         {
           "id": "4079f704-ee90-4a06-aa55-ec62491a92b1",
-          "title": "Fix Mobile Typing Lag: Layout Thrashing",
+          "title": "**********",
           "timestamp": "2026-01-26T20:47:47.639Z",
           "totalDurationMs": 3885532
         },
         {
           "id": "1f300f29-db17-4517-bea2-c951cff30ea2",
-          "title": "Mobile input laggy due to layout thrashing",
+          "title": "**********",
           "timestamp": "2026-01-26T20:06:30.850Z",
           "totalDurationMs": 657171
         },
         {
           "id": "37b64ff1-5ab6-4082-a09f-1a54007b332b",
-          "title": "Mobile input lag: render pipeline optimization",
+          "title": "**********",
           "timestamp": "2026-01-26T20:05:10.601Z",
           "totalDurationMs": 199671
         },
         {
           "id": "5ca37fae-4b9f-4771-8f4f-7a9402260d60",
-          "title": "Mobile Input Lag: Frontend Performance Investigation",
+          "title": "**********",
           "timestamp": "2026-01-26T20:04:07.805Z",
           "totalDurationMs": 123891
         },
         {
           "id": "0cec578c-3ade-4820-a30a-27c3a1df5d79",
-          "title": "CSP Configuration: Adding unpkg.com for React Scan",
+          "title": "**********",
           "timestamp": "2026-01-26T19:55:33.288Z",
           "totalDurationMs": 16856
         },
         {
           "id": "117fe1fc-ff7f-4fc9-8baf-ec44144ae9fc",
-          "title": "Mobile typing lag: debounce editor state updates",
+          "title": "**********",
           "timestamp": "2026-01-26T17:37:58.818Z",
           "totalDurationMs": 6516055
         },
         {
           "id": "ba5dab56-957c-4032-84cc-d1076cdf9808",
-          "title": "Remove Loom and Litmus Label References from Mergify",
+          "title": "**********",
           "timestamp": "2026-01-26T17:35:23.985Z",
           "totalDurationMs": 39017
         },
         {
           "id": "9ea2676a-df96-4e92-95da-c8641039f139",
-          "title": "Fix emoji picker not opening on button click",
+          "title": "**********",
           "timestamp": "2026-01-26T16:45:23.601Z",
           "totalDurationMs": 1475018
         },
         {
           "id": "f44bd305-b813-443f-9d6f-333a14b2b112",
-          "title": "Fix social feed backfill rollout hole",
+          "title": "**********",
           "timestamp": "2026-01-26T16:38:07.189Z",
           "totalDurationMs": 183799
         },
         {
           "id": "81a4203f-0615-480c-8a55-a54007c88f17",
-          "title": "Split database migration: UPDATE and INDEX into separate files",
+          "title": "**********",
           "timestamp": "2026-01-26T16:06:48.517Z",
           "totalDurationMs": 37250
         },
         {
           "id": "adf5b860-d2a8-4f51-b115-3a51b783591f",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-01-26T15:39:15.172Z",
           "totalDurationMs": 0
         },
         {
           "id": "9b4f75bb-d43d-402e-98e7-f724ce27d71e",
-          "title": "PR Demo Video Generator Setup & Troubleshooting",
+          "title": "**********",
           "timestamp": "2026-01-26T15:06:52.351Z",
           "totalDurationMs": 2649454
         },
         {
           "id": "b6cc522a-2b91-4640-bed6-23279f48c1d4",
-          "title": "PR demo: toggle visibility fix on community page",
+          "title": "**********",
           "timestamp": "2026-01-26T15:05:18.698Z",
           "totalDurationMs": 83306
         },
         {
           "id": "a8994679-fb18-47e2-aaa3-6d25b4ca7663",
-          "title": "LLM evals async: Temporal workflow optimization",
+          "title": "**********",
           "timestamp": "2026-01-23T20:45:01.028Z",
           "totalDurationMs": 1242822
         },
         {
           "id": "c5d25c5c-6320-4c96-87cb-4b5b9698fbe8",
-          "title": "Remove feature flag missing error throws",
+          "title": "**********",
           "timestamp": "2026-01-23T20:13:39.850Z",
           "totalDurationMs": 6527
         },
         {
           "id": "15300acf-59fc-42f2-9257-eff46e1f0a47",
-          "title": "Remove feature flags missing errors",
+          "title": "**********",
           "timestamp": "2026-01-23T20:04:17.449Z",
           "totalDurationMs": 238188
         },
         {
           "id": "56b5c38f-508b-42cb-bde4-9659d9b6da0f",
-          "title": "Fix duplicate file uploads in social post",
+          "title": "**********",
           "timestamp": "2026-01-23T17:05:43.598Z",
           "totalDurationMs": 3358247
         },
         {
           "id": "c9a84efc-7c2b-4550-9e39-c77d666e58fe",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-01-22T21:24:41.265Z",
           "totalDurationMs": 2179
         },
         {
           "id": "ba1839d0-e47e-451e-b36e-75690a570e0e",
-          "title": "Delete all node_modules directories recursively",
+          "title": "**********",
           "timestamp": "2026-01-22T21:00:16.897Z",
           "totalDurationMs": 16602
         },
         {
           "id": "c7363a72-7167-4659-8b29-ab7a8523b430",
-          "title": "Add E2E timing instrumentation to createSocialPost",
+          "title": "**********",
           "timestamp": "2026-01-22T20:41:45.660Z",
           "totalDurationMs": 17638917
         },
         {
           "id": "b1949241-d0d3-480e-9bbb-04bcb11a73d5",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-01-22T19:29:55.142Z",
           "totalDurationMs": 9887
         },
         {
           "id": "2cee59b3-0975-4b08-b239-a9c65e7983bd",
-          "title": "Emoji Picker Layout Fix ShareYourWork Modal",
+          "title": "**********",
           "timestamp": "2026-01-22T19:18:08.258Z",
           "totalDurationMs": 748946
         },
         {
           "id": "faee6483-0cc3-4d43-a184-ddba665fa06d",
-          "title": "Fix trending topics limit on topic pages",
+          "title": "**********",
           "timestamp": "2026-01-22T19:06:56.764Z",
           "totalDurationMs": 436708
         },
         {
           "id": "c818042f-6d37-4928-9dbd-858deb306a74",
-          "title": "Claude Code LSP Access and Type Checking Tools",
+          "title": "**********",
           "timestamp": "2026-01-22T17:53:40.350Z",
           "totalDurationMs": 18279
         },
         {
           "id": "07c73e43-bf46-4433-a52d-155b1f78f360",
-          "title": "Type Errors Introduction and Reversion",
+          "title": "**********",
           "timestamp": "2026-01-22T17:40:53.543Z",
           "totalDurationMs": 74181
         },
         {
           "id": "a58b614f-2ba1-425a-8133-c7612b098678",
-          "title": "Claude Code hook setup for lint/type checks",
+          "title": "**********",
           "timestamp": "2026-01-22T17:24:49.927Z",
           "totalDurationMs": 1151282
         },
         {
           "id": "94ce1a65-368b-4f7f-bb98-a4efd038a3e4",
-          "title": "Fix black screen in reply image modal",
+          "title": "**********",
           "timestamp": "2026-01-22T16:57:24.239Z",
           "totalDurationMs": 662302
         },
         {
           "id": "76820b1f-f55e-44d3-aee6-62d2bf5491c7",
-          "title": "(no title)",
+          "title": "**********",
           "timestamp": "2026-01-22T16:48:40.342Z",
           "totalDurationMs": 10480
         },
         {
           "id": "b3563af2-6518-470d-b908-070748e9adc8",
-          "title": "Set Tastetest Poll Question as Portfolio Description",
+          "title": "**********",
           "timestamp": "2026-01-22T15:32:24.931Z",
           "totalDurationMs": 4825707
         },
         {
           "id": "cddfeee0-eeed-41e7-b18d-9a952da7bf5e",
-          "title": "Repost Performance Bottleneck Analysis & Optimization",
+          "title": "**********",
           "timestamp": "2026-01-21T20:21:45.834Z",
           "totalDurationMs": 8016870
         },
         {
           "id": "fed8b73c-7feb-44f4-a515-59e214106f10",
-          "title": "Optimize Repost Mutation Performance Bottlenecks",
+          "title": "**********",
           "timestamp": "2026-01-21T20:19:21.650Z",
           "totalDurationMs": 9535
         },
         {
           "id": "4f23b7d7-196c-4818-bb9f-2cecd5ab3cc4",
-          "title": "Social post repost mutation performance optimization",
+          "title": "**********",
           "timestamp": "2026-01-21T19:49:44.312Z",
           "totalDurationMs": 4617
         },
         {
           "id": "188c84e4-fec2-42c6-b25a-d7686e8ba809",
-          "title": "Optimize repost mutation performance bottlenecks",
+          "title": "**********",
           "timestamp": "2026-01-21T19:36:18.810Z",
           "totalDurationMs": 11810
         },
         {
           "id": "824ba763-d7c1-42bf-ab2e-f7525acefa2e",
-          "title": "Social post to portfolio modal UX improvement",
+          "title": "**********",
           "timestamp": "2026-01-21T17:32:26.092Z",
           "totalDurationMs": 3114291
         },
         {
           "id": "65c2859e-ed11-4734-981f-90e2ca0f3dae",
-          "title": "Modal close button blocked by social input focus logic",
+          "title": "**********",
           "timestamp": "2026-01-21T16:39:37.044Z",
           "totalDurationMs": 76068
         },
         {
           "id": "14b561b3-c057-4cc3-97a8-9472c94aad39",
-          "title": "Increase trending topics limit from 3 to 5",
+          "title": "**********",
           "timestamp": "2026-01-20T20:13:10.787Z",
           "totalDurationMs": 0
         },
         {
           "id": "d9de150b-bd16-4aeb-b113-5773e8680f5c",
-          "title": "Increase trending topics list limit to 5",
+          "title": "**********",
           "timestamp": "2026-01-20T19:51:06.454Z",
           "totalDurationMs": 225948
         },
         {
           "id": "7162d62b-88d6-4026-92ea-ca58eaf9ea44",
-          "title": "Zod v4 CSP Eval Violation Feature Detection",
+          "title": "**********",
           "timestamp": "2026-01-20T17:54:55.976Z",
           "totalDurationMs": 3325272
         },
         {
           "id": "f5d973a7-c4da-496c-ae15-626618e84695",
-          "title": "Update E2E tests for new CreateButtons modal flow",
+          "title": "**********",
           "timestamp": "2026-01-16T22:06:06.442Z",
           "totalDurationMs": 398997
         },
         {
           "id": "26c17f94-1bb2-43fa-8519-e3f0386a7761",
-          "title": "Add useAnalytics tracking to branch flows",
+          "title": "**********",
           "timestamp": "2026-01-16T21:25:11.940Z",
           "totalDurationMs": 720632
         },
         {
           "id": "7d6108ef-b808-40e5-89b1-760d6e61c73e",
-          "title": "Portfolio \"Add Work\" Modal Flow Extraction",
+          "title": "**********",
           "timestamp": "2026-01-16T20:47:38.460Z",
           "totalDurationMs": 1519790
         },
         {
           "id": "4d6f406e-26a3-4c37-9ebd-49bc7959ccb1",
-          "title": "Build SocialPostShareToFeedCard component",
+          "title": "**********",
           "timestamp": "2026-01-16T20:19:01.054Z",
           "totalDurationMs": 154134
         },
         {
           "id": "54d53432-1e77-4e60-a30c-9a3305947add",
-          "title": "FirstHackathonPostIsLiveModal: Challenge Post Trigger Implementation",
+          "title": "**********",
           "timestamp": "2026-01-16T01:11:48.685Z",
           "totalDurationMs": 655416
         },
         {
           "id": "be356697-2f2f-4a53-a05d-8c2430ff2299",
-          "title": "Update AgreeToGuidelinesModal Design from Figma",
+          "title": "**********",
           "timestamp": "2026-01-15T23:47:59.189Z",
           "totalDurationMs": 794584
         },
         {
           "id": "82588424-6e00-434a-9827-51b1bcf0b6c6",
-          "title": "Guidelines acceptance gating for challenges",
+          "title": "**********",
           "timestamp": "2026-01-14T20:54:19.176Z",
           "totalDurationMs": 4424905
         },
         {
           "id": "bafc4312-c76d-4832-ad3a-2fb883eb1a8e",
-          "title": "Styled Components to Panda CSS Modal Migration",
+          "title": "**********",
           "timestamp": "2026-01-14T17:42:57.129Z",
           "totalDurationMs": 4836339
         },
         {
           "id": "0b0a29c5-742c-451e-829e-b590178194ff",
-          "title": "Fix ESLint naming convention error for __dirname",
+          "title": "**********",
           "timestamp": "2026-01-14T14:43:25.475Z",
           "totalDurationMs": 23768
         },
         {
           "id": "80360c48-bbe6-4dfa-9e23-73f758743007",
-          "title": "Feature flags CI build failure fix",
+          "title": "**********",
           "timestamp": "2026-01-13T21:14:43.132Z",
           "totalDurationMs": 464499
         },
         {
           "id": "c4f362f5-f324-4d5e-a1b8-b415e556f710",
-          "title": "Unfollow Toast with Undo Functionality",
+          "title": "**********",
           "timestamp": "2026-01-13T20:46:33.176Z",
           "totalDurationMs": 451809
         },
         {
           "id": "24aba5ce-2d18-4693-bb94-956718632bbd",
-          "title": "Resolve merge conflicts in SocialPostInput component",
+          "title": "**********",
           "timestamp": "2026-01-13T20:35:35.348Z",
           "totalDurationMs": 19402
         },
         {
           "id": "8a16392e-bfbe-439c-95b6-b899f8e006c1",
-          "title": "Resolve SocialPostInput merge conflicts",
+          "title": "**********",
           "timestamp": "2026-01-13T19:56:26.287Z",
           "totalDurationMs": 84459
         },
         {
           "id": "6a4af82d-3427-4c14-9a89-675f1fea4887",
-          "title": "Fixed E2E test button text mismatch",
+          "title": "**********",
           "timestamp": "2026-01-13T19:04:30.008Z",
           "totalDurationMs": 60248
         },
         {
           "id": "ffc52c9f-e2d0-4111-81ae-cc91a02e53af",
-          "title": "Fix Draft Social Post URL Parsing Crash",
+          "title": "**********",
           "timestamp": "2026-01-13T17:32:26.938Z",
           "totalDurationMs": 545759
         },
         {
           "id": "d997e71e-82c7-448e-82f3-1ecc2f4ec21a",
-          "title": "Editorial Content Posts First in For-You Feed",
+          "title": "**********",
           "timestamp": "2026-01-12T21:49:21.555Z",
           "totalDurationMs": 8915
         },
         {
           "id": "1f1372d7-3eac-4cd0-b8ba-47656e66ea49",
-          "title": "Editorial Content Social Post Feed Slotting",
+          "title": "**********",
           "timestamp": "2026-01-12T18:15:09.679Z",
           "totalDurationMs": 10060
         },
         {
           "id": "b9c5f358-0632-4286-b795-67cd9f5e6db7",
-          "title": "Remote Environment Configuration Check",
+          "title": "**********",
           "timestamp": "2026-01-12T17:24:50.989Z",
           "totalDurationMs": 6262
         },
         {
           "id": "2b8b141e-14af-4d0b-b8ed-f6a789075a1e",
-          "title": "Slot Editorial Content Posts First in For-You Feed",
+          "title": "**********",
           "timestamp": "2026-01-12T17:14:25.586Z",
           "totalDurationMs": 7066
         },
         {
           "id": "989f55dd-ac80-4127-b84f-93e092bde2af",
-          "title": "Editorial content tag slotting in for-you feed",
+          "title": "**********",
           "timestamp": "2026-01-12T16:50:18.492Z",
           "totalDurationMs": 5574732
         },
         {
           "id": "23666ebe-b613-4c06-9e6d-e725a9d41f68",
-          "title": "Simplify useGetInspiredUrl.ts with agent",
+          "title": "**********",
           "timestamp": "2026-01-09T16:43:15.261Z",
           "totalDurationMs": 90462
         },
         {
           "id": "68442df6-82cd-488a-b289-bb3bbbfca891",
-          "title": "Claude Plugin Command Exploration Session",
+          "title": "**********",
           "timestamp": "2026-01-09T16:42:43.664Z",
           "totalDurationMs": 18342
         },
         {
           "id": "fc435cc1-024a-4996-bc9c-e0aa77e7165c",
-          "title": "Plugin Installation and Configuration Complete",
+          "title": "**********",
           "timestamp": "2026-01-09T16:41:25.781Z",
           "totalDurationMs": 4
         },
         {
           "id": "083da144-e4c2-4c94-918a-dec6ebc70e36",
-          "title": "Code Simplification Attempt With Plugin Issues",
+          "title": "**********",
           "timestamp": "2026-01-09T16:38:06.871Z",
           "totalDurationMs": 118736
         },
         {
           "id": "9004305a-462a-4d84-a561-3729d14b46d6",
-          "title": "GitHub Action for PostHog Feature Flags Validation",
+          "title": "**********",
           "timestamp": "2026-01-08T01:05:01.254Z",
           "totalDurationMs": 55136881
         },
         {
           "id": "7f38ebe0-9fe7-42bc-91e2-26df74a35cbc",
-          "title": "Add 200ms debounce to TopicsModalV2 search",
+          "title": "**********",
           "timestamp": "2026-01-07T22:10:12.235Z",
           "totalDurationMs": 62518
         },
         {
           "id": "443f5eff-f117-4046-95b7-a7bfc5042114",
-          "title": "Add Challenge Details to Topic Search Modal",
+          "title": "**********",
           "timestamp": "2026-01-07T21:58:01.405Z",
           "totalDurationMs": 413531
         },
         {
           "id": "61944fb5-9950-4dbc-8e1d-3ace0d826b21",
-          "title": "Add Trending Topics to Topics Modal",
+          "title": "**********",
           "timestamp": "2026-01-07T21:20:03.611Z",
           "totalDurationMs": 566794
         },
         {
           "id": "92971b45-80c1-4800-af33-458ef4f418aa",
-          "title": "Implement search bar style in TopicsModalV2",
+          "title": "**********",
           "timestamp": "2026-01-07T21:08:01.583Z",
           "totalDurationMs": 455973
         },
         {
           "id": "7da98508-b951-438e-9c2e-6ae2cfbb782e",
-          "title": "Figma UI Design Implementation for Topics Modal",
+          "title": "**********",
           "timestamp": "2026-01-07T20:52:12.819Z",
           "totalDurationMs": 686557
         },
         {
           "id": "f7eae130-f954-4801-97ae-eb729e6c072a",
-          "title": "Feature flag & modal redesign implementation",
+          "title": "**********",
           "timestamp": "2026-01-07T20:04:08.026Z",
           "totalDurationMs": 2298848
         },
         {
           "id": "22c031c3-86b2-4eaa-9b72-d48692425106",
-          "title": "SocialPostTag tagCustomization implementation",
+          "title": "**********",
           "timestamp": "2026-01-06T19:39:54.596Z",
           "totalDurationMs": 2435100
         },
         {
           "id": "85ed3ef6-ffa8-4e54-a978-54e24e434649",
-          "title": "Social post tag customization fields implementation",
+          "title": "**********",
           "timestamp": "2026-01-06T17:44:08.152Z",
           "totalDurationMs": 8146071
         },
         {
           "id": "49cf4945-0e89-4b4d-bf78-13952358022b",
-          "title": "Fix null topLevelSocialPost in notifications mutation",
+          "title": "**********",
           "timestamp": "2026-01-06T16:05:36.992Z",
           "totalDurationMs": 581409
         },
         {
           "id": "0766e550-c923-4103-81c9-2c00a129e4e6",
-          "title": "Docker PATH Issue with pnpm dev",
+          "title": "**********",
           "timestamp": "2026-01-05T18:30:55.041Z",
           "totalDurationMs": 6490
         },
         {
           "id": "161f701b-a8a4-4f8f-beb5-e01edaae2908",
-          "title": "Cherry-pick commit, stage selectively, exclude three files",
+          "title": "**********",
           "timestamp": "2026-01-05T18:26:21.405Z",
           "totalDurationMs": 74233
         },
         {
           "id": "f098598d-14e9-461e-8e97-6345e8aedf5d",
-          "title": "SC migration batch: 2 files already Panda CSS",
+          "title": "**********",
           "timestamp": "2026-01-05T17:56:44.341Z",
           "totalDurationMs": 97184
         },
         {
           "id": "a6e9bba9-43ee-4c13-bb76-c68962ed6bbc",
-          "title": "Styled-components batch migration coordination for Confetti components",
+          "title": "**********",
           "timestamp": "2026-01-05T17:54:23.958Z",
           "totalDurationMs": 58539
         },
         {
           "id": "a273990d-6544-410d-937c-5f80921f72a1",
-          "title": "Batch migrate 12 styled-components files to Panda CSS",
+          "title": "**********",
           "timestamp": "2026-01-05T17:39:46.257Z",
           "totalDurationMs": 447678
         },
         {
           "id": "e9f9b24a-8914-496e-a40d-7937514deba4",
-          "title": "SC migration batch task orchestration",
+          "title": "**********",
           "timestamp": "2026-01-05T17:36:03.816Z",
           "totalDurationMs": 35243
         },
         {
           "id": "df9963f7-bf92-4c2d-9d0c-75b574201da3",
-          "title": "Batch migrate styled-components using Linear task",
+          "title": "**********",
           "timestamp": "2026-01-05T17:29:23.108Z",
           "totalDurationMs": 129652
         },
         {
           "id": "935f47ac-7b91-4f6c-b462-7b56d2b2ffe6",
-          "title": "Batch migration failed: files not found",
+          "title": "**********",
           "timestamp": "2026-01-05T16:52:50.161Z",
           "totalDurationMs": 199476
         },
         {
           "id": "31e6a63a-f6fe-412b-bb29-cb5585c18563",
-          "title": "Styled Components Batch Migration Orchestrator",
+          "title": "**********",
           "timestamp": "2026-01-05T16:52:22.198Z",
           "totalDurationMs": 0
         },
         {
           "id": "51425906-f2f1-4d74-9418-78b3645671f7",
-          "title": "Add collapsible FeaturedTopicsCarousel to for-you page",
+          "title": "**********",
           "timestamp": "2025-12-30T19:21:52.907Z",
           "totalDurationMs": 686105
         }
@@ -2481,8 +2481,8 @@
       "durationMs": 240812752
     },
     "2026-02-09": {
-      "sessions": 9,
-      "durationMs": 3779666
+      "sessions": 10,
+      "durationMs": 6489031
     },
     "2026-02-06": {
       "sessions": 67,
@@ -2530,16 +2530,16 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 13008582,
-    "outputTokens": 2187073,
-    "cacheReadTokens": 1967902137,
-    "cacheCreationTokens": 200754927
+    "inputTokens": 13009262,
+    "outputTokens": 2207079,
+    "cacheReadTokens": 1984350979,
+    "cacheCreationTokens": 201063933
   },
   "toolUsage": {
-    "Grep": 3239,
-    "Read": 9221,
-    "Edit": 2532,
-    "Bash": 3616,
+    "Grep": 3267,
+    "Read": 9240,
+    "Edit": 2545,
+    "Bash": 3627,
     "Task": 651,
     "Glob": 2079,
     "TaskCreate": 427,
