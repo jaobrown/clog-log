@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-11T21:00:08.517Z",
+  "generatedAt": "2026-02-11T21:45:36.746Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1308,
-    "totalDurationMs": 816892007,
-    "totalTokens": 2212016886,
+    "totalSessions": 1327,
+    "totalDurationMs": 818929744,
+    "totalTokens": 2228594550,
     "projectCount": 12
   },
   "projects": [
@@ -875,9 +875,21 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 506,
-      "totalDurationMs": 285664640,
+      "totalSessions": 525,
+      "totalDurationMs": 287702377,
       "sessions": [
+        {
+          "id": "65ccf499-1b8f-472b-ac7d-e6e72ffd6bb6",
+          "title": "**********",
+          "timestamp": "2026-02-11T21:43:48.663Z",
+          "totalDurationMs": 41790
+        },
+        {
+          "id": "5db3dd7d-decc-43ea-a897-ca65883558b1",
+          "title": "**********",
+          "timestamp": "2026-02-11T21:00:28.897Z",
+          "totalDurationMs": 1995947
+        },
         {
           "id": "22c25fd9-0fb7-4ea7-9f9d-6a44b6c25268",
           "title": "**********",
@@ -2547,8 +2559,8 @@
       "durationMs": 240812752
     },
     "2026-02-11": {
-      "sessions": 4,
-      "durationMs": 44195
+      "sessions": 23,
+      "durationMs": 2081932
     },
     "2026-02-10": {
       "sessions": 12,
@@ -2604,21 +2616,21 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 13012782,
-    "outputTokens": 2208456,
-    "cacheReadTokens": 1994734193,
-    "cacheCreationTokens": 202061455
+    "inputTokens": 13013234,
+    "outputTokens": 2212865,
+    "cacheReadTokens": 2010190112,
+    "cacheCreationTokens": 203178339
   },
   "toolUsage": {
-    "Grep": 3270,
-    "Read": 9290,
-    "Edit": 2575,
-    "Bash": 3684,
-    "Task": 654,
-    "Glob": 2094,
-    "TaskCreate": 427,
-    "TaskUpdate": 761,
-    "AskUserQuestion": 181,
+    "Grep": 3324,
+    "Read": 9340,
+    "Edit": 2581,
+    "Bash": 3697,
+    "Task": 662,
+    "Glob": 2103,
+    "TaskCreate": 433,
+    "TaskUpdate": 780,
+    "AskUserQuestion": 183,
     "Write": 621,
     "WebFetch": 135,
     "WebSearch": 63,
@@ -2626,22 +2638,22 @@
     "mcp__convex__status": 3,
     "mcp__convex__logs": 3,
     "mcp__convex__data": 1,
-    "TaskOutput": 75,
+    "TaskOutput": 77,
     "TaskStop": 1,
     "EnterPlanMode": 5,
     "TodoWrite": 606,
-    "Skill": 34,
+    "Skill": 35,
+    "TeamCreate": 4,
+    "SendMessage": 137,
+    "TeamDelete": 2,
+    "TaskList": 25,
     "mcp__figma-desktop__get_design_context": 15,
     "mcp__figma-desktop__get_screenshot": 14,
     "ToolSearch": 4,
     "mcp__linear-server__get_issue": 10,
     "mcp__linear-server__list_issues": 1,
-    "TeamCreate": 3,
-    "SendMessage": 113,
-    "TaskList": 21,
     "mcp__figma-desktop__get_metadata": 4,
     "Teammate": 4,
-    "TeamDelete": 1,
     "TaskGet": 1
   },
   "modelBreakdown": {
