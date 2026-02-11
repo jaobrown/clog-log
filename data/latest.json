@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-11T17:00:07.140Z",
+  "generatedAt": "2026-02-11T21:00:08.517Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1312,
-    "totalDurationMs": 816864938,
-    "totalTokens": 2211250500,
+    "totalSessions": 1308,
+    "totalDurationMs": 816892007,
+    "totalTokens": 2212016886,
     "projectCount": 12
   },
   "projects": [
@@ -875,9 +875,33 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 510,
-      "totalDurationMs": 285637571,
+      "totalSessions": 506,
+      "totalDurationMs": 285664640,
       "sessions": [
+        {
+          "id": "22c25fd9-0fb7-4ea7-9f9d-6a44b6c25268",
+          "title": "**********",
+          "timestamp": "2026-02-11T20:50:17.218Z",
+          "totalDurationMs": 0
+        },
+        {
+          "id": "cd8098e2-713e-4c73-9c52-fe4ed23dcb72",
+          "title": "**********",
+          "timestamp": "2026-02-11T20:17:06.001Z",
+          "totalDurationMs": 11936
+        },
+        {
+          "id": "d56ae863-8fbf-42d1-897c-168d04d85220",
+          "title": "**********",
+          "timestamp": "2026-02-11T19:50:08.928Z",
+          "totalDurationMs": 32259
+        },
+        {
+          "id": "611b8cb4-98e1-4abb-9b42-d169810e68e3",
+          "title": "**********",
+          "timestamp": "2026-02-11T19:47:36.086Z",
+          "totalDurationMs": 0
+        },
         {
           "id": "ed450ca8-26bf-421d-b2b3-e5444c679b5a",
           "title": "**********",
@@ -1701,22 +1725,10 @@
           "totalDurationMs": 8915
         },
         {
-          "id": "1f1372d7-3eac-4cd0-b8ba-47656e66ea49",
-          "title": "**********",
-          "timestamp": "2026-01-12T18:15:09.679Z",
-          "totalDurationMs": 10060
-        },
-        {
           "id": "b9c5f358-0632-4286-b795-67cd9f5e6db7",
           "title": "**********",
           "timestamp": "2026-01-12T17:24:50.989Z",
           "totalDurationMs": 6262
-        },
-        {
-          "id": "2b8b141e-14af-4d0b-b8ed-f6a789075a1e",
-          "title": "**********",
-          "timestamp": "2026-01-12T17:14:25.586Z",
-          "totalDurationMs": 7066
         },
         {
           "id": "989f55dd-ac80-4127-b84f-93e092bde2af",
@@ -2499,8 +2511,8 @@
       "durationMs": 9021893
     },
     "2026-01-12": {
-      "sessions": 35,
-      "durationMs": 6505709
+      "sessions": 27,
+      "durationMs": 6488583
     },
     "2026-01-10": {
       "sessions": 19,
@@ -2533,6 +2545,10 @@
     "2025-12-30": {
       "sessions": 3,
       "durationMs": 240812752
+    },
+    "2026-02-11": {
+      "sessions": 4,
+      "durationMs": 44195
     },
     "2026-02-10": {
       "sessions": 12,
@@ -2588,16 +2604,16 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 13012777,
-    "outputTokens": 2208087,
-    "cacheReadTokens": 1994152856,
-    "cacheCreationTokens": 201876780
+    "inputTokens": 13012782,
+    "outputTokens": 2208456,
+    "cacheReadTokens": 1994734193,
+    "cacheCreationTokens": 202061455
   },
   "toolUsage": {
     "Grep": 3270,
-    "Read": 9292,
+    "Read": 9290,
     "Edit": 2575,
-    "Bash": 3678,
+    "Bash": 3684,
     "Task": 654,
     "Glob": 2094,
     "TaskCreate": 427,
@@ -2640,9 +2656,9 @@
       "cacheTokens": 6460860
     },
     "opus-4.6": {
-      "inputTokens": 25132,
-      "outputTokens": 113175,
-      "cacheTokens": 126691279
+      "inputTokens": 28488,
+      "outputTokens": 114069,
+      "cacheTokens": 135472446
     }
   }
 }
