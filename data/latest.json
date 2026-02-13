@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-13T13:08:59.254Z",
+  "generatedAt": "2026-02-13T17:00:07.635Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1327,
-    "totalDurationMs": 818929744,
-    "totalTokens": 2228594550,
+    "totalSessions": 1319,
+    "totalDurationMs": 818901427,
+    "totalTokens": 2228472788,
     "projectCount": 12
   },
   "projects": [
@@ -875,8 +875,8 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 525,
-      "totalDurationMs": 287702377,
+      "totalSessions": 517,
+      "totalDurationMs": 287674060,
       "sessions": [
         {
           "id": "65ccf499-1b8f-472b-ac7d-e6e72ffd6bb6",
@@ -1707,12 +1707,6 @@
           "totalDurationMs": 451809
         },
         {
-          "id": "24aba5ce-2d18-4693-bb94-956718632bbd",
-          "title": "**********",
-          "timestamp": "2026-01-13T20:35:35.348Z",
-          "totalDurationMs": 19402
-        },
-        {
           "id": "8a16392e-bfbe-439c-95b6-b899f8e006c1",
           "title": "**********",
           "timestamp": "2026-01-13T19:56:26.287Z",
@@ -1729,12 +1723,6 @@
           "title": "**********",
           "timestamp": "2026-01-13T17:32:26.938Z",
           "totalDurationMs": 545759
-        },
-        {
-          "id": "d997e71e-82c7-448e-82f3-1ecc2f4ec21a",
-          "title": "**********",
-          "timestamp": "2026-01-12T21:49:21.555Z",
-          "totalDurationMs": 8915
         },
         {
           "id": "b9c5f358-0632-4286-b795-67cd9f5e6db7",
@@ -2519,12 +2507,12 @@
       "durationMs": 12140985
     },
     "2026-01-13": {
-      "sessions": 63,
-      "durationMs": 9021893
+      "sessions": 59,
+      "durationMs": 9002491
     },
     "2026-01-12": {
-      "sessions": 27,
-      "durationMs": 6488583
+      "sessions": 23,
+      "durationMs": 6479668
     },
     "2026-01-10": {
       "sessions": 19,
@@ -2616,18 +2604,18 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 13013234,
-    "outputTokens": 2212865,
+    "inputTokens": 13013198,
+    "outputTokens": 2212379,
     "cacheReadTokens": 2010190112,
-    "cacheCreationTokens": 203178339
+    "cacheCreationTokens": 203057099
   },
   "toolUsage": {
     "Grep": 3324,
-    "Read": 9340,
+    "Read": 9339,
     "Edit": 2581,
-    "Bash": 3697,
+    "Bash": 3695,
     "Task": 662,
-    "Glob": 2103,
+    "Glob": 2100,
     "TaskCreate": 433,
     "TaskUpdate": 780,
     "AskUserQuestion": 183,
@@ -2668,9 +2656,9 @@
       "cacheTokens": 6460860
     },
     "opus-4.6": {
-      "inputTokens": 28488,
-      "outputTokens": 114069,
-      "cacheTokens": 135472446
+      "inputTokens": 28697,
+      "outputTokens": 117694,
+      "cacheTokens": 143605575
     }
   }
 }
