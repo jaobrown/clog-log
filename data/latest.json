@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-02-19T17:00:06.560Z",
+  "generatedAt": "2026-02-19T20:48:10.754Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1319,
-    "totalDurationMs": 818901427,
-    "totalTokens": 2228472788,
-    "projectCount": 12
+    "totalSessions": 1326,
+    "totalDurationMs": 819981395,
+    "totalTokens": 2236459950,
+    "projectCount": 13
   },
   "projects": [
     {
@@ -875,9 +875,27 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 517,
-      "totalDurationMs": 287674060,
+      "totalSessions": 523,
+      "totalDurationMs": 288689356,
       "sessions": [
+        {
+          "id": "91e6a0fb-0926-437f-b422-2d36789af19d",
+          "title": "**********",
+          "timestamp": "2026-02-19T19:02:11.623Z",
+          "totalDurationMs": 841739
+        },
+        {
+          "id": "86f79885-46b2-4ea2-9948-0c7c7e817289",
+          "title": "**********",
+          "timestamp": "2026-02-19T19:01:39.941Z",
+          "totalDurationMs": 173557
+        },
+        {
+          "id": "24ef3441-901a-4649-bc57-fbd3eaeeb48b",
+          "title": "**********",
+          "timestamp": "2026-02-19T18:03:33.715Z",
+          "totalDurationMs": 0
+        },
         {
           "id": "65ccf499-1b8f-472b-ac7d-e6e72ffd6bb6",
           "title": "**********",
@@ -2455,6 +2473,19 @@
           "totalDurationMs": 273895
         }
       ]
+    },
+    {
+      "projectName": "contra-web-app",
+      "totalSessions": 1,
+      "totalDurationMs": 64672,
+      "sessions": [
+        {
+          "id": "3ae393a6-2b1b-4e20-9a5a-4024fd9acf24",
+          "title": null,
+          "timestamp": "2026-02-19T19:16:06.177Z",
+          "totalDurationMs": 64672
+        }
+      ]
     }
   ],
   "activity": {
@@ -2546,6 +2577,10 @@
       "sessions": 3,
       "durationMs": 240812752
     },
+    "2026-02-19": {
+      "sessions": 7,
+      "durationMs": 1079968
+    },
     "2026-02-11": {
       "sessions": 23,
       "durationMs": 2081932
@@ -2604,18 +2639,18 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 13013198,
-    "outputTokens": 2212379,
-    "cacheReadTokens": 2010190112,
-    "cacheCreationTokens": 203057099
+    "inputTokens": 13128858,
+    "outputTokens": 2218215,
+    "cacheReadTokens": 2017093198,
+    "cacheCreationTokens": 204019679
   },
   "toolUsage": {
-    "Grep": 3324,
-    "Read": 9339,
-    "Edit": 2581,
-    "Bash": 3695,
-    "Task": 662,
-    "Glob": 2100,
+    "Grep": 3340,
+    "Read": 9384,
+    "Edit": 2591,
+    "Bash": 3696,
+    "Task": 665,
+    "Glob": 2113,
     "TaskCreate": 433,
     "TaskUpdate": 780,
     "AskUserQuestion": 183,
@@ -2630,7 +2665,7 @@
     "TaskStop": 1,
     "EnterPlanMode": 5,
     "TodoWrite": 606,
-    "Skill": 35,
+    "Skill": 36,
     "TeamCreate": 4,
     "SendMessage": 137,
     "TeamDelete": 2,
