@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-02-20T13:14:54.435Z",
+  "generatedAt": "2026-02-20T17:00:07.501Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1326,
-    "totalDurationMs": 819981395,
-    "totalTokens": 2236459950,
-    "projectCount": 13
+    "totalSessions": 1308,
+    "totalDurationMs": 817805989,
+    "totalTokens": 2230324898,
+    "projectCount": 12
   },
   "projects": [
     {
       "projectName": "spool",
-      "totalSessions": 570,
-      "totalDurationMs": 460291905,
+      "totalSessions": 566,
+      "totalDurationMs": 460283805,
       "sessions": [
         {
           "id": "5b682cf2-9a8b-474f-b29a-a014384ee06c",
@@ -584,12 +584,6 @@
           "totalDurationMs": 219728
         },
         {
-          "id": "071e71da-9686-4335-8b02-38b7fec0f00e",
-          "title": "(no title)",
-          "timestamp": "2026-01-19T02:39:49.679Z",
-          "totalDurationMs": 8100
-        },
-        {
           "id": "8149b6b7-b741-4ae3-b51b-ad8db513d3d5",
           "title": "GitHub OAuth Integration via Convex Auth",
           "timestamp": "2026-01-19T02:22:08.826Z",
@@ -875,7 +869,7 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 523,
+      "totalSessions": 519,
       "totalDurationMs": 288689356,
       "sessions": [
         {
@@ -1641,12 +1635,6 @@
           "totalDurationMs": 76068
         },
         {
-          "id": "14b561b3-c057-4cc3-97a8-9472c94aad39",
-          "title": "**********",
-          "timestamp": "2026-01-20T20:13:10.787Z",
-          "totalDurationMs": 0
-        },
-        {
           "id": "d9de150b-bd16-4aeb-b113-5773e8680f5c",
           "title": "**********",
           "timestamp": "2026-01-20T19:51:06.454Z",
@@ -2398,25 +2386,6 @@
       ]
     },
     {
-      "projectName": "imessage_export",
-      "totalSessions": 10,
-      "totalDurationMs": 2167306,
-      "sessions": [
-        {
-          "id": "9f40208f-cf4a-49ee-b09a-2414a7e32501",
-          "title": "Converting HTML chat data for LLM analysis",
-          "timestamp": "2026-01-20T17:56:23.727Z",
-          "totalDurationMs": 2151
-        },
-        {
-          "id": "71bcfb0d-ea5a-40bf-9d39-5afe8be89d71",
-          "title": "Analyzing 33K iMessage chat with LLM",
-          "timestamp": "2026-01-20T17:27:48.828Z",
-          "totalDurationMs": 2165155
-        }
-      ]
-    },
-    {
       "projectName": "clog-web",
       "totalSessions": 2,
       "totalDurationMs": 1851041,
@@ -2522,12 +2491,12 @@
       "durationMs": 31854274
     },
     "2026-01-20": {
-      "sessions": 51,
-      "durationMs": 8157991
+      "sessions": 37,
+      "durationMs": 5990685
     },
     "2026-01-19": {
-      "sessions": 28,
-      "durationMs": 5588844
+      "sessions": 24,
+      "durationMs": 5580744
     },
     "2026-01-18": {
       "sessions": 18,
@@ -2639,18 +2608,18 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 13128858,
-    "outputTokens": 2218215,
-    "cacheReadTokens": 2017093198,
-    "cacheCreationTokens": 204019679
+    "inputTokens": 13119905,
+    "outputTokens": 2194558,
+    "cacheReadTokens": 2011614273,
+    "cacheCreationTokens": 203396162
   },
   "toolUsage": {
     "Grep": 3340,
-    "Read": 9384,
+    "Read": 9381,
     "Edit": 2591,
-    "Bash": 3696,
+    "Bash": 3646,
     "Task": 665,
-    "Glob": 2113,
+    "Glob": 2110,
     "TaskCreate": 433,
     "TaskUpdate": 780,
     "AskUserQuestion": 183,
@@ -2664,7 +2633,7 @@
     "TaskOutput": 77,
     "TaskStop": 1,
     "EnterPlanMode": 5,
-    "TodoWrite": 606,
+    "TodoWrite": 598,
     "Skill": 36,
     "TeamCreate": 4,
     "SendMessage": 137,
