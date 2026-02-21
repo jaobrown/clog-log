@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-02-21T13:08:17.578Z",
+  "generatedAt": "2026-02-21T17:04:45.471Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1315,
-    "totalDurationMs": 818315565,
-    "totalTokens": 2234168752,
+    "totalSessions": 1301,
+    "totalDurationMs": 818744922,
+    "totalTokens": 2238445984,
     "projectCount": 12
   },
   "projects": [
     {
       "projectName": "spool",
-      "totalSessions": 566,
-      "totalDurationMs": 460283805,
+      "totalSessions": 562,
+      "totalDurationMs": 460274364,
       "sessions": [
         {
           "id": "5b682cf2-9a8b-474f-b29a-a014384ee06c",
@@ -524,12 +524,6 @@
           "totalDurationMs": 1304831
         },
         {
-          "id": "b22e6c2a-57e2-4cc9-ba51-ed8df298f46f",
-          "title": "Phase 3: Code Notes Generation Implementation",
-          "timestamp": "2026-01-21T16:45:23.949Z",
-          "totalDurationMs": 9441
-        },
-        {
           "id": "9be6d070-db68-4ed1-98c7-6b2be4287076",
           "title": "Phase 3: Code Notes Generation Implementation",
           "timestamp": "2026-01-21T16:00:43.325Z",
@@ -869,9 +863,15 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 524,
-      "totalDurationMs": 289064693,
+      "totalSessions": 514,
+      "totalDurationMs": 289503491,
       "sessions": [
+        {
+          "id": "b1ec14d2-bbe1-4484-bacd-28ffd40f35df",
+          "title": "**********",
+          "timestamp": "2026-02-21T13:10:55.434Z",
+          "totalDurationMs": 464760
+        },
         {
           "id": "9bd9384c-1819-4a85-a3ce-637ea1b9c988",
           "title": "**********",
@@ -1627,24 +1627,6 @@
           "title": "**********",
           "timestamp": "2026-01-21T20:21:45.834Z",
           "totalDurationMs": 8016870
-        },
-        {
-          "id": "fed8b73c-7feb-44f4-a515-59e214106f10",
-          "title": "**********",
-          "timestamp": "2026-01-21T20:19:21.650Z",
-          "totalDurationMs": 9535
-        },
-        {
-          "id": "4f23b7d7-196c-4818-bb9f-2cecd5ab3cc4",
-          "title": "**********",
-          "timestamp": "2026-01-21T19:49:44.312Z",
-          "totalDurationMs": 4617
-        },
-        {
-          "id": "188c84e4-fec2-42c6-b25a-d7686e8ba809",
-          "title": "**********",
-          "timestamp": "2026-01-21T19:36:18.810Z",
-          "totalDurationMs": 11810
         },
         {
           "id": "824ba763-d7c1-42bf-ab2e-f7525acefa2e",
@@ -2523,8 +2505,8 @@
       "durationMs": 45965098
     },
     "2026-01-21": {
-      "sessions": 81,
-      "durationMs": 31854274
+      "sessions": 65,
+      "durationMs": 31818871
     },
     "2026-01-20": {
       "sessions": 37,
@@ -2581,6 +2563,10 @@
     "2025-12-30": {
       "sessions": 3,
       "durationMs": 240812752
+    },
+    "2026-02-21": {
+      "sessions": 2,
+      "durationMs": 464760
     },
     "2026-02-20": {
       "sessions": 7,
@@ -2648,22 +2634,22 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 13120101,
-    "outputTokens": 2197632,
-    "cacheReadTokens": 2014593474,
-    "cacheCreationTokens": 204257545
+    "inputTokens": 13120259,
+    "outputTokens": 2197404,
+    "cacheReadTokens": 2018465545,
+    "cacheCreationTokens": 204662776
   },
   "toolUsage": {
-    "Grep": 3352,
-    "Read": 9398,
-    "Edit": 2597,
-    "Bash": 3658,
-    "Task": 666,
-    "Glob": 2110,
+    "Grep": 3355,
+    "Read": 9409,
+    "Edit": 2599,
+    "Bash": 3659,
+    "Task": 667,
+    "Glob": 2121,
     "TaskCreate": 433,
     "TaskUpdate": 780,
-    "AskUserQuestion": 183,
-    "Write": 621,
+    "AskUserQuestion": 184,
+    "Write": 623,
     "WebFetch": 135,
     "WebSearch": 63,
     "ExitPlanMode": 154,
@@ -2675,6 +2661,10 @@
     "EnterPlanMode": 5,
     "TodoWrite": 598,
     "Skill": 36,
+    "mcp__Claude_Preview__preview_start": 2,
+    "mcp__Claude_in_Chrome__tabs_context_mcp": 2,
+    "mcp__Claude_in_Chrome__navigate": 2,
+    "mcp__Claude_in_Chrome__update_plan": 2,
     "TeamCreate": 4,
     "SendMessage": 137,
     "TeamDelete": 2,
@@ -2700,9 +2690,9 @@
       "cacheTokens": 6460860
     },
     "opus-4.6": {
-      "inputTokens": 28697,
-      "outputTokens": 117694,
-      "cacheTokens": 143605575
+      "inputTokens": 38329,
+      "outputTokens": 126331,
+      "cacheTokens": 151271808
     }
   }
 }
