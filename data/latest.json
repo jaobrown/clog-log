@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-02-21T17:04:45.471Z",
+  "generatedAt": "2026-02-21T21:00:05.690Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1301,
-    "totalDurationMs": 818744922,
-    "totalTokens": 2238445984,
-    "projectCount": 12
+    "totalSessions": 1302,
+    "totalDurationMs": 820381461,
+    "totalTokens": 2240797633,
+    "projectCount": 10
   },
   "projects": [
     {
@@ -863,9 +863,45 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 514,
-      "totalDurationMs": 289503491,
+      "totalSessions": 521,
+      "totalDurationMs": 291971685,
       "sessions": [
+        {
+          "id": "11111111-1111-4111-8111-111111111111",
+          "title": "**********",
+          "timestamp": "2026-02-21T18:53:50.854Z",
+          "totalDurationMs": 2211
+        },
+        {
+          "id": "2d1332cf-76bd-4dbd-9edf-93d38897f326",
+          "title": "**********",
+          "timestamp": "2026-02-21T18:53:28.199Z",
+          "totalDurationMs": 5417
+        },
+        {
+          "id": "3c3aadf2-e366-41e9-a603-d802919e9a85",
+          "title": "**********",
+          "timestamp": "2026-02-21T18:51:29.391Z",
+          "totalDurationMs": 20225
+        },
+        {
+          "id": "b87dbfae-3514-412b-9331-3ec964b64703",
+          "title": "**********",
+          "timestamp": "2026-02-21T18:51:05.808Z",
+          "totalDurationMs": 3445
+        },
+        {
+          "id": "b8a9ff02-5453-41db-ae61-f64c9fd2161b",
+          "title": "**********",
+          "timestamp": "2026-02-21T18:50:47.508Z",
+          "totalDurationMs": 2612
+        },
+        {
+          "id": "a5be9cd6-60ca-47c9-a33b-59c145120a7f",
+          "title": "**********",
+          "timestamp": "2026-02-21T18:47:16.932Z",
+          "totalDurationMs": 2444764
+        },
         {
           "id": "b1ec14d2-bbe1-4484-bacd-28ffd40f35df",
           "title": "**********",
@@ -1609,12 +1645,6 @@
           "title": "**********",
           "timestamp": "2026-01-22T16:57:24.239Z",
           "totalDurationMs": 662302
-        },
-        {
-          "id": "76820b1f-f55e-44d3-aee6-62d2bf5491c7",
-          "title": "**********",
-          "timestamp": "2026-01-22T16:48:40.342Z",
-          "totalDurationMs": 10480
         },
         {
           "id": "b3563af2-6518-470d-b908-070748e9adc8",
@@ -2424,32 +2454,6 @@
       ]
     },
     {
-      "projectName": "relaxed-feistel",
-      "totalSessions": 3,
-      "totalDurationMs": 557760,
-      "sessions": [
-        {
-          "id": "8e15155b-6196-49ef-86fa-2f77ff5ebdda",
-          "title": null,
-          "timestamp": "2026-01-22T16:48:41.661Z",
-          "totalDurationMs": 557760
-        }
-      ]
-    },
-    {
-      "projectName": "strange-booth",
-      "totalSessions": 3,
-      "totalDurationMs": 273895,
-      "sessions": [
-        {
-          "id": "bdd0d251-9e97-4058-b80f-82ab62670042",
-          "title": null,
-          "timestamp": "2026-01-22T16:45:36.672Z",
-          "totalDurationMs": 273895
-        }
-      ]
-    },
-    {
       "projectName": "contra-web-app",
       "totalSessions": 3,
       "totalDurationMs": 198911,
@@ -2501,8 +2505,8 @@
       "durationMs": 38632044
     },
     "2026-01-22": {
-      "sessions": 109,
-      "durationMs": 45965098
+      "sessions": 99,
+      "durationMs": 45122963
     },
     "2026-01-21": {
       "sessions": 65,
@@ -2565,8 +2569,8 @@
       "durationMs": 240812752
     },
     "2026-02-21": {
-      "sessions": 2,
-      "durationMs": 464760
+      "sessions": 13,
+      "durationMs": 2943434
     },
     "2026-02-20": {
       "sessions": 7,
@@ -2634,33 +2638,35 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 13120259,
-    "outputTokens": 2197404,
-    "cacheReadTokens": 2018465545,
-    "cacheCreationTokens": 204662776
+    "inputTokens": 13104390,
+    "outputTokens": 2197820,
+    "cacheReadTokens": 2020892704,
+    "cacheCreationTokens": 204602719
   },
   "toolUsage": {
-    "Grep": 3355,
-    "Read": 9409,
+    "Grep": 3338,
+    "Read": 9426,
     "Edit": 2599,
-    "Bash": 3659,
-    "Task": 667,
-    "Glob": 2121,
+    "Bash": 3648,
+    "Task": 668,
+    "Glob": 2103,
     "TaskCreate": 433,
     "TaskUpdate": 780,
     "AskUserQuestion": 184,
-    "Write": 623,
-    "WebFetch": 135,
-    "WebSearch": 63,
-    "ExitPlanMode": 154,
+    "Write": 624,
+    "WebFetch": 138,
+    "WebSearch": 68,
+    "ExitPlanMode": 155,
     "mcp__convex__status": 3,
     "mcp__convex__logs": 3,
     "mcp__convex__data": 1,
     "TaskOutput": 77,
     "TaskStop": 1,
-    "EnterPlanMode": 5,
+    "EnterPlanMode": 6,
     "TodoWrite": 598,
     "Skill": 36,
+    "mcp__exa__web_search_exa": 5,
+    "mcp__exa__get_code_context_exa": 1,
     "mcp__Claude_Preview__preview_start": 2,
     "mcp__Claude_in_Chrome__tabs_context_mcp": 2,
     "mcp__Claude_in_Chrome__navigate": 2,
