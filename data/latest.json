@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-02-21T21:00:05.690Z",
+  "generatedAt": "2026-02-22T13:00:07.419Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1302,
-    "totalDurationMs": 820381461,
-    "totalTokens": 2240797633,
+    "totalSessions": 1301,
+    "totalDurationMs": 831888352,
+    "totalTokens": 2281214997,
     "projectCount": 10
   },
   "projects": [
     {
       "projectName": "spool",
-      "totalSessions": 562,
-      "totalDurationMs": 460274364,
+      "totalSessions": 558,
+      "totalDurationMs": 460263665,
       "sessions": [
         {
           "id": "5b682cf2-9a8b-474f-b29a-a014384ee06c",
@@ -440,12 +440,6 @@
           "totalDurationMs": 478098
         },
         {
-          "id": "6895dfe6-4ca8-4153-99ca-b44f1c5fe406",
-          "title": "Video Recovery System Audit and Implementation Fix",
-          "timestamp": "2026-01-23T01:32:46.372Z",
-          "totalDurationMs": 10699
-        },
-        {
           "id": "8dea1695-e3c4-4f89-bc0c-cd36b3566980",
           "title": "Video Upload Recovery: Convex-Only Architecture",
           "timestamp": "2026-01-23T00:09:26.540Z",
@@ -863,9 +857,33 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 521,
-      "totalDurationMs": 291971685,
+      "totalSessions": 524,
+      "totalDurationMs": 303489275,
       "sessions": [
+        {
+          "id": "435c7729-4f2a-4c9b-b324-3d1c293b2c1e",
+          "title": "**********",
+          "timestamp": "2026-02-22T07:56:01.504Z",
+          "totalDurationMs": 2510
+        },
+        {
+          "id": "44e7114c-8aac-42d3-925f-c405b127a946",
+          "title": "**********",
+          "timestamp": "2026-02-22T07:48:29.444Z",
+          "totalDurationMs": 4441272
+        },
+        {
+          "id": "9e9d61c1-b67f-4663-aede-873d9781e70b",
+          "title": "**********",
+          "timestamp": "2026-02-22T07:26:14.989Z",
+          "totalDurationMs": 5486810
+        },
+        {
+          "id": "490e6100-d499-40ec-a19b-a1d50748c375",
+          "title": "**********",
+          "timestamp": "2026-02-22T06:35:58.039Z",
+          "totalDurationMs": 1599064
+        },
         {
           "id": "11111111-1111-4111-8111-111111111111",
           "title": "**********",
@@ -1587,12 +1605,6 @@
           "totalDurationMs": 3358247
         },
         {
-          "id": "c9a84efc-7c2b-4550-9e39-c77d666e58fe",
-          "title": "**********",
-          "timestamp": "2026-01-22T21:24:41.265Z",
-          "totalDurationMs": 2179
-        },
-        {
           "id": "ba1839d0-e47e-451e-b36e-75690a570e0e",
           "title": "**********",
           "timestamp": "2026-01-22T21:00:16.897Z",
@@ -1603,12 +1615,6 @@
           "title": "**********",
           "timestamp": "2026-01-22T20:41:45.660Z",
           "totalDurationMs": 17638917
-        },
-        {
-          "id": "b1949241-d0d3-480e-9bbb-04bcb11a73d5",
-          "title": "**********",
-          "timestamp": "2026-01-22T19:29:55.142Z",
-          "totalDurationMs": 9887
         },
         {
           "id": "2cee59b3-0975-4b08-b239-a9c65e7983bd",
@@ -2501,12 +2507,12 @@
       "durationMs": 9755980
     },
     "2026-01-23": {
-      "sessions": 125,
-      "durationMs": 38632044
+      "sessions": 121,
+      "durationMs": 38621345
     },
     "2026-01-22": {
-      "sessions": 99,
-      "durationMs": 45122963
+      "sessions": 91,
+      "durationMs": 45110897
     },
     "2026-01-21": {
       "sessions": 65,
@@ -2567,6 +2573,10 @@
     "2025-12-30": {
       "sessions": 3,
       "durationMs": 240812752
+    },
+    "2026-02-22": {
+      "sessions": 11,
+      "durationMs": 11529656
     },
     "2026-02-21": {
       "sessions": 13,
@@ -2638,33 +2648,33 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 13104390,
-    "outputTokens": 2197820,
-    "cacheReadTokens": 2020892704,
-    "cacheCreationTokens": 204602719
+    "inputTokens": 13145093,
+    "outputTokens": 2209660,
+    "cacheReadTokens": 2056883063,
+    "cacheCreationTokens": 208977181
   },
   "toolUsage": {
-    "Grep": 3338,
-    "Read": 9426,
-    "Edit": 2599,
-    "Bash": 3648,
-    "Task": 668,
-    "Glob": 2103,
+    "Grep": 3367,
+    "Read": 9515,
+    "Edit": 2694,
+    "Bash": 3699,
+    "Task": 673,
+    "Glob": 2144,
     "TaskCreate": 433,
     "TaskUpdate": 780,
-    "AskUserQuestion": 184,
-    "Write": 624,
+    "AskUserQuestion": 185,
+    "Write": 629,
     "WebFetch": 138,
-    "WebSearch": 68,
-    "ExitPlanMode": 155,
+    "WebSearch": 72,
+    "ExitPlanMode": 157,
     "mcp__convex__status": 3,
     "mcp__convex__logs": 3,
     "mcp__convex__data": 1,
     "TaskOutput": 77,
     "TaskStop": 1,
     "EnterPlanMode": 6,
-    "TodoWrite": 598,
-    "Skill": 36,
+    "TodoWrite": 603,
+    "Skill": 37,
     "mcp__exa__web_search_exa": 5,
     "mcp__exa__get_code_context_exa": 1,
     "mcp__Claude_Preview__preview_start": 2,
