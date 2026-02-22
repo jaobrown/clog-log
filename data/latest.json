@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-22T13:00:07.419Z",
+  "generatedAt": "2026-02-22T17:00:03.845Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1301,
-    "totalDurationMs": 831888352,
-    "totalTokens": 2281214997,
+    "totalSessions": 1310,
+    "totalDurationMs": 887489554,
+    "totalTokens": 2291274076,
     "projectCount": 10
   },
   "projects": [
@@ -857,9 +857,39 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 524,
-      "totalDurationMs": 303489275,
+      "totalSessions": 530,
+      "totalDurationMs": 359002139,
       "sessions": [
+        {
+          "id": "22222222-3333-4444-8555-666666666666",
+          "title": "**********",
+          "timestamp": "2026-02-22T16:29:17.397Z",
+          "totalDurationMs": 2830
+        },
+        {
+          "id": "11111111-2222-4333-8444-555555555555",
+          "title": "**********",
+          "timestamp": "2026-02-22T16:28:14.598Z",
+          "totalDurationMs": 16783
+        },
+        {
+          "id": "1f180e38-d7e3-431a-b4bd-a001ed84f435",
+          "title": "**********",
+          "timestamp": "2026-02-22T16:27:42.762Z",
+          "totalDurationMs": 5095
+        },
+        {
+          "id": "5ccb27ea-5b67-45b1-a1f5-a1335714932f",
+          "title": "**********",
+          "timestamp": "2026-02-22T16:27:11.698Z",
+          "totalDurationMs": 2745
+        },
+        {
+          "id": "a90a96c0-2dce-4c61-848c-a61aba9b0cec",
+          "title": "**********",
+          "timestamp": "2026-02-22T16:21:46.346Z",
+          "totalDurationMs": 603294
+        },
         {
           "id": "435c7729-4f2a-4c9b-b324-3d1c293b2c1e",
           "title": "**********",
@@ -870,13 +900,13 @@
           "id": "44e7114c-8aac-42d3-925f-c405b127a946",
           "title": "**********",
           "timestamp": "2026-02-22T07:48:29.444Z",
-          "totalDurationMs": 4441272
+          "totalDurationMs": 30753075
         },
         {
           "id": "9e9d61c1-b67f-4663-aede-873d9781e70b",
           "title": "**********",
           "timestamp": "2026-02-22T07:26:14.989Z",
-          "totalDurationMs": 5486810
+          "totalDurationMs": 34057124
         },
         {
           "id": "490e6100-d499-40ec-a19b-a1d50748c375",
@@ -2461,9 +2491,27 @@
     },
     {
       "projectName": "contra-web-app",
-      "totalSessions": 3,
-      "totalDurationMs": 198911,
+      "totalSessions": 6,
+      "totalDurationMs": 287249,
       "sessions": [
+        {
+          "id": "2b2e9ceb-fce2-48c9-b6c4-a5753f40e041",
+          "title": null,
+          "timestamp": "2026-02-22T16:59:16.939Z",
+          "totalDurationMs": 2062
+        },
+        {
+          "id": "217557ee-2e4e-4d93-b891-2cab82334757",
+          "title": null,
+          "timestamp": "2026-02-22T16:38:41.583Z",
+          "totalDurationMs": 47654
+        },
+        {
+          "id": "e056b915-20e5-4396-806d-09bcefcb9dad",
+          "title": null,
+          "timestamp": "2026-02-22T16:36:33.441Z",
+          "totalDurationMs": 38622
+        },
         {
           "id": "478c24cb-bbd1-49f9-baf0-a90dc913ce09",
           "title": null,
@@ -2575,8 +2623,8 @@
       "durationMs": 240812752
     },
     "2026-02-22": {
-      "sessions": 11,
-      "durationMs": 11529656
+      "sessions": 20,
+      "durationMs": 67130858
     },
     "2026-02-21": {
       "sessions": 13,
@@ -2648,22 +2696,22 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 13145093,
-    "outputTokens": 2209660,
-    "cacheReadTokens": 2056883063,
-    "cacheCreationTokens": 208977181
+    "inputTokens": 13166228,
+    "outputTokens": 2211023,
+    "cacheReadTokens": 2065716722,
+    "cacheCreationTokens": 210180103
   },
   "toolUsage": {
-    "Grep": 3367,
-    "Read": 9515,
-    "Edit": 2694,
-    "Bash": 3699,
-    "Task": 673,
-    "Glob": 2144,
+    "Grep": 3406,
+    "Read": 9541,
+    "Edit": 2703,
+    "Bash": 3712,
+    "Task": 674,
+    "Glob": 2150,
     "TaskCreate": 433,
     "TaskUpdate": 780,
     "AskUserQuestion": 185,
-    "Write": 629,
+    "Write": 633,
     "WebFetch": 138,
     "WebSearch": 72,
     "ExitPlanMode": 157,
@@ -2673,7 +2721,7 @@
     "TaskOutput": 77,
     "TaskStop": 1,
     "EnterPlanMode": 6,
-    "TodoWrite": 603,
+    "TodoWrite": 607,
     "Skill": 37,
     "mcp__exa__web_search_exa": 5,
     "mcp__exa__get_code_context_exa": 1,
