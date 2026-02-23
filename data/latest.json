@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-23T14:31:04.323Z",
+  "generatedAt": "2026-02-23T17:00:02.247Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1315,
-    "totalDurationMs": 902545789,
-    "totalTokens": 2328958030,
+    "totalSessions": 1311,
+    "totalDurationMs": 975930657,
+    "totalTokens": 2330980541,
     "projectCount": 10
   },
   "projects": [
@@ -851,8 +851,8 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 538,
-      "totalDurationMs": 374062632,
+      "totalSessions": 534,
+      "totalDurationMs": 447447500,
       "sessions": [
         {
           "id": "67ed88f7-3431-4750-8492-f36b50424561",
@@ -918,7 +918,7 @@
           "id": "9e9d61c1-b67f-4663-aede-873d9781e70b",
           "title": "**********",
           "timestamp": "2026-02-22T07:26:14.989Z",
-          "totalDurationMs": 44333389
+          "totalDurationMs": 117724784
         },
         {
           "id": "490e6100-d499-40ec-a19b-a1d50748c375",
@@ -1627,12 +1627,6 @@
           "title": "**********",
           "timestamp": "2026-01-23T20:45:01.028Z",
           "totalDurationMs": 1242822
-        },
-        {
-          "id": "c5d25c5c-6320-4c96-87cb-4b5b9698fbe8",
-          "title": "**********",
-          "timestamp": "2026-01-23T20:13:39.850Z",
-          "totalDurationMs": 6527
         },
         {
           "id": "15300acf-59fc-42f2-9257-eff46e1f0a47",
@@ -2573,8 +2567,8 @@
       "durationMs": 9755980
     },
     "2026-01-23": {
-      "sessions": 117,
-      "durationMs": 38614917
+      "sessions": 113,
+      "durationMs": 38608390
     },
     "2026-01-22": {
       "sessions": 91,
@@ -2642,7 +2636,7 @@
     },
     "2026-02-22": {
       "sessions": 29,
-      "durationMs": 82193521
+      "durationMs": 155584916
     },
     "2026-02-21": {
       "sessions": 13,
@@ -2714,16 +2708,16 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 13267722,
-    "outputTokens": 2214422,
-    "cacheReadTokens": 2101433974,
-    "cacheCreationTokens": 212041912
+    "inputTokens": 13267776,
+    "outputTokens": 2214775,
+    "cacheReadTokens": 2103160810,
+    "cacheCreationTokens": 212337180
   },
   "toolUsage": {
-    "Grep": 3427,
-    "Read": 9646,
-    "Edit": 2775,
-    "Bash": 3739,
+    "Grep": 3429,
+    "Read": 9654,
+    "Edit": 2784,
+    "Bash": 3738,
     "Task": 677,
     "Glob": 2166,
     "TaskCreate": 433,

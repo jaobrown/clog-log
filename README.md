@@ -6,8 +6,8 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   1315            Tokens     2.3B
-  Duration   250h 42m        Projects   10
+  Sessions   1311            Tokens     2.3B
+  Duration   271h 5m         Projects   10
 
 ```
 
@@ -16,7 +16,7 @@ TOP PROJECTS
 ==================================================
 
   spool          ####################  127h 50m
-  top secret     ################----  103h 54m
+  top secret     ###################-  124h 17m
   clog           #-------------------    4h 47m
   clogs          #-------------------    4h 39m
   clog-web       --------------------     3h 7m
