@@ -1,18 +1,42 @@
 {
-  "generatedAt": "2026-02-24T13:00:28.433Z",
+  "generatedAt": "2026-02-24T17:00:07.389Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1167,
-    "totalDurationMs": 906999157,
-    "totalTokens": 2143538920,
+    "totalSessions": 923,
+    "totalDurationMs": 577156921,
+    "totalTokens": 1737647806,
     "projectCount": 10
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 564,
-      "totalDurationMs": 453588981,
+      "totalSessions": 570,
+      "totalDurationMs": 454605636,
       "sessions": [
+        {
+          "id": "0983c0ae-6cdd-4530-b360-70dfc71151d8",
+          "title": "**********",
+          "timestamp": "2026-02-24T16:53:52.691Z",
+          "totalDurationMs": 77533
+        },
+        {
+          "id": "799d0132-97e3-45b1-bd93-2e67092ac2dd",
+          "title": "**********",
+          "timestamp": "2026-02-24T15:36:14.802Z",
+          "totalDurationMs": 219409
+        },
+        {
+          "id": "b24fd3df-8259-49a2-a005-4efdc8e2ac56",
+          "title": "**********",
+          "timestamp": "2026-02-24T15:26:08.608Z",
+          "totalDurationMs": 719713
+        },
+        {
+          "id": "5050c450-0ce7-4c72-b8c1-08f97580b76f",
+          "title": "**********",
+          "timestamp": "2026-02-24T15:25:04.167Z",
+          "totalDurationMs": 0
+        },
         {
           "id": "cdce0be9-ac41-4f1d-9d22-f24c50b4078a",
           "title": "**********",
@@ -1169,8 +1193,8 @@
     },
     {
       "projectName": "spool",
-      "totalSessions": 380,
-      "totalDurationMs": 385184256,
+      "totalSessions": 130,
+      "totalDurationMs": 54325365,
       "sessions": [
         {
           "id": "5b682cf2-9a8b-474f-b29a-a014384ee06c",
@@ -1435,336 +1459,6 @@
           "title": "Demo video: homepage GitHub icon walkthrough",
           "timestamp": "2026-01-25T05:12:20.268Z",
           "totalDurationMs": 26965
-        },
-        {
-          "id": "5abe2f4a-7060-4d27-80d5-793cfd67353f",
-          "title": "Demo video generator with ElevenLabs API setup",
-          "timestamp": "2026-01-25T05:07:38.747Z",
-          "totalDurationMs": 253997
-        },
-        {
-          "id": "b247c5ed-5c65-41b2-a102-b66fa3c780c6",
-          "title": "Fix Demo Video Route Resolution in TanStack Router",
-          "timestamp": "2026-01-25T05:01:37.564Z",
-          "totalDurationMs": 925662
-        },
-        {
-          "id": "55e13424-a9a7-4467-a9b4-bfa76804d1f3",
-          "title": "Fix Playwright Demo Video 404 Route Detection",
-          "timestamp": "2026-01-25T04:51:46.099Z",
-          "totalDurationMs": 979997
-        },
-        {
-          "id": "95b5803d-8efa-4a7b-9761-caea990b6325",
-          "title": "Demo video generator setup and execution successful",
-          "timestamp": "2026-01-25T04:38:39.639Z",
-          "totalDurationMs": 658093
-        },
-        {
-          "id": "05666b54-37a2-4d2e-a6e7-9842e833ee52",
-          "title": "Fix Null Validation Error in VideoVerification Claims",
-          "timestamp": "2026-01-25T01:02:35.044Z",
-          "totalDurationMs": 30195
-        },
-        {
-          "id": "e5ff7cbf-2339-49c3-84a4-e76cd134ffbb",
-          "title": "Remove AI-generated % feature E2E",
-          "timestamp": "2026-01-25T00:48:44.220Z",
-          "totalDurationMs": 738033
-        },
-        {
-          "id": "ad4593f7-88f6-42b9-9e7c-57d91f9e6b8f",
-          "title": "Refactor PR review UX to sturdy document-building pattern",
-          "timestamp": "2026-01-24T22:00:32.274Z",
-          "totalDurationMs": 2573734
-        },
-        {
-          "id": "e6b06028-d258-4148-8677-cb94a4fe04fc",
-          "title": "PR Import & Review Feature Implementation",
-          "timestamp": "2026-01-24T21:11:30.386Z",
-          "totalDurationMs": 3049190
-        },
-        {
-          "id": "bce205c0-6826-44ec-bf95-5ce5e3f559c5",
-          "title": "Implement Typography Styles for Verification Report",
-          "timestamp": "2026-01-24T21:01:51.415Z",
-          "totalDurationMs": 60026
-        },
-        {
-          "id": "f88383cf-167a-4c05-86b4-6c821183d616",
-          "title": "Move video preview to sticky right sidebar column",
-          "timestamp": "2026-01-24T20:47:05.635Z",
-          "totalDurationMs": 336927
-        },
-        {
-          "id": "23d28ba6-16da-43a4-945f-00e95950dce5",
-          "title": "Spool Verification Pipeline Implementation Complete",
-          "timestamp": "2026-01-24T20:33:51.698Z",
-          "totalDurationMs": 2414560
-        },
-        {
-          "id": "3aeeaa5c-d925-4afa-814e-e4547b9b9151",
-          "title": "Remove code notes feature and related code",
-          "timestamp": "2026-01-24T19:16:56.532Z",
-          "totalDurationMs": 1312597
-        },
-        {
-          "id": "b571a54e-792e-429d-abcd-a22b6596f508",
-          "title": "Feature Development Framework Guide",
-          "timestamp": "2026-01-24T19:14:15.587Z",
-          "totalDurationMs": 8946
-        },
-        {
-          "id": "41389233-7070-4092-b252-0f36301683a8",
-          "title": "Replace fake video previews with actual video in reports",
-          "timestamp": "2026-01-23T18:34:33.737Z",
-          "totalDurationMs": 559245
-        },
-        {
-          "id": "ab2a89e0-a344-4012-ae1b-266e7278854c",
-          "title": "Phase 4 Video Verification Implementation Complete",
-          "timestamp": "2026-01-23T16:32:47.390Z",
-          "totalDurationMs": 3567055
-        },
-        {
-          "id": "4125803c-3f74-46f1-b907-901db5d6c189",
-          "title": "Video pipeline evaluation and Mux migration plan",
-          "timestamp": "2026-01-23T01:40:35.118Z",
-          "totalDurationMs": 2144473
-        },
-        {
-          "id": "e0cb8222-ede2-44d7-bf09-12915fce67a7",
-          "title": "PR code simplification: refactor duplication",
-          "timestamp": "2026-01-23T01:33:43.384Z",
-          "totalDurationMs": 478098
-        },
-        {
-          "id": "8dea1695-e3c4-4f89-bc0c-cd36b3566980",
-          "title": "Video Upload Recovery: Convex-Only Architecture",
-          "timestamp": "2026-01-23T00:09:26.540Z",
-          "totalDurationMs": 7377091
-        },
-        {
-          "id": "f414a7c7-e84e-4f99-8fbb-da2d8aa5c235",
-          "title": "Fix PR video playback when recording exists",
-          "timestamp": "2026-01-22T20:53:38.299Z",
-          "totalDurationMs": 954604
-        },
-        {
-          "id": "aa50ef1f-ba63-4ad3-a483-0b4960184b8d",
-          "title": "Phase 4: Upload Worker Implementation Complete",
-          "timestamp": "2026-01-22T19:23:36.385Z",
-          "totalDurationMs": 5604264
-        },
-        {
-          "id": "0989986a-e142-4ea5-9e87-61d6601f44db",
-          "title": "Phase 3: Multipart Upload Backend Complete",
-          "timestamp": "2026-01-22T17:51:31.066Z",
-          "totalDurationMs": 2619903
-        },
-        {
-          "id": "7b7977fc-fabb-452d-ab34-527f1c5d3475",
-          "title": "Phase 2: Upload State Persistence Implementation Complete",
-          "timestamp": "2026-01-22T13:27:32.630Z",
-          "totalDurationMs": 7750273
-        },
-        {
-          "id": "bbabe0a6-2e50-4f6c-b43e-f0ae107f6c78",
-          "title": "Build Phase 1 Core Recording Infrastructure",
-          "timestamp": "2026-01-22T02:12:56.000Z",
-          "totalDurationMs": 1663594
-        },
-        {
-          "id": "c568e61a-59e6-4fe4-9848-0b3fe5055c5d",
-          "title": "OAuth redirect_uri mismatch, then token exchange failure",
-          "timestamp": "2026-01-21T20:23:03.888Z",
-          "totalDurationMs": 661071
-        },
-        {
-          "id": "6b388a10-7346-46f6-8814-8ec6b7413f72",
-          "title": "E2E Auth Flows: Local, Preview, Production Setup",
-          "timestamp": "2026-01-21T17:45:24.603Z",
-          "totalDurationMs": 12680340
-        },
-        {
-          "id": "9be6d070-db68-4ed1-98c7-6b2be4287076",
-          "title": "Phase 3: Code Notes Generation Implementation",
-          "timestamp": "2026-01-21T16:00:43.325Z",
-          "totalDurationMs": 1881507
-        },
-        {
-          "id": "0bd1a937-fe81-4f28-95de-f542dffa469d",
-          "title": "AI Review Pipeline Phase 1 Implementation",
-          "timestamp": "2026-01-21T14:58:14.641Z",
-          "totalDurationMs": 2338524
-        },
-        {
-          "id": "c82bcda8-260a-412a-860d-c2f450a66113",
-          "title": "PR Status: Closed/Merged Handling UI Fix",
-          "timestamp": "2026-01-20T01:59:15.268Z",
-          "totalDurationMs": 605571
-        },
-        {
-          "id": "ecdc60ec-9c0d-494b-a3d4-59da25873419",
-          "title": "GitHub repo selector with PR list display",
-          "timestamp": "2026-01-19T02:45:46.810Z",
-          "totalDurationMs": 219728
-        },
-        {
-          "id": "40fbd610-4f36-43fb-b9d5-2ca83a50a0a0",
-          "title": "Removed all authentication infrastructure from project",
-          "timestamp": "2026-01-19T02:11:42.897Z",
-          "totalDurationMs": 140809
-        },
-        {
-          "id": "a540e1b0-3720-4718-a17d-1924248a8bb4",
-          "title": "Implement Convex AuthKit Auth Integration",
-          "timestamp": "2026-01-19T01:35:27.294Z",
-          "totalDurationMs": 2422123
-        },
-        {
-          "id": "c38662ed-3b70-492d-a9ba-ef80795dc8a1",
-          "title": "Spool V2 Codebase Cleanup: Infrastructure Preserved",
-          "timestamp": "2026-01-18T22:03:54.440Z",
-          "totalDurationMs": 494219
-        },
-        {
-          "id": "6ec1cf2a-4867-4934-b471-40323c6da73c",
-          "title": "Implement diff verification pipeline step",
-          "timestamp": "2026-01-18T20:28:01.543Z",
-          "totalDurationMs": 3237942
-        },
-        {
-          "id": "11ea3cd5-6420-4b75-a88e-0ecba318fca0",
-          "title": "Convert checkboxes to bullets, remove truncation",
-          "timestamp": "2026-01-14T03:11:32.607Z",
-          "totalDurationMs": 87732
-        },
-        {
-          "id": "7222c18a-e30a-44a7-90a5-d8e4749f4a17",
-          "title": "Neutralize Mismatch Presentation in Review UI",
-          "timestamp": "2026-01-14T02:50:27.309Z",
-          "totalDurationMs": 923505
-        },
-        {
-          "id": "04685927-16b7-4dad-9c27-eb6454bbc1e3",
-          "title": "Schema validation error: missing ship_gate field",
-          "timestamp": "2026-01-14T01:39:42.450Z",
-          "totalDurationMs": 159266
-        },
-        {
-          "id": "9aca88d5-a7a2-43d6-8000-912b2f574327",
-          "title": "Separating declared intent from code reality in PR analysis",
-          "timestamp": "2026-01-14T00:51:24.957Z",
-          "totalDurationMs": 1685470
-        },
-        {
-          "id": "1706b9cd-d4d9-4c0e-84a0-1f4760a1607d",
-          "title": "AI-Generated Code Demo & QA Verification System",
-          "timestamp": "2026-01-13T20:09:20.167Z",
-          "totalDurationMs": 940875
-        },
-        {
-          "id": "47dffae1-682f-45a6-8b26-b47fe69dd977",
-          "title": "AI Code Review System Intent Verification Layer",
-          "timestamp": "2026-01-12T20:47:31.574Z",
-          "totalDurationMs": 26207
-        },
-        {
-          "id": "08dad995-781a-4ad3-ad9d-2792fdeff608",
-          "title": "Video upload during recording implementation",
-          "timestamp": "2026-01-10T20:53:31.162Z",
-          "totalDurationMs": 1365651
-        },
-        {
-          "id": "8302bfee-c0cc-42d8-b3b4-2103983b92cb",
-          "title": "Resilient Screen Recorder with R2 Multipart Upload",
-          "timestamp": "2026-01-10T20:31:35.226Z",
-          "totalDurationMs": 3806682
-        },
-        {
-          "id": "e6e91f1d-0044-4942-a4ec-cadf5d59b27a",
-          "title": "Generic Feedback Tool Feasibility Assessment",
-          "timestamp": "2026-01-09T17:18:00.886Z",
-          "totalDurationMs": 1315852
-        },
-        {
-          "id": "5849ef92-dd9d-4df4-a6a5-e29df7636d03",
-          "title": "Implement retry functionality for failed reviews",
-          "timestamp": "2026-01-09T13:16:12.498Z",
-          "totalDurationMs": 473768
-        },
-        {
-          "id": "c9985098-fda9-41fc-a14d-e30ac5f15878",
-          "title": "Backfill AI titles with stricter prompt rules",
-          "timestamp": "2026-01-07T15:54:55.130Z",
-          "totalDurationMs": 273748
-        },
-        {
-          "id": "975877a7-2249-4b1a-8d0c-1cc764a46378",
-          "title": "Fix video thumbnail sizing for consistent grid layout",
-          "timestamp": "2026-01-07T15:31:14.301Z",
-          "totalDurationMs": 35844
-        },
-        {
-          "id": "21f2decf-3996-4dc7-a82a-28540d3af454",
-          "title": "Fix auth error on videos page refresh",
-          "timestamp": "2026-01-07T15:30:24.140Z",
-          "totalDurationMs": 200365
-        },
-        {
-          "id": "682b09d9-adb4-41b0-8e17-219c9ddcd775",
-          "title": "WorkOS AuthKit Convex Auth State Fix",
-          "timestamp": "2026-01-07T14:31:24.291Z",
-          "totalDurationMs": 3047873
-        },
-        {
-          "id": "ff59a730-9488-4b4e-b3bb-37fcdb038ae5",
-          "title": "UI Legibility & Contrast Overhaul Pass",
-          "timestamp": "2026-01-07T02:14:29.183Z",
-          "totalDurationMs": 1025754
-        },
-        {
-          "id": "ebc3b336-35c0-4349-b030-9a5e8f2241ea",
-          "title": "PR Review Workspace & Realtime Pipeline UI",
-          "timestamp": "2026-01-07T01:26:48.600Z",
-          "totalDurationMs": 1597098
-        },
-        {
-          "id": "fb7cd018-63b7-4ba7-a5c1-2843ea868d84",
-          "title": "Remove GitHub integration, simplify MVP authentication",
-          "timestamp": "2026-01-06T21:36:51.806Z",
-          "totalDurationMs": 1052843
-        },
-        {
-          "id": "b17746a2-f62d-4318-bdf3-d1585cf4e7af",
-          "title": "Refactor PR comments to be conversational and concise",
-          "timestamp": "2026-01-05T00:15:51.252Z",
-          "totalDurationMs": 810666
-        },
-        {
-          "id": "47fbf7bf-cba4-40eb-b846-123a90dd4847",
-          "title": "WorkOS Auth MVP: Skip user table for now",
-          "timestamp": "2026-01-03T01:55:12.778Z",
-          "totalDurationMs": 298879
-        },
-        {
-          "id": "009c64bd-4376-4efc-ac02-6383e86de49b",
-          "title": "Button hidden on mobile - pipeline test PR",
-          "timestamp": "2026-01-02T20:52:34.325Z",
-          "totalDurationMs": 376061
-        },
-        {
-          "id": "fd422544-ff6d-4a82-b09f-9330158f3bff",
-          "title": "Rename Default Branch to Main and Push",
-          "timestamp": "2026-01-02T16:37:11.217Z",
-          "totalDurationMs": 493147
-        },
-        {
-          "id": "ac6bfc49-76e7-4dff-b9e1-a4e4d7ade2d2",
-          "title": "Convex R2 Backend Refactor & Streaming Implementation",
-          "timestamp": "2025-12-30T21:41:52.924Z",
-          "totalDurationMs": 240119214
         }
       ]
     },
@@ -2348,6 +2042,10 @@
     }
   ],
   "activity": {
+    "2026-02-24": {
+      "sessions": 6,
+      "durationMs": 1016655
+    },
     "2026-02-23": {
       "sessions": 30,
       "durationMs": 6141481
@@ -2421,20 +2119,20 @@
       "durationMs": 42836642
     },
     "2026-01-23": {
-      "sessions": 54,
-      "durationMs": 18965219
+      "sessions": 15,
+      "durationMs": 4839257
     },
     "2026-01-22": {
-      "sessions": 80,
-      "durationMs": 44165562
+      "sessions": 44,
+      "durationMs": 25572924
     },
     "2026-01-21": {
-      "sessions": 46,
-      "durationMs": 28768671
+      "sessions": 18,
+      "durationMs": 11207229
     },
     "2026-01-20": {
-      "sessions": 19,
-      "durationMs": 4156791
+      "sessions": 13,
+      "durationMs": 3551220
     },
     "2026-01-16": {
       "sessions": 24,
@@ -2445,68 +2143,44 @@
       "durationMs": 794584
     },
     "2026-01-14": {
-      "sessions": 52,
-      "durationMs": 12140985
+      "sessions": 31,
+      "durationMs": 9285012
     },
     "2026-01-13": {
-      "sessions": 29,
-      "durationMs": 2547649
+      "sessions": 23,
+      "durationMs": 1606774
     },
     "2026-01-12": {
-      "sessions": 18,
-      "durationMs": 5607201
+      "sessions": 14,
+      "durationMs": 5580994
     },
     "2026-01-09": {
-      "sessions": 20,
-      "durationMs": 2017164
+      "sessions": 11,
+      "durationMs": 227544
     },
     "2026-01-08": {
       "sessions": 1,
       "durationMs": 55136881
     },
     "2026-01-07": {
-      "sessions": 12,
-      "durationMs": 10664903
+      "sessions": 6,
+      "durationMs": 4484221
     },
     "2026-01-06": {
-      "sessions": 4,
-      "durationMs": 12215423
+      "sessions": 3,
+      "durationMs": 11162580
     },
     "2026-01-05": {
-      "sessions": 10,
-      "durationMs": 1859161
+      "sessions": 9,
+      "durationMs": 1048495
     },
     "2025-12-30": {
-      "sessions": 2,
-      "durationMs": 240805319
+      "sessions": 1,
+      "durationMs": 686105
     },
     "2026-01-25": {
-      "sessions": 63,
-      "durationMs": 18114771
-    },
-    "2026-01-24": {
-      "sessions": 36,
-      "durationMs": 9755980
-    },
-    "2026-01-19": {
-      "sessions": 15,
-      "durationMs": 2782660
-    },
-    "2026-01-18": {
-      "sessions": 11,
-      "durationMs": 3732161
-    },
-    "2026-01-10": {
-      "sessions": 15,
-      "durationMs": 5172333
-    },
-    "2026-01-03": {
-      "sessions": 1,
-      "durationMs": 298879
-    },
-    "2026-01-02": {
-      "sessions": 2,
-      "durationMs": 869208
+      "sessions": 51,
+      "durationMs": 14528794
     },
     "2026-02-07": {
       "sessions": 27,
@@ -2514,34 +2188,37 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 12284066,
-    "outputTokens": 1646053,
-    "cacheReadTokens": 1935479564,
-    "cacheCreationTokens": 194129237
+    "inputTokens": 9982259,
+    "outputTokens": 887814,
+    "cacheReadTokens": 1569538611,
+    "cacheCreationTokens": 157239122
   },
   "toolUsage": {
-    "Read": 9017,
-    "Task": 620,
-    "Edit": 2405,
-    "Grep": 3426,
-    "Bash": 3396,
+    "ToolSearch": 7,
+    "mcp__claude_ai_Linear__get_issue": 1,
+    "Read": 7432,
+    "Grep": 3113,
+    "Edit": 1755,
+    "Glob": 1673,
+    "Bash": 2868,
+    "mcp__sentry__get_issue_details": 2,
+    "Task": 497,
+    "Write": 433,
+    "ExitPlanMode": 91,
     "TaskOutput": 78,
-    "Glob": 2012,
-    "AskUserQuestion": 164,
-    "Write": 565,
-    "ExitPlanMode": 131,
+    "AskUserQuestion": 131,
     "TeamCreate": 5,
-    "TaskCreate": 439,
-    "TaskUpdate": 802,
+    "TaskCreate": 405,
+    "TaskUpdate": 738,
     "SendMessage": 161,
     "TeamDelete": 3,
     "TaskList": 28,
-    "TodoWrite": 453,
-    "WebFetch": 124,
+    "TodoWrite": 208,
+    "WebFetch": 82,
     "mcp__Control_Chrome__open_url": 1,
     "Skill": 34,
-    "WebSearch": 70,
-    "EnterPlanMode": 6,
+    "WebSearch": 61,
+    "EnterPlanMode": 5,
     "mcp__exa__web_search_exa": 5,
     "mcp__exa__get_code_context_exa": 1,
     "mcp__Claude_Preview__preview_start": 2,
@@ -2550,7 +2227,6 @@
     "mcp__Claude_in_Chrome__update_plan": 2,
     "mcp__figma-desktop__get_design_context": 15,
     "mcp__figma-desktop__get_screenshot": 14,
-    "ToolSearch": 4,
     "mcp__linear-server__get_issue": 10,
     "mcp__linear-server__list_issues": 1,
     "mcp__figma-desktop__get_metadata": 4,
