@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-02-24T17:00:07.389Z",
+  "generatedAt": "2026-02-24T21:00:06.340Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 923,
-    "totalDurationMs": 577156921,
-    "totalTokens": 1737647806,
+    "totalSessions": 927,
+    "totalDurationMs": 580122297,
+    "totalTokens": 1749146737,
     "projectCount": 10
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 570,
-      "totalDurationMs": 454605636,
+      "totalSessions": 574,
+      "totalDurationMs": 457571012,
       "sessions": [
         {
           "id": "0983c0ae-6cdd-4530-b360-70dfc71151d8",
           "title": "**********",
           "timestamp": "2026-02-24T16:53:52.691Z",
-          "totalDurationMs": 77533
+          "totalDurationMs": 3042909
         },
         {
           "id": "799d0132-97e3-45b1-bd93-2e67092ac2dd",
@@ -2043,8 +2043,8 @@
   ],
   "activity": {
     "2026-02-24": {
-      "sessions": 6,
-      "durationMs": 1016655
+      "sessions": 10,
+      "durationMs": 3982031
     },
     "2026-02-23": {
       "sessions": 30,
@@ -2188,22 +2188,22 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 9982259,
-    "outputTokens": 887814,
-    "cacheReadTokens": 1569538611,
-    "cacheCreationTokens": 157239122
+    "inputTokens": 9982460,
+    "outputTokens": 928117,
+    "cacheReadTokens": 1580368155,
+    "cacheCreationTokens": 157868005
   },
   "toolUsage": {
     "ToolSearch": 7,
     "mcp__claude_ai_Linear__get_issue": 1,
-    "Read": 7432,
+    "Read": 7472,
     "Grep": 3113,
-    "Edit": 1755,
+    "Write": 443,
+    "Task": 501,
+    "Bash": 2883,
+    "Edit": 1774,
     "Glob": 1673,
-    "Bash": 2868,
     "mcp__sentry__get_issue_details": 2,
-    "Task": 497,
-    "Write": 433,
     "ExitPlanMode": 91,
     "TaskOutput": 78,
     "AskUserQuestion": 131,
