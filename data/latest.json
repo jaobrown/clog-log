@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-02-23T21:00:08.664Z",
+  "generatedAt": "2026-02-24T13:00:28.433Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1306,
-    "totalDurationMs": 958269565,
-    "totalTokens": 2352398827,
+    "totalSessions": 1167,
+    "totalDurationMs": 906999157,
+    "totalTokens": 2143538920,
     "projectCount": 10
   },
   "projects": [
     {
       "projectName": "top secret",
       "totalSessions": 564,
-      "totalDurationMs": 453275336,
+      "totalDurationMs": 453588981,
       "sessions": [
         {
           "id": "cdce0be9-ac41-4f1d-9d22-f24c50b4078a",
           "title": "**********",
           "timestamp": "2026-02-23T20:48:55.260Z",
-          "totalDurationMs": 414989
+          "totalDurationMs": 728634
         },
         {
           "id": "756f6b8c-473c-4b9d-96f6-e71548f8aaa3",
@@ -1169,8 +1169,8 @@
     },
     {
       "projectName": "spool",
-      "totalSessions": 519,
-      "totalDurationMs": 436768309,
+      "totalSessions": 380,
+      "totalDurationMs": 385184256,
       "sessions": [
         {
           "id": "5b682cf2-9a8b-474f-b29a-a014384ee06c",
@@ -1515,70 +1515,16 @@
           "totalDurationMs": 8946
         },
         {
-          "id": "baa9ac76-de86-443a-8503-38a0a9c8d0d1",
-          "title": "Filter GitHub PRs by current user",
-          "timestamp": "2026-01-23T22:14:17.670Z",
-          "totalDurationMs": 441097
-        },
-        {
-          "id": "3bb1a926-84f6-4553-b0f7-ba96c10d1dcc",
-          "title": "Fix S3 multipart upload part size consistency",
-          "timestamp": "2026-01-23T22:05:16.844Z",
-          "totalDurationMs": 139303
-        },
-        {
-          "id": "77761965-1eed-4c27-9dc5-84535f862e79",
-          "title": "Filter GitHub PRs to show only user's",
-          "timestamp": "2026-01-23T22:04:27.983Z",
-          "totalDurationMs": 404637
-        },
-        {
-          "id": "eaacefed-33d8-4cfc-bc79-943d51371121",
-          "title": "Convex Node.js runtime split mutations query",
-          "timestamp": "2026-01-23T19:44:34.682Z",
-          "totalDurationMs": 115055
-        },
-        {
-          "id": "55b267b9-d59b-44ae-9922-05e8a18d4de2",
-          "title": "AI Contribution Calibration Feature Implementation",
-          "timestamp": "2026-01-23T18:48:14.809Z",
-          "totalDurationMs": 4735002
-        },
-        {
           "id": "41389233-7070-4092-b252-0f36301683a8",
           "title": "Replace fake video previews with actual video in reports",
           "timestamp": "2026-01-23T18:34:33.737Z",
           "totalDurationMs": 559245
         },
         {
-          "id": "2111a8d4-162e-41b2-bd44-d7922c18e9dc",
-          "title": "Phase 5 Final Report Generation Implementation",
-          "timestamp": "2026-01-23T17:45:06.093Z",
-          "totalDurationMs": 2600765
-        },
-        {
-          "id": "cb777471-7a03-45d9-85e1-01e1df137578",
-          "title": "Fixed TypeScript type import error, created PR",
-          "timestamp": "2026-01-23T17:29:12.440Z",
-          "totalDurationMs": 148925
-        },
-        {
           "id": "ab2a89e0-a344-4012-ae1b-266e7278854c",
           "title": "Phase 4 Video Verification Implementation Complete",
           "timestamp": "2026-01-23T16:32:47.390Z",
           "totalDurationMs": 3567055
-        },
-        {
-          "id": "350524f6-ce89-4fb0-9cec-0c3bcb03b78a",
-          "title": "Feature Development Framework Guide",
-          "timestamp": "2026-01-23T15:46:31.461Z",
-          "totalDurationMs": 12217
-        },
-        {
-          "id": "73dbac84-20a2-4c4b-8dfd-1f2c34909946",
-          "title": "Remove upload recovery functionality",
-          "timestamp": "2026-01-23T02:01:25.175Z",
-          "totalDurationMs": 704288
         },
         {
           "id": "4125803c-3f74-46f1-b907-901db5d6c189",
@@ -1599,12 +1545,6 @@
           "totalDurationMs": 7377091
         },
         {
-          "id": "c29b2ca0-742f-472d-bf51-7c653f930dc9",
-          "title": "Recovery Race Condition Fix: Queue Chunks",
-          "timestamp": "2026-01-23T00:04:08.930Z",
-          "totalDurationMs": 10341882
-        },
-        {
           "id": "f414a7c7-e84e-4f99-8fbb-da2d8aa5c235",
           "title": "Fix PR video playback when recording exists",
           "timestamp": "2026-01-22T20:53:38.299Z",
@@ -1623,34 +1563,16 @@
           "totalDurationMs": 2619903
         },
         {
-          "id": "2cb4350e-aeb6-4081-b40f-56927b111b7b",
-          "title": "Simplify Walkthrough Checklist UI to Scannable Format",
-          "timestamp": "2026-01-22T15:52:38.487Z",
-          "totalDurationMs": 771667
-        },
-        {
           "id": "7b7977fc-fabb-452d-ab34-527f1c5d3475",
           "title": "Phase 2: Upload State Persistence Implementation Complete",
           "timestamp": "2026-01-22T13:27:32.630Z",
           "totalDurationMs": 7750273
         },
         {
-          "id": "2a40eb05-e2e9-429f-8aaf-8b490c086f8d",
-          "title": "Browser Stop Sharing Button Handler Integration",
-          "timestamp": "2026-01-22T13:14:41.714Z",
-          "totalDurationMs": 173668
-        },
-        {
           "id": "bbabe0a6-2e50-4f6c-b43e-f0ae107f6c78",
           "title": "Build Phase 1 Core Recording Infrastructure",
           "timestamp": "2026-01-22T02:12:56.000Z",
           "totalDurationMs": 1663594
-        },
-        {
-          "id": "a2729537-b334-40d2-b3f5-e2b13b80cc77",
-          "title": "GitHub OAuth redirect URI mismatch in production",
-          "timestamp": "2026-01-21T21:30:11.101Z",
-          "totalDurationMs": 37616
         },
         {
           "id": "c568e61a-59e6-4fe4-9848-0b3fe5055c5d",
@@ -1665,22 +1587,10 @@
           "totalDurationMs": 12680340
         },
         {
-          "id": "cd2dc927-3713-4524-bbbd-90be0a0c8875",
-          "title": "Intelligent diff chunking with multi-model processing",
-          "timestamp": "2026-01-21T16:46:44.254Z",
-          "totalDurationMs": 1304831
-        },
-        {
           "id": "9be6d070-db68-4ed1-98c7-6b2be4287076",
           "title": "Phase 3: Code Notes Generation Implementation",
           "timestamp": "2026-01-21T16:00:43.325Z",
           "totalDurationMs": 1881507
-        },
-        {
-          "id": "aa68168a-0519-48ce-a3cd-cc3372c07b2c",
-          "title": "Implement Phase 2: Checklist Generation UI Integration",
-          "timestamp": "2026-01-21T15:35:04.220Z",
-          "totalDurationMs": 1707753
         },
         {
           "id": "0bd1a937-fe81-4f28-95de-f542dffa469d",
@@ -1689,34 +1599,16 @@
           "totalDurationMs": 2338524
         },
         {
-          "id": "25af1245-8506-43ef-af27-37500db407f1",
-          "title": "PR Views Migration to Route-Based Architecture",
-          "timestamp": "2026-01-20T02:14:54.786Z",
-          "totalDurationMs": 1138162
-        },
-        {
           "id": "c82bcda8-260a-412a-860d-c2f450a66113",
           "title": "PR Status: Closed/Merged Handling UI Fix",
           "timestamp": "2026-01-20T01:59:15.268Z",
           "totalDurationMs": 605571
         },
         {
-          "id": "5f8c99d3-1602-4d9e-a0b2-72a1c2020549",
-          "title": "GitHub Webhook Provisioning & Sync Implementation",
-          "timestamp": "2026-01-20T01:30:25.232Z",
-          "totalDurationMs": 646417
-        },
-        {
           "id": "ecdc60ec-9c0d-494b-a3d4-59da25873419",
           "title": "GitHub repo selector with PR list display",
           "timestamp": "2026-01-19T02:45:46.810Z",
           "totalDurationMs": 219728
-        },
-        {
-          "id": "8149b6b7-b741-4ae3-b51b-ad8db513d3d5",
-          "title": "GitHub OAuth Integration via Convex Auth",
-          "timestamp": "2026-01-19T02:22:08.826Z",
-          "totalDurationMs": 1592275
         },
         {
           "id": "40fbd610-4f36-43fb-b9d5-2ca83a50a0a0",
@@ -1729,12 +1621,6 @@
           "title": "Implement Convex AuthKit Auth Integration",
           "timestamp": "2026-01-19T01:35:27.294Z",
           "totalDurationMs": 2422123
-        },
-        {
-          "id": "1574efdf-7372-46d6-a749-b3fb1ddc9b06",
-          "title": "GitHub OAuth Integration with WorkOS AuthKit",
-          "timestamp": "2026-01-18T22:37:07.550Z",
-          "totalDurationMs": 10008233
         },
         {
           "id": "c38662ed-3b70-492d-a9ba-ef80795dc8a1",
@@ -1773,34 +1659,16 @@
           "totalDurationMs": 1685470
         },
         {
-          "id": "90fa194a-8e0d-43a3-ba6a-ac01d247f4d8",
-          "title": "Review page redesign: Notion-style, reduced chrome, ownership tone",
-          "timestamp": "2026-01-13T22:52:56.251Z",
-          "totalDurationMs": 596359
-        },
-        {
           "id": "1706b9cd-d4d9-4c0e-84a0-1f4760a1607d",
           "title": "AI-Generated Code Demo & QA Verification System",
           "timestamp": "2026-01-13T20:09:20.167Z",
           "totalDurationMs": 940875
         },
         {
-          "id": "54326371-af08-45ae-a595-0a36a5959303",
-          "title": "Spool document review UX de-UI-ification",
-          "timestamp": "2026-01-13T15:24:51.964Z",
-          "totalDurationMs": 2609104
-        },
-        {
           "id": "47dffae1-682f-45a6-8b26-b47fe69dd977",
           "title": "AI Code Review System Intent Verification Layer",
           "timestamp": "2026-01-12T20:47:31.574Z",
           "totalDurationMs": 26207
-        },
-        {
-          "id": "9d19b48b-64cc-45b1-833b-7e7b45f3adf5",
-          "title": "Auth Token Persistence Issue on Page Refresh",
-          "timestamp": "2026-01-12T20:14:33.385Z",
-          "totalDurationMs": 872467
         },
         {
           "id": "08dad995-781a-4ad3-ad9d-2792fdeff608",
@@ -1827,22 +1695,10 @@
           "totalDurationMs": 473768
         },
         {
-          "id": "6f1d6efb-b1fa-4102-a275-69ad8b7f07d0",
-          "title": "Add Chat UX with Markdown for PR Questions",
-          "timestamp": "2026-01-07T17:35:48.144Z",
-          "totalDurationMs": 1475760
-        },
-        {
           "id": "c9985098-fda9-41fc-a14d-e30ac5f15878",
           "title": "Backfill AI titles with stricter prompt rules",
           "timestamp": "2026-01-07T15:54:55.130Z",
           "totalDurationMs": 273748
-        },
-        {
-          "id": "67c38d3d-f077-42d6-8081-4ff86531e54b",
-          "title": "Video title generation from transcripts using AI SDK",
-          "timestamp": "2026-01-07T15:47:08.695Z",
-          "totalDurationMs": 330455
         },
         {
           "id": "975877a7-2249-4b1a-8d0c-1cc764a46378",
@@ -1863,22 +1719,10 @@
           "totalDurationMs": 3047873
         },
         {
-          "id": "5d51c99e-1870-435a-8a08-08ebaf91c00a",
-          "title": "Improve Index Page & Remove Status Bar",
-          "timestamp": "2026-01-07T02:33:03.791Z",
-          "totalDurationMs": 1561595
-        },
-        {
           "id": "ff59a730-9488-4b4e-b3bb-37fcdb038ae5",
           "title": "UI Legibility & Contrast Overhaul Pass",
           "timestamp": "2026-01-07T02:14:29.183Z",
           "totalDurationMs": 1025754
-        },
-        {
-          "id": "b988b305-0e82-47ea-b57b-2f939c15dd1b",
-          "title": "UI cleanup pass: overflow, contrast, legibility",
-          "timestamp": "2026-01-07T02:10:44.569Z",
-          "totalDurationMs": 179703
         },
         {
           "id": "ebc3b336-35c0-4349-b030-9a5e8f2241ea",
@@ -1893,28 +1737,10 @@
           "totalDurationMs": 1052843
         },
         {
-          "id": "92884567-ef3b-4eed-bad9-c79569808e59",
-          "title": "Improve PR comment formatting and readability",
-          "timestamp": "2026-01-05T01:14:07.066Z",
-          "totalDurationMs": 138141
-        },
-        {
           "id": "b17746a2-f62d-4318-bdf3-d1585cf4e7af",
           "title": "Refactor PR comments to be conversational and concise",
           "timestamp": "2026-01-05T00:15:51.252Z",
           "totalDurationMs": 810666
-        },
-        {
-          "id": "af483dca-9695-4f06-a000-792ce8c9846d",
-          "title": "Add PR commenting to code review app",
-          "timestamp": "2026-01-03T03:53:47.417Z",
-          "totalDurationMs": 739152
-        },
-        {
-          "id": "d2a46524-9a9c-4fb2-ada4-99f0737b6a86",
-          "title": "GitHub PR Integration - Token Sync Debug",
-          "timestamp": "2026-01-03T03:36:32.694Z",
-          "totalDurationMs": 6050091
         },
         {
           "id": "47fbf7bf-cba4-40eb-b846-123a90dd4847",
@@ -1939,12 +1765,6 @@
           "title": "Convex R2 Backend Refactor & Streaming Implementation",
           "timestamp": "2025-12-30T21:41:52.924Z",
           "totalDurationMs": 240119214
-        },
-        {
-          "id": "ae73882b-6a72-4454-b73b-58b7b7417f0f",
-          "title": "Hybrid AI video code review system",
-          "timestamp": "2025-12-30T21:41:24.255Z",
-          "totalDurationMs": 7433
         }
       ]
     },
@@ -2530,7 +2350,7 @@
   "activity": {
     "2026-02-23": {
       "sessions": 30,
-      "durationMs": 5827836
+      "durationMs": 6141481
     },
     "2026-02-22": {
       "sessions": 29,
@@ -2601,20 +2421,20 @@
       "durationMs": 42836642
     },
     "2026-01-23": {
-      "sessions": 113,
-      "durationMs": 38608390
+      "sessions": 54,
+      "durationMs": 18965219
     },
     "2026-01-22": {
-      "sessions": 91,
-      "durationMs": 45110897
+      "sessions": 80,
+      "durationMs": 44165562
     },
     "2026-01-21": {
-      "sessions": 65,
-      "durationMs": 31818871
+      "sessions": 46,
+      "durationMs": 28768671
     },
     "2026-01-20": {
-      "sessions": 33,
-      "durationMs": 5941370
+      "sessions": 19,
+      "durationMs": 4156791
     },
     "2026-01-16": {
       "sessions": 24,
@@ -2629,12 +2449,12 @@
       "durationMs": 12140985
     },
     "2026-01-13": {
-      "sessions": 40,
-      "durationMs": 5753112
+      "sessions": 29,
+      "durationMs": 2547649
     },
     "2026-01-12": {
-      "sessions": 23,
-      "durationMs": 6479668
+      "sessions": 18,
+      "durationMs": 5607201
     },
     "2026-01-09": {
       "sessions": 20,
@@ -2645,20 +2465,20 @@
       "durationMs": 55136881
     },
     "2026-01-07": {
-      "sessions": 16,
-      "durationMs": 14212416
+      "sessions": 12,
+      "durationMs": 10664903
     },
     "2026-01-06": {
       "sessions": 4,
       "durationMs": 12215423
     },
     "2026-01-05": {
-      "sessions": 11,
-      "durationMs": 1997302
+      "sessions": 10,
+      "durationMs": 1859161
     },
     "2025-12-30": {
-      "sessions": 3,
-      "durationMs": 240812752
+      "sessions": 2,
+      "durationMs": 240805319
     },
     "2026-01-25": {
       "sessions": 63,
@@ -2669,20 +2489,20 @@
       "durationMs": 9755980
     },
     "2026-01-19": {
-      "sessions": 20,
-      "durationMs": 4374935
+      "sessions": 15,
+      "durationMs": 2782660
     },
     "2026-01-18": {
-      "sessions": 18,
-      "durationMs": 13740394
+      "sessions": 11,
+      "durationMs": 3732161
     },
     "2026-01-10": {
       "sessions": 15,
       "durationMs": 5172333
     },
     "2026-01-03": {
-      "sessions": 3,
-      "durationMs": 7088122
+      "sessions": 1,
+      "durationMs": 298879
     },
     "2026-01-02": {
       "sessions": 2,
@@ -2694,33 +2514,33 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 13222128,
-    "outputTokens": 2131888,
-    "cacheReadTokens": 2124107249,
-    "cacheCreationTokens": 212937562
+    "inputTokens": 12284066,
+    "outputTokens": 1646053,
+    "cacheReadTokens": 1935479564,
+    "cacheCreationTokens": 194129237
   },
   "toolUsage": {
-    "Read": 9678,
-    "Task": 674,
-    "Edit": 2749,
-    "Grep": 3558,
-    "Bash": 3716,
+    "Read": 9017,
+    "Task": 620,
+    "Edit": 2405,
+    "Grep": 3426,
+    "Bash": 3396,
     "TaskOutput": 78,
-    "Glob": 2171,
-    "AskUserQuestion": 184,
-    "Write": 626,
-    "ExitPlanMode": 153,
+    "Glob": 2012,
+    "AskUserQuestion": 164,
+    "Write": 565,
+    "ExitPlanMode": 131,
     "TeamCreate": 5,
     "TaskCreate": 439,
     "TaskUpdate": 802,
     "SendMessage": 161,
     "TeamDelete": 3,
     "TaskList": 28,
-    "TodoWrite": 595,
-    "WebFetch": 140,
+    "TodoWrite": 453,
+    "WebFetch": 124,
     "mcp__Control_Chrome__open_url": 1,
-    "Skill": 35,
-    "WebSearch": 72,
+    "Skill": 34,
+    "WebSearch": 70,
     "EnterPlanMode": 6,
     "mcp__exa__web_search_exa": 5,
     "mcp__exa__get_code_context_exa": 1,
