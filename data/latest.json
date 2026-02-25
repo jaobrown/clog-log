@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-24T21:00:06.340Z",
+  "generatedAt": "2026-02-25T13:09:49.449Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 927,
-    "totalDurationMs": 580122297,
-    "totalTokens": 1749146737,
+    "totalSessions": 921,
+    "totalDurationMs": 579532729,
+    "totalTokens": 1746192789,
     "projectCount": 10
   },
   "projects": [
@@ -1193,8 +1193,8 @@
     },
     {
       "projectName": "spool",
-      "totalSessions": 130,
-      "totalDurationMs": 54325365,
+      "totalSessions": 124,
+      "totalDurationMs": 53735797,
       "sessions": [
         {
           "id": "5b682cf2-9a8b-474f-b29a-a014384ee06c",
@@ -1423,42 +1423,6 @@
           "title": "Convex Agent Component Review Pipeline Migration Plan",
           "timestamp": "2026-01-25T20:18:55.439Z",
           "totalDurationMs": 1800293
-        },
-        {
-          "id": "be6065dc-7759-43c2-847e-4873bb478829",
-          "title": "PR header responsive layout refinement",
-          "timestamp": "2026-01-25T20:15:10.486Z",
-          "totalDurationMs": 47781
-        },
-        {
-          "id": "d1d5ad90-cecf-42a9-be4a-abf2b1e5031a",
-          "title": "Web Design Guidelines PR Header Review",
-          "timestamp": "2026-01-25T20:10:40.767Z",
-          "totalDurationMs": 78325
-        },
-        {
-          "id": "dbf9ac02-5002-43ed-8cd5-8de7509920f3",
-          "title": "Vercel React Best Practices Skill Installation",
-          "timestamp": "2026-01-25T20:08:04.289Z",
-          "totalDurationMs": 1202
-        },
-        {
-          "id": "de5e1bf5-bfa2-4e07-9774-3bf67e231041",
-          "title": "Claude Plugin System Exploration",
-          "timestamp": "2026-01-25T20:01:26.681Z",
-          "totalDurationMs": 1
-        },
-        {
-          "id": "c5ad313f-c914-4532-aabb-507ef9f071f6",
-          "title": "PR Demo Video Generator with AI Narration",
-          "timestamp": "2026-01-25T19:42:30.481Z",
-          "totalDurationMs": 435294
-        },
-        {
-          "id": "8ef0480d-f4c0-4e51-9ed2-7237ae31ae5c",
-          "title": "Demo video: homepage GitHub icon walkthrough",
-          "timestamp": "2026-01-25T05:12:20.268Z",
-          "totalDurationMs": 26965
         }
       ]
     },
@@ -2179,8 +2143,8 @@
       "durationMs": 686105
     },
     "2026-01-25": {
-      "sessions": 51,
-      "durationMs": 14528794
+      "sessions": 45,
+      "durationMs": 13939226
     },
     "2026-02-07": {
       "sessions": 27,
@@ -2188,21 +2152,21 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 9982460,
-    "outputTokens": 928117,
-    "cacheReadTokens": 1580368155,
-    "cacheCreationTokens": 157868005
+    "inputTokens": 9962405,
+    "outputTokens": 927421,
+    "cacheReadTokens": 1577690514,
+    "cacheCreationTokens": 157612449
   },
   "toolUsage": {
     "ToolSearch": 7,
     "mcp__claude_ai_Linear__get_issue": 1,
-    "Read": 7472,
-    "Grep": 3113,
-    "Write": 443,
+    "Read": 7463,
+    "Grep": 3112,
+    "Write": 438,
     "Task": 501,
-    "Bash": 2883,
-    "Edit": 1774,
-    "Glob": 1673,
+    "Bash": 2845,
+    "Edit": 1769,
+    "Glob": 1670,
     "mcp__sentry__get_issue_details": 2,
     "ExitPlanMode": 91,
     "TaskOutput": 78,
@@ -2214,7 +2178,7 @@
     "TeamDelete": 3,
     "TaskList": 28,
     "TodoWrite": 208,
-    "WebFetch": 82,
+    "WebFetch": 81,
     "mcp__Control_Chrome__open_url": 1,
     "Skill": 34,
     "WebSearch": 61,
