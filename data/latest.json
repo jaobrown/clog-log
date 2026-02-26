@@ -1,18 +1,48 @@
 {
-  "generatedAt": "2026-02-26T17:00:01.842Z",
+  "generatedAt": "2026-02-26T21:00:02.714Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 536,
-    "totalDurationMs": 381647054,
-    "totalTokens": 1053217496,
+    "totalSessions": 525,
+    "totalDurationMs": 358883181,
+    "totalTokens": 1025494635,
     "projectCount": 9
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 328,
-      "totalDurationMs": 305026077,
+      "totalSessions": 329,
+      "totalDurationMs": 297817672,
       "sessions": [
+        {
+          "id": "2c83c65a-66ed-4187-9882-ccbb6f402773",
+          "title": "**********",
+          "timestamp": "2026-02-26T20:42:10.401Z",
+          "totalDurationMs": 493622
+        },
+        {
+          "id": "beb397b7-424e-4711-bf92-55b37eee7142",
+          "title": "**********",
+          "timestamp": "2026-02-26T20:39:06.692Z",
+          "totalDurationMs": 0
+        },
+        {
+          "id": "cd897161-cdaf-4c2e-823b-8565a4cb8dd8",
+          "title": "**********",
+          "timestamp": "2026-02-26T20:17:28.878Z",
+          "totalDurationMs": 1423235
+        },
+        {
+          "id": "487ec7b4-515b-4a37-8eac-e937ab667577",
+          "title": "**********",
+          "timestamp": "2026-02-26T18:29:25.416Z",
+          "totalDurationMs": 776880
+        },
+        {
+          "id": "d86a5a77-aa64-4923-8ae7-ec7609bd1689",
+          "title": "**********",
+          "timestamp": "2026-02-26T18:20:53.072Z",
+          "totalDurationMs": 88854
+        },
         {
           "id": "b40c2f62-3209-4803-a7a8-3f1531d8bccf",
           "title": "**********",
@@ -744,152 +774,6 @@
           "title": "**********",
           "timestamp": "2026-01-27T20:09:31.246Z",
           "totalDurationMs": 7268508
-        },
-        {
-          "id": "df655308-96ed-4ba5-862b-cca7a2767f87",
-          "title": "**********",
-          "timestamp": "2026-01-27T16:32:40.896Z",
-          "totalDurationMs": 9946932
-        },
-        {
-          "id": "20dc1fff-910d-4a55-9f5c-2d74ca77915e",
-          "title": "**********",
-          "timestamp": "2026-01-27T00:39:56.291Z",
-          "totalDurationMs": 44064
-        }
-      ]
-    },
-    {
-      "projectName": "clog",
-      "totalSessions": 16,
-      "totalDurationMs": 17252459,
-      "sessions": [
-        {
-          "id": "09e25120-ad38-4f66-857c-9c8a17b623dd",
-          "title": "Agent Team Session (/feature-dev:feature-dev)",
-          "timestamp": "2026-02-02T00:48:50.743Z",
-          "totalDurationMs": 1297049
-        },
-        {
-          "id": "f0d645dc-b279-4a64-8d59-ba4a2a41c1ae",
-          "title": "CLI & web leaderboard for Claude Code usage",
-          "timestamp": "2026-01-30T17:11:36.828Z",
-          "totalDurationMs": 938739
-        },
-        {
-          "id": "810595b0-b572-46f9-943f-c39f9cf5d48c",
-          "title": "Clog: Claude Usage Leaderboard CLI & Web",
-          "timestamp": "2026-01-30T16:46:05.032Z",
-          "totalDurationMs": 509238
-        },
-        {
-          "id": "40592004-dc88-4a4c-8aac-2066a5bcd4b5",
-          "title": "Claude Code Status Landing Page Builder",
-          "timestamp": "2026-01-27T19:06:43.977Z",
-          "totalDurationMs": 33175
-        },
-        {
-          "id": "7c3868d8-559e-4577-8253-5f32def6097b",
-          "title": "Separate Personal Clog Data from Template Repo",
-          "timestamp": "2026-01-27T17:52:40.580Z",
-          "totalDurationMs": 2165738
-        },
-        {
-          "id": "ac08fd63-03ca-4855-8bf2-0b1be07b2f91",
-          "title": "Isolating Personal Clog Data From Forked Repos",
-          "timestamp": "2026-01-27T17:49:27.979Z",
-          "totalDurationMs": 193471
-        },
-        {
-          "id": "279e49a3-1978-4b7c-93e1-2d832a1f92a2",
-          "title": "Claude Code Session Logger Setup",
-          "timestamp": "2026-01-27T17:21:58.851Z",
-          "totalDurationMs": 265126
-        },
-        {
-          "id": "746dffc6-97b3-4217-8fe8-95556b04bc1d",
-          "title": "Topic-Based Leaderboard Discovery Implementation",
-          "timestamp": "2026-01-27T16:21:01.970Z",
-          "totalDurationMs": 7064075
-        },
-        {
-          "id": "9cc6cb47-ee56-479a-824d-bdb70ce3811d",
-          "title": "git push error: empty repository fix",
-          "timestamp": "2026-01-27T15:23:45.903Z",
-          "totalDurationMs": 66810
-        },
-        {
-          "id": "b0370ab1-1829-4df8-854f-0e673751fa83",
-          "title": "Git Remote URL Conversion to SSH",
-          "timestamp": "2026-01-27T15:20:36.556Z",
-          "totalDurationMs": 115750
-        },
-        {
-          "id": "084b5cf3-425f-4e24-b9fb-91f33f21eddb",
-          "title": "Build clog skill: daily coding diary tracker",
-          "timestamp": "2026-01-27T15:02:35.885Z",
-          "totalDurationMs": 4603288
-        }
-      ]
-    },
-    {
-      "projectName": "spool",
-      "totalSessions": 18,
-      "totalDurationMs": 17062233,
-      "sessions": [
-        {
-          "id": "5b682cf2-9a8b-474f-b29a-a014384ee06c",
-          "title": "(no title)",
-          "timestamp": "2026-01-28T15:09:51.988Z",
-          "totalDurationMs": 244827
-        },
-        {
-          "id": "d27943fc-932a-4965-a9a7-07c70db2241d",
-          "title": "(no title)",
-          "timestamp": "2026-01-28T01:48:38.127Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "3fed42f5-7873-4ae8-a987-f266ac7870f5",
-          "title": "Remove timer from tasks UI processing overlay",
-          "timestamp": "2026-01-28T01:37:21.193Z",
-          "totalDurationMs": 160411
-        },
-        {
-          "id": "95bea49f-06e4-4d0e-9f97-3b2a20240597",
-          "title": "Fix PR merged status detection in polling",
-          "timestamp": "2026-01-28T01:32:39.319Z",
-          "totalDurationMs": 331838
-        },
-        {
-          "id": "b958d73a-9743-4d15-9230-8ce7c41d1839",
-          "title": "Fix timestamp clicks scrolling to page top",
-          "timestamp": "2026-01-27T22:25:17.571Z",
-          "totalDurationMs": 12732805
-        },
-        {
-          "id": "3dc2dec3-41ab-4785-97de-a3685448af30",
-          "title": "Video Timestamp Accuracy via Two-Pass Gemini Analysis",
-          "timestamp": "2026-01-27T21:39:09.146Z",
-          "totalDurationMs": 2511142
-        },
-        {
-          "id": "3028300d-a2db-4190-b71f-3dafae65d209",
-          "title": "(no title)",
-          "timestamp": "2026-01-27T15:11:31.662Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "6b140d9c-4922-46f8-9ead-c638bcf1e81e",
-          "title": "Static Homepage Rendering Optimization",
-          "timestamp": "2026-01-27T14:57:44.828Z",
-          "totalDurationMs": 252495
-        },
-        {
-          "id": "5c9cbc8b-d409-4703-8064-9e7ec31adf7b",
-          "title": "SEO Audit: Pre-Launch Optimization for Spool",
-          "timestamp": "2026-01-27T14:33:06.885Z",
-          "totalDurationMs": 828715
         }
       ]
     },
@@ -957,6 +841,49 @@
           "title": "Updated install commands to use npx",
           "timestamp": "2026-02-02T15:55:13.331Z",
           "totalDurationMs": 345436
+        }
+      ]
+    },
+    {
+      "projectName": "spool",
+      "totalSessions": 15,
+      "totalDurationMs": 15981023,
+      "sessions": [
+        {
+          "id": "5b682cf2-9a8b-474f-b29a-a014384ee06c",
+          "title": "(no title)",
+          "timestamp": "2026-01-28T15:09:51.988Z",
+          "totalDurationMs": 244827
+        },
+        {
+          "id": "d27943fc-932a-4965-a9a7-07c70db2241d",
+          "title": "(no title)",
+          "timestamp": "2026-01-28T01:48:38.127Z",
+          "totalDurationMs": 0
+        },
+        {
+          "id": "3fed42f5-7873-4ae8-a987-f266ac7870f5",
+          "title": "Remove timer from tasks UI processing overlay",
+          "timestamp": "2026-01-28T01:37:21.193Z",
+          "totalDurationMs": 160411
+        },
+        {
+          "id": "95bea49f-06e4-4d0e-9f97-3b2a20240597",
+          "title": "Fix PR merged status detection in polling",
+          "timestamp": "2026-01-28T01:32:39.319Z",
+          "totalDurationMs": 331838
+        },
+        {
+          "id": "b958d73a-9743-4d15-9230-8ce7c41d1839",
+          "title": "Fix timestamp clicks scrolling to page top",
+          "timestamp": "2026-01-27T22:25:17.571Z",
+          "totalDurationMs": 12732805
+        },
+        {
+          "id": "3dc2dec3-41ab-4785-97de-a3685448af30",
+          "title": "Video Timestamp Accuracy via Two-Pass Gemini Analysis",
+          "timestamp": "2026-01-27T21:39:09.146Z",
+          "totalDurationMs": 2511142
         }
       ]
     },
@@ -1251,6 +1178,37 @@
       ]
     },
     {
+      "projectName": "clog",
+      "totalSessions": 7,
+      "totalDurationMs": 2778201,
+      "sessions": [
+        {
+          "id": "09e25120-ad38-4f66-857c-9c8a17b623dd",
+          "title": "Agent Team Session (/feature-dev:feature-dev)",
+          "timestamp": "2026-02-02T00:48:50.743Z",
+          "totalDurationMs": 1297049
+        },
+        {
+          "id": "f0d645dc-b279-4a64-8d59-ba4a2a41c1ae",
+          "title": "CLI & web leaderboard for Claude Code usage",
+          "timestamp": "2026-01-30T17:11:36.828Z",
+          "totalDurationMs": 938739
+        },
+        {
+          "id": "810595b0-b572-46f9-943f-c39f9cf5d48c",
+          "title": "Clog: Claude Usage Leaderboard CLI & Web",
+          "timestamp": "2026-01-30T16:46:05.032Z",
+          "totalDurationMs": 509238
+        },
+        {
+          "id": "40592004-dc88-4a4c-8aac-2066a5bcd4b5",
+          "title": "Claude Code Status Landing Page Builder",
+          "timestamp": "2026-01-27T19:06:43.977Z",
+          "totalDurationMs": 33175
+        }
+      ]
+    },
+    {
       "projectName": "clog-web",
       "totalSessions": 2,
       "totalDurationMs": 1851041,
@@ -1334,8 +1292,8 @@
   ],
   "activity": {
     "2026-02-26": {
-      "sessions": 5,
-      "durationMs": 3869866
+      "sessions": 14,
+      "durationMs": 6652457
     },
     "2026-02-25": {
       "sessions": 1,
@@ -1410,8 +1368,8 @@
       "durationMs": 26343995
     },
     "2026-01-27": {
-      "sessions": 41,
-      "durationMs": 49457980
+      "sessions": 21,
+      "durationMs": 23911516
     },
     "2026-02-07": {
       "sessions": 27,
@@ -1419,45 +1377,48 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 5565520,
-    "outputTokens": 349218,
-    "cacheReadTokens": 956605853,
-    "cacheCreationTokens": 90696905
+    "inputTokens": 5346002,
+    "outputTokens": 421547,
+    "cacheReadTokens": 932867406,
+    "cacheCreationTokens": 86859680
   },
   "toolUsage": {
-    "Read": 4727,
-    "Grep": 2123,
-    "Edit": 1033,
-    "ToolSearch": 11,
+    "Task": 259,
+    "Glob": 1028,
+    "Read": 4587,
+    "Grep": 2041,
+    "Edit": 1011,
+    "Bash": 1783,
+    "Write": 266,
+    "mcp__exa__web_search_exa": 13,
+    "ToolSearch": 13,
+    "mcp__figma__generate_figma_design": 6,
+    "AskUserQuestion": 62,
+    "mcp__figma-desktop__add_code_connect_map": 1,
+    "mcp__figma-desktop__send_code_connect_mappings": 1,
+    "mcp__figma-desktop__get_design_context": 7,
     "Skill": 11,
-    "Bash": 1843,
     "mcp__sentry__get_issue_details": 3,
-    "Task": 265,
     "mcp__sentry__search_issue_events": 1,
-    "Write": 290,
-    "ExitPlanMode": 58,
-    "Glob": 1047,
+    "ExitPlanMode": 53,
     "mcp__claude_ai_Linear__get_issue": 1,
     "TaskOutput": 3,
-    "AskUserQuestion": 69,
     "TeamCreate": 5,
-    "TaskCreate": 251,
-    "TaskUpdate": 479,
+    "TaskCreate": 220,
+    "TaskUpdate": 428,
     "SendMessage": 161,
     "TeamDelete": 3,
-    "TaskList": 26,
+    "TaskList": 25,
     "TodoWrite": 34,
-    "WebFetch": 28,
+    "WebFetch": 16,
     "mcp__Control_Chrome__open_url": 1,
     "WebSearch": 16,
     "EnterPlanMode": 1,
-    "mcp__exa__web_search_exa": 5,
     "mcp__exa__get_code_context_exa": 1,
     "mcp__Claude_Preview__preview_start": 2,
     "mcp__Claude_in_Chrome__tabs_context_mcp": 2,
     "mcp__Claude_in_Chrome__navigate": 2,
     "mcp__Claude_in_Chrome__update_plan": 2,
-    "mcp__figma-desktop__get_design_context": 6,
     "mcp__figma-desktop__get_screenshot": 5,
     "mcp__linear-server__get_issue": 8,
     "mcp__linear-server__list_issues": 1,
