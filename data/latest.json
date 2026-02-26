@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-02-26T13:07:07.746Z",
+  "generatedAt": "2026-02-26T17:00:01.842Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 566,
-    "totalDurationMs": 394030443,
-    "totalTokens": 1111645842,
-    "projectCount": 10
+    "totalSessions": 536,
+    "totalDurationMs": 381647054,
+    "totalTokens": 1053217496,
+    "projectCount": 9
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 329,
-      "totalDurationMs": 303170431,
+      "totalSessions": 328,
+      "totalDurationMs": 305026077,
       "sessions": [
+        {
+          "id": "b40c2f62-3209-4803-a7a8-3f1531d8bccf",
+          "title": "**********",
+          "timestamp": "2026-02-26T15:16:19.380Z",
+          "totalDurationMs": 48910
+        },
+        {
+          "id": "717bd745-41ca-453a-a0c0-75d3a777ab30",
+          "title": "**********",
+          "timestamp": "2026-02-26T14:40:59.587Z",
+          "totalDurationMs": 3820956
+        },
         {
           "id": "239819be-487c-4fb6-a090-eabc57335746",
           "title": "**********",
@@ -744,109 +756,6 @@
           "title": "**********",
           "timestamp": "2026-01-27T00:39:56.291Z",
           "totalDurationMs": 44064
-        },
-        {
-          "id": "a7c1181d-2883-4c12-b6d1-bd106f0dd663",
-          "title": "**********",
-          "timestamp": "2026-01-26T22:18:19.341Z",
-          "totalDurationMs": 203527
-        },
-        {
-          "id": "8b56dab0-28d5-4f0b-b391-0ebe34dda08d",
-          "title": "**********",
-          "timestamp": "2026-01-26T22:11:10.499Z",
-          "totalDurationMs": 221372
-        },
-        {
-          "id": "e2daf667-c56c-4db4-8dc7-d7e92fb1ebae",
-          "title": "**********",
-          "timestamp": "2026-01-26T21:46:53.797Z",
-          "totalDurationMs": 1589321
-        }
-      ]
-    },
-    {
-      "projectName": "spool",
-      "totalSessions": 31,
-      "totalDurationMs": 27340692,
-      "sessions": [
-        {
-          "id": "5b682cf2-9a8b-474f-b29a-a014384ee06c",
-          "title": "(no title)",
-          "timestamp": "2026-01-28T15:09:51.988Z",
-          "totalDurationMs": 244827
-        },
-        {
-          "id": "d27943fc-932a-4965-a9a7-07c70db2241d",
-          "title": "(no title)",
-          "timestamp": "2026-01-28T01:48:38.127Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "3fed42f5-7873-4ae8-a987-f266ac7870f5",
-          "title": "Remove timer from tasks UI processing overlay",
-          "timestamp": "2026-01-28T01:37:21.193Z",
-          "totalDurationMs": 160411
-        },
-        {
-          "id": "95bea49f-06e4-4d0e-9f97-3b2a20240597",
-          "title": "Fix PR merged status detection in polling",
-          "timestamp": "2026-01-28T01:32:39.319Z",
-          "totalDurationMs": 331838
-        },
-        {
-          "id": "b958d73a-9743-4d15-9230-8ce7c41d1839",
-          "title": "Fix timestamp clicks scrolling to page top",
-          "timestamp": "2026-01-27T22:25:17.571Z",
-          "totalDurationMs": 12732805
-        },
-        {
-          "id": "3dc2dec3-41ab-4785-97de-a3685448af30",
-          "title": "Video Timestamp Accuracy via Two-Pass Gemini Analysis",
-          "timestamp": "2026-01-27T21:39:09.146Z",
-          "totalDurationMs": 2511142
-        },
-        {
-          "id": "3028300d-a2db-4190-b71f-3dafae65d209",
-          "title": "(no title)",
-          "timestamp": "2026-01-27T15:11:31.662Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "6b140d9c-4922-46f8-9ead-c638bcf1e81e",
-          "title": "Static Homepage Rendering Optimization",
-          "timestamp": "2026-01-27T14:57:44.828Z",
-          "totalDurationMs": 252495
-        },
-        {
-          "id": "5c9cbc8b-d409-4703-8064-9e7ec31adf7b",
-          "title": "SEO Audit: Pre-Launch Optimization for Spool",
-          "timestamp": "2026-01-27T14:33:06.885Z",
-          "totalDurationMs": 828715
-        },
-        {
-          "id": "963591b7-0ad0-4821-a61c-1e4c133a47ab",
-          "title": "Shadcn Landing Page Setup and Font Integration",
-          "timestamp": "2026-01-27T02:28:51.927Z",
-          "totalDurationMs": 378600
-        },
-        {
-          "id": "26b75cc5-041f-4ce4-87ed-2ef713042fc1",
-          "title": "Implement shareable read-only PR report links",
-          "timestamp": "2026-01-27T01:05:54.741Z",
-          "totalDurationMs": 6107714
-        },
-        {
-          "id": "16d59e62-b966-4460-bb6e-4a6b59b2dc05",
-          "title": "Playwright test detection in monorepos",
-          "timestamp": "2026-01-26T22:20:56.603Z",
-          "totalDurationMs": 9702
-        },
-        {
-          "id": "f8a40458-9332-4486-bbf7-08f9f7ef9dc5",
-          "title": "Video verification: improve visual claim detection",
-          "timestamp": "2026-01-26T19:59:14.419Z",
-          "totalDurationMs": 3782443
         }
       ]
     },
@@ -920,6 +829,67 @@
           "title": "Build clog skill: daily coding diary tracker",
           "timestamp": "2026-01-27T15:02:35.885Z",
           "totalDurationMs": 4603288
+        }
+      ]
+    },
+    {
+      "projectName": "spool",
+      "totalSessions": 18,
+      "totalDurationMs": 17062233,
+      "sessions": [
+        {
+          "id": "5b682cf2-9a8b-474f-b29a-a014384ee06c",
+          "title": "(no title)",
+          "timestamp": "2026-01-28T15:09:51.988Z",
+          "totalDurationMs": 244827
+        },
+        {
+          "id": "d27943fc-932a-4965-a9a7-07c70db2241d",
+          "title": "(no title)",
+          "timestamp": "2026-01-28T01:48:38.127Z",
+          "totalDurationMs": 0
+        },
+        {
+          "id": "3fed42f5-7873-4ae8-a987-f266ac7870f5",
+          "title": "Remove timer from tasks UI processing overlay",
+          "timestamp": "2026-01-28T01:37:21.193Z",
+          "totalDurationMs": 160411
+        },
+        {
+          "id": "95bea49f-06e4-4d0e-9f97-3b2a20240597",
+          "title": "Fix PR merged status detection in polling",
+          "timestamp": "2026-01-28T01:32:39.319Z",
+          "totalDurationMs": 331838
+        },
+        {
+          "id": "b958d73a-9743-4d15-9230-8ce7c41d1839",
+          "title": "Fix timestamp clicks scrolling to page top",
+          "timestamp": "2026-01-27T22:25:17.571Z",
+          "totalDurationMs": 12732805
+        },
+        {
+          "id": "3dc2dec3-41ab-4785-97de-a3685448af30",
+          "title": "Video Timestamp Accuracy via Two-Pass Gemini Analysis",
+          "timestamp": "2026-01-27T21:39:09.146Z",
+          "totalDurationMs": 2511142
+        },
+        {
+          "id": "3028300d-a2db-4190-b71f-3dafae65d209",
+          "title": "(no title)",
+          "timestamp": "2026-01-27T15:11:31.662Z",
+          "totalDurationMs": 0
+        },
+        {
+          "id": "6b140d9c-4922-46f8-9ead-c638bcf1e81e",
+          "title": "Static Homepage Rendering Optimization",
+          "timestamp": "2026-01-27T14:57:44.828Z",
+          "totalDurationMs": 252495
+        },
+        {
+          "id": "5c9cbc8b-d409-4703-8064-9e7ec31adf7b",
+          "title": "SEO Audit: Pre-Launch Optimization for Spool",
+          "timestamp": "2026-01-27T14:33:06.885Z",
+          "totalDurationMs": 828715
         }
       ]
     },
@@ -1281,37 +1251,6 @@
       ]
     },
     {
-      "projectName": "demo-changes",
-      "totalSessions": 16,
-      "totalDurationMs": 3960576,
-      "sessions": [
-        {
-          "id": "59720ce2-a7af-49c2-862f-31bee16cd624",
-          "title": "Agent Team Session (/feature-dev:feature-dev)",
-          "timestamp": "2026-01-26T22:37:32.411Z",
-          "totalDurationMs": 1895427
-        },
-        {
-          "id": "24d20702-20c0-4f08-b49e-9ab3f91fee46",
-          "title": "Monorepo Playwright Detection: CLI Flags Over Auto-Detection",
-          "timestamp": "2026-01-26T22:21:39.882Z",
-          "totalDurationMs": 921311
-        },
-        {
-          "id": "7931d0f6-9db5-466c-8157-da9878c4cc71",
-          "title": "Codebase cleanup for open source release",
-          "timestamp": "2026-01-26T22:09:58.774Z",
-          "totalDurationMs": 781875
-        },
-        {
-          "id": "52354f5e-25b8-4470-a385-6c9ff35a6bda",
-          "title": "Fix demo skill video recording with Bash CLI",
-          "timestamp": "2026-01-26T22:02:45.191Z",
-          "totalDurationMs": 361963
-        }
-      ]
-    },
-    {
       "projectName": "clog-web",
       "totalSessions": 2,
       "totalDurationMs": 1851041,
@@ -1394,6 +1333,10 @@
     }
   ],
   "activity": {
+    "2026-02-26": {
+      "sessions": 5,
+      "durationMs": 3869866
+    },
     "2026-02-25": {
       "sessions": 1,
       "durationMs": 139430
@@ -1467,12 +1410,8 @@
       "durationMs": 26343995
     },
     "2026-01-27": {
-      "sessions": 48,
-      "durationMs": 55944294
-    },
-    "2026-01-26": {
-      "sessions": 28,
-      "durationMs": 9766941
+      "sessions": 41,
+      "durationMs": 49457980
     },
     "2026-02-07": {
       "sessions": 27,
@@ -1480,36 +1419,37 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 6049795,
-    "outputTokens": 357314,
-    "cacheReadTokens": 1007761478,
-    "cacheCreationTokens": 97477255
+    "inputTokens": 5565520,
+    "outputTokens": 349218,
+    "cacheReadTokens": 956605853,
+    "cacheCreationTokens": 90696905
   },
   "toolUsage": {
-    "Read": 5088,
-    "Grep": 2204,
-    "Glob": 1139,
-    "Edit": 1099,
-    "ToolSearch": 7,
+    "Read": 4727,
+    "Grep": 2123,
+    "Edit": 1033,
+    "ToolSearch": 11,
+    "Skill": 11,
+    "Bash": 1843,
+    "mcp__sentry__get_issue_details": 3,
+    "Task": 265,
+    "mcp__sentry__search_issue_events": 1,
+    "Write": 290,
+    "ExitPlanMode": 58,
+    "Glob": 1047,
     "mcp__claude_ai_Linear__get_issue": 1,
-    "Write": 320,
-    "Task": 286,
-    "Bash": 1947,
-    "mcp__sentry__get_issue_details": 2,
-    "ExitPlanMode": 57,
     "TaskOutput": 3,
-    "AskUserQuestion": 80,
+    "AskUserQuestion": 69,
     "TeamCreate": 5,
-    "TaskCreate": 293,
-    "TaskUpdate": 547,
+    "TaskCreate": 251,
+    "TaskUpdate": 479,
     "SendMessage": 161,
     "TeamDelete": 3,
-    "TaskList": 27,
+    "TaskList": 26,
     "TodoWrite": 34,
     "WebFetch": 28,
     "mcp__Control_Chrome__open_url": 1,
-    "Skill": 11,
-    "WebSearch": 17,
+    "WebSearch": 16,
     "EnterPlanMode": 1,
     "mcp__exa__web_search_exa": 5,
     "mcp__exa__get_code_context_exa": 1,
