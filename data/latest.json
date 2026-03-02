@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-03-01T21:00:03.205Z",
+  "generatedAt": "2026-03-02T17:00:02.333Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 525,
-    "totalDurationMs": 358883181,
+    "totalSessions": 526,
+    "totalDurationMs": 358886716,
     "totalTokens": 1025494635,
     "projectCount": 9
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 329,
-      "totalDurationMs": 297817672,
+      "totalSessions": 330,
+      "totalDurationMs": 297821207,
       "sessions": [
+        {
+          "id": "1503f79c-3602-4849-9b4c-66aba68be5c8",
+          "title": "**********",
+          "timestamp": "2026-03-02T14:26:15.887Z",
+          "totalDurationMs": 3535
+        },
         {
           "id": "2c83c65a-66ed-4187-9882-ccbb6f402773",
           "title": "**********",
@@ -1291,6 +1297,10 @@
     }
   ],
   "activity": {
+    "2026-03-02": {
+      "sessions": 1,
+      "durationMs": 3535
+    },
     "2026-02-26": {
       "sessions": 14,
       "durationMs": 6652457
