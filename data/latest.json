@@ -1,18 +1,48 @@
 {
-  "generatedAt": "2026-03-03T17:00:15.366Z",
+  "generatedAt": "2026-03-03T21:00:01.186Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 526,
-    "totalDurationMs": 358886716,
-    "totalTokens": 1025494635,
-    "projectCount": 9
+    "totalSessions": 442,
+    "totalDurationMs": 280449282,
+    "totalTokens": 759929131,
+    "projectCount": 8
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 330,
-      "totalDurationMs": 297821207,
+      "totalSessions": 262,
+      "totalDurationMs": 235397971,
       "sessions": [
+        {
+          "id": "868822af-e7e1-4e2f-81b0-c3b68408c700",
+          "title": "**********",
+          "timestamp": "2026-03-03T19:30:21.168Z",
+          "totalDurationMs": 615545
+        },
+        {
+          "id": "d2eb9f1a-109a-4e8c-8deb-a95be419a869",
+          "title": "**********",
+          "timestamp": "2026-03-03T19:11:50.127Z",
+          "totalDurationMs": 668599
+        },
+        {
+          "id": "dfc03b81-91bd-4ce6-9004-cf0c5ad75247",
+          "title": "**********",
+          "timestamp": "2026-03-03T19:11:06.686Z",
+          "totalDurationMs": 0
+        },
+        {
+          "id": "7c124be9-13fb-42e9-8f98-6e6833b7a712",
+          "title": "**********",
+          "timestamp": "2026-03-03T19:06:08.326Z",
+          "totalDurationMs": 1069
+        },
+        {
+          "id": "3de50a22-93e7-49b8-b992-833a59420af2",
+          "title": "**********",
+          "timestamp": "2026-03-03T19:02:58.563Z",
+          "totalDurationMs": 504715
+        },
         {
           "id": "1503f79c-3602-4849-9b4c-66aba68be5c8",
           "title": "**********",
@@ -576,210 +606,6 @@
           "title": "**********",
           "timestamp": "2026-01-30T23:31:46.797Z",
           "totalDurationMs": 395908
-        },
-        {
-          "id": "fb4e76eb-a9d7-4d94-a79e-c55435422879",
-          "title": "**********",
-          "timestamp": "2026-01-30T23:02:23.572Z",
-          "totalDurationMs": 2325783
-        },
-        {
-          "id": "f223aac9-91f8-44b9-b7a4-101efd86435e",
-          "title": "**********",
-          "timestamp": "2026-01-30T22:06:04.858Z",
-          "totalDurationMs": 1939549
-        },
-        {
-          "id": "c9cd0306-e4e7-4a35-a1a5-5953c1a1f589",
-          "title": "**********",
-          "timestamp": "2026-01-30T21:48:42.370Z",
-          "totalDurationMs": 21846
-        },
-        {
-          "id": "f85ba69c-ef18-46f7-9118-e4612d6532b7",
-          "title": "**********",
-          "timestamp": "2026-01-30T21:34:56.594Z",
-          "totalDurationMs": 670188
-        },
-        {
-          "id": "f8322e5d-cfb2-4644-9e8f-368f6b104518",
-          "title": "**********",
-          "timestamp": "2026-01-30T21:20:56.302Z",
-          "totalDurationMs": 1059389
-        },
-        {
-          "id": "0e4e2d31-101f-4652-b703-5727753613e3",
-          "title": "**********",
-          "timestamp": "2026-01-30T19:24:05.976Z",
-          "totalDurationMs": 71100
-        },
-        {
-          "id": "776eeb9f-584c-4659-a07d-bf1514b9a028",
-          "title": "**********",
-          "timestamp": "2026-01-30T18:03:02.782Z",
-          "totalDurationMs": 23225
-        },
-        {
-          "id": "024fbe1b-8043-44bb-9aec-62b2b8e43f06",
-          "title": "**********",
-          "timestamp": "2026-01-30T17:14:43.815Z",
-          "totalDurationMs": 19432
-        },
-        {
-          "id": "dad9ecc7-1866-4a35-844b-4fa7dc2f4a70",
-          "title": "**********",
-          "timestamp": "2026-01-30T16:25:06.413Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "bdd50635-84cc-4468-a149-e66d2982894c",
-          "title": "**********",
-          "timestamp": "2026-01-30T16:02:11.341Z",
-          "totalDurationMs": 1447131
-        },
-        {
-          "id": "383a6f6c-7383-40ff-941b-d51c7a9729f8",
-          "title": "**********",
-          "timestamp": "2026-01-29T22:57:01.058Z",
-          "totalDurationMs": 1757400
-        },
-        {
-          "id": "f5956b8c-ca08-48a3-be9a-626f8b6d8d89",
-          "title": "**********",
-          "timestamp": "2026-01-29T22:56:42.611Z",
-          "totalDurationMs": 3668
-        },
-        {
-          "id": "41ed5926-d505-495a-b3d5-fdd6360e4560",
-          "title": "**********",
-          "timestamp": "2026-01-29T22:55:48.299Z",
-          "totalDurationMs": 48323
-        },
-        {
-          "id": "81b01bb7-78ef-454d-a6b1-f0b5b02f8650",
-          "title": "**********",
-          "timestamp": "2026-01-29T22:52:16.995Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "fa43b4e4-1aef-4df5-b411-9868624e65af",
-          "title": "**********",
-          "timestamp": "2026-01-29T20:17:22.694Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "a7f5951d-5490-4c78-80f6-0555fc44d341",
-          "title": "**********",
-          "timestamp": "2026-01-29T20:08:33.050Z",
-          "totalDurationMs": 1106058
-        },
-        {
-          "id": "b7f6e407-276a-457f-9ee6-3dcb51a92386",
-          "title": "**********",
-          "timestamp": "2026-01-29T19:57:20.193Z",
-          "totalDurationMs": 15005905
-        },
-        {
-          "id": "ea31ca4a-54c7-4e81-9a1b-a8d713cc4919",
-          "title": "**********",
-          "timestamp": "2026-01-29T19:42:24.934Z",
-          "totalDurationMs": 865445
-        },
-        {
-          "id": "90c82b3e-1ae8-40ce-ad0a-719aaeaeaea3",
-          "title": "**********",
-          "timestamp": "2026-01-29T19:40:02.875Z",
-          "totalDurationMs": 48750
-        },
-        {
-          "id": "c091b6bb-974a-4f42-9ff9-61f9c1c3868c",
-          "title": "**********",
-          "timestamp": "2026-01-29T19:39:43.938Z",
-          "totalDurationMs": 10289
-        },
-        {
-          "id": "8282a6b0-47e6-4fbe-9e3f-8cafccdfa4c9",
-          "title": "**********",
-          "timestamp": "2026-01-29T17:50:18.681Z",
-          "totalDurationMs": 4883034
-        },
-        {
-          "id": "455c468f-0332-41a8-ab5f-8d441bdbc86e",
-          "title": "**********",
-          "timestamp": "2026-01-29T01:43:39.730Z",
-          "totalDurationMs": 31222
-        },
-        {
-          "id": "b9db2f87-d8b5-4615-aaa0-a2303494e7cd",
-          "title": "**********",
-          "timestamp": "2026-01-28T22:05:27.785Z",
-          "totalDurationMs": 12806202
-        },
-        {
-          "id": "9585833b-121f-4cb5-979f-27d6434fd1d8",
-          "title": "**********",
-          "timestamp": "2026-01-28T21:28:28.102Z",
-          "totalDurationMs": 1987344
-        },
-        {
-          "id": "017a9529-6f9a-4036-806f-9ae6443adc10",
-          "title": "**********",
-          "timestamp": "2026-01-28T20:23:28.244Z",
-          "totalDurationMs": 683085
-        },
-        {
-          "id": "06bc53bd-a2a9-4139-a6ed-76b2cfb87f1f",
-          "title": "**********",
-          "timestamp": "2026-01-28T19:39:47.818Z",
-          "totalDurationMs": 1644499
-        },
-        {
-          "id": "19439e78-3def-4922-a49f-d8de1c48b2c4",
-          "title": "**********",
-          "timestamp": "2026-01-28T19:30:29.039Z",
-          "totalDurationMs": 797040
-        },
-        {
-          "id": "7da9ceb6-c848-4bca-9875-1fe7c8e044a3",
-          "title": "**********",
-          "timestamp": "2026-01-28T17:54:47.788Z",
-          "totalDurationMs": 3071428
-        },
-        {
-          "id": "97562246-0c6d-474e-b2e4-77b0be335cae",
-          "title": "**********",
-          "timestamp": "2026-01-28T17:38:20.320Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "22b86e8c-8e35-4820-85c1-a1de19412668",
-          "title": "**********",
-          "timestamp": "2026-01-28T17:08:10.742Z",
-          "totalDurationMs": 3372476
-        },
-        {
-          "id": "648fb186-cd47-41a4-a394-d55fe660fac0",
-          "title": "**********",
-          "timestamp": "2026-01-28T17:01:09.509Z",
-          "totalDurationMs": 927778
-        },
-        {
-          "id": "43beb868-842f-455d-a698-9d31f48d0cb3",
-          "title": "**********",
-          "timestamp": "2026-01-28T14:56:44.334Z",
-          "totalDurationMs": 15248
-        },
-        {
-          "id": "0d9cf009-0c61-4e2a-95ae-86182f0dfb76",
-          "title": "**********",
-          "timestamp": "2026-01-28T14:46:14.975Z",
-          "totalDurationMs": 301819
-        },
-        {
-          "id": "7cea48ac-1b0e-410f-a9d5-961c8b0f2b5b",
-          "title": "**********",
-          "timestamp": "2026-01-27T20:09:31.246Z",
-          "totalDurationMs": 7268508
         }
       ]
     },
@@ -847,49 +673,6 @@
           "title": "Updated install commands to use npx",
           "timestamp": "2026-02-02T15:55:13.331Z",
           "totalDurationMs": 345436
-        }
-      ]
-    },
-    {
-      "projectName": "spool",
-      "totalSessions": 15,
-      "totalDurationMs": 15981023,
-      "sessions": [
-        {
-          "id": "5b682cf2-9a8b-474f-b29a-a014384ee06c",
-          "title": "(no title)",
-          "timestamp": "2026-01-28T15:09:51.988Z",
-          "totalDurationMs": 244827
-        },
-        {
-          "id": "d27943fc-932a-4965-a9a7-07c70db2241d",
-          "title": "(no title)",
-          "timestamp": "2026-01-28T01:48:38.127Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "3fed42f5-7873-4ae8-a987-f266ac7870f5",
-          "title": "Remove timer from tasks UI processing overlay",
-          "timestamp": "2026-01-28T01:37:21.193Z",
-          "totalDurationMs": 160411
-        },
-        {
-          "id": "95bea49f-06e4-4d0e-9f97-3b2a20240597",
-          "title": "Fix PR merged status detection in polling",
-          "timestamp": "2026-01-28T01:32:39.319Z",
-          "totalDurationMs": 331838
-        },
-        {
-          "id": "b958d73a-9743-4d15-9230-8ce7c41d1839",
-          "title": "Fix timestamp clicks scrolling to page top",
-          "timestamp": "2026-01-27T22:25:17.571Z",
-          "totalDurationMs": 12732805
-        },
-        {
-          "id": "3dc2dec3-41ab-4785-97de-a3685448af30",
-          "title": "Video Timestamp Accuracy via Two-Pass Gemini Analysis",
-          "timestamp": "2026-01-27T21:39:09.146Z",
-          "totalDurationMs": 2511142
         }
       ]
     },
@@ -1185,8 +968,8 @@
     },
     {
       "projectName": "clog",
-      "totalSessions": 7,
-      "totalDurationMs": 2778201,
+      "totalSessions": 6,
+      "totalDurationMs": 2745026,
       "sessions": [
         {
           "id": "09e25120-ad38-4f66-857c-9c8a17b623dd",
@@ -1205,12 +988,6 @@
           "title": "Clog: Claude Usage Leaderboard CLI & Web",
           "timestamp": "2026-01-30T16:46:05.032Z",
           "totalDurationMs": 509238
-        },
-        {
-          "id": "40592004-dc88-4a4c-8aac-2066a5bcd4b5",
-          "title": "Claude Code Status Landing Page Builder",
-          "timestamp": "2026-01-27T19:06:43.977Z",
-          "totalDurationMs": 33175
         }
       ]
     },
@@ -1297,6 +1074,10 @@
     }
   ],
   "activity": {
+    "2026-03-03": {
+      "sessions": 9,
+      "durationMs": 1789928
+    },
     "2026-03-02": {
       "sessions": 1,
       "durationMs": 3535
@@ -1366,60 +1147,54 @@
       "durationMs": 33126565
     },
     "2026-01-30": {
-      "sessions": 22,
-      "durationMs": 9792236
-    },
-    "2026-01-29": {
-      "sessions": 23,
-      "durationMs": 23760094
-    },
-    "2026-01-28": {
-      "sessions": 33,
-      "durationMs": 26343995
-    },
-    "2026-01-27": {
-      "sessions": 21,
-      "durationMs": 23911516
+      "sessions": 5,
+      "durationMs": 2214593
     },
     "2026-02-07": {
       "sessions": 27,
       "durationMs": 2334871
+    },
+    "2026-01-27": {
+      "sessions": 1,
+      "durationMs": 1365886
     }
   },
   "tokenUsage": {
-    "inputTokens": 5346002,
-    "outputTokens": 421547,
-    "cacheReadTokens": 932867406,
-    "cacheCreationTokens": 86859680
+    "inputTokens": 3231328,
+    "outputTokens": 454181,
+    "cacheReadTokens": 688580893,
+    "cacheCreationTokens": 67662729
   },
   "toolUsage": {
-    "Task": 259,
-    "Glob": 1028,
-    "Read": 4587,
-    "Grep": 2041,
-    "Edit": 1011,
-    "Bash": 1783,
-    "Write": 266,
+    "Agent": 4,
+    "Grep": 1358,
+    "Read": 3540,
+    "Write": 228,
+    "Edit": 778,
+    "Bash": 1435,
+    "mcp__local-postgres__query": 121,
+    "Glob": 791,
+    "Task": 205,
     "mcp__exa__web_search_exa": 13,
     "ToolSearch": 13,
     "mcp__figma__generate_figma_design": 6,
-    "AskUserQuestion": 62,
+    "AskUserQuestion": 46,
     "mcp__figma-desktop__add_code_connect_map": 1,
     "mcp__figma-desktop__send_code_connect_mappings": 1,
     "mcp__figma-desktop__get_design_context": 7,
-    "Skill": 11,
+    "Skill": 10,
     "mcp__sentry__get_issue_details": 3,
     "mcp__sentry__search_issue_events": 1,
-    "ExitPlanMode": 53,
+    "ExitPlanMode": 37,
     "mcp__claude_ai_Linear__get_issue": 1,
     "TaskOutput": 3,
     "TeamCreate": 5,
-    "TaskCreate": 220,
-    "TaskUpdate": 428,
+    "TaskCreate": 164,
+    "TaskUpdate": 336,
     "SendMessage": 161,
     "TeamDelete": 3,
     "TaskList": 25,
-    "TodoWrite": 34,
+    "TodoWrite": 23,
     "WebFetch": 16,
     "mcp__Control_Chrome__open_url": 1,
     "WebSearch": 16,
@@ -1430,7 +1205,7 @@
     "mcp__Claude_in_Chrome__navigate": 2,
     "mcp__Claude_in_Chrome__update_plan": 2,
     "mcp__figma-desktop__get_screenshot": 5,
-    "mcp__linear-server__get_issue": 8,
+    "mcp__linear-server__get_issue": 7,
     "mcp__linear-server__list_issues": 1,
     "mcp__figma-desktop__get_metadata": 4,
     "Teammate": 4,
