@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-03-04T13:06:23.305Z",
+  "generatedAt": "2026-03-04T17:00:05.810Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 443,
-    "totalDurationMs": 280721799,
-    "totalTokens": 762261140,
-    "projectCount": 8
+    "totalSessions": 404,
+    "totalDurationMs": 274960671,
+    "totalTokens": 701737771,
+    "projectCount": 6
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 263,
-      "totalDurationMs": 235670488,
+      "totalSessions": 257,
+      "totalDurationMs": 239437782,
       "sessions": [
+        {
+          "id": "68b08894-cc34-424b-ab1d-2543f338d753",
+          "title": "**********",
+          "timestamp": "2026-03-04T16:52:10.839Z",
+          "totalDurationMs": 31973
+        },
+        {
+          "id": "5626f8d5-b6e9-461a-8289-3e529c15874f",
+          "title": "**********",
+          "timestamp": "2026-03-04T15:12:14.119Z",
+          "totalDurationMs": 5803386
+        },
         {
           "id": "ffe98d49-9e71-4dcf-92e1-7aec0199478a",
           "title": "**********",
@@ -594,24 +606,6 @@
           "title": "**********",
           "timestamp": "2026-02-02T15:01:22.566Z",
           "totalDurationMs": 1671461
-        },
-        {
-          "id": "3801eedc-7638-4d43-92a4-79e86b330219",
-          "title": "**********",
-          "timestamp": "2026-02-02T14:12:10.542Z",
-          "totalDurationMs": 1301449
-        },
-        {
-          "id": "b940feaf-37ff-45f6-a774-d14a3ec4cfa5",
-          "title": "**********",
-          "timestamp": "2026-01-30T23:37:54.670Z",
-          "totalDurationMs": 370708
-        },
-        {
-          "id": "349b18c8-51cc-418b-ad52-0e0b961985ab",
-          "title": "**********",
-          "timestamp": "2026-01-30T23:31:46.797Z",
-          "totalDurationMs": 395908
         }
       ]
     },
@@ -684,8 +678,8 @@
     },
     {
       "projectName": "clog-web",
-      "totalSessions": 68,
-      "totalDurationMs": 11230186,
+      "totalSessions": 53,
+      "totalDurationMs": 9088646,
       "sessions": [
         {
           "id": "e0749a03-9d86-4123-b29c-030aefd5affa",
@@ -812,49 +806,13 @@
           "title": "Create /join page with setup guide",
           "timestamp": "2026-02-02T14:19:57.477Z",
           "totalDurationMs": 98945
-        },
-        {
-          "id": "585ff9af-a218-460c-a485-2f044e3ea613",
-          "title": "Leaderboard Timezone Mismatch Bug Fixed",
-          "timestamp": "2026-02-02T02:47:14.349Z",
-          "totalDurationMs": 161292
-        },
-        {
-          "id": "208e3b49-d3af-4f2c-878a-ba9ccccd3b3c",
-          "title": "Wire homepage to Convex user data",
-          "timestamp": "2026-02-02T02:29:55.674Z",
-          "totalDurationMs": 1038490
-        },
-        {
-          "id": "783f493e-b254-4692-ac14-78d708a49ce3",
-          "title": "Homepage Convex Integration Setup",
-          "timestamp": "2026-02-02T02:29:38.999Z",
-          "totalDurationMs": 2608
-        },
-        {
-          "id": "44a505c0-9937-48d7-bb9f-c2e79359084a",
-          "title": "Claude Code CLI homepage with leaderboard",
-          "timestamp": "2026-02-02T02:18:15.987Z",
-          "totalDurationMs": 215722
-        },
-        {
-          "id": "78c7a776-144f-4e0a-a947-4915fefcf056",
-          "title": "Implement homepage & user pages, fix routing",
-          "timestamp": "2026-02-02T02:05:40.587Z",
-          "totalDurationMs": 332462
-        },
-        {
-          "id": "191ffab4-3420-42c5-996c-5e3f5ab14bb7",
-          "title": "Integrate clog-dashboard as user profile page",
-          "timestamp": "2026-02-02T01:52:44.986Z",
-          "totalDurationMs": 390966
         }
       ]
     },
     {
       "projectName": "clog",
-      "totalSessions": 35,
-      "totalDurationMs": 10562522,
+      "totalSessions": 25,
+      "totalDurationMs": 7771707,
       "sessions": [
         {
           "id": "b006d62c-cc79-4585-85a3-1214dca9d79d",
@@ -927,86 +885,6 @@
           "title": "Prepare npm package & README for open source",
           "timestamp": "2026-02-02T15:10:25.604Z",
           "totalDurationMs": 1694947
-        },
-        {
-          "id": "a9937521-2087-4f95-b3b4-3755c913f2dc",
-          "title": "Fixed session duration calculation using timestamps",
-          "timestamp": "2026-02-02T02:48:49.016Z",
-          "totalDurationMs": 181067
-        },
-        {
-          "id": "c3403e95-bbfe-4d4a-932e-8cfc3d67a70f",
-          "title": "Time calculation: LLM vs wall-clock duration analysis",
-          "timestamp": "2026-02-02T02:45:04.052Z",
-          "totalDurationMs": 266917
-        },
-        {
-          "id": "835561f9-d642-4673-9bb2-c41210440922",
-          "title": "Add custom repository name prompt to clog init",
-          "timestamp": "2026-02-02T02:37:45.106Z",
-          "totalDurationMs": 46419
-        },
-        {
-          "id": "2d94241e-61b7-4155-88eb-589e34ae4d0d",
-          "title": "Repository Name Customization in Init Flow",
-          "timestamp": "2026-02-02T02:36:25.928Z",
-          "totalDurationMs": 99838
-        },
-        {
-          "id": "f363992e-f11f-458d-9210-f768801a484c",
-          "title": "Fix orphaned sub-agent sessions with blank titles",
-          "timestamp": "2026-02-02T02:08:56.185Z",
-          "totalDurationMs": 1032332
-        },
-        {
-          "id": "72ed1d8e-dc07-467c-88ba-0c80786c0967",
-          "title": "Sub-agent sessions appear as blank titles at top level",
-          "timestamp": "2026-02-02T01:51:30.912Z",
-          "totalDurationMs": 1001492
-        },
-        {
-          "id": "bcd86c55-76c4-4701-bfe3-057abe714ae3",
-          "title": "README stats dashboard with CLI sync",
-          "timestamp": "2026-02-02T01:25:53.830Z",
-          "totalDurationMs": 162750
-        }
-      ]
-    },
-    {
-      "projectName": "clog",
-      "totalSessions": 6,
-      "totalDurationMs": 2745026,
-      "sessions": [
-        {
-          "id": "09e25120-ad38-4f66-857c-9c8a17b623dd",
-          "title": "Agent Team Session (/feature-dev:feature-dev)",
-          "timestamp": "2026-02-02T00:48:50.743Z",
-          "totalDurationMs": 1297049
-        },
-        {
-          "id": "f0d645dc-b279-4a64-8d59-ba4a2a41c1ae",
-          "title": "CLI & web leaderboard for Claude Code usage",
-          "timestamp": "2026-01-30T17:11:36.828Z",
-          "totalDurationMs": 938739
-        },
-        {
-          "id": "810595b0-b572-46f9-943f-c39f9cf5d48c",
-          "title": "Clog: Claude Usage Leaderboard CLI & Web",
-          "timestamp": "2026-01-30T16:46:05.032Z",
-          "totalDurationMs": 509238
-        }
-      ]
-    },
-    {
-      "projectName": "clog-web",
-      "totalSessions": 2,
-      "totalDurationMs": 1851041,
-      "sessions": [
-        {
-          "id": "883af2fe-6b72-47f5-8029-4c953da4cc5a",
-          "title": "Agent Team Session (/feature-dev:feature-dev)",
-          "timestamp": "2026-02-02T00:50:30.096Z",
-          "totalDurationMs": 1851041
         }
       ]
     },
@@ -1080,6 +958,10 @@
     }
   ],
   "activity": {
+    "2026-03-04": {
+      "sessions": 2,
+      "durationMs": 5835359
+    },
     "2026-03-03": {
       "sessions": 10,
       "durationMs": 2062445
@@ -1149,12 +1031,8 @@
       "durationMs": 15177127
     },
     "2026-02-02": {
-      "sessions": 100,
-      "durationMs": 33126565
-    },
-    "2026-01-30": {
-      "sessions": 5,
-      "durationMs": 2214593
+      "sessions": 64,
+      "durationMs": 23744671
     },
     "2026-02-07": {
       "sessions": 27,
@@ -1166,44 +1044,44 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 3231370,
-    "outputTokens": 468343,
-    "cacheReadTokens": 690539015,
-    "cacheCreationTokens": 68022412
+    "inputTokens": 2993921,
+    "outputTokens": 463930,
+    "cacheReadTokens": 634130543,
+    "cacheCreationTokens": 64149377
   },
   "toolUsage": {
-    "Read": 3548,
-    "Grep": 1360,
-    "Bash": 1446,
+    "Read": 3172,
+    "Grep": 1243,
+    "Edit": 697,
+    "ToolSearch": 15,
+    "mcp__sentry__get_issue_details": 4,
+    "Bash": 1251,
     "Agent": 4,
-    "Write": 228,
-    "Edit": 778,
+    "Write": 133,
     "mcp__local-postgres__query": 121,
-    "Glob": 791,
-    "Task": 205,
+    "Glob": 699,
+    "Task": 184,
     "mcp__exa__web_search_exa": 13,
-    "ToolSearch": 13,
     "mcp__figma__generate_figma_design": 6,
-    "AskUserQuestion": 46,
+    "AskUserQuestion": 36,
     "mcp__figma-desktop__add_code_connect_map": 1,
     "mcp__figma-desktop__send_code_connect_mappings": 1,
     "mcp__figma-desktop__get_design_context": 7,
     "Skill": 10,
-    "mcp__sentry__get_issue_details": 3,
     "mcp__sentry__search_issue_events": 1,
-    "ExitPlanMode": 37,
+    "ExitPlanMode": 30,
     "mcp__claude_ai_Linear__get_issue": 1,
     "TaskOutput": 3,
     "TeamCreate": 5,
-    "TaskCreate": 164,
-    "TaskUpdate": 336,
+    "TaskCreate": 136,
+    "TaskUpdate": 283,
     "SendMessage": 161,
     "TeamDelete": 3,
     "TaskList": 25,
     "TodoWrite": 23,
-    "WebFetch": 16,
+    "WebFetch": 15,
     "mcp__Control_Chrome__open_url": 1,
-    "WebSearch": 16,
+    "WebSearch": 15,
     "EnterPlanMode": 1,
     "mcp__exa__get_code_context_exa": 1,
     "mcp__Claude_Preview__preview_start": 2,
