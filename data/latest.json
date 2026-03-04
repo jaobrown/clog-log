@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-03-04T17:00:05.810Z",
+  "generatedAt": "2026-03-04T21:00:06.067Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 404,
-    "totalDurationMs": 274960671,
-    "totalTokens": 701737771,
-    "projectCount": 6
+    "totalSessions": 385,
+    "totalDurationMs": 267424532,
+    "totalTokens": 674032192,
+    "projectCount": 5
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 257,
-      "totalDurationMs": 239437782,
+      "totalSessions": 251,
+      "totalDurationMs": 238684244,
       "sessions": [
+        {
+          "id": "45b52c94-aa35-49be-a1fe-25eb18549977",
+          "title": "**********",
+          "timestamp": "2026-03-04T17:03:04.093Z",
+          "totalDurationMs": 6095935
+        },
+        {
+          "id": "7759ab5e-3ec6-4aa6-819d-33048443a460",
+          "title": "**********",
+          "timestamp": "2026-03-04T17:02:23.970Z",
+          "totalDurationMs": 0
+        },
         {
           "id": "68b08894-cc34-424b-ab1d-2543f338d753",
           "title": "**********",
@@ -576,43 +588,13 @@
           "title": "**********",
           "timestamp": "2026-02-02T17:51:58.904Z",
           "totalDurationMs": 314942
-        },
-        {
-          "id": "c063f7a1-c8ac-4b22-8bf3-06e6ced9918d",
-          "title": "**********",
-          "timestamp": "2026-02-02T17:47:53.505Z",
-          "totalDurationMs": 138740
-        },
-        {
-          "id": "c84db30d-dfe5-4b0d-b5f1-dc8595f4a2f7",
-          "title": "**********",
-          "timestamp": "2026-02-02T17:45:11.705Z",
-          "totalDurationMs": 179990
-        },
-        {
-          "id": "13023d10-e35e-4288-92f0-cd886022441f",
-          "title": "**********",
-          "timestamp": "2026-02-02T17:31:59.084Z",
-          "totalDurationMs": 3936603
-        },
-        {
-          "id": "a1123834-bf87-4dc6-b1b7-fc0f6b96451d",
-          "title": "**********",
-          "timestamp": "2026-02-02T16:16:04.111Z",
-          "totalDurationMs": 922679
-        },
-        {
-          "id": "282bcc23-93dc-4beb-a086-a8bfe0666c36",
-          "title": "**********",
-          "timestamp": "2026-02-02T15:01:22.566Z",
-          "totalDurationMs": 1671461
         }
       ]
     },
     {
       "projectName": "clogs",
-      "totalSessions": 59,
-      "totalDurationMs": 16794310,
+      "totalSessions": 57,
+      "totalDurationMs": 16431334,
       "sessions": [
         {
           "id": "af26a41a-dbe2-4289-8d78-32bd5832f274",
@@ -661,25 +643,13 @@
           "title": "Data sync audit: CLI, Convex, web app",
           "timestamp": "2026-02-02T19:15:47.608Z",
           "totalDurationMs": 342278
-        },
-        {
-          "id": "a445a6cf-44ff-4435-825e-59ec5d21f056",
-          "title": "Update CLI README template links to clog.sh",
-          "timestamp": "2026-02-02T18:51:03.137Z",
-          "totalDurationMs": 17540
-        },
-        {
-          "id": "ccf8cb34-aee4-46fb-ac12-b0fdd3ef0784",
-          "title": "Updated install commands to use npx",
-          "timestamp": "2026-02-02T15:55:13.331Z",
-          "totalDurationMs": 345436
         }
       ]
     },
     {
       "projectName": "clog-web",
-      "totalSessions": 53,
-      "totalDurationMs": 9088646,
+      "totalSessions": 51,
+      "totalDurationMs": 6321761,
       "sessions": [
         {
           "id": "e0749a03-9d86-4123-b29c-030aefd5affa",
@@ -794,25 +764,13 @@
           "title": "Fix brown color in social share card metadata",
           "timestamp": "2026-02-02T17:26:59.119Z",
           "totalDurationMs": 355443
-        },
-        {
-          "id": "0a3c412e-d20f-41de-ab35-7e40763061b3",
-          "title": "SEO Audit: Site Setup & Favicon Implementation",
-          "timestamp": "2026-02-02T16:12:56.564Z",
-          "totalDurationMs": 2667940
-        },
-        {
-          "id": "925e1c32-c02f-4dae-aef2-5fc6fa3394d7",
-          "title": "Create /join page with setup guide",
-          "timestamp": "2026-02-02T14:19:57.477Z",
-          "totalDurationMs": 98945
         }
       ]
     },
     {
       "projectName": "clog",
-      "totalSessions": 25,
-      "totalDurationMs": 7771707,
+      "totalSessions": 19,
+      "totalDurationMs": 5697774,
       "sessions": [
         {
           "id": "b006d62c-cc79-4585-85a3-1214dca9d79d",
@@ -867,43 +825,6 @@
           "title": "README badges and stats visualization enhancement",
           "timestamp": "2026-02-02T18:54:15.400Z",
           "totalDurationMs": 397213
-        },
-        {
-          "id": "16a0b4d8-705c-46f2-85f5-b06e9261ee9a",
-          "title": "Code consistency fix: Token calculation utility",
-          "timestamp": "2026-02-02T17:54:21.492Z",
-          "totalDurationMs": 50409
-        },
-        {
-          "id": "46102d08-7c3c-4282-91c7-bac23c8c698a",
-          "title": "Audit Claude Code token usage and math logic",
-          "timestamp": "2026-02-02T17:49:53.420Z",
-          "totalDurationMs": 328577
-        },
-        {
-          "id": "8b8ba346-4bf8-4404-8300-e5a4e9d8ef39",
-          "title": "Prepare npm package & README for open source",
-          "timestamp": "2026-02-02T15:10:25.604Z",
-          "totalDurationMs": 1694947
-        }
-      ]
-    },
-    {
-      "projectName": "Developer",
-      "totalSessions": 3,
-      "totalDurationMs": 1578807,
-      "sessions": [
-        {
-          "id": "d22456ef-ea09-404f-9c4d-0594014f2147",
-          "title": "(no title)",
-          "timestamp": "2026-02-02T18:46:09.994Z",
-          "totalDurationMs": 212921
-        },
-        {
-          "id": "561f3fa6-1caa-47b1-ba11-e4897f468c99",
-          "title": "Claude Code Session Logger Setup",
-          "timestamp": "2026-01-27T18:31:16.033Z",
-          "totalDurationMs": 1365886
         }
       ]
     },
@@ -959,8 +880,8 @@
   ],
   "activity": {
     "2026-03-04": {
-      "sessions": 2,
-      "durationMs": 5835359
+      "sessions": 7,
+      "durationMs": 11931294
     },
     "2026-03-03": {
       "sessions": 10,
@@ -1031,55 +952,62 @@
       "durationMs": 15177127
     },
     "2026-02-02": {
-      "sessions": 64,
-      "durationMs": 23744671
+      "sessions": 41,
+      "durationMs": 11478483
     },
     "2026-02-07": {
       "sessions": 27,
       "durationMs": 2334871
-    },
-    "2026-01-27": {
-      "sessions": 1,
-      "durationMs": 1365886
     }
   },
   "tokenUsage": {
-    "inputTokens": 2993921,
-    "outputTokens": 463930,
-    "cacheReadTokens": 634130543,
-    "cacheCreationTokens": 64149377
+    "inputTokens": 2442877,
+    "outputTokens": 460556,
+    "cacheReadTokens": 609928798,
+    "cacheCreationTokens": 61199961
   },
   "toolUsage": {
-    "Read": 3172,
-    "Grep": 1243,
-    "Edit": 697,
+    "Grep": 1173,
+    "mcp__paper__get_basic_info": 1,
+    "Read": 2993,
+    "Task": 177,
+    "mcp__paper__create_artboard": 4,
+    "mcp__paper__write_html": 16,
+    "mcp__paper__get_screenshot": 5,
+    "mcp__paper__finish_working_on_nodes": 2,
+    "mcp__paper__duplicate_nodes": 1,
+    "mcp__paper__rename_nodes": 1,
+    "mcp__paper__delete_nodes": 1,
+    "mcp__paper__get_tree_summary": 1,
+    "mcp__paper__get_jsx": 1,
+    "mcp__paper__get_computed_styles": 1,
+    "Edit": 631,
+    "TodoWrite": 31,
+    "Skill": 11,
+    "Bash": 1176,
+    "Glob": 666,
     "ToolSearch": 15,
     "mcp__sentry__get_issue_details": 4,
-    "Bash": 1251,
     "Agent": 4,
-    "Write": 133,
+    "Write": 119,
     "mcp__local-postgres__query": 121,
-    "Glob": 699,
-    "Task": 184,
     "mcp__exa__web_search_exa": 13,
     "mcp__figma__generate_figma_design": 6,
-    "AskUserQuestion": 36,
+    "AskUserQuestion": 29,
     "mcp__figma-desktop__add_code_connect_map": 1,
     "mcp__figma-desktop__send_code_connect_mappings": 1,
     "mcp__figma-desktop__get_design_context": 7,
-    "Skill": 10,
     "mcp__sentry__search_issue_events": 1,
-    "ExitPlanMode": 30,
+    "ExitPlanMode": 27,
     "mcp__claude_ai_Linear__get_issue": 1,
     "TaskOutput": 3,
     "TeamCreate": 5,
-    "TaskCreate": 136,
-    "TaskUpdate": 283,
+    "TaskCreate": 121,
+    "TaskUpdate": 260,
     "SendMessage": 161,
     "TeamDelete": 3,
     "TaskList": 25,
-    "TodoWrite": 23,
-    "WebFetch": 15,
+    "WebFetch": 12,
     "mcp__Control_Chrome__open_url": 1,
     "WebSearch": 15,
     "EnterPlanMode": 1,
