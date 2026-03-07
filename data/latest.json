@@ -1,18 +1,78 @@
 {
-  "generatedAt": "2026-03-06T21:04:18.458Z",
+  "generatedAt": "2026-03-07T13:03:10.757Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 387,
-    "totalDurationMs": 267446929,
-    "totalTokens": 674414274,
+    "totalSessions": 359,
+    "totalDurationMs": 254775147,
+    "totalTokens": 745075395,
     "projectCount": 5
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 253,
-      "totalDurationMs": 238706641,
+      "totalSessions": 265,
+      "totalDurationMs": 236887691,
       "sessions": [
+        {
+          "id": "6ff20b47-2504-44d0-8a0c-ad579e8f0636",
+          "title": "**********",
+          "timestamp": "2026-03-07T05:22:54.602Z",
+          "totalDurationMs": 1962681
+        },
+        {
+          "id": "5c8a11c4-986a-429a-a18e-63c38d3906e7",
+          "title": "**********",
+          "timestamp": "2026-03-07T05:08:06.659Z",
+          "totalDurationMs": 4111984
+        },
+        {
+          "id": "a29903ce-c2a0-4c40-b527-834696e98a58",
+          "title": "**********",
+          "timestamp": "2026-03-07T05:07:51.869Z",
+          "totalDurationMs": 2002478
+        },
+        {
+          "id": "bfe9e07b-40ec-4107-808d-f809f48c3906",
+          "title": "**********",
+          "timestamp": "2026-03-07T05:07:35.214Z",
+          "totalDurationMs": 2222833
+        },
+        {
+          "id": "ed599913-f86d-4b00-bfab-28ba2b5270a0",
+          "title": "**********",
+          "timestamp": "2026-03-07T05:07:15.225Z",
+          "totalDurationMs": 2656415
+        },
+        {
+          "id": "894a73f5-3b73-49d5-92df-75d4c735734b",
+          "title": "**********",
+          "timestamp": "2026-03-07T05:06:52.311Z",
+          "totalDurationMs": 3872862
+        },
+        {
+          "id": "a3926be1-1f40-4a75-9ef2-22308b4ec066",
+          "title": "**********",
+          "timestamp": "2026-03-07T05:06:17.344Z",
+          "totalDurationMs": 2117693
+        },
+        {
+          "id": "6e30f02b-2309-4bb2-93a7-0d7087500b9c",
+          "title": "**********",
+          "timestamp": "2026-03-07T04:43:33.605Z",
+          "totalDurationMs": 957781
+        },
+        {
+          "id": "bb4a48cf-c2db-4223-ac1d-ee77c6816a5b",
+          "title": "**********",
+          "timestamp": "2026-03-07T04:15:54.463Z",
+          "totalDurationMs": 2166057
+        },
+        {
+          "id": "6e263e34-a056-44c3-85a2-c3fd4df4e3f0",
+          "title": "**********",
+          "timestamp": "2026-03-07T03:46:50.137Z",
+          "totalDurationMs": 1139815
+        },
         {
           "id": "9b2b6d53-f60d-4c55-8b84-94b9dae63cf7",
           "title": "**********",
@@ -498,115 +558,13 @@
           "title": "**********",
           "timestamp": "2026-02-05T15:06:28.187Z",
           "totalDurationMs": 972131
-        },
-        {
-          "id": "cc223a36-a283-424e-8063-917e9e846fec",
-          "title": "**********",
-          "timestamp": "2026-02-04T22:03:47.239Z",
-          "totalDurationMs": 1132174
-        },
-        {
-          "id": "9e30dbec-20fc-4622-8cc0-7581beeb5cd3",
-          "title": "**********",
-          "timestamp": "2026-02-04T21:45:57.844Z",
-          "totalDurationMs": 972192
-        },
-        {
-          "id": "94af65f7-ec89-4a05-b7d0-df9f833ab2c6",
-          "title": "**********",
-          "timestamp": "2026-02-04T21:18:27.673Z",
-          "totalDurationMs": 2318821
-        },
-        {
-          "id": "a02f091b-f7c6-4ba0-877b-dd30ffffefdc",
-          "title": "**********",
-          "timestamp": "2026-02-04T19:16:06.135Z",
-          "totalDurationMs": 1405361
-        },
-        {
-          "id": "5f9ea792-c3ee-4bf0-b996-8265617f47d0",
-          "title": "**********",
-          "timestamp": "2026-02-04T18:45:31.559Z",
-          "totalDurationMs": 365252
-        },
-        {
-          "id": "6f39446c-6764-4de2-b13d-dc50333fbcd9",
-          "title": "**********",
-          "timestamp": "2026-02-04T16:31:59.536Z",
-          "totalDurationMs": 814547
-        },
-        {
-          "id": "90bae31f-e67a-491b-a668-b877579c8815",
-          "title": "**********",
-          "timestamp": "2026-02-04T15:13:29.072Z",
-          "totalDurationMs": 1155085
-        },
-        {
-          "id": "424ddaef-3944-4010-9fe5-d9142511417e",
-          "title": "**********",
-          "timestamp": "2026-02-04T00:07:04.363Z",
-          "totalDurationMs": 1063339
-        },
-        {
-          "id": "f2366cf7-73dc-44e1-a0b9-551658588b91",
-          "title": "**********",
-          "timestamp": "2026-02-03T23:55:25.594Z",
-          "totalDurationMs": 2268437
-        },
-        {
-          "id": "5126e0a1-071b-44a6-904c-128ec6333a36",
-          "title": "**********",
-          "timestamp": "2026-02-03T19:26:20.442Z",
-          "totalDurationMs": 6697676
-        },
-        {
-          "id": "6b45b31c-e084-419d-b354-49b29f31a2b6",
-          "title": "**********",
-          "timestamp": "2026-02-03T18:50:08.380Z",
-          "totalDurationMs": 2047444
-        },
-        {
-          "id": "399d07b8-6dc6-4ebc-a3f8-2bfbf5fca315",
-          "title": "**********",
-          "timestamp": "2026-02-02T21:45:38.489Z",
-          "totalDurationMs": 748660
-        },
-        {
-          "id": "1fb9dd65-1b46-4d9a-b66d-ba8b643b7415",
-          "title": "**********",
-          "timestamp": "2026-02-02T21:32:20.399Z",
-          "totalDurationMs": 1269088
-        },
-        {
-          "id": "d43d8575-fddf-498b-94e9-f2e194554b2e",
-          "title": "**********",
-          "timestamp": "2026-02-02T20:39:48.167Z",
-          "totalDurationMs": 1413873
-        },
-        {
-          "id": "c9366e89-0d57-4090-99d4-94923bf4659a",
-          "title": "**********",
-          "timestamp": "2026-02-02T20:19:45.815Z",
-          "totalDurationMs": 232324
-        },
-        {
-          "id": "76fb3e9e-a021-4093-8a61-b09103dafe9e",
-          "title": "**********",
-          "timestamp": "2026-02-02T20:04:58.135Z",
-          "totalDurationMs": 810334
-        },
-        {
-          "id": "3739f6af-f7e2-4c7e-beee-30e8a96fdd81",
-          "title": "**********",
-          "timestamp": "2026-02-02T17:51:58.904Z",
-          "totalDurationMs": 314942
         }
       ]
     },
     {
       "projectName": "clogs",
-      "totalSessions": 57,
-      "totalDurationMs": 16431334,
+      "totalSessions": 48,
+      "totalDurationMs": 14608925,
       "sessions": [
         {
           "id": "af26a41a-dbe2-4289-8d78-32bd5832f274",
@@ -631,37 +589,13 @@
           "title": "Agent Team Session (/agent-team)",
           "timestamp": "2026-02-06T19:44:06.989Z",
           "totalDurationMs": 1391513
-        },
-        {
-          "id": "f5fb4bc3-530f-49a3-b5d3-9c0718a6f9fc",
-          "title": "(no title)",
-          "timestamp": "2026-02-03T01:56:36.232Z",
-          "totalDurationMs": 384077
-        },
-        {
-          "id": "64ab1323-7631-425f-a924-ba3060bf6c28",
-          "title": "Agent Team Session (/feature-dev:feature-dev)",
-          "timestamp": "2026-02-03T01:46:52.546Z",
-          "totalDurationMs": 1078731
-        },
-        {
-          "id": "a53f4181-a0c5-4d1a-b2cf-817ada6fa998",
-          "title": "CLI Web App Duration Field Sync Fix",
-          "timestamp": "2026-02-02T19:37:35.420Z",
-          "totalDurationMs": 17323
-        },
-        {
-          "id": "08ca16e0-df5a-4518-955e-ea19443b2b8b",
-          "title": "Data sync audit: CLI, Convex, web app",
-          "timestamp": "2026-02-02T19:15:47.608Z",
-          "totalDurationMs": 342278
         }
       ]
     },
     {
       "projectName": "clog-web",
-      "totalSessions": 51,
-      "totalDurationMs": 6321761,
+      "totalSessions": 37,
+      "totalDurationMs": 2908682,
       "sessions": [
         {
           "id": "e0749a03-9d86-4123-b29c-030aefd5affa",
@@ -728,115 +662,6 @@
           "title": "Agent Team Session (/team-dev)",
           "timestamp": "2026-02-07T00:41:06.937Z",
           "totalDurationMs": 1929153
-        },
-        {
-          "id": "3496c628-e1ae-49c7-bf1c-8ebf1e8d2ee6",
-          "title": "(no title)",
-          "timestamp": "2026-02-02T21:27:41.662Z",
-          "totalDurationMs": 683105
-        },
-        {
-          "id": "e682e92d-c889-4dd9-b695-96b6f9a1b81d",
-          "title": "Agent Team Session (/feature-dev:feature-dev)",
-          "timestamp": "2026-02-02T21:23:27.675Z",
-          "totalDurationMs": 634487
-        },
-        {
-          "id": "6f7d88fd-b8df-4948-ba1d-6d09e686e4f3",
-          "title": "Responsive mobile-first design updates complete",
-          "timestamp": "2026-02-02T21:14:25.234Z",
-          "totalDurationMs": 531032
-        },
-        {
-          "id": "2162d697-8908-4724-99de-2c788db556c4",
-          "title": "Unify leaderboard profile stats, fix session counting",
-          "timestamp": "2026-02-02T20:05:27.270Z",
-          "totalDurationMs": 869731
-        },
-        {
-          "id": "983ad7bc-da52-47c0-be01-73c32f0a70fa",
-          "title": "Sync leaderboard and profile weekly data sources",
-          "timestamp": "2026-02-02T20:02:41.653Z",
-          "totalDurationMs": 175506
-        },
-        {
-          "id": "e0691db3-75e0-48ed-a8da-8f653f11323a",
-          "title": "Fix timezone inconsistency in week calculation",
-          "timestamp": "2026-02-02T19:54:49.767Z",
-          "totalDurationMs": 57376
-        },
-        {
-          "id": "ba97555f-aef2-4dc0-9262-e0ce4a848c08",
-          "title": "Inconsistent \"This Week\" Timezone Handling in Leaderboard",
-          "timestamp": "2026-02-02T19:52:39.443Z",
-          "totalDurationMs": 106399
-        },
-        {
-          "id": "86a017d0-cd0a-449d-b5b9-3e74b7f898b7",
-          "title": "Fix brown color in social share card metadata",
-          "timestamp": "2026-02-02T17:26:59.119Z",
-          "totalDurationMs": 355443
-        }
-      ]
-    },
-    {
-      "projectName": "clog",
-      "totalSessions": 19,
-      "totalDurationMs": 5697774,
-      "sessions": [
-        {
-          "id": "b006d62c-cc79-4585-85a3-1214dca9d79d",
-          "title": "(no title)",
-          "timestamp": "2026-02-09T13:08:44.971Z",
-          "totalDurationMs": 60404
-        },
-        {
-          "id": "90e59392-7b73-441a-87e5-de517f6ae4c3",
-          "title": "(no title)",
-          "timestamp": "2026-02-07T00:24:47.389Z",
-          "totalDurationMs": 20026
-        },
-        {
-          "id": "7effafdf-9082-4f8f-b082-56eea59a43cb",
-          "title": "(no title)",
-          "timestamp": "2026-02-03T01:19:33.897Z",
-          "totalDurationMs": 979881
-        },
-        {
-          "id": "7f0a99b1-ae70-4b89-8ece-fd66606ca0ae",
-          "title": "Agent Team Session (/feature-dev:feature-dev)",
-          "timestamp": "2026-02-03T01:09:58.991Z",
-          "totalDurationMs": 756112
-        },
-        {
-          "id": "2ed6000d-a4f4-400d-8819-f770f83328fa",
-          "title": "Claude leaderboard data assembly from .claude sessions",
-          "timestamp": "2026-02-03T01:08:16.582Z",
-          "totalDurationMs": 192033
-        },
-        {
-          "id": "d2d6eaad-2a6f-4efa-b373-f62b79ef3ade",
-          "title": "Sessions-index.json fallback for missing titles",
-          "timestamp": "2026-02-03T00:46:15.784Z",
-          "totalDurationMs": 772736
-        },
-        {
-          "id": "3542c4df-ab5a-4570-af56-096bb001c841",
-          "title": "README sync: full rewrite instead partial update",
-          "timestamp": "2026-02-02T19:47:12.204Z",
-          "totalDurationMs": 315278
-        },
-        {
-          "id": "fb65aa74-de97-4851-905e-27e96c32c360",
-          "title": "README Output with Box-Style Cards, Bar Charts",
-          "timestamp": "2026-02-02T19:08:56.388Z",
-          "totalDurationMs": 2204091
-        },
-        {
-          "id": "639486b6-6c7c-48da-a619-451eb24eafa4",
-          "title": "README badges and stats visualization enhancement",
-          "timestamp": "2026-02-02T18:54:15.400Z",
-          "totalDurationMs": 397213
         }
       ]
     },
@@ -888,9 +713,32 @@
           "totalDurationMs": 64672
         }
       ]
+    },
+    {
+      "projectName": "clog",
+      "totalSessions": 2,
+      "totalDurationMs": 80430,
+      "sessions": [
+        {
+          "id": "b006d62c-cc79-4585-85a3-1214dca9d79d",
+          "title": "(no title)",
+          "timestamp": "2026-02-09T13:08:44.971Z",
+          "totalDurationMs": 60404
+        },
+        {
+          "id": "90e59392-7b73-441a-87e5-de517f6ae4c3",
+          "title": "(no title)",
+          "timestamp": "2026-02-07T00:24:47.389Z",
+          "totalDurationMs": 20026
+        }
+      ]
     }
   ],
   "activity": {
+    "2026-03-07": {
+      "sessions": 64,
+      "durationMs": 23210599
+    },
     "2026-03-05": {
       "sessions": 2,
       "durationMs": 22397
@@ -959,36 +807,40 @@
       "sessions": 25,
       "durationMs": 10873631
     },
-    "2026-02-04": {
-      "sessions": 26,
-      "durationMs": 9226771
-    },
-    "2026-02-03": {
-      "sessions": 25,
-      "durationMs": 15177127
-    },
-    "2026-02-02": {
-      "sessions": 41,
-      "durationMs": 11478483
-    },
     "2026-02-07": {
       "sessions": 27,
       "durationMs": 2334871
     }
   },
   "tokenUsage": {
-    "inputTokens": 2442890,
-    "outputTokens": 461708,
-    "cacheReadTokens": 610227275,
-    "cacheCreationTokens": 61282401
+    "inputTokens": 1900300,
+    "outputTokens": 1065934,
+    "cacheReadTokens": 681830047,
+    "cacheCreationTokens": 60279114
   },
   "toolUsage": {
-    "TeamCreate": 6,
-    "TaskCreate": 127,
-    "Grep": 1173,
+    "ToolSearch": 140,
+    "mcp__claude_ai_Linear__get_issue": 12,
+    "Read": 3131,
+    "mcp__claude_ai_Linear__list_issues": 7,
+    "Glob": 788,
+    "Grep": 969,
+    "TeamCreate": 10,
+    "TaskCreate": 124,
+    "TaskUpdate": 276,
+    "Agent": 49,
+    "SendMessage": 222,
+    "Bash": 1125,
+    "mcp__context7__resolve-library-id": 9,
+    "mcp__context7__query-docs": 26,
+    "Write": 123,
+    "Edit": 669,
+    "TaskOutput": 8,
+    "TeamDelete": 7,
+    "WebFetch": 24,
+    "WebSearch": 28,
     "mcp__paper__get_basic_info": 1,
-    "Read": 2993,
-    "Task": 177,
+    "Task": 121,
     "mcp__paper__create_artboard": 4,
     "mcp__paper__write_html": 16,
     "mcp__paper__get_screenshot": 5,
@@ -999,33 +851,20 @@
     "mcp__paper__get_tree_summary": 1,
     "mcp__paper__get_jsx": 1,
     "mcp__paper__get_computed_styles": 1,
-    "Edit": 631,
     "TodoWrite": 31,
-    "Skill": 11,
-    "Bash": 1176,
-    "Glob": 666,
-    "ToolSearch": 15,
+    "Skill": 10,
     "mcp__sentry__get_issue_details": 4,
-    "Agent": 4,
-    "Write": 119,
     "mcp__local-postgres__query": 121,
     "mcp__exa__web_search_exa": 13,
     "mcp__figma__generate_figma_design": 6,
-    "AskUserQuestion": 29,
+    "AskUserQuestion": 13,
     "mcp__figma-desktop__add_code_connect_map": 1,
     "mcp__figma-desktop__send_code_connect_mappings": 1,
     "mcp__figma-desktop__get_design_context": 7,
     "mcp__sentry__search_issue_events": 1,
-    "ExitPlanMode": 27,
-    "mcp__claude_ai_Linear__get_issue": 1,
-    "TaskOutput": 3,
-    "TaskUpdate": 260,
-    "SendMessage": 161,
-    "TeamDelete": 3,
-    "TaskList": 25,
-    "WebFetch": 12,
+    "ExitPlanMode": 12,
+    "TaskList": 24,
     "mcp__Control_Chrome__open_url": 1,
-    "WebSearch": 15,
     "EnterPlanMode": 1,
     "mcp__exa__get_code_context_exa": 1,
     "mcp__Claude_Preview__preview_start": 2,
