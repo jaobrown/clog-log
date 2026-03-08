@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-07T21:00:05.948Z",
+  "generatedAt": "2026-03-08T12:02:37.702Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 362,
-    "totalDurationMs": 256576798,
-    "totalTokens": 754331419,
+    "totalSessions": 340,
+    "totalDurationMs": 246675298,
+    "totalTokens": 698198198,
     "projectCount": 5
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 268,
-      "totalDurationMs": 238689342,
+      "totalSessions": 246,
+      "totalDurationMs": 228787842,
       "sessions": [
         {
           "id": "a31c7d68-1f8e-4a2d-b301-00448cddf6cc",
@@ -516,48 +516,6 @@
           "title": "**********",
           "timestamp": "2026-02-06T18:41:21.076Z",
           "totalDurationMs": 2794
-        },
-        {
-          "id": "347177ae-372f-43a5-9e2e-0a9a72fafb02",
-          "title": "**********",
-          "timestamp": "2026-02-05T21:32:02.273Z",
-          "totalDurationMs": 1341442
-        },
-        {
-          "id": "63a12329-41f9-46f8-a5d6-68c7dfe2289d",
-          "title": "**********",
-          "timestamp": "2026-02-05T20:16:55.536Z",
-          "totalDurationMs": 55657
-        },
-        {
-          "id": "591f8b4a-498d-43c3-a07a-f0e502b972e2",
-          "title": "**********",
-          "timestamp": "2026-02-05T20:06:36.621Z",
-          "totalDurationMs": 4812188
-        },
-        {
-          "id": "b78d4135-67c0-463e-9f70-6aa7dc4fa7c2",
-          "title": "**********",
-          "timestamp": "2026-02-05T20:01:36.954Z",
-          "totalDurationMs": 1409358
-        },
-        {
-          "id": "687df9a9-3f2d-41fc-896c-c09d5ec05f93",
-          "title": "**********",
-          "timestamp": "2026-02-05T19:39:43.273Z",
-          "totalDurationMs": 1042
-        },
-        {
-          "id": "2e101cdb-12d1-472b-84fa-c151b5c0250c",
-          "title": "**********",
-          "timestamp": "2026-02-05T18:46:26.644Z",
-          "totalDurationMs": 1499941
-        },
-        {
-          "id": "b6dc8606-42f6-413e-9ad1-69cae5349fc4",
-          "title": "**********",
-          "timestamp": "2026-02-05T18:28:51.174Z",
-          "totalDurationMs": 781872
         }
       ]
     },
@@ -803,44 +761,40 @@
       "sessions": 67,
       "durationMs": 18107054
     },
-    "2026-02-05": {
-      "sessions": 22,
-      "durationMs": 9901500
-    },
     "2026-02-07": {
       "sessions": 27,
       "durationMs": 2334871
     }
   },
   "tokenUsage": {
-    "inputTokens": 1907946,
-    "outputTokens": 1125981,
-    "cacheReadTokens": 691260068,
-    "cacheCreationTokens": 60037424
+    "inputTokens": 1743787,
+    "outputTokens": 1091152,
+    "cacheReadTokens": 638981662,
+    "cacheCreationTokens": 56381597
   },
   "toolUsage": {
     "ToolSearch": 149,
-    "Glob": 780,
-    "Grep": 966,
-    "Read": 3151,
-    "Bash": 1162,
-    "Edit": 711,
+    "Glob": 730,
+    "Grep": 881,
+    "Read": 2912,
+    "Bash": 1027,
+    "Edit": 655,
     "Agent": 54,
     "mcp__claude_ai_Linear__get_issue": 12,
     "mcp__claude_ai_Linear__list_issues": 7,
     "TeamCreate": 10,
-    "TaskCreate": 121,
-    "TaskUpdate": 270,
+    "TaskCreate": 114,
+    "TaskUpdate": 253,
     "SendMessage": 222,
     "mcp__context7__resolve-library-id": 9,
     "mcp__context7__query-docs": 26,
-    "Write": 123,
+    "Write": 114,
     "TaskOutput": 8,
     "TeamDelete": 7,
-    "WebFetch": 24,
+    "WebFetch": 23,
     "WebSearch": 28,
     "mcp__paper__get_basic_info": 1,
-    "Task": 119,
+    "Task": 102,
     "mcp__paper__create_artboard": 4,
     "mcp__paper__write_html": 16,
     "mcp__paper__get_screenshot": 5,
@@ -852,7 +806,7 @@
     "mcp__paper__get_jsx": 1,
     "mcp__paper__get_computed_styles": 1,
     "TodoWrite": 31,
-    "Skill": 10,
+    "Skill": 8,
     "mcp__sentry__get_issue_details": 4,
     "mcp__local-postgres__query": 121,
     "mcp__exa__web_search_exa": 13,
@@ -862,7 +816,7 @@
     "mcp__figma-desktop__send_code_connect_mappings": 1,
     "mcp__figma-desktop__get_design_context": 4,
     "mcp__sentry__search_issue_events": 1,
-    "ExitPlanMode": 12,
+    "ExitPlanMode": 10,
     "TaskList": 24,
     "mcp__Control_Chrome__open_url": 1,
     "EnterPlanMode": 1,
@@ -872,7 +826,7 @@
     "mcp__Claude_in_Chrome__navigate": 2,
     "mcp__Claude_in_Chrome__update_plan": 2,
     "mcp__figma-desktop__get_screenshot": 3,
-    "mcp__linear-server__get_issue": 7,
+    "mcp__linear-server__get_issue": 6,
     "mcp__linear-server__list_issues": 1,
     "Teammate": 4,
     "TaskGet": 1
