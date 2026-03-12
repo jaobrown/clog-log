@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-03-12T16:00:05.809Z",
+  "generatedAt": "2026-03-12T20:00:05.920Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 285,
-    "totalDurationMs": 236575173,
-    "totalTokens": 628136173,
+    "totalSessions": 292,
+    "totalDurationMs": 252461290,
+    "totalTokens": 652618338,
     "projectCount": 3
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 267,
-      "totalDurationMs": 235691917,
+      "totalSessions": 274,
+      "totalDurationMs": 251578034,
       "sessions": [
         {
           "id": "6678f773-7d19-4d31-a72f-e5010239d54d",
           "title": "**********",
           "timestamp": "2026-03-12T15:08:29.205Z",
-          "totalDurationMs": 5009791
+          "totalDurationMs": 20895908
         },
         {
           "id": "a5931dd2-f995-4eef-adcb-9ad2f84464b6",
@@ -614,8 +614,8 @@
   ],
   "activity": {
     "2026-03-12": {
-      "sessions": 11,
-      "durationMs": 5009791
+      "sessions": 18,
+      "durationMs": 20895908
     },
     "2026-03-10": {
       "sessions": 1,
@@ -691,25 +691,25 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 1649622,
-    "outputTokens": 1297178,
-    "cacheReadTokens": 574028433,
-    "cacheCreationTokens": 51160940
+    "inputTokens": 1651478,
+    "outputTokens": 1408348,
+    "cacheReadTokens": 597093191,
+    "cacheCreationTokens": 52465321
   },
   "toolUsage": {
-    "ToolSearch": 197,
-    "mcp__claude_ai_Linear__get_issue": 18,
-    "mcp__claude_ai_Linear__list_issues": 8,
-    "TeamCreate": 10,
-    "TaskCreate": 100,
-    "TaskUpdate": 207,
-    "Agent": 69,
-    "SendMessage": 176,
-    "Read": 2656,
-    "Edit": 618,
-    "Bash": 950,
-    "Glob": 662,
-    "Grep": 808,
+    "ToolSearch": 215,
+    "mcp__claude_ai_Linear__get_issue": 24,
+    "mcp__claude_ai_Linear__list_issues": 9,
+    "TeamCreate": 11,
+    "TaskCreate": 106,
+    "TaskUpdate": 230,
+    "Agent": 77,
+    "SendMessage": 193,
+    "Read": 2737,
+    "Edit": 638,
+    "Bash": 976,
+    "Grep": 866,
+    "Glob": 664,
     "WebFetch": 24,
     "ListMcpResourcesTool": 1,
     "ReadMcpResourceTool": 2,
