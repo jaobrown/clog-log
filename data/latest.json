@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-03-12T12:01:35.709Z",
+  "generatedAt": "2026-03-12T16:00:05.809Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 284,
-    "totalDurationMs": 238054413,
-    "totalTokens": 653110485,
-    "projectCount": 4
+    "totalSessions": 285,
+    "totalDurationMs": 236575173,
+    "totalTokens": 628136173,
+    "projectCount": 3
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 265,
-      "totalDurationMs": 237110753,
+      "totalSessions": 267,
+      "totalDurationMs": 235691917,
       "sessions": [
+        {
+          "id": "6678f773-7d19-4d31-a72f-e5010239d54d",
+          "title": "**********",
+          "timestamp": "2026-03-12T15:08:29.205Z",
+          "totalDurationMs": 5009791
+        },
         {
           "id": "a5931dd2-f995-4eef-adcb-9ad2f84464b6",
           "title": "**********",
@@ -494,30 +500,6 @@
           "totalDurationMs": 31228
         },
         {
-          "id": "fb84ae16-1ca3-4e0e-99dd-025646f79a18",
-          "title": "**********",
-          "timestamp": "2026-02-09T20:14:50.157Z",
-          "totalDurationMs": 5407584
-        },
-        {
-          "id": "71c1f316-3e58-4ddf-8db5-bf546d1ce9ee",
-          "title": "**********",
-          "timestamp": "2026-02-09T20:05:49.935Z",
-          "totalDurationMs": 838101
-        },
-        {
-          "id": "77dc0d3d-c464-42d4-9b91-7607a6edb77b",
-          "title": "**********",
-          "timestamp": "2026-02-09T19:40:51.728Z",
-          "totalDurationMs": 162199
-        },
-        {
-          "id": "b4d662ff-b968-4d87-84a4-3abd91b693c7",
-          "title": "**********",
-          "timestamp": "2026-02-09T14:26:21.169Z",
-          "totalDurationMs": 20743
-        },
-        {
           "id": "2e558b58-f782-4d85-8ee7-69262595e193",
           "title": "**********",
           "timestamp": "2026-02-06T22:10:40.661Z",
@@ -628,22 +610,13 @@
           "totalDurationMs": 64672
         }
       ]
-    },
-    {
-      "projectName": "clog",
-      "totalSessions": 1,
-      "totalDurationMs": 60404,
-      "sessions": [
-        {
-          "id": "b006d62c-cc79-4585-85a3-1214dca9d79d",
-          "title": "(no title)",
-          "timestamp": "2026-02-09T13:08:44.971Z",
-          "totalDurationMs": 60404
-        }
-      ]
     }
   ],
   "activity": {
+    "2026-03-12": {
+      "sessions": 11,
+      "durationMs": 5009791
+    },
     "2026-03-10": {
       "sessions": 1,
       "durationMs": 356894
@@ -712,48 +685,44 @@
       "sessions": 12,
       "durationMs": 625065
     },
-    "2026-02-09": {
-      "sessions": 10,
-      "durationMs": 6489031
-    },
     "2026-02-06": {
       "sessions": 16,
       "durationMs": 3443036
     }
   },
   "tokenUsage": {
-    "inputTokens": 1644853,
-    "outputTokens": 1226643,
-    "cacheReadTokens": 598782672,
-    "cacheCreationTokens": 51456317
+    "inputTokens": 1649622,
+    "outputTokens": 1297178,
+    "cacheReadTokens": 574028433,
+    "cacheCreationTokens": 51160940
   },
   "toolUsage": {
-    "Bash": 988,
-    "Read": 2639,
-    "Edit": 652,
-    "Grep": 860,
-    "Glob": 675,
-    "ToolSearch": 183,
+    "ToolSearch": 197,
+    "mcp__claude_ai_Linear__get_issue": 18,
+    "mcp__claude_ai_Linear__list_issues": 8,
+    "TeamCreate": 10,
+    "TaskCreate": 100,
+    "TaskUpdate": 207,
+    "Agent": 69,
+    "SendMessage": 176,
+    "Read": 2656,
+    "Edit": 618,
+    "Bash": 950,
+    "Glob": 662,
+    "Grep": 808,
     "WebFetch": 24,
     "ListMcpResourcesTool": 1,
     "ReadMcpResourceTool": 2,
-    "Agent": 64,
-    "Write": 121,
+    "Write": 120,
     "AskUserQuestion": 9,
-    "ExitPlanMode": 11,
-    "TeamCreate": 9,
-    "TaskCreate": 94,
-    "TaskUpdate": 200,
-    "SendMessage": 156,
+    "ExitPlanMode": 10,
     "TeamDelete": 7,
-    "mcp__claude_ai_Linear__get_issue": 12,
-    "mcp__claude_ai_Linear__list_issues": 7,
     "mcp__context7__resolve-library-id": 9,
     "mcp__context7__query-docs": 26,
     "TaskOutput": 8,
     "WebSearch": 27,
     "mcp__paper__get_basic_info": 1,
-    "Task": 71,
+    "Task": 67,
     "mcp__paper__create_artboard": 4,
     "mcp__paper__write_html": 16,
     "mcp__paper__get_screenshot": 5,
@@ -765,14 +734,14 @@
     "mcp__paper__get_jsx": 1,
     "mcp__paper__get_computed_styles": 1,
     "TodoWrite": 31,
-    "Skill": 8,
+    "Skill": 6,
     "mcp__sentry__get_issue_details": 4,
     "mcp__local-postgres__query": 121,
     "mcp__exa__web_search_exa": 13,
     "mcp__figma__generate_figma_design": 6,
     "mcp__figma-desktop__add_code_connect_map": 1,
     "mcp__figma-desktop__send_code_connect_mappings": 1,
-    "mcp__figma-desktop__get_design_context": 4,
+    "mcp__figma-desktop__get_design_context": 2,
     "mcp__sentry__search_issue_events": 1,
     "TaskList": 11,
     "mcp__Control_Chrome__open_url": 1,
@@ -782,9 +751,9 @@
     "mcp__Claude_in_Chrome__tabs_context_mcp": 2,
     "mcp__Claude_in_Chrome__navigate": 2,
     "mcp__Claude_in_Chrome__update_plan": 2,
-    "mcp__figma-desktop__get_screenshot": 3,
     "mcp__linear-server__get_issue": 6,
-    "mcp__linear-server__list_issues": 1
+    "mcp__linear-server__list_issues": 1,
+    "mcp__figma-desktop__get_screenshot": 1
   },
   "modelBreakdown": {
     "opus-4.5": {
