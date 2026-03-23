@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-03-23T20:17:52.121Z",
+  "generatedAt": "2026-03-23T21:00:27.532Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 226,
-    "totalDurationMs": 268559390,
-    "totalTokens": 616093741,
+    "totalSessions": 227,
+    "totalDurationMs": 275127150,
+    "totalTokens": 618870752,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 222,
-      "totalDurationMs": 268468882,
+      "totalSessions": 223,
+      "totalDurationMs": 275036642,
       "sessions": [
         {
           "id": "9b75046f-ba12-49c9-bddd-a315f427ad1c",
           "title": "**********",
           "timestamp": "2026-03-23T19:14:44.641Z",
-          "totalDurationMs": 7212161
+          "totalDurationMs": 13779921
         },
         {
           "id": "32481a32-ff52-4d37-8f65-33c525a8ad06",
@@ -421,8 +421,8 @@
   ],
   "activity": {
     "2026-03-23": {
-      "sessions": 12,
-      "durationMs": 26781111
+      "sessions": 13,
+      "durationMs": 33348871
     },
     "2026-03-12": {
       "sessions": 18,
@@ -478,24 +478,25 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 1291991,
-    "outputTokens": 1510522,
-    "cacheReadTokens": 567141281,
-    "cacheCreationTokens": 46149947
+    "inputTokens": 1292365,
+    "outputTokens": 1525496,
+    "cacheReadTokens": 569580745,
+    "cacheCreationTokens": 46472146
   },
   "toolUsage": {
-    "Agent": 87,
-    "Skill": 4,
-    "Bash": 1019,
-    "Read": 2514,
-    "Grep": 682,
-    "ToolSearch": 216,
-    "WebFetch": 25,
-    "mcp__context7__resolve-library-id": 10,
-    "mcp__context7__query-docs": 28,
+    "Agent": 91,
+    "Skill": 5,
+    "Bash": 1037,
+    "Read": 2517,
+    "Grep": 684,
+    "ToolSearch": 220,
+    "WebFetch": 29,
+    "mcp__context7__resolve-library-id": 11,
+    "mcp__context7__query-docs": 30,
+    "Write": 118,
+    "AskUserQuestion": 6,
+    "ExitPlanMode": 10,
     "Glob": 601,
-    "Write": 116,
-    "ExitPlanMode": 9,
     "TaskCreate": 96,
     "TaskUpdate": 199,
     "Edit": 585,
@@ -505,7 +506,6 @@
     "SendMessage": 154,
     "ListMcpResourcesTool": 1,
     "ReadMcpResourceTool": 2,
-    "AskUserQuestion": 5,
     "TeamDelete": 6,
     "TaskOutput": 6,
     "WebSearch": 22,
