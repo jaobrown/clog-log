@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-03-24T16:00:00.876Z",
+  "generatedAt": "2026-03-24T20:00:03.763Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 227,
-    "totalDurationMs": 275127150,
-    "totalTokens": 618870752,
-    "projectCount": 2
+    "totalSessions": 214,
+    "totalDurationMs": 242529931,
+    "totalTokens": 592876475,
+    "projectCount": 1
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 223,
-      "totalDurationMs": 275036642,
+      "totalSessions": 214,
+      "totalDurationMs": 242529931,
       "sessions": [
+        {
+          "id": "503b26b6-9ba1-4d6a-836e-8efef61dad23",
+          "title": "**********",
+          "timestamp": "2026-03-24T17:12:01.398Z",
+          "totalDurationMs": 317686
+        },
+        {
+          "id": "5b20eeb8-ce48-4fdc-bb52-82a0954d24c9",
+          "title": "**********",
+          "timestamp": "2026-03-24T17:10:36.138Z",
+          "totalDurationMs": 160999
+        },
         {
           "id": "9b75046f-ba12-49c9-bddd-a315f427ad1c",
           "title": "**********",
@@ -332,94 +344,19 @@
           "totalDurationMs": 0
         },
         {
-          "id": "22222222-3333-4444-8555-666666666666",
-          "title": "**********",
-          "timestamp": "2026-02-22T16:29:17.397Z",
-          "totalDurationMs": 2830
-        },
-        {
-          "id": "11111111-2222-4333-8444-555555555555",
-          "title": "**********",
-          "timestamp": "2026-02-22T16:28:14.598Z",
-          "totalDurationMs": 16783
-        },
-        {
-          "id": "1f180e38-d7e3-431a-b4bd-a001ed84f435",
-          "title": "**********",
-          "timestamp": "2026-02-22T16:27:42.762Z",
-          "totalDurationMs": 5095
-        },
-        {
-          "id": "5ccb27ea-5b67-45b1-a1f5-a1335714932f",
-          "title": "**********",
-          "timestamp": "2026-02-22T16:27:11.698Z",
-          "totalDurationMs": 2745
-        },
-        {
-          "id": "a90a96c0-2dce-4c61-848c-a61aba9b0cec",
-          "title": "**********",
-          "timestamp": "2026-02-22T16:21:46.346Z",
-          "totalDurationMs": 603294
-        },
-        {
-          "id": "435c7729-4f2a-4c9b-b324-3d1c293b2c1e",
-          "title": "**********",
-          "timestamp": "2026-02-22T07:56:01.504Z",
-          "totalDurationMs": 2510
-        },
-        {
-          "id": "44e7114c-8aac-42d3-925f-c405b127a946",
-          "title": "**********",
-          "timestamp": "2026-02-22T07:48:29.444Z",
-          "totalDurationMs": 30753075
-        },
-        {
           "id": "9e9d61c1-b67f-4663-aede-873d9781e70b",
           "title": "**********",
           "timestamp": "2026-02-22T07:26:14.989Z",
           "totalDurationMs": 117724784
-        },
-        {
-          "id": "490e6100-d499-40ec-a19b-a1d50748c375",
-          "title": "**********",
-          "timestamp": "2026-02-22T06:35:58.039Z",
-          "totalDurationMs": 1599064
-        }
-      ]
-    },
-    {
-      "projectName": "contra-web-app",
-      "totalSessions": 4,
-      "totalDurationMs": 90508,
-      "sessions": [
-        {
-          "id": "3a082bbf-db29-4a30-9c1b-df2002652cfc",
-          "title": null,
-          "timestamp": "2026-02-22T17:00:09.241Z",
-          "totalDurationMs": 2170
-        },
-        {
-          "id": "2b2e9ceb-fce2-48c9-b6c4-a5753f40e041",
-          "title": null,
-          "timestamp": "2026-02-22T16:59:16.939Z",
-          "totalDurationMs": 2062
-        },
-        {
-          "id": "217557ee-2e4e-4d93-b891-2cab82334757",
-          "title": null,
-          "timestamp": "2026-02-22T16:38:41.583Z",
-          "totalDurationMs": 47654
-        },
-        {
-          "id": "e056b915-20e5-4396-806d-09bcefcb9dad",
-          "title": null,
-          "timestamp": "2026-02-22T16:36:33.441Z",
-          "totalDurationMs": 38622
         }
       ]
     }
   ],
   "activity": {
+    "2026-03-24": {
+      "sessions": 5,
+      "durationMs": 478685
+    },
     "2026-03-23": {
       "sessions": 13,
       "durationMs": 33348871
@@ -473,33 +410,33 @@
       "durationMs": 6141481
     },
     "2026-02-22": {
-      "sessions": 29,
-      "durationMs": 155584916
+      "sessions": 11,
+      "durationMs": 122509012
     }
   },
   "tokenUsage": {
-    "inputTokens": 1292365,
-    "outputTokens": 1525496,
-    "cacheReadTokens": 569580745,
-    "cacheCreationTokens": 46472146
+    "inputTokens": 1253520,
+    "outputTokens": 1531025,
+    "cacheReadTokens": 545750810,
+    "cacheCreationTokens": 44341120
   },
   "toolUsage": {
-    "Agent": 91,
-    "Skill": 5,
-    "Bash": 1037,
-    "Read": 2517,
-    "Grep": 684,
-    "ToolSearch": 220,
-    "WebFetch": 29,
-    "mcp__context7__resolve-library-id": 11,
-    "mcp__context7__query-docs": 30,
-    "Write": 118,
-    "AskUserQuestion": 6,
-    "ExitPlanMode": 10,
-    "Glob": 601,
+    "Agent": 94,
+    "Bash": 1038,
+    "Read": 2461,
+    "Glob": 563,
+    "Grep": 666,
+    "ToolSearch": 223,
+    "WebFetch": 33,
+    "mcp__context7__resolve-library-id": 12,
+    "mcp__context7__query-docs": 31,
+    "Skill": 4,
+    "Write": 109,
+    "AskUserQuestion": 5,
+    "ExitPlanMode": 8,
     "TaskCreate": 96,
     "TaskUpdate": 199,
-    "Edit": 585,
+    "Edit": 501,
     "mcp__claude_ai_Linear__get_issue": 24,
     "mcp__claude_ai_Linear__list_issues": 9,
     "TeamCreate": 9,
@@ -508,9 +445,9 @@
     "ReadMcpResourceTool": 2,
     "TeamDelete": 6,
     "TaskOutput": 6,
-    "WebSearch": 22,
+    "WebSearch": 18,
     "mcp__paper__get_basic_info": 1,
-    "Task": 38,
+    "Task": 33,
     "mcp__paper__create_artboard": 4,
     "mcp__paper__write_html": 16,
     "mcp__paper__get_screenshot": 5,
@@ -521,7 +458,7 @@
     "mcp__paper__get_tree_summary": 1,
     "mcp__paper__get_jsx": 1,
     "mcp__paper__get_computed_styles": 1,
-    "TodoWrite": 31,
+    "TodoWrite": 22,
     "mcp__sentry__get_issue_details": 4,
     "mcp__local-postgres__query": 121,
     "mcp__exa__web_search_exa": 8,
