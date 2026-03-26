@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-03-26T16:00:00.804Z",
+  "generatedAt": "2026-03-26T20:00:05.002Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 215,
-    "totalDurationMs": 242529937,
-    "totalTokens": 592876475,
+    "totalSessions": 166,
+    "totalDurationMs": 110272019,
+    "totalTokens": 467535704,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 214,
-      "totalDurationMs": 242529931,
+      "totalSessions": 165,
+      "totalDurationMs": 110272013,
       "sessions": [
+        {
+          "id": "e9fd8939-4a21-42da-bc18-576ddc400494",
+          "title": "**********",
+          "timestamp": "2026-03-26T18:15:50.116Z",
+          "totalDurationMs": 225956
+        },
+        {
+          "id": "d191ef6c-9e05-4923-bf21-20c091c5d164",
+          "title": "**********",
+          "timestamp": "2026-03-26T18:15:32.225Z",
+          "totalDurationMs": 148650
+        },
         {
           "id": "503b26b6-9ba1-4d6a-836e-8efef61dad23",
           "title": "**********",
@@ -258,96 +270,6 @@
           "title": "**********",
           "timestamp": "2026-02-25T21:49:45.245Z",
           "totalDurationMs": 139430
-        },
-        {
-          "id": "0983c0ae-6cdd-4530-b360-70dfc71151d8",
-          "title": "**********",
-          "timestamp": "2026-02-24T16:53:52.691Z",
-          "totalDurationMs": 3042909
-        },
-        {
-          "id": "799d0132-97e3-45b1-bd93-2e67092ac2dd",
-          "title": "**********",
-          "timestamp": "2026-02-24T15:36:14.802Z",
-          "totalDurationMs": 219409
-        },
-        {
-          "id": "b24fd3df-8259-49a2-a005-4efdc8e2ac56",
-          "title": "**********",
-          "timestamp": "2026-02-24T15:26:08.608Z",
-          "totalDurationMs": 719713
-        },
-        {
-          "id": "5050c450-0ce7-4c72-b8c1-08f97580b76f",
-          "title": "**********",
-          "timestamp": "2026-02-24T15:25:04.167Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "cdce0be9-ac41-4f1d-9d22-f24c50b4078a",
-          "title": "**********",
-          "timestamp": "2026-02-23T20:48:55.260Z",
-          "totalDurationMs": 728634
-        },
-        {
-          "id": "756f6b8c-473c-4b9d-96f6-e71548f8aaa3",
-          "title": "**********",
-          "timestamp": "2026-02-23T20:39:52.301Z",
-          "totalDurationMs": 884092
-        },
-        {
-          "id": "d433e453-ed49-46fe-bad3-56698203e797",
-          "title": "**********",
-          "timestamp": "2026-02-23T19:43:09.507Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "b9370c2b-5c9f-4383-bb67-f7149a7caa95",
-          "title": "**********",
-          "timestamp": "2026-02-23T19:40:20.518Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "94e637ea-9681-498e-8fea-d809b6446f49",
-          "title": "**********",
-          "timestamp": "2026-02-23T19:28:39.805Z",
-          "totalDurationMs": 780967
-        },
-        {
-          "id": "2a0c84f4-2b7e-49ab-b4b5-063b1a5120f8",
-          "title": "**********",
-          "timestamp": "2026-02-23T18:58:23.112Z",
-          "totalDurationMs": 15598
-        },
-        {
-          "id": "d7692ecd-21ef-4993-a709-8380023fae4e",
-          "title": "**********",
-          "timestamp": "2026-02-23T17:34:57.007Z",
-          "totalDurationMs": 3732190
-        },
-        {
-          "id": "67ed88f7-3431-4750-8492-f36b50424561",
-          "title": "**********",
-          "timestamp": "2026-02-22T18:21:21.123Z",
-          "totalDurationMs": 4148329
-        },
-        {
-          "id": "04514951-9da7-4601-aa55-253d14ce81fc",
-          "title": "**********",
-          "timestamp": "2026-02-22T18:07:58.395Z",
-          "totalDurationMs": 635899
-        },
-        {
-          "id": "af3a80b9-f078-4f5a-864b-b0467813c7f9",
-          "title": "**********",
-          "timestamp": "2026-02-22T18:03:59.848Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "9e9d61c1-b67f-4663-aede-873d9781e70b",
-          "title": "**********",
-          "timestamp": "2026-02-22T07:26:14.989Z",
-          "totalDurationMs": 117724784
         }
       ]
     },
@@ -366,6 +288,10 @@
     }
   ],
   "activity": {
+    "2026-03-26": {
+      "sessions": 3,
+      "durationMs": 374612
+    },
     "2026-03-24": {
       "sessions": 5,
       "durationMs": 478685
@@ -413,58 +339,42 @@
     "2026-02-25": {
       "sessions": 1,
       "durationMs": 139430
-    },
-    "2026-02-24": {
-      "sessions": 10,
-      "durationMs": 3982031
-    },
-    "2026-02-23": {
-      "sessions": 30,
-      "durationMs": 6141481
-    },
-    "2026-02-22": {
-      "sessions": 11,
-      "durationMs": 122509012
-    },
-    "2026-03-26": {
-      "sessions": 1,
-      "durationMs": 6
     }
   },
   "tokenUsage": {
-    "inputTokens": 1253520,
-    "outputTokens": 1531025,
-    "cacheReadTokens": 545750810,
-    "cacheCreationTokens": 44341120
+    "inputTokens": 774395,
+    "outputTokens": 1473533,
+    "cacheReadTokens": 431576079,
+    "cacheCreationTokens": 33711697
   },
   "toolUsage": {
+    "Bash": 918,
+    "Read": 2074,
+    "Grep": 446,
+    "Edit": 355,
     "Agent": 94,
-    "Bash": 1038,
-    "Read": 2461,
-    "Glob": 563,
-    "Grep": 666,
-    "ToolSearch": 223,
-    "WebFetch": 33,
+    "Glob": 510,
+    "ToolSearch": 220,
+    "WebFetch": 31,
     "mcp__context7__resolve-library-id": 12,
     "mcp__context7__query-docs": 31,
     "Skill": 4,
-    "Write": 109,
-    "AskUserQuestion": 5,
-    "ExitPlanMode": 8,
-    "TaskCreate": 96,
-    "TaskUpdate": 199,
-    "Edit": 501,
-    "mcp__claude_ai_Linear__get_issue": 24,
+    "Write": 95,
+    "AskUserQuestion": 3,
+    "ExitPlanMode": 5,
+    "TaskCreate": 90,
+    "TaskUpdate": 177,
+    "mcp__claude_ai_Linear__get_issue": 23,
     "mcp__claude_ai_Linear__list_issues": 9,
-    "TeamCreate": 9,
-    "SendMessage": 154,
+    "TeamCreate": 8,
+    "SendMessage": 130,
     "ListMcpResourcesTool": 1,
     "ReadMcpResourceTool": 2,
-    "TeamDelete": 6,
-    "TaskOutput": 6,
+    "TeamDelete": 5,
+    "TaskOutput": 5,
     "WebSearch": 18,
     "mcp__paper__get_basic_info": 1,
-    "Task": 33,
+    "Task": 10,
     "mcp__paper__create_artboard": 4,
     "mcp__paper__write_html": 16,
     "mcp__paper__get_screenshot": 5,
@@ -475,17 +385,15 @@
     "mcp__paper__get_tree_summary": 1,
     "mcp__paper__get_jsx": 1,
     "mcp__paper__get_computed_styles": 1,
-    "TodoWrite": 22,
-    "mcp__sentry__get_issue_details": 4,
+    "TodoWrite": 8,
+    "mcp__sentry__get_issue_details": 2,
     "mcp__local-postgres__query": 121,
     "mcp__exa__web_search_exa": 8,
     "mcp__figma__generate_figma_design": 6,
     "mcp__figma-desktop__add_code_connect_map": 1,
     "mcp__figma-desktop__send_code_connect_mappings": 1,
     "mcp__figma-desktop__get_design_context": 1,
-    "mcp__sentry__search_issue_events": 1,
-    "TaskList": 3,
-    "mcp__Control_Chrome__open_url": 1
+    "mcp__sentry__search_issue_events": 1
   },
   "modelBreakdown": {
     "opus-4.5": {
