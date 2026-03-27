@@ -1,18 +1,48 @@
 {
-  "generatedAt": "2026-03-27T16:00:08.161Z",
+  "generatedAt": "2026-03-27T17:56:24.122Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 183,
-    "totalDurationMs": 115476704,
-    "totalTokens": 525519704,
+    "totalSessions": 210,
+    "totalDurationMs": 120545130,
+    "totalTokens": 558059678,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 182,
-      "totalDurationMs": 115476698,
+      "totalSessions": 209,
+      "totalDurationMs": 120545124,
       "sessions": [
+        {
+          "id": "a9882df9-f4bc-4c67-b497-64daf63ea39f",
+          "title": "**********",
+          "timestamp": "2026-03-27T17:10:16.677Z",
+          "totalDurationMs": 4973295
+        },
+        {
+          "id": "e57b2f61-5ca1-45f2-be3f-567f4a8fd034",
+          "title": "**********",
+          "timestamp": "2026-03-27T17:09:52.934Z",
+          "totalDurationMs": 5912
+        },
+        {
+          "id": "91005ff7-2061-474e-9dd8-019772851dfe",
+          "title": "**********",
+          "timestamp": "2026-03-27T17:09:32.904Z",
+          "totalDurationMs": 0
+        },
+        {
+          "id": "437b84f0-b05f-4b12-a7c4-d0d68394613a",
+          "title": "**********",
+          "timestamp": "2026-03-27T17:07:11.278Z",
+          "totalDurationMs": 89219
+        },
+        {
+          "id": "16e8d14f-479b-44cc-b5f2-058f3e53b958",
+          "title": "**********",
+          "timestamp": "2026-03-27T17:06:42.401Z",
+          "totalDurationMs": 0
+        },
         {
           "id": "1dd0f443-2d14-4b75-8b77-a8ec17332306",
           "title": "**********",
@@ -294,6 +324,10 @@
     }
   ],
   "activity": {
+    "2026-03-27": {
+      "sessions": 27,
+      "durationMs": 5068426
+    },
     "2026-03-26": {
       "sessions": 20,
       "durationMs": 5579297
@@ -348,24 +382,25 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 775986,
-    "outputTokens": 1582612,
-    "cacheReadTokens": 485311705,
-    "cacheCreationTokens": 37849401
+    "inputTokens": 778239,
+    "outputTokens": 1748650,
+    "cacheReadTokens": 515639306,
+    "cacheCreationTokens": 39893483
   },
   "toolUsage": {
+    "Read": 2758,
+    "Agent": 124,
+    "Bash": 958,
+    "Edit": 467,
+    "Write": 131,
+    "Grep": 610,
+    "Glob": 569,
+    "mcp__linear-server__get_issue": 1,
     "ToolSearch": 242,
     "TeamCreate": 9,
     "TaskCreate": 96,
     "TaskUpdate": 193,
-    "Agent": 102,
     "SendMessage": 162,
-    "Read": 2480,
-    "Grep": 577,
-    "Bash": 936,
-    "Write": 118,
-    "Edit": 383,
-    "Glob": 561,
     "Skill": 5,
     "TeamDelete": 6,
     "WebFetch": 31,
