@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-03-26T20:00:05.002Z",
+  "generatedAt": "2026-03-27T12:06:03.290Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 166,
-    "totalDurationMs": 110272019,
-    "totalTokens": 467535704,
+    "totalSessions": 183,
+    "totalDurationMs": 115476704,
+    "totalTokens": 525519704,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 165,
-      "totalDurationMs": 110272013,
+      "totalSessions": 182,
+      "totalDurationMs": 115476698,
       "sessions": [
+        {
+          "id": "1dd0f443-2d14-4b75-8b77-a8ec17332306",
+          "title": "**********",
+          "timestamp": "2026-03-26T20:18:59.602Z",
+          "totalDurationMs": 5204685
+        },
         {
           "id": "e9fd8939-4a21-42da-bc18-576ddc400494",
           "title": "**********",
@@ -289,8 +295,8 @@
   ],
   "activity": {
     "2026-03-26": {
-      "sessions": 3,
-      "durationMs": 374612
+      "sessions": 20,
+      "durationMs": 5579297
     },
     "2026-03-24": {
       "sessions": 5,
@@ -342,35 +348,35 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 774395,
-    "outputTokens": 1473533,
-    "cacheReadTokens": 431576079,
-    "cacheCreationTokens": 33711697
+    "inputTokens": 775986,
+    "outputTokens": 1582612,
+    "cacheReadTokens": 485311705,
+    "cacheCreationTokens": 37849401
   },
   "toolUsage": {
-    "Bash": 918,
-    "Read": 2074,
-    "Grep": 446,
-    "Edit": 355,
-    "Agent": 94,
-    "Glob": 510,
-    "ToolSearch": 220,
+    "ToolSearch": 242,
+    "TeamCreate": 9,
+    "TaskCreate": 96,
+    "TaskUpdate": 193,
+    "Agent": 102,
+    "SendMessage": 162,
+    "Read": 2480,
+    "Grep": 577,
+    "Bash": 936,
+    "Write": 118,
+    "Edit": 383,
+    "Glob": 561,
+    "Skill": 5,
+    "TeamDelete": 6,
     "WebFetch": 31,
     "mcp__context7__resolve-library-id": 12,
     "mcp__context7__query-docs": 31,
-    "Skill": 4,
-    "Write": 95,
     "AskUserQuestion": 3,
     "ExitPlanMode": 5,
-    "TaskCreate": 90,
-    "TaskUpdate": 177,
     "mcp__claude_ai_Linear__get_issue": 23,
     "mcp__claude_ai_Linear__list_issues": 9,
-    "TeamCreate": 8,
-    "SendMessage": 130,
     "ListMcpResourcesTool": 1,
     "ReadMcpResourceTool": 2,
-    "TeamDelete": 5,
     "TaskOutput": 5,
     "WebSearch": 18,
     "mcp__paper__get_basic_info": 1,
