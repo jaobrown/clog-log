@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-03-27T20:00:01.572Z",
+  "generatedAt": "2026-03-28T12:05:46.136Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 210,
-    "totalDurationMs": 120545130,
-    "totalTokens": 558059678,
+    "totalDurationMs": 120438763,
+    "totalTokens": 557256338,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
       "totalSessions": 209,
-      "totalDurationMs": 120545124,
+      "totalDurationMs": 120438757,
       "sessions": [
+        {
+          "id": "0c47f266-55eb-4c26-802f-1d56969ebf86",
+          "title": "**********",
+          "timestamp": "2026-03-27T22:59:03.396Z",
+          "totalDurationMs": 33063
+        },
         {
           "id": "a9882df9-f4bc-4c67-b497-64daf63ea39f",
           "title": "**********",
@@ -300,12 +306,6 @@
           "title": "**********",
           "timestamp": "2026-02-26T14:40:59.587Z",
           "totalDurationMs": 3820956
-        },
-        {
-          "id": "239819be-487c-4fb6-a090-eabc57335746",
-          "title": "**********",
-          "timestamp": "2026-02-25T21:49:45.245Z",
-          "totalDurationMs": 139430
         }
       ]
     },
@@ -325,8 +325,8 @@
   ],
   "activity": {
     "2026-03-27": {
-      "sessions": 27,
-      "durationMs": 5068426
+      "sessions": 28,
+      "durationMs": 5101489
     },
     "2026-03-26": {
       "sessions": 20,
@@ -375,26 +375,22 @@
     "2026-02-26": {
       "sessions": 14,
       "durationMs": 6652457
-    },
-    "2026-02-25": {
-      "sessions": 1,
-      "durationMs": 139430
     }
   },
   "tokenUsage": {
-    "inputTokens": 778239,
-    "outputTokens": 1748650,
-    "cacheReadTokens": 515639306,
-    "cacheCreationTokens": 39893483
+    "inputTokens": 778214,
+    "outputTokens": 1751399,
+    "cacheReadTokens": 514932590,
+    "cacheCreationTokens": 39794135
   },
   "toolUsage": {
-    "Read": 2758,
+    "Bash": 965,
+    "Read": 2757,
+    "Edit": 469,
+    "Grep": 597,
     "Agent": 124,
-    "Bash": 958,
-    "Edit": 467,
     "Write": 131,
-    "Grep": 610,
-    "Glob": 569,
+    "Glob": 566,
     "mcp__linear-server__get_issue": 1,
     "ToolSearch": 242,
     "TeamCreate": 9,
