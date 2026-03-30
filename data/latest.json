@@ -1,18 +1,36 @@
 {
-  "generatedAt": "2026-03-30T12:06:09.657Z",
+  "generatedAt": "2026-03-30T16:00:01.384Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 210,
-    "totalDurationMs": 120438763,
-    "totalTokens": 557256338,
+    "totalSessions": 206,
+    "totalDurationMs": 115663368,
+    "totalTokens": 573377964,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 209,
-      "totalDurationMs": 120438757,
+      "totalSessions": 205,
+      "totalDurationMs": 115663362,
       "sessions": [
+        {
+          "id": "e1ac5a50-fe04-48cd-b993-dc45ec54d9b9",
+          "title": "**********",
+          "timestamp": "2026-03-30T15:07:20.734Z",
+          "totalDurationMs": 398287
+        },
+        {
+          "id": "eff2c3e6-ef41-4221-bc5f-805a8cf6c5c0",
+          "title": "**********",
+          "timestamp": "2026-03-30T13:48:53.649Z",
+          "totalDurationMs": 726425
+        },
+        {
+          "id": "d97eaae5-a912-47b4-bca0-aa30d9619d87",
+          "title": "**********",
+          "timestamp": "2026-03-30T13:42:46.196Z",
+          "totalDurationMs": 752350
+        },
         {
           "id": "0c47f266-55eb-4c26-802f-1d56969ebf86",
           "title": "**********",
@@ -264,48 +282,6 @@
           "title": "**********",
           "timestamp": "2026-03-02T14:26:15.887Z",
           "totalDurationMs": 3535
-        },
-        {
-          "id": "2c83c65a-66ed-4187-9882-ccbb6f402773",
-          "title": "**********",
-          "timestamp": "2026-02-26T20:42:10.401Z",
-          "totalDurationMs": 493622
-        },
-        {
-          "id": "beb397b7-424e-4711-bf92-55b37eee7142",
-          "title": "**********",
-          "timestamp": "2026-02-26T20:39:06.692Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "cd897161-cdaf-4c2e-823b-8565a4cb8dd8",
-          "title": "**********",
-          "timestamp": "2026-02-26T20:17:28.878Z",
-          "totalDurationMs": 1423235
-        },
-        {
-          "id": "487ec7b4-515b-4a37-8eac-e937ab667577",
-          "title": "**********",
-          "timestamp": "2026-02-26T18:29:25.416Z",
-          "totalDurationMs": 776880
-        },
-        {
-          "id": "d86a5a77-aa64-4923-8ae7-ec7609bd1689",
-          "title": "**********",
-          "timestamp": "2026-02-26T18:20:53.072Z",
-          "totalDurationMs": 88854
-        },
-        {
-          "id": "b40c2f62-3209-4803-a7a8-3f1531d8bccf",
-          "title": "**********",
-          "timestamp": "2026-02-26T15:16:19.380Z",
-          "totalDurationMs": 48910
-        },
-        {
-          "id": "717bd745-41ca-453a-a0c0-75d3a777ab30",
-          "title": "**********",
-          "timestamp": "2026-02-26T14:40:59.587Z",
-          "totalDurationMs": 3820956
         }
       ]
     },
@@ -324,6 +300,10 @@
     }
   ],
   "activity": {
+    "2026-03-30": {
+      "sessions": 10,
+      "durationMs": 1877062
+    },
     "2026-03-27": {
       "sessions": 28,
       "durationMs": 5101489
@@ -371,39 +351,35 @@
     "2026-03-02": {
       "sessions": 1,
       "durationMs": 3535
-    },
-    "2026-02-26": {
-      "sessions": 14,
-      "durationMs": 6652457
     }
   },
   "tokenUsage": {
-    "inputTokens": 778214,
-    "outputTokens": 1751399,
-    "cacheReadTokens": 514932590,
-    "cacheCreationTokens": 39794135
+    "inputTokens": 750538,
+    "outputTokens": 1752109,
+    "cacheReadTokens": 531568349,
+    "cacheCreationTokens": 39306968
   },
   "toolUsage": {
-    "Bash": 965,
-    "Read": 2757,
-    "Edit": 469,
-    "Grep": 597,
-    "Agent": 124,
-    "Write": 131,
-    "Glob": 566,
+    "Bash": 930,
+    "Read": 2838,
+    "Grep": 616,
+    "Edit": 493,
+    "Agent": 134,
+    "Glob": 536,
+    "ToolSearch": 238,
+    "TaskCreate": 103,
+    "TaskUpdate": 206,
+    "Write": 118,
     "mcp__linear-server__get_issue": 1,
-    "ToolSearch": 242,
     "TeamCreate": 9,
-    "TaskCreate": 96,
-    "TaskUpdate": 193,
     "SendMessage": 162,
-    "Skill": 5,
+    "Skill": 4,
     "TeamDelete": 6,
     "WebFetch": 31,
     "mcp__context7__resolve-library-id": 12,
     "mcp__context7__query-docs": 31,
-    "AskUserQuestion": 3,
-    "ExitPlanMode": 5,
+    "AskUserQuestion": 2,
+    "ExitPlanMode": 3,
     "mcp__claude_ai_Linear__get_issue": 23,
     "mcp__claude_ai_Linear__list_issues": 9,
     "ListMcpResourcesTool": 1,
@@ -411,7 +387,7 @@
     "TaskOutput": 5,
     "WebSearch": 18,
     "mcp__paper__get_basic_info": 1,
-    "Task": 10,
+    "Task": 3,
     "mcp__paper__create_artboard": 4,
     "mcp__paper__write_html": 16,
     "mcp__paper__get_screenshot": 5,
@@ -423,14 +399,8 @@
     "mcp__paper__get_jsx": 1,
     "mcp__paper__get_computed_styles": 1,
     "TodoWrite": 8,
-    "mcp__sentry__get_issue_details": 2,
-    "mcp__local-postgres__query": 121,
-    "mcp__exa__web_search_exa": 8,
-    "mcp__figma__generate_figma_design": 6,
-    "mcp__figma-desktop__add_code_connect_map": 1,
-    "mcp__figma-desktop__send_code_connect_mappings": 1,
-    "mcp__figma-desktop__get_design_context": 1,
-    "mcp__sentry__search_issue_events": 1
+    "mcp__sentry__get_issue_details": 1,
+    "mcp__local-postgres__query": 121
   },
   "modelBreakdown": {
     "opus-4.5": {
