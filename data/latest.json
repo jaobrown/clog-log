@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-03-30T20:00:01.311Z",
+  "generatedAt": "2026-03-31T12:14:54.876Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 215,
-    "totalDurationMs": 116769557,
-    "totalTokens": 585977359,
+    "totalSessions": 221,
+    "totalDurationMs": 118007094,
+    "totalTokens": 615792932,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 214,
-      "totalDurationMs": 116769551,
+      "totalSessions": 220,
+      "totalDurationMs": 118007088,
       "sessions": [
+        {
+          "id": "ab34cbbe-436b-4126-96a7-e81631af4266",
+          "title": "**********",
+          "timestamp": "2026-03-31T01:38:59.972Z",
+          "totalDurationMs": 1200630
+        },
+        {
+          "id": "6eb11ce0-551a-422b-ac92-0a083a9c0291",
+          "title": "**********",
+          "timestamp": "2026-03-31T01:36:30.189Z",
+          "totalDurationMs": 36907
+        },
         {
           "id": "9f67f2a3-4cb3-46ac-856e-d29ecaaa776c",
           "title": "**********",
@@ -330,6 +342,10 @@
     }
   ],
   "activity": {
+    "2026-03-31": {
+      "sessions": 6,
+      "durationMs": 1237537
+    },
     "2026-03-30": {
       "sessions": 19,
       "durationMs": 2983251
@@ -384,25 +400,25 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 751093,
-    "outputTokens": 1791539,
-    "cacheReadTokens": 542775229,
-    "cacheCreationTokens": 40659498
+    "inputTokens": 808507,
+    "outputTokens": 1842297,
+    "cacheReadTokens": 571109597,
+    "cacheCreationTokens": 42032531
   },
   "toolUsage": {
-    "Agent": 138,
-    "Read": 2891,
-    "Grep": 654,
-    "Bash": 967,
-    "Edit": 509,
-    "Glob": 540,
-    "ToolSearch": 239,
+    "Agent": 142,
+    "Read": 2987,
+    "Bash": 1043,
+    "ToolSearch": 241,
+    "TaskCreate": 118,
+    "TaskUpdate": 224,
+    "Write": 128,
+    "Edit": 532,
+    "Grep": 672,
+    "Glob": 558,
+    "TeamCreate": 10,
     "mcp__sentry__get_sentry_resource": 1,
-    "TaskCreate": 103,
-    "TaskUpdate": 206,
-    "Write": 118,
     "mcp__linear-server__get_issue": 1,
-    "TeamCreate": 9,
     "SendMessage": 162,
     "Skill": 4,
     "TeamDelete": 6,
