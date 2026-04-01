@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-03-31T20:00:05.609Z",
+  "generatedAt": "2026-04-01T12:07:50.685Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 229,
-    "totalDurationMs": 120280939,
-    "totalTokens": 631553608,
+    "totalSessions": 234,
+    "totalDurationMs": 124981156,
+    "totalTokens": 658536381,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 228,
-      "totalDurationMs": 120280933,
+      "totalSessions": 233,
+      "totalDurationMs": 124981150,
       "sessions": [
+        {
+          "id": "56f73f17-d7c4-44c7-a70a-93df6a7cbdb2",
+          "title": "**********",
+          "timestamp": "2026-03-31T20:03:30.553Z",
+          "totalDurationMs": 4700217
+        },
         {
           "id": "df1bd61e-37c5-48fe-992a-a87bcd179c54",
           "title": "**********",
@@ -355,8 +361,8 @@
   ],
   "activity": {
     "2026-03-31": {
-      "sessions": 14,
-      "durationMs": 3511382
+      "sessions": 19,
+      "durationMs": 8211599
     },
     "2026-03-30": {
       "sessions": 19,
@@ -412,33 +418,33 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 864932,
-    "outputTokens": 1885967,
-    "cacheReadTokens": 584857353,
-    "cacheCreationTokens": 43945356
+    "inputTokens": 865741,
+    "outputTokens": 1929169,
+    "cacheReadTokens": 610222198,
+    "cacheCreationTokens": 45519273
   },
   "toolUsage": {
-    "Bash": 1058,
-    "Agent": 148,
-    "Read": 3094,
-    "Glob": 584,
-    "Grep": 722,
-    "Edit": 545,
-    "ToolSearch": 241,
-    "TaskCreate": 118,
-    "TaskUpdate": 224,
-    "Write": 128,
+    "Agent": 152,
+    "Read": 3178,
+    "Bash": 1112,
+    "Write": 132,
+    "ToolSearch": 245,
+    "ExitPlanMode": 5,
+    "AskUserQuestion": 3,
+    "TaskCreate": 124,
+    "TaskUpdate": 234,
+    "Edit": 556,
+    "Grep": 734,
+    "Skill": 5,
+    "Glob": 585,
     "TeamCreate": 10,
     "mcp__sentry__get_sentry_resource": 1,
     "mcp__linear-server__get_issue": 1,
     "SendMessage": 162,
-    "Skill": 4,
     "TeamDelete": 6,
     "WebFetch": 31,
     "mcp__context7__resolve-library-id": 12,
     "mcp__context7__query-docs": 31,
-    "AskUserQuestion": 2,
-    "ExitPlanMode": 3,
     "mcp__claude_ai_Linear__get_issue": 23,
     "mcp__claude_ai_Linear__list_issues": 9,
     "ListMcpResourcesTool": 1,
