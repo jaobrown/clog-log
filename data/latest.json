@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-04-01T16:00:01.225Z",
+  "generatedAt": "2026-04-01T20:00:01.294Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 235,
-    "totalDurationMs": 124981156,
-    "totalTokens": 658536381,
+    "totalSessions": 238,
+    "totalDurationMs": 125839175,
+    "totalTokens": 660923545,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 234,
-      "totalDurationMs": 124981150,
+      "totalSessions": 237,
+      "totalDurationMs": 125839169,
       "sessions": [
+        {
+          "id": "c7672c36-d0d5-481a-a0ba-31e508f09942",
+          "title": "**********",
+          "timestamp": "2026-04-01T18:06:27.038Z",
+          "totalDurationMs": 861554
+        },
         {
           "id": "38b99707-8f53-445b-8805-764c6fd460ed",
           "title": "**********",
@@ -342,12 +348,6 @@
           "title": "**********",
           "timestamp": "2026-03-03T19:02:58.563Z",
           "totalDurationMs": 504715
-        },
-        {
-          "id": "1503f79c-3602-4849-9b4c-66aba68be5c8",
-          "title": "**********",
-          "timestamp": "2026-03-02T14:26:15.887Z",
-          "totalDurationMs": 3535
         }
       ]
     },
@@ -367,8 +367,8 @@
   ],
   "activity": {
     "2026-04-01": {
-      "sessions": 1,
-      "durationMs": 0
+      "sessions": 5,
+      "durationMs": 861554
     },
     "2026-03-31": {
       "sessions": 19,
@@ -421,32 +421,28 @@
     "2026-03-03": {
       "sessions": 10,
       "durationMs": 2062445
-    },
-    "2026-03-02": {
-      "sessions": 1,
-      "durationMs": 3535
     }
   },
   "tokenUsage": {
-    "inputTokens": 865741,
-    "outputTokens": 1929169,
-    "cacheReadTokens": 610222198,
-    "cacheCreationTokens": 45519273
+    "inputTokens": 882784,
+    "outputTokens": 1943310,
+    "cacheReadTokens": 612124185,
+    "cacheCreationTokens": 45973266
   },
   "toolUsage": {
-    "Agent": 152,
-    "Read": 3178,
-    "Bash": 1112,
+    "Bash": 1117,
+    "Agent": 158,
+    "Read": 3198,
+    "Edit": 561,
+    "Grep": 760,
+    "Glob": 588,
     "Write": 132,
     "ToolSearch": 245,
     "ExitPlanMode": 5,
     "AskUserQuestion": 3,
     "TaskCreate": 124,
     "TaskUpdate": 234,
-    "Edit": 556,
-    "Grep": 734,
     "Skill": 5,
-    "Glob": 585,
     "TeamCreate": 10,
     "mcp__sentry__get_sentry_resource": 1,
     "mcp__linear-server__get_issue": 1,
