@@ -1,18 +1,48 @@
 {
-  "generatedAt": "2026-04-02T16:00:03.211Z",
+  "generatedAt": "2026-04-02T20:00:04.216Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 246,
-    "totalDurationMs": 130628025,
-    "totalTokens": 674629909,
+    "totalSessions": 247,
+    "totalDurationMs": 134144865,
+    "totalTokens": 688494721,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 245,
-      "totalDurationMs": 130628019,
+      "totalSessions": 246,
+      "totalDurationMs": 134144859,
       "sessions": [
+        {
+          "id": "d8f817cf-ccb3-415d-a629-d892318fbd7e",
+          "title": "**********",
+          "timestamp": "2026-04-02T19:38:20.844Z",
+          "totalDurationMs": 326287
+        },
+        {
+          "id": "14b78340-71ff-4d83-b06a-62369be82ccf",
+          "title": "**********",
+          "timestamp": "2026-04-02T18:55:14.364Z",
+          "totalDurationMs": 3722805
+        },
+        {
+          "id": "05732545-dc71-4584-859e-7edc0fd52ee2",
+          "title": "**********",
+          "timestamp": "2026-04-02T18:49:45.119Z",
+          "totalDurationMs": 835292
+        },
+        {
+          "id": "91bd4d77-7f25-49c8-a174-de20db25b5a9",
+          "title": "**********",
+          "timestamp": "2026-04-02T18:39:42.084Z",
+          "totalDurationMs": 416557
+        },
+        {
+          "id": "4be7b82d-2ce2-447b-80ae-ce388f7beb41",
+          "title": "**********",
+          "timestamp": "2026-04-02T18:24:35.170Z",
+          "totalDurationMs": 5827
+        },
         {
           "id": "13767daf-b885-4b81-8ae5-3f58aecac15b",
           "title": "**********",
@@ -336,36 +366,6 @@
           "title": "**********",
           "timestamp": "2026-03-03T23:19:02.304Z",
           "totalDurationMs": 272517
-        },
-        {
-          "id": "868822af-e7e1-4e2f-81b0-c3b68408c700",
-          "title": "**********",
-          "timestamp": "2026-03-03T19:30:21.168Z",
-          "totalDurationMs": 615545
-        },
-        {
-          "id": "d2eb9f1a-109a-4e8c-8deb-a95be419a869",
-          "title": "**********",
-          "timestamp": "2026-03-03T19:11:50.127Z",
-          "totalDurationMs": 668599
-        },
-        {
-          "id": "dfc03b81-91bd-4ce6-9004-cf0c5ad75247",
-          "title": "**********",
-          "timestamp": "2026-03-03T19:11:06.686Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "7c124be9-13fb-42e9-8f98-6e6833b7a712",
-          "title": "**********",
-          "timestamp": "2026-03-03T19:06:08.326Z",
-          "totalDurationMs": 1069
-        },
-        {
-          "id": "3de50a22-93e7-49b8-b992-833a59420af2",
-          "title": "**********",
-          "timestamp": "2026-03-03T19:02:58.563Z",
-          "totalDurationMs": 504715
         }
       ]
     },
@@ -385,8 +385,8 @@
   ],
   "activity": {
     "2026-04-02": {
-      "sessions": 2,
-      "durationMs": 250328
+      "sessions": 12,
+      "durationMs": 5557096
     },
     "2026-04-01": {
       "sessions": 11,
@@ -441,31 +441,31 @@
       "durationMs": 11931294
     },
     "2026-03-03": {
-      "sessions": 10,
-      "durationMs": 2062445
+      "sessions": 1,
+      "durationMs": 272517
     }
   },
   "tokenUsage": {
-    "inputTokens": 937044,
-    "outputTokens": 1990824,
-    "cacheReadTokens": 623832986,
-    "cacheCreationTokens": 47869055
+    "inputTokens": 951413,
+    "outputTokens": 2018857,
+    "cacheReadTokens": 637681210,
+    "cacheCreationTokens": 47843241
   },
   "toolUsage": {
-    "Grep": 859,
-    "Glob": 638,
-    "Read": 3345,
-    "Edit": 563,
-    "Bash": 1125,
-    "ToolSearch": 247,
-    "TaskCreate": 130,
+    "Bash": 1168,
+    "Grep": 873,
+    "Agent": 164,
+    "Read": 3408,
+    "Write": 132,
+    "ToolSearch": 252,
+    "ExitPlanMode": 6,
+    "TaskCreate": 144,
+    "TaskUpdate": 254,
+    "Edit": 592,
+    "Glob": 639,
     "mcp__figma-desktop__get_design_context": 3,
     "mcp__figma-desktop__get_screenshot": 3,
-    "TaskUpdate": 239,
-    "Agent": 163,
     "AskUserQuestion": 4,
-    "Write": 132,
-    "ExitPlanMode": 5,
     "Skill": 5,
     "TeamCreate": 10,
     "mcp__sentry__get_sentry_resource": 1,
@@ -494,8 +494,7 @@
     "mcp__paper__get_jsx": 1,
     "mcp__paper__get_computed_styles": 1,
     "TodoWrite": 8,
-    "mcp__sentry__get_issue_details": 1,
-    "mcp__local-postgres__query": 121
+    "mcp__sentry__get_issue_details": 1
   },
   "modelBreakdown": {
     "opus-4.5": {
