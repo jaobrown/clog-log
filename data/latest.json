@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-04-02T12:09:13.664Z",
+  "generatedAt": "2026-04-02T16:00:03.211Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 244,
-    "totalDurationMs": 130377697,
-    "totalTokens": 673735979,
+    "totalSessions": 246,
+    "totalDurationMs": 130628025,
+    "totalTokens": 674629909,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 243,
-      "totalDurationMs": 130377691,
+      "totalSessions": 245,
+      "totalDurationMs": 130628019,
       "sessions": [
+        {
+          "id": "13767daf-b885-4b81-8ae5-3f58aecac15b",
+          "title": "**********",
+          "timestamp": "2026-04-02T14:01:28.019Z",
+          "totalDurationMs": 48849
+        },
+        {
+          "id": "763a94a1-393c-415c-bcad-81c7d76e4967",
+          "title": "**********",
+          "timestamp": "2026-04-02T13:57:32.140Z",
+          "totalDurationMs": 201479
+        },
         {
           "id": "4ca8852b-cd85-436b-8ac9-1f11d45352ff",
           "title": "**********",
@@ -372,6 +384,10 @@
     }
   ],
   "activity": {
+    "2026-04-02": {
+      "sessions": 2,
+      "durationMs": 250328
+    },
     "2026-04-01": {
       "sessions": 11,
       "durationMs": 5400076
@@ -430,12 +446,17 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 936876,
-    "outputTokens": 1988326,
-    "cacheReadTokens": 623203922,
-    "cacheCreationTokens": 47606855
+    "inputTokens": 937044,
+    "outputTokens": 1990824,
+    "cacheReadTokens": 623832986,
+    "cacheCreationTokens": 47869055
   },
   "toolUsage": {
+    "Grep": 859,
+    "Glob": 638,
+    "Read": 3345,
+    "Edit": 563,
+    "Bash": 1125,
     "ToolSearch": 247,
     "TaskCreate": 130,
     "mcp__figma-desktop__get_design_context": 3,
@@ -443,11 +464,6 @@
     "TaskUpdate": 239,
     "Agent": 163,
     "AskUserQuestion": 4,
-    "Glob": 636,
-    "Read": 3341,
-    "Grep": 857,
-    "Bash": 1117,
-    "Edit": 561,
     "Write": 132,
     "ExitPlanMode": 5,
     "Skill": 5,
