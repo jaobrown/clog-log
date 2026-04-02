@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-04-01T20:00:01.294Z",
+  "generatedAt": "2026-04-02T12:09:13.664Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 238,
-    "totalDurationMs": 125839175,
-    "totalTokens": 660923545,
+    "totalSessions": 244,
+    "totalDurationMs": 130377697,
+    "totalTokens": 673735979,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 237,
-      "totalDurationMs": 125839169,
+      "totalSessions": 243,
+      "totalDurationMs": 130377691,
       "sessions": [
+        {
+          "id": "4ca8852b-cd85-436b-8ac9-1f11d45352ff",
+          "title": "**********",
+          "timestamp": "2026-04-01T20:40:25.348Z",
+          "totalDurationMs": 4538522
+        },
         {
           "id": "c7672c36-d0d5-481a-a0ba-31e508f09942",
           "title": "**********",
@@ -367,8 +373,8 @@
   ],
   "activity": {
     "2026-04-01": {
-      "sessions": 5,
-      "durationMs": 861554
+      "sessions": 11,
+      "durationMs": 5400076
     },
     "2026-03-31": {
       "sessions": 19,
@@ -424,24 +430,26 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 882784,
-    "outputTokens": 1943310,
-    "cacheReadTokens": 612124185,
-    "cacheCreationTokens": 45973266
+    "inputTokens": 936876,
+    "outputTokens": 1988326,
+    "cacheReadTokens": 623203922,
+    "cacheCreationTokens": 47606855
   },
   "toolUsage": {
+    "ToolSearch": 247,
+    "TaskCreate": 130,
+    "mcp__figma-desktop__get_design_context": 3,
+    "mcp__figma-desktop__get_screenshot": 3,
+    "TaskUpdate": 239,
+    "Agent": 163,
+    "AskUserQuestion": 4,
+    "Glob": 636,
+    "Read": 3341,
+    "Grep": 857,
     "Bash": 1117,
-    "Agent": 158,
-    "Read": 3198,
     "Edit": 561,
-    "Grep": 760,
-    "Glob": 588,
     "Write": 132,
-    "ToolSearch": 245,
     "ExitPlanMode": 5,
-    "AskUserQuestion": 3,
-    "TaskCreate": 124,
-    "TaskUpdate": 234,
     "Skill": 5,
     "TeamCreate": 10,
     "mcp__sentry__get_sentry_resource": 1,
