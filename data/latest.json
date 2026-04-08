@@ -1,18 +1,36 @@
 {
-  "generatedAt": "2026-04-08T16:00:05.365Z",
+  "generatedAt": "2026-04-08T20:00:05.219Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 175,
-    "totalDurationMs": 103944207,
-    "totalTokens": 466152386,
+    "totalSessions": 151,
+    "totalDurationMs": 93732479,
+    "totalTokens": 420030168,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 174,
-      "totalDurationMs": 103944201,
+      "totalSessions": 150,
+      "totalDurationMs": 93732473,
       "sessions": [
+        {
+          "id": "d624a93c-bdb8-4be5-b4fd-62a71e376aa6",
+          "title": "**********",
+          "timestamp": "2026-04-08T19:23:51.040Z",
+          "totalDurationMs": 534522
+        },
+        {
+          "id": "731eb093-fbb9-485a-be34-534808e52446",
+          "title": "**********",
+          "timestamp": "2026-04-08T18:57:56.384Z",
+          "totalDurationMs": 48251
+        },
+        {
+          "id": "569f323a-0f9f-4e8a-b697-dd4549cd061d",
+          "title": "**********",
+          "timestamp": "2026-04-08T18:57:20.838Z",
+          "totalDurationMs": 391
+        },
         {
           "id": "79f7b833-33cb-448d-90b2-086092cc2865",
           "title": "**********",
@@ -252,30 +270,6 @@
           "title": "**********",
           "timestamp": "2026-03-10T17:16:14.394Z",
           "totalDurationMs": 356894
-        },
-        {
-          "id": "51497992-21e6-4860-ad4f-47955addbeb6",
-          "title": "**********",
-          "timestamp": "2026-03-09T18:35:16.367Z",
-          "totalDurationMs": 1025814
-        },
-        {
-          "id": "00a90ce4-7d34-48fd-91f4-384b2367b69f",
-          "title": "**********",
-          "timestamp": "2026-03-09T18:28:16.498Z",
-          "totalDurationMs": 552439
-        },
-        {
-          "id": "a17e7302-fb16-40e0-9c12-d63858ff52d3",
-          "title": "**********",
-          "timestamp": "2026-03-09T15:33:44.622Z",
-          "totalDurationMs": 6442857
-        },
-        {
-          "id": "a31c7d68-1f8e-4a2d-b301-00448cddf6cc",
-          "title": "**********",
-          "timestamp": "2026-03-07T17:15:51.146Z",
-          "totalDurationMs": 2773782
         }
       ]
     },
@@ -294,6 +288,10 @@
     }
   ],
   "activity": {
+    "2026-04-08": {
+      "sessions": 3,
+      "durationMs": 583164
+    },
     "2026-04-06": {
       "sessions": 2,
       "durationMs": 6829
@@ -337,50 +335,40 @@
     "2026-03-10": {
       "sessions": 1,
       "durationMs": 356894
-    },
-    "2026-03-09": {
-      "sessions": 21,
-      "durationMs": 8021110
-    },
-    "2026-03-07": {
-      "sessions": 6,
-      "durationMs": 2773782
     }
   },
   "tokenUsage": {
-    "inputTokens": 359265,
-    "outputTokens": 1359028,
-    "cacheReadTokens": 433248453,
-    "cacheCreationTokens": 31185640
+    "inputTokens": 343330,
+    "outputTokens": 1132530,
+    "cacheReadTokens": 390652867,
+    "cacheCreationTokens": 27901441
   },
   "toolUsage": {
-    "Bash": 814,
-    "Grep": 733,
-    "Agent": 119,
-    "Read": 2215,
-    "Write": 82,
-    "ToolSearch": 125,
-    "ExitPlanMode": 6,
-    "TaskCreate": 85,
-    "TaskUpdate": 165,
-    "Edit": 435,
-    "Glob": 272,
+    "Bash": 743,
+    "Read": 1985,
+    "Edit": 355,
+    "Grep": 699,
+    "Agent": 104,
+    "Write": 68,
+    "ToolSearch": 82,
+    "ExitPlanMode": 5,
+    "TaskCreate": 79,
+    "TaskUpdate": 141,
+    "Glob": 205,
     "mcp__figma-desktop__get_design_context": 3,
     "mcp__figma-desktop__get_screenshot": 3,
-    "AskUserQuestion": 4,
+    "AskUserQuestion": 3,
     "Skill": 4,
-    "TeamCreate": 5,
+    "TeamCreate": 4,
     "mcp__sentry__get_sentry_resource": 1,
     "mcp__linear-server__get_issue": 1,
-    "SendMessage": 101,
-    "TeamDelete": 2,
-    "WebFetch": 14,
+    "SendMessage": 69,
+    "TeamDelete": 1,
+    "WebFetch": 12,
     "mcp__context7__resolve-library-id": 3,
     "mcp__context7__query-docs": 5,
     "mcp__claude_ai_Linear__get_issue": 12,
-    "mcp__claude_ai_Linear__list_issues": 2,
-    "ListMcpResourcesTool": 1,
-    "ReadMcpResourceTool": 2
+    "mcp__claude_ai_Linear__list_issues": 2
   },
   "modelBreakdown": {
     "opus-4.5": {
