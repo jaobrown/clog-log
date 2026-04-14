@@ -1,23 +1,35 @@
 {
-  "generatedAt": "2026-04-14T16:00:00.731Z",
+  "generatedAt": "2026-04-14T20:00:05.006Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 162,
-    "totalDurationMs": 80860636,
-    "totalTokens": 419681159,
+    "totalSessions": 164,
+    "totalDurationMs": 85900401,
+    "totalTokens": 433453821,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 161,
-      "totalDurationMs": 80860630,
+      "totalSessions": 163,
+      "totalDurationMs": 85900395,
       "sessions": [
+        {
+          "id": "41689f51-cd4c-4827-92f3-5a1601773a16",
+          "title": "**********",
+          "timestamp": "2026-04-14T19:46:06.815Z",
+          "totalDurationMs": 614667
+        },
+        {
+          "id": "73f520e6-48a7-455e-81fb-8985a630e367",
+          "title": "**********",
+          "timestamp": "2026-04-14T19:22:43.638Z",
+          "totalDurationMs": 2
+        },
         {
           "id": "85f63471-02e9-46cc-92cb-93af136568d5",
           "title": "**********",
           "timestamp": "2026-04-14T15:10:01.465Z",
-          "totalDurationMs": 2708283
+          "totalDurationMs": 7133379
         },
         {
           "id": "cadb06ae-b4f4-443c-a0ff-1488676cbde3",
@@ -307,8 +319,8 @@
   ],
   "activity": {
     "2026-04-14": {
-      "sessions": 2,
-      "durationMs": 2708283
+      "sessions": 4,
+      "durationMs": 7748048
     },
     "2026-04-13": {
       "sessions": 1,
@@ -360,23 +372,23 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 339889,
-    "outputTokens": 1267490,
-    "cacheReadTokens": 389765444,
-    "cacheCreationTokens": 28308336
+    "inputTokens": 340052,
+    "outputTokens": 1321017,
+    "cacheReadTokens": 403286727,
+    "cacheCreationTokens": 28506025
   },
   "toolUsage": {
+    "Bash": 814,
+    "Read": 2076,
+    "Grep": 647,
     "Agent": 116,
-    "Read": 2056,
-    "Grep": 639,
     "Write": 89,
     "ToolSearch": 52,
     "ExitPlanMode": 7,
-    "Bash": 799,
     "Glob": 213,
     "TaskCreate": 72,
     "TaskUpdate": 121,
-    "Edit": 376,
+    "Edit": 393,
     "Skill": 5,
     "mcp__linear-server__get_issue": 2,
     "mcp__figma-desktop__get_design_context": 3,
