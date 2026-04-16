@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-04-16T12:00:00.748Z",
+  "generatedAt": "2026-04-16T16:00:03.742Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 166,
-    "totalDurationMs": 88976805,
-    "totalTokens": 442568161,
+    "totalSessions": 169,
+    "totalDurationMs": 92313724,
+    "totalTokens": 531407778,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 165,
-      "totalDurationMs": 88976799,
+      "totalSessions": 168,
+      "totalDurationMs": 92313718,
       "sessions": [
+        {
+          "id": "9f6212b3-3a15-4a5c-a793-d13e872c1c03",
+          "title": "**********",
+          "timestamp": "2026-04-16T14:58:28.174Z",
+          "totalDurationMs": 2843837
+        },
+        {
+          "id": "b6b2e3ff-1975-44c2-a99d-82136a21a9af",
+          "title": "**********",
+          "timestamp": "2026-04-16T14:11:14.889Z",
+          "totalDurationMs": 493082
+        },
         {
           "id": "9df84156-2ee9-42bc-93a8-cced39a4581b",
           "title": "**********",
@@ -330,6 +342,10 @@
     }
   ],
   "activity": {
+    "2026-04-16": {
+      "sessions": 3,
+      "durationMs": 3336919
+    },
     "2026-04-15": {
       "sessions": 2,
       "durationMs": 3076404
@@ -388,28 +404,30 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 340147,
-    "outputTokens": 1360759,
-    "cacheReadTokens": 411460578,
-    "cacheCreationTokens": 29406677
+    "inputTokens": 348544,
+    "outputTokens": 1507876,
+    "cacheReadTokens": 496048162,
+    "cacheCreationTokens": 33503196
   },
   "toolUsage": {
-    "Bash": 833,
-    "Grep": 653,
-    "Read": 2086,
-    "Write": 92,
-    "Edit": 399,
+    "Bash": 921,
+    "Read": 2173,
+    "Write": 111,
+    "ExitPlanMode": 9,
+    "TodoWrite": 6,
+    "Grep": 662,
+    "Edit": 431,
+    "Agent": 117,
+    "EnterPlanMode": 1,
+    "AskUserQuestion": 4,
+    "Glob": 218,
     "Skill": 6,
-    "Agent": 116,
     "ToolSearch": 52,
-    "ExitPlanMode": 7,
-    "Glob": 213,
     "TaskCreate": 72,
     "TaskUpdate": 121,
     "mcp__linear-server__get_issue": 2,
     "mcp__figma-desktop__get_design_context": 3,
     "mcp__figma-desktop__get_screenshot": 3,
-    "AskUserQuestion": 3,
     "TeamCreate": 2,
     "mcp__sentry__get_sentry_resource": 1,
     "SendMessage": 32,
