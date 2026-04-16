@@ -1,23 +1,35 @@
 {
-  "generatedAt": "2026-04-16T16:00:03.742Z",
+  "generatedAt": "2026-04-16T20:00:01.796Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 169,
-    "totalDurationMs": 92313724,
-    "totalTokens": 531407778,
+    "totalSessions": 174,
+    "totalDurationMs": 97139271,
+    "totalTokens": 609884527,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 168,
-      "totalDurationMs": 92313718,
+      "totalSessions": 173,
+      "totalDurationMs": 97139265,
       "sessions": [
+        {
+          "id": "45d827da-5f9f-49a2-8713-8df037e1efad",
+          "title": "**********",
+          "timestamp": "2026-04-16T18:38:32.224Z",
+          "totalDurationMs": 1583556
+        },
+        {
+          "id": "08aa0a84-a759-46e1-a77d-0f55b1b06b27",
+          "title": "**********",
+          "timestamp": "2026-04-16T17:50:52.959Z",
+          "totalDurationMs": 203411
+        },
         {
           "id": "9f6212b3-3a15-4a5c-a793-d13e872c1c03",
           "title": "**********",
           "timestamp": "2026-04-16T14:58:28.174Z",
-          "totalDurationMs": 2843837
+          "totalDurationMs": 5882417
         },
         {
           "id": "b6b2e3ff-1975-44c2-a99d-82136a21a9af",
@@ -343,8 +355,8 @@
   ],
   "activity": {
     "2026-04-16": {
-      "sessions": 3,
-      "durationMs": 3336919
+      "sessions": 8,
+      "durationMs": 8162466
     },
     "2026-04-15": {
       "sessions": 2,
@@ -404,25 +416,25 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 348544,
-    "outputTokens": 1507876,
-    "cacheReadTokens": 496048162,
-    "cacheCreationTokens": 33503196
+    "inputTokens": 371746,
+    "outputTokens": 1714990,
+    "cacheReadTokens": 572411919,
+    "cacheCreationTokens": 35385872
   },
   "toolUsage": {
-    "Bash": 921,
-    "Read": 2173,
-    "Write": 111,
-    "ExitPlanMode": 9,
-    "TodoWrite": 6,
-    "Grep": 662,
-    "Edit": 431,
-    "Agent": 117,
+    "Agent": 120,
+    "Read": 2273,
+    "Grep": 717,
+    "Write": 116,
+    "ToolSearch": 54,
+    "ExitPlanMode": 10,
+    "TodoWrite": 14,
+    "Glob": 233,
+    "Edit": 459,
+    "Bash": 993,
+    "Skill": 8,
     "EnterPlanMode": 1,
     "AskUserQuestion": 4,
-    "Glob": 218,
-    "Skill": 6,
-    "ToolSearch": 52,
     "TaskCreate": 72,
     "TaskUpdate": 121,
     "mcp__linear-server__get_issue": 2,
