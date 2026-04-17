@@ -1,18 +1,54 @@
 {
-  "generatedAt": "2026-04-17T12:02:28.345Z",
+  "generatedAt": "2026-04-17T16:00:04.687Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 175,
-    "totalDurationMs": 97152852,
-    "totalTokens": 609977728,
+    "totalSessions": 184,
+    "totalDurationMs": 103996482,
+    "totalTokens": 648018216,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 174,
-      "totalDurationMs": 97152846,
+      "totalSessions": 183,
+      "totalDurationMs": 103996476,
       "sessions": [
+        {
+          "id": "80a17ed8-e905-4388-9202-da3e344f7588",
+          "title": "**********",
+          "timestamp": "2026-04-17T15:52:36.149Z",
+          "totalDurationMs": 3504
+        },
+        {
+          "id": "fd41d66c-562e-4cd8-ab3c-89e35717dd79",
+          "title": "**********",
+          "timestamp": "2026-04-17T15:15:21.128Z",
+          "totalDurationMs": 792416
+        },
+        {
+          "id": "9e58b048-738a-478a-af5a-80da13bb347e",
+          "title": "**********",
+          "timestamp": "2026-04-17T14:30:49.292Z",
+          "totalDurationMs": 3827973
+        },
+        {
+          "id": "a4e5b098-4267-4133-8e42-bf2a38db1a49",
+          "title": "**********",
+          "timestamp": "2026-04-17T13:57:00.104Z",
+          "totalDurationMs": 2110176
+        },
+        {
+          "id": "7c37ec12-3c32-4c6a-a3c9-ca5aca924b9e",
+          "title": "**********",
+          "timestamp": "2026-04-17T13:37:45.046Z",
+          "totalDurationMs": 104963
+        },
+        {
+          "id": "c6819bf9-4304-4bf2-a20a-26c7665f94b9",
+          "title": "**********",
+          "timestamp": "2026-04-17T13:30:04.114Z",
+          "totalDurationMs": 4598
+        },
         {
           "id": "1a8a5006-47ea-4078-9481-14d15c487c52",
           "title": "**********",
@@ -360,6 +396,10 @@
     }
   ],
   "activity": {
+    "2026-04-17": {
+      "sessions": 9,
+      "durationMs": 6843630
+    },
     "2026-04-16": {
       "sessions": 9,
       "durationMs": 8176047
@@ -422,23 +462,24 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 371754,
-    "outputTokens": 1715461,
-    "cacheReadTokens": 572458011,
-    "cacheCreationTokens": 35432502
+    "inputTokens": 397538,
+    "outputTokens": 1864693,
+    "cacheReadTokens": 608446465,
+    "cacheCreationTokens": 37309520
   },
   "toolUsage": {
-    "Bash": 995,
-    "Agent": 120,
-    "Read": 2273,
-    "Grep": 717,
-    "Write": 116,
-    "ToolSearch": 54,
-    "ExitPlanMode": 10,
-    "TodoWrite": 14,
-    "Glob": 233,
-    "Edit": 459,
-    "Skill": 8,
+    "Bash": 1089,
+    "Agent": 123,
+    "Read": 2366,
+    "Write": 120,
+    "ToolSearch": 60,
+    "ExitPlanMode": 14,
+    "TodoWrite": 31,
+    "Edit": 492,
+    "Grep": 757,
+    "Glob": 238,
+    "Skill": 9,
+    "mcp__9904539c-0153-41b4-9429-dc44c1567799__get_issue": 1,
     "EnterPlanMode": 1,
     "AskUserQuestion": 4,
     "TaskCreate": 72,
