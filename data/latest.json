@@ -1,23 +1,29 @@
 {
-  "generatedAt": "2026-04-23T16:00:06.194Z",
+  "generatedAt": "2026-04-23T20:00:06.256Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 213,
-    "totalDurationMs": 113158967,
-    "totalTokens": 1127638005,
+    "totalSessions": 220,
+    "totalDurationMs": 118285709,
+    "totalTokens": 1216296953,
     "projectCount": 3
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 209,
-      "totalDurationMs": 112285724,
+      "totalSessions": 216,
+      "totalDurationMs": 117412466,
       "sessions": [
+        {
+          "id": "14d23b0b-347f-4024-a4c1-4791bb32560b",
+          "title": "**********",
+          "timestamp": "2026-04-23T19:12:17.286Z",
+          "totalDurationMs": 1284203
+        },
         {
           "id": "a4ada804-68bb-4a98-b0cb-e3940f188fff",
           "title": "**********",
           "timestamp": "2026-04-23T15:02:47.129Z",
-          "totalDurationMs": 5937080
+          "totalDurationMs": 9940618
         },
         {
           "id": "623dea4c-30e5-431f-9221-34ada9b70f77",
@@ -504,12 +510,6 @@
           "title": "**********",
           "timestamp": "2026-03-24T17:12:01.398Z",
           "totalDurationMs": 317686
-        },
-        {
-          "id": "5b20eeb8-ce48-4fdc-bb52-82a0954d24c9",
-          "title": "**********",
-          "timestamp": "2026-03-24T17:10:36.138Z",
-          "totalDurationMs": 160999
         }
       ]
     },
@@ -554,8 +554,8 @@
   ],
   "activity": {
     "2026-04-23": {
-      "sessions": 9,
-      "durationMs": 7342376
+      "sessions": 19,
+      "durationMs": 12630117
     },
     "2026-04-22": {
       "sessions": 18,
@@ -626,41 +626,42 @@
       "durationMs": 5579297
     },
     "2026-03-24": {
-      "sessions": 5,
-      "durationMs": 478685
+      "sessions": 2,
+      "durationMs": 317686
     }
   },
   "tokenUsage": {
-    "inputTokens": 466789,
-    "outputTokens": 3536963,
-    "cacheReadTokens": 1075914738,
-    "cacheCreationTokens": 47719515
+    "inputTokens": 520733,
+    "outputTokens": 3880628,
+    "cacheReadTokens": 1160431896,
+    "cacheCreationTokens": 51463696
   },
   "toolUsage": {
-    "ToolSearch": 73,
-    "TodoWrite": 99,
+    "Agent": 131,
+    "Read": 3073,
+    "Grep": 1293,
+    "Write": 159,
+    "ToolSearch": 71,
+    "AskUserQuestion": 11,
+    "Edit": 798,
+    "ExitPlanMode": 17,
+    "Bash": 1749,
+    "Glob": 345,
+    "TodoWrite": 101,
     "mcp__figma-desktop__get_design_context": 14,
     "mcp__figma-desktop__get_screenshot": 8,
     "mcp__figma-desktop__get_metadata": 2,
-    "Agent": 124,
-    "AskUserQuestion": 10,
-    "Bash": 1685,
-    "Read": 2907,
-    "Write": 155,
-    "Edit": 786,
-    "Grep": 1094,
     "Skill": 15,
-    "Glob": 323,
+    "WebSearch": 3,
+    "WebFetch": 3,
     "Monitor": 2,
     "TaskStop": 1,
     "mcp__playwright__browser_resize": 1,
     "mcp__Control_Chrome__list_tabs": 1,
     "mcp__playwright__browser_navigate": 1,
-    "ExitPlanMode": 16,
     "mcp__sentry__get_sentry_resource": 3,
     "mcp__sentry__authenticate": 2,
     "mcp__sentry__complete_authentication": 1,
-    "WebFetch": 5,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__get_issue": 1,
     "EnterPlanMode": 1,
     "TaskCreate": 66,
@@ -668,9 +669,7 @@
     "mcp__linear-server__get_issue": 2,
     "TeamCreate": 2,
     "SendMessage": 32,
-    "TeamDelete": 1,
-    "mcp__context7__resolve-library-id": 1,
-    "mcp__context7__query-docs": 1
+    "TeamDelete": 1
   },
   "modelBreakdown": {
     "opus-4.5": {
