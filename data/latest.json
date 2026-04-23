@@ -1,18 +1,36 @@
 {
-  "generatedAt": "2026-04-23T12:00:06.215Z",
+  "generatedAt": "2026-04-23T16:00:06.194Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 217,
-    "totalDurationMs": 139165462,
-    "totalTokens": 1046299861,
+    "totalSessions": 213,
+    "totalDurationMs": 113158967,
+    "totalTokens": 1127638005,
     "projectCount": 3
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 213,
-      "totalDurationMs": 138292219,
+      "totalSessions": 209,
+      "totalDurationMs": 112285724,
       "sessions": [
+        {
+          "id": "a4ada804-68bb-4a98-b0cb-e3940f188fff",
+          "title": "**********",
+          "timestamp": "2026-04-23T15:02:47.129Z",
+          "totalDurationMs": 5937080
+        },
+        {
+          "id": "623dea4c-30e5-431f-9221-34ada9b70f77",
+          "title": "**********",
+          "timestamp": "2026-04-23T14:40:13.663Z",
+          "totalDurationMs": 1010220
+        },
+        {
+          "id": "1473bd3c-2d22-4a4d-ad69-41cd31f48d6c",
+          "title": "**********",
+          "timestamp": "2026-04-23T14:34:18.783Z",
+          "totalDurationMs": 395076
+        },
         {
           "id": "d462d2cc-2361-4920-b101-c2be7096d51a",
           "title": "**********",
@@ -492,18 +510,6 @@
           "title": "**********",
           "timestamp": "2026-03-24T17:10:36.138Z",
           "totalDurationMs": 160999
-        },
-        {
-          "id": "9b75046f-ba12-49c9-bddd-a315f427ad1c",
-          "title": "**********",
-          "timestamp": "2026-03-23T19:14:44.641Z",
-          "totalDurationMs": 13779921
-        },
-        {
-          "id": "32481a32-ff52-4d37-8f65-33c525a8ad06",
-          "title": "**********",
-          "timestamp": "2026-03-23T14:26:10.807Z",
-          "totalDurationMs": 19568950
         }
       ]
     },
@@ -547,6 +553,10 @@
     }
   ],
   "activity": {
+    "2026-04-23": {
+      "sessions": 9,
+      "durationMs": 7342376
+    },
     "2026-04-22": {
       "sessions": 18,
       "durationMs": 21680686
@@ -618,50 +628,49 @@
     "2026-03-24": {
       "sessions": 5,
       "durationMs": 478685
-    },
-    "2026-03-23": {
-      "sessions": 13,
-      "durationMs": 33348871
     }
   },
   "tokenUsage": {
-    "inputTokens": 450918,
-    "outputTokens": 3315219,
-    "cacheReadTokens": 994944688,
-    "cacheCreationTokens": 47589036
+    "inputTokens": 466789,
+    "outputTokens": 3536963,
+    "cacheReadTokens": 1075914738,
+    "cacheCreationTokens": 47719515
   },
   "toolUsage": {
-    "ToolSearch": 78,
-    "TodoWrite": 86,
-    "AskUserQuestion": 9,
-    "mcp__figma-desktop__get_design_context": 13,
-    "mcp__figma-desktop__get_screenshot": 7,
-    "Agent": 132,
-    "Read": 2833,
-    "Grep": 1014,
-    "Edit": 766,
-    "Write": 156,
-    "Bash": 1544,
-    "Glob": 299,
-    "Skill": 16,
+    "ToolSearch": 73,
+    "TodoWrite": 99,
+    "mcp__figma-desktop__get_design_context": 14,
+    "mcp__figma-desktop__get_screenshot": 8,
+    "mcp__figma-desktop__get_metadata": 2,
+    "Agent": 124,
+    "AskUserQuestion": 10,
+    "Bash": 1685,
+    "Read": 2907,
+    "Write": 155,
+    "Edit": 786,
+    "Grep": 1094,
+    "Skill": 15,
+    "Glob": 323,
+    "Monitor": 2,
+    "TaskStop": 1,
     "mcp__playwright__browser_resize": 1,
     "mcp__Control_Chrome__list_tabs": 1,
     "mcp__playwright__browser_navigate": 1,
-    "ExitPlanMode": 18,
+    "ExitPlanMode": 16,
     "mcp__sentry__get_sentry_resource": 3,
     "mcp__sentry__authenticate": 2,
     "mcp__sentry__complete_authentication": 1,
-    "WebFetch": 13,
+    "WebFetch": 5,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__get_issue": 1,
     "EnterPlanMode": 1,
-    "TaskCreate": 72,
-    "TaskUpdate": 121,
+    "TaskCreate": 66,
+    "TaskUpdate": 109,
     "mcp__linear-server__get_issue": 2,
     "TeamCreate": 2,
     "SendMessage": 32,
     "TeamDelete": 1,
-    "mcp__context7__resolve-library-id": 3,
-    "mcp__context7__query-docs": 5
+    "mcp__context7__resolve-library-id": 1,
+    "mcp__context7__query-docs": 1
   },
   "modelBreakdown": {
     "opus-4.5": {
