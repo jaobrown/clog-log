@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-04-22T20:00:05.303Z",
+  "generatedAt": "2026-04-23T12:00:06.215Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 216,
-    "totalDurationMs": 135604858,
-    "totalTokens": 953020201,
+    "totalSessions": 217,
+    "totalDurationMs": 139165462,
+    "totalTokens": 1046299861,
     "projectCount": 3
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 212,
-      "totalDurationMs": 134731615,
+      "totalSessions": 213,
+      "totalDurationMs": 138292219,
       "sessions": [
         {
           "id": "d462d2cc-2361-4920-b101-c2be7096d51a",
           "title": "**********",
           "timestamp": "2026-04-22T19:32:52.938Z",
-          "totalDurationMs": 2070174
+          "totalDurationMs": 5630778
         },
         {
           "id": "fb512991-2eeb-4f05-800a-bfac93784503",
@@ -548,8 +548,8 @@
   ],
   "activity": {
     "2026-04-22": {
-      "sessions": 17,
-      "durationMs": 18120082
+      "sessions": 18,
+      "durationMs": 21680686
     },
     "2026-04-21": {
       "sessions": 3,
@@ -625,25 +625,28 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 446218,
-    "outputTokens": 3077173,
-    "cacheReadTokens": 903000441,
-    "cacheCreationTokens": 46496369
+    "inputTokens": 450918,
+    "outputTokens": 3315219,
+    "cacheReadTokens": 994944688,
+    "cacheCreationTokens": 47589036
   },
   "toolUsage": {
-    "ToolSearch": 76,
-    "TodoWrite": 80,
+    "ToolSearch": 78,
+    "TodoWrite": 86,
     "AskUserQuestion": 9,
     "mcp__figma-desktop__get_design_context": 13,
     "mcp__figma-desktop__get_screenshot": 7,
-    "Agent": 131,
-    "Read": 2761,
-    "Grep": 984,
-    "Bash": 1490,
-    "Glob": 276,
-    "Write": 149,
-    "Edit": 717,
-    "Skill": 15,
+    "Agent": 132,
+    "Read": 2833,
+    "Grep": 1014,
+    "Edit": 766,
+    "Write": 156,
+    "Bash": 1544,
+    "Glob": 299,
+    "Skill": 16,
+    "mcp__playwright__browser_resize": 1,
+    "mcp__Control_Chrome__list_tabs": 1,
+    "mcp__playwright__browser_navigate": 1,
     "ExitPlanMode": 18,
     "mcp__sentry__get_sentry_resource": 3,
     "mcp__sentry__authenticate": 2,
