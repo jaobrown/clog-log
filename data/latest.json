@@ -1,23 +1,41 @@
 {
-  "generatedAt": "2026-04-24T12:05:59.462Z",
+  "generatedAt": "2026-04-24T16:00:06.053Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 218,
-    "totalDurationMs": 117968023,
-    "totalTokens": 1209254073,
+    "totalSessions": 226,
+    "totalDurationMs": 192782675,
+    "totalTokens": 1230301644,
     "projectCount": 3
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 214,
-      "totalDurationMs": 117094780,
+      "totalSessions": 222,
+      "totalDurationMs": 191909432,
       "sessions": [
+        {
+          "id": "8a63a38f-5a1b-4f36-a7c6-b7a2002c463c",
+          "title": "**********",
+          "timestamp": "2026-04-24T15:53:19.439Z",
+          "totalDurationMs": 779342
+        },
+        {
+          "id": "9e071f73-05cb-4393-8715-945d999ef4e5",
+          "title": "**********",
+          "timestamp": "2026-04-24T15:52:22.677Z",
+          "totalDurationMs": 237556
+        },
+        {
+          "id": "878f2f60-8eb6-4626-a93f-4a75864373d2",
+          "title": "**********",
+          "timestamp": "2026-04-24T15:48:00.266Z",
+          "totalDurationMs": 239823
+        },
         {
           "id": "14d23b0b-347f-4024-a4c1-4791bb32560b",
           "title": "**********",
           "timestamp": "2026-04-23T19:12:17.286Z",
-          "totalDurationMs": 1284203
+          "totalDurationMs": 74842134
         },
         {
           "id": "a4ada804-68bb-4a98-b0cb-e3940f188fff",
@@ -547,9 +565,13 @@
     }
   ],
   "activity": {
+    "2026-04-24": {
+      "sessions": 8,
+      "durationMs": 1256721
+    },
     "2026-04-23": {
       "sessions": 19,
-      "durationMs": 12630117
+      "durationMs": 86188048
     },
     "2026-04-22": {
       "sessions": 18,
@@ -621,22 +643,22 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 520650,
-    "outputTokens": 3868949,
-    "cacheReadTokens": 1153666304,
-    "cacheCreationTokens": 51198170
+    "inputTokens": 523325,
+    "outputTokens": 3995779,
+    "cacheReadTokens": 1172620707,
+    "cacheCreationTokens": 53161833
   },
   "toolUsage": {
-    "Agent": 130,
-    "Read": 3053,
-    "Grep": 1293,
-    "Write": 159,
-    "ToolSearch": 71,
-    "AskUserQuestion": 11,
+    "Bash": 1752,
+    "Agent": 135,
+    "Read": 3149,
+    "Grep": 1297,
+    "Write": 161,
+    "ToolSearch": 74,
+    "ExitPlanMode": 19,
+    "Glob": 350,
+    "AskUserQuestion": 12,
     "Edit": 798,
-    "ExitPlanMode": 17,
-    "Bash": 1710,
-    "Glob": 345,
     "TodoWrite": 101,
     "mcp__figma-desktop__get_design_context": 14,
     "mcp__figma-desktop__get_screenshot": 8,
