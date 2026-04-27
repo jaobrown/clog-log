@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-27T16:00:06.376Z",
+  "generatedAt": "2026-04-27T20:00:06.823Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 181,
-    "totalDurationMs": 2604629664,
-    "totalTokens": 1179675935,
+    "totalSessions": 189,
+    "totalDurationMs": 2609374604,
+    "totalTokens": 1215951763,
     "projectCount": 2
   },
   "projects": [
@@ -35,9 +35,33 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 178,
-      "totalDurationMs": 1255176907,
+      "totalSessions": 186,
+      "totalDurationMs": 1259921847,
       "sessions": [
+        {
+          "id": "7e202168-6fae-4c45-81ca-02f097e45fa6",
+          "title": "**********",
+          "timestamp": "2026-04-27T18:22:42.232Z",
+          "totalDurationMs": 249966
+        },
+        {
+          "id": "81451ad8-3854-4980-a5cf-fa215c714680",
+          "title": "**********",
+          "timestamp": "2026-04-27T17:55:51.408Z",
+          "totalDurationMs": 230935
+        },
+        {
+          "id": "4ca4fdf3-a94e-4902-bded-522475948d11",
+          "title": "**********",
+          "timestamp": "2026-04-27T16:33:12.156Z",
+          "totalDurationMs": 4257368
+        },
+        {
+          "id": "3df58a41-c987-40ae-86aa-91b2316d0033",
+          "title": "**********",
+          "timestamp": "2026-04-27T16:32:59.106Z",
+          "totalDurationMs": 6671
+        },
         {
           "id": "8340e260-e054-490a-a2f4-e9b36afca37b",
           "title": "**********",
@@ -519,8 +543,8 @@
       "durationMs": 489363601
     },
     "2026-04-27": {
-      "sessions": 3,
-      "durationMs": 1260549
+      "sessions": 11,
+      "durationMs": 6005489
     },
     "2026-04-24": {
       "sessions": 8,
@@ -584,26 +608,27 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 522208,
-    "outputTokens": 4012232,
-    "cacheReadTokens": 1127565906,
-    "cacheCreationTokens": 47575589
+    "inputTokens": 524668,
+    "outputTokens": 4161924,
+    "cacheReadTokens": 1162420044,
+    "cacheCreationTokens": 48845127
   },
   "toolUsage": {
     "Grep": 1148,
-    "Bash": 1731,
-    "Read": 2482,
-    "Edit": 695,
-    "ToolSearch": 55,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 1,
+    "Bash": 1869,
+    "Read": 2533,
+    "Edit": 703,
+    "ToolSearch": 59,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 2,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 2,
+    "Agent": 110,
+    "mcp__linear-server__get_issue": 2,
+    "Write": 137,
+    "ExitPlanMode": 20,
+    "TodoWrite": 115,
     "mcp__linear-server__list_projects": 1,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 1,
-    "Agent": 106,
     "mcp__linear-server__list_issues": 1,
     "mcp__linear-server__save_issue": 9,
-    "Write": 136,
-    "ExitPlanMode": 19,
-    "TodoWrite": 105,
     "Glob": 293,
     "Skill": 15,
     "mcp__local-postgres__query": 2,
@@ -625,7 +650,6 @@
     "EnterPlanMode": 1,
     "TaskCreate": 60,
     "TaskUpdate": 93,
-    "mcp__linear-server__get_issue": 1,
     "TeamCreate": 1
   },
   "modelBreakdown": {
