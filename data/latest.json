@@ -1,18 +1,55 @@
 {
-  "generatedAt": "2026-04-27T12:11:01.831Z",
+  "generatedAt": "2026-04-27T16:00:06.376Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 226,
-    "totalDurationMs": 195184085,
-    "totalTokens": 1270966686,
-    "projectCount": 3
+    "totalSessions": 181,
+    "totalDurationMs": 2604629664,
+    "totalTokens": 1179675935,
+    "projectCount": 2
   },
   "projects": [
     {
-      "projectName": "top secret",
-      "totalSessions": 222,
-      "totalDurationMs": 194310842,
+      "projectName": "contra-cluster",
+      "totalSessions": 3,
+      "totalDurationMs": 1349452757,
       "sessions": [
+        {
+          "id": "baccc66b-23b7-4195-9871-0b497ed9b813",
+          "title": null,
+          "timestamp": "2026-04-22T14:56:47.066Z",
+          "totalDurationMs": 427702682
+        },
+        {
+          "id": "b1fac43d-a061-4b0a-abda-c7217996e33a",
+          "title": null,
+          "timestamp": "2026-04-22T13:36:59.648Z",
+          "totalDurationMs": 432489917
+        },
+        {
+          "id": "45431091-2533-43f8-84e5-e8050f2ef410",
+          "title": null,
+          "timestamp": "2026-04-21T21:50:49.118Z",
+          "totalDurationMs": 489260158
+        }
+      ]
+    },
+    {
+      "projectName": "top secret",
+      "totalSessions": 178,
+      "totalDurationMs": 1255176907,
+      "sessions": [
+        {
+          "id": "8340e260-e054-490a-a2f4-e9b36afca37b",
+          "title": "**********",
+          "timestamp": "2026-04-27T14:24:31.574Z",
+          "totalDurationMs": 1239899
+        },
+        {
+          "id": "d80b4e8c-fac4-45f1-9bba-8a1a4017ae8e",
+          "title": "**********",
+          "timestamp": "2026-04-27T14:11:35.095Z",
+          "totalDurationMs": 20650
+        },
         {
           "id": "8a63a38f-5a1b-4f36-a7c6-b7a2002c463c",
           "title": "**********",
@@ -23,7 +60,7 @@
           "id": "9e071f73-05cb-4393-8715-945d999ef4e5",
           "title": "**********",
           "timestamp": "2026-04-24T15:52:22.677Z",
-          "totalDurationMs": 237556
+          "totalDurationMs": 251620804
         },
         {
           "id": "878f2f60-8eb6-4626-a93f-4a75864373d2",
@@ -59,7 +96,7 @@
           "id": "d462d2cc-2361-4920-b101-c2be7096d51a",
           "title": "**********",
           "timestamp": "2026-04-22T19:32:52.938Z",
-          "totalDurationMs": 5630778
+          "totalDurationMs": 412098757
         },
         {
           "id": "fb512991-2eeb-4f05-800a-bfac93784503",
@@ -71,7 +108,7 @@
           "id": "51913d21-f12d-4204-ac2f-dda61bb0193c",
           "title": "**********",
           "timestamp": "2026-04-22T18:57:55.145Z",
-          "totalDurationMs": 1035686
+          "totalDurationMs": 413470755
         },
         {
           "id": "ee3ef4ce-2256-4398-95f7-aa726854f69d",
@@ -468,118 +505,30 @@
           "title": "**********",
           "timestamp": "2026-03-30T13:42:46.196Z",
           "totalDurationMs": 752350
-        },
-        {
-          "id": "0c47f266-55eb-4c26-802f-1d56969ebf86",
-          "title": "**********",
-          "timestamp": "2026-03-27T22:59:03.396Z",
-          "totalDurationMs": 33063
-        },
-        {
-          "id": "a9882df9-f4bc-4c67-b497-64daf63ea39f",
-          "title": "**********",
-          "timestamp": "2026-03-27T17:10:16.677Z",
-          "totalDurationMs": 4973295
-        },
-        {
-          "id": "e57b2f61-5ca1-45f2-be3f-567f4a8fd034",
-          "title": "**********",
-          "timestamp": "2026-03-27T17:09:52.934Z",
-          "totalDurationMs": 5912
-        },
-        {
-          "id": "91005ff7-2061-474e-9dd8-019772851dfe",
-          "title": "**********",
-          "timestamp": "2026-03-27T17:09:32.904Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "437b84f0-b05f-4b12-a7c4-d0d68394613a",
-          "title": "**********",
-          "timestamp": "2026-03-27T17:07:11.278Z",
-          "totalDurationMs": 89219
-        },
-        {
-          "id": "16e8d14f-479b-44cc-b5f2-058f3e53b958",
-          "title": "**********",
-          "timestamp": "2026-03-27T17:06:42.401Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "1dd0f443-2d14-4b75-8b77-a8ec17332306",
-          "title": "**********",
-          "timestamp": "2026-03-26T20:18:59.602Z",
-          "totalDurationMs": 5204685
-        },
-        {
-          "id": "e9fd8939-4a21-42da-bc18-576ddc400494",
-          "title": "**********",
-          "timestamp": "2026-03-26T18:15:50.116Z",
-          "totalDurationMs": 225956
-        },
-        {
-          "id": "d191ef6c-9e05-4923-bf21-20c091c5d164",
-          "title": "**********",
-          "timestamp": "2026-03-26T18:15:32.225Z",
-          "totalDurationMs": 148650
-        }
-      ]
-    },
-    {
-      "projectName": "contra-cluster",
-      "totalSessions": 3,
-      "totalDurationMs": 873237,
-      "sessions": [
-        {
-          "id": "baccc66b-23b7-4195-9871-0b497ed9b813",
-          "title": null,
-          "timestamp": "2026-04-22T14:56:47.066Z",
-          "totalDurationMs": 309243
-        },
-        {
-          "id": "b1fac43d-a061-4b0a-abda-c7217996e33a",
-          "title": null,
-          "timestamp": "2026-04-22T13:36:59.648Z",
-          "totalDurationMs": 304845
-        },
-        {
-          "id": "45431091-2533-43f8-84e5-e8050f2ef410",
-          "title": null,
-          "timestamp": "2026-04-21T21:50:49.118Z",
-          "totalDurationMs": 259149
-        }
-      ]
-    },
-    {
-      "projectName": "",
-      "totalSessions": 1,
-      "totalDurationMs": 6,
-      "sessions": [
-        {
-          "id": "42be719e-71ae-46f1-aa65-6d9fc45aa543",
-          "title": null,
-          "timestamp": "2026-03-26T13:49:16.388Z",
-          "totalDurationMs": 6
         }
       ]
     }
   ],
   "activity": {
+    "2026-04-22": {
+      "sessions": 18,
+      "durationMs": 1700162245
+    },
+    "2026-04-21": {
+      "sessions": 3,
+      "durationMs": 489363601
+    },
+    "2026-04-27": {
+      "sessions": 3,
+      "durationMs": 1260549
+    },
     "2026-04-24": {
       "sessions": 8,
-      "durationMs": 3658131
+      "durationMs": 255041379
     },
     "2026-04-23": {
       "sessions": 19,
       "durationMs": 86188048
-    },
-    "2026-04-22": {
-      "sessions": 18,
-      "durationMs": 21680686
-    },
-    "2026-04-21": {
-      "sessions": 3,
-      "durationMs": 362592
     },
     "2026-04-20": {
       "sessions": 12,
@@ -632,34 +581,31 @@
     "2026-03-30": {
       "sessions": 19,
       "durationMs": 2983251
-    },
-    "2026-03-27": {
-      "sessions": 28,
-      "durationMs": 5101489
-    },
-    "2026-03-26": {
-      "sessions": 20,
-      "durationMs": 5579297
     }
   },
   "tokenUsage": {
-    "inputTokens": 526054,
-    "outputTokens": 4177367,
-    "cacheReadTokens": 1212647800,
-    "cacheCreationTokens": 53615465
+    "inputTokens": 522208,
+    "outputTokens": 4012232,
+    "cacheReadTokens": 1127565906,
+    "cacheCreationTokens": 47575589
   },
   "toolUsage": {
-    "Bash": 1772,
-    "Agent": 135,
-    "Read": 3179,
-    "Grep": 1320,
-    "Write": 172,
-    "ToolSearch": 76,
+    "Grep": 1148,
+    "Bash": 1731,
+    "Read": 2482,
+    "Edit": 695,
+    "ToolSearch": 55,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 1,
+    "mcp__linear-server__list_projects": 1,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 1,
+    "Agent": 106,
+    "mcp__linear-server__list_issues": 1,
+    "mcp__linear-server__save_issue": 9,
+    "Write": 136,
     "ExitPlanMode": 19,
     "TodoWrite": 105,
-    "Glob": 352,
-    "Edit": 824,
-    "Skill": 16,
+    "Glob": 293,
+    "Skill": 15,
     "mcp__local-postgres__query": 2,
     "AskUserQuestion": 12,
     "mcp__figma-desktop__get_design_context": 14,
@@ -677,12 +623,10 @@
     "mcp__sentry__complete_authentication": 1,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__get_issue": 1,
     "EnterPlanMode": 1,
-    "TaskCreate": 66,
-    "TaskUpdate": 109,
-    "mcp__linear-server__get_issue": 2,
-    "TeamCreate": 2,
-    "SendMessage": 32,
-    "TeamDelete": 1
+    "TaskCreate": 60,
+    "TaskUpdate": 93,
+    "mcp__linear-server__get_issue": 1,
+    "TeamCreate": 1
   },
   "modelBreakdown": {
     "opus-4.5": {
