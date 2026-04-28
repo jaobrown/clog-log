@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-28T16:00:06.452Z",
+  "generatedAt": "2026-04-28T20:00:06.328Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 199,
-    "totalDurationMs": 2612765728,
-    "totalTokens": 1269131901,
+    "totalSessions": 202,
+    "totalDurationMs": 2617455952,
+    "totalTokens": 1381932227,
     "projectCount": 2
   },
   "projects": [
@@ -35,14 +35,26 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 196,
-      "totalDurationMs": 1263312971,
+      "totalSessions": 199,
+      "totalDurationMs": 1268003195,
       "sessions": [
+        {
+          "id": "23073d6d-aeb1-46d0-b428-e2e104b7771d",
+          "title": "**********",
+          "timestamp": "2026-04-28T18:14:29.813Z",
+          "totalDurationMs": 160145
+        },
+        {
+          "id": "d9d52390-6f9b-41d8-b6e3-f4e3f37370cb",
+          "title": "**********",
+          "timestamp": "2026-04-28T18:04:24.083Z",
+          "totalDurationMs": 1345321
+        },
         {
           "id": "7f1f78ec-f9bb-4f05-b154-f44c4e62a908",
           "title": "**********",
           "timestamp": "2026-04-28T15:28:28.587Z",
-          "totalDurationMs": 2056067
+          "totalDurationMs": 5240825
         },
         {
           "id": "98b85cf1-2610-4016-879c-8dacfaf88d6e",
@@ -567,8 +579,8 @@
       "durationMs": 489363601
     },
     "2026-04-28": {
-      "sessions": 8,
-      "durationMs": 3104134
+      "sessions": 11,
+      "durationMs": 7794358
     },
     "2026-04-27": {
       "sessions": 13,
@@ -636,23 +648,28 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 543732,
-    "outputTokens": 4463708,
-    "cacheReadTokens": 1212773248,
-    "cacheCreationTokens": 51351213
+    "inputTokens": 544459,
+    "outputTokens": 4813670,
+    "cacheReadTokens": 1322390299,
+    "cacheCreationTokens": 54183799
   },
   "toolUsage": {
     "Grep": 1148,
-    "Bash": 1985,
-    "Read": 2595,
-    "Edit": 725,
-    "Agent": 116,
+    "Bash": 2073,
+    "Read": 2632,
+    "Edit": 761,
+    "ToolSearch": 67,
+    "mcp__e7032509-9192-448e-b041-ea3950c2babb__whoami": 2,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 7,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 3,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 4,
+    "Agent": 117,
+    "mcp__e7032509-9192-448e-b041-ea3950c2babb__get_user_profile_by_username": 12,
+    "TodoWrite": 138,
+    "mcp__e7032509-9192-448e-b041-ea3950c2babb__send_chat_message_prepare": 12,
+    "mcp__e7032509-9192-448e-b041-ea3950c2babb__send_chat_message_confirm": 12,
     "Skill": 17,
-    "ToolSearch": 63,
-    "TodoWrite": 124,
-    "Write": 138,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 6,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 3,
+    "Write": 146,
     "mcp__linear-server__list_projects": 2,
     "mcp__linear-server__list_issue_labels": 5,
     "mcp__linear-server__list_issues": 5,
