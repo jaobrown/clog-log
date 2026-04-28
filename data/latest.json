@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-27T20:00:06.823Z",
+  "generatedAt": "2026-04-28T12:08:50.897Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 189,
-    "totalDurationMs": 2609374604,
-    "totalTokens": 1215951763,
+    "totalSessions": 191,
+    "totalDurationMs": 2609661594,
+    "totalTokens": 1217156399,
     "projectCount": 2
   },
   "projects": [
@@ -35,9 +35,21 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 186,
-      "totalDurationMs": 1259921847,
+      "totalSessions": 188,
+      "totalDurationMs": 1260208837,
       "sessions": [
+        {
+          "id": "938fc1bc-2ce5-46fc-8e6e-6b30b1b96503",
+          "title": "**********",
+          "timestamp": "2026-04-27T20:15:11.219Z",
+          "totalDurationMs": 232887
+        },
+        {
+          "id": "93e15690-21c4-4d31-a7f1-bb03dfdb66be",
+          "title": "**********",
+          "timestamp": "2026-04-27T20:12:50.830Z",
+          "totalDurationMs": 54103
+        },
         {
           "id": "7e202168-6fae-4c45-81ca-02f097e45fa6",
           "title": "**********",
@@ -543,8 +555,8 @@
       "durationMs": 489363601
     },
     "2026-04-27": {
-      "sessions": 11,
-      "durationMs": 6005489
+      "sessions": 13,
+      "durationMs": 6292479
     },
     "2026-04-24": {
       "sessions": 8,
@@ -608,14 +620,14 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 524668,
-    "outputTokens": 4161924,
-    "cacheReadTokens": 1162420044,
-    "cacheCreationTokens": 48845127
+    "inputTokens": 524733,
+    "outputTokens": 4171338,
+    "cacheReadTokens": 1163416215,
+    "cacheCreationTokens": 49044113
   },
   "toolUsage": {
     "Grep": 1148,
-    "Bash": 1869,
+    "Bash": 1885,
     "Read": 2533,
     "Edit": 703,
     "ToolSearch": 59,
