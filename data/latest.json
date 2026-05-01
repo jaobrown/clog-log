@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-01T12:09:18.942Z",
+  "generatedAt": "2026-05-01T16:00:05.805Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 183,
-    "totalDurationMs": 2617184975,
-    "totalTokens": 1316170719,
+    "totalSessions": 171,
+    "totalDurationMs": 2612001425,
+    "totalTokens": 1278637585,
     "projectCount": 2
   },
   "projects": [
@@ -35,9 +35,15 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 180,
-      "totalDurationMs": 1267732218,
+      "totalSessions": 168,
+      "totalDurationMs": 1262548668,
       "sessions": [
+        {
+          "id": "b75fe8c5-482c-43b7-bce6-9d984188bee5",
+          "title": "**********",
+          "timestamp": "2026-05-01T13:16:18.452Z",
+          "totalDurationMs": 1790512
+        },
         {
           "id": "588bff4a-b65f-49b5-a9a4-9e456827564e",
           "title": "**********",
@@ -517,24 +523,6 @@
           "title": "**********",
           "timestamp": "2026-04-01T13:56:57.407Z",
           "totalDurationMs": 0
-        },
-        {
-          "id": "56f73f17-d7c4-44c7-a70a-93df6a7cbdb2",
-          "title": "**********",
-          "timestamp": "2026-03-31T20:03:30.553Z",
-          "totalDurationMs": 4700217
-        },
-        {
-          "id": "df1bd61e-37c5-48fe-992a-a87bcd179c54",
-          "title": "**********",
-          "timestamp": "2026-03-31T18:36:48.196Z",
-          "totalDurationMs": 1548620
-        },
-        {
-          "id": "0dbea07a-f356-4da5-845c-0ff5283ccd6c",
-          "title": "**********",
-          "timestamp": "2026-03-31T14:42:08.288Z",
-          "totalDurationMs": 725225
         }
       ]
     }
@@ -547,6 +535,10 @@
     "2026-04-21": {
       "sessions": 3,
       "durationMs": 489363601
+    },
+    "2026-05-01": {
+      "sessions": 1,
+      "durationMs": 1790512
     },
     "2026-04-30": {
       "sessions": 4,
@@ -615,40 +607,37 @@
     "2026-04-01": {
       "sessions": 11,
       "durationMs": 5400076
-    },
-    "2026-03-31": {
-      "sessions": 13,
-      "durationMs": 6974062
     }
   },
   "tokenUsage": {
-    "inputTokens": 453877,
-    "outputTokens": 4845425,
-    "cacheReadTokens": 1259675888,
-    "cacheCreationTokens": 51195529
+    "inputTokens": 396774,
+    "outputTokens": 4860278,
+    "cacheReadTokens": 1225089773,
+    "cacheCreationTokens": 48290760
   },
   "toolUsage": {
-    "Grep": 1017,
-    "Bash": 1952,
-    "Read": 2326,
-    "Edit": 700,
-    "ToolSearch": 69,
-    "Agent": 100,
+    "Grep": 955,
+    "Bash": 1884,
+    "Read": 2135,
+    "Edit": 676,
+    "ToolSearch": 68,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 13,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 10,
+    "mcp__linear-server__list_projects": 6,
+    "mcp__linear-server__list_issue_labels": 8,
+    "TodoWrite": 149,
+    "mcp__linear-server__list_issues": 32,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 10,
+    "mcp__linear-server__save_issue": 36,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 4,
+    "Agent": 90,
     "mcp__figma-desktop__get_design_context": 17,
     "mcp__figma-desktop__get_screenshot": 11,
     "mcp__figma-desktop__get_metadata": 5,
-    "TodoWrite": 144,
-    "Write": 139,
-    "Skill": 18,
+    "Write": 135,
+    "Skill": 17,
     "mcp__playwright__browser_navigate": 2,
     "Monitor": 3,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 11,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 7,
-    "mcp__linear-server__list_projects": 5,
-    "mcp__linear-server__list_issue_labels": 7,
-    "mcp__linear-server__list_issues": 21,
-    "mcp__linear-server__save_issue": 25,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 3,
     "mcp__linear-server__save_document": 2,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 2,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__whoami": 2,
@@ -658,10 +647,10 @@
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__send_chat_message_confirm": 12,
     "mcp__linear-server__get_issue": 6,
     "mcp__linear-server__create_issue_label": 1,
-    "ExitPlanMode": 20,
-    "Glob": 261,
+    "ExitPlanMode": 18,
+    "Glob": 234,
     "mcp__local-postgres__query": 2,
-    "AskUserQuestion": 12,
+    "AskUserQuestion": 11,
     "WebSearch": 3,
     "WebFetch": 3,
     "TaskStop": 1,
@@ -672,8 +661,8 @@
     "mcp__sentry__complete_authentication": 1,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__get_issue": 1,
     "EnterPlanMode": 1,
-    "TaskCreate": 38,
-    "TaskUpdate": 62
+    "TaskCreate": 32,
+    "TaskUpdate": 52
   },
   "modelBreakdown": {
     "opus-4.5": {
