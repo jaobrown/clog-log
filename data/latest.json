@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-02T12:13:04.670Z",
+  "generatedAt": "2026-05-02T16:01:05.350Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 173,
-    "totalDurationMs": 2612319617,
-    "totalTokens": 1282203829,
+    "totalSessions": 164,
+    "totalDurationMs": 2618080101,
+    "totalTokens": 1269787767,
     "projectCount": 2
   },
   "projects": [
@@ -35,9 +35,15 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 170,
-      "totalDurationMs": 1262866860,
+      "totalSessions": 161,
+      "totalDurationMs": 1268627344,
       "sessions": [
+        {
+          "id": "45a449aa-aec6-4651-80cb-1825a118d4e6",
+          "title": "**********",
+          "timestamp": "2026-05-02T13:25:41.153Z",
+          "totalDurationMs": 11160560
+        },
         {
           "id": "37a2b89c-4338-4862-9fb0-e58c43de7352",
           "title": "**********",
@@ -517,24 +523,6 @@
           "title": "**********",
           "timestamp": "2026-04-02T13:57:32.140Z",
           "totalDurationMs": 201479
-        },
-        {
-          "id": "4ca8852b-cd85-436b-8ac9-1f11d45352ff",
-          "title": "**********",
-          "timestamp": "2026-04-01T20:40:25.348Z",
-          "totalDurationMs": 4538522
-        },
-        {
-          "id": "c7672c36-d0d5-481a-a0ba-31e508f09942",
-          "title": "**********",
-          "timestamp": "2026-04-01T18:06:27.038Z",
-          "totalDurationMs": 861554
-        },
-        {
-          "id": "38b99707-8f53-445b-8805-764c6fd460ed",
-          "title": "**********",
-          "timestamp": "2026-04-01T13:56:57.407Z",
-          "totalDurationMs": 0
         }
       ]
     }
@@ -547,6 +535,10 @@
     "2026-04-21": {
       "sessions": 3,
       "durationMs": 489363601
+    },
+    "2026-05-02": {
+      "sessions": 2,
+      "durationMs": 11160560
     },
     "2026-05-01": {
       "sessions": 3,
@@ -615,36 +607,36 @@
     "2026-04-02": {
       "sessions": 12,
       "durationMs": 10786416
-    },
-    "2026-04-01": {
-      "sessions": 11,
-      "durationMs": 5400076
     }
   },
   "tokenUsage": {
-    "inputTokens": 396833,
-    "outputTokens": 4894773,
-    "cacheReadTokens": 1228302491,
-    "cacheCreationTokens": 48609732
+    "inputTokens": 325834,
+    "outputTokens": 4907797,
+    "cacheReadTokens": 1217052429,
+    "cacheCreationTokens": 47501707
   },
   "toolUsage": {
-    "Grep": 960,
-    "Bash": 1891,
-    "Read": 2153,
-    "Edit": 676,
-    "ToolSearch": 68,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 13,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 10,
+    "Grep": 837,
+    "Bash": 1890,
+    "Read": 1993,
+    "Edit": 671,
+    "ToolSearch": 69,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 15,
+    "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_projects": 1,
+    "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issue_labels": 1,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 11,
+    "Agent": 80,
+    "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issues": 1,
+    "TodoWrite": 152,
+    "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_issue": 5,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 5,
     "mcp__linear-server__list_projects": 6,
     "mcp__linear-server__list_issue_labels": 8,
-    "TodoWrite": 149,
     "mcp__linear-server__list_issues": 32,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 10,
     "mcp__linear-server__save_issue": 36,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 4,
-    "Agent": 90,
-    "mcp__figma-desktop__get_design_context": 17,
-    "mcp__figma-desktop__get_screenshot": 11,
+    "mcp__figma-desktop__get_design_context": 14,
+    "mcp__figma-desktop__get_screenshot": 8,
     "mcp__figma-desktop__get_metadata": 5,
     "Write": 135,
     "Skill": 17,
@@ -660,9 +652,9 @@
     "mcp__linear-server__get_issue": 6,
     "mcp__linear-server__create_issue_label": 1,
     "ExitPlanMode": 18,
-    "Glob": 234,
+    "Glob": 183,
     "mcp__local-postgres__query": 2,
-    "AskUserQuestion": 11,
+    "AskUserQuestion": 10,
     "WebSearch": 3,
     "WebFetch": 3,
     "TaskStop": 1,
@@ -673,8 +665,8 @@
     "mcp__sentry__complete_authentication": 1,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__get_issue": 1,
     "EnterPlanMode": 1,
-    "TaskCreate": 32,
-    "TaskUpdate": 52
+    "TaskCreate": 26,
+    "TaskUpdate": 47
   },
   "modelBreakdown": {
     "opus-4.5": {
