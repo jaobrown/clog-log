@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-03T12:09:09.344Z",
+  "generatedAt": "2026-05-03T16:13:10.370Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 164,
-    "totalDurationMs": 2618080101,
-    "totalTokens": 1269787767,
+    "totalSessions": 162,
+    "totalDurationMs": 2621764314,
+    "totalTokens": 1266740417,
     "projectCount": 2
   },
   "projects": [
@@ -35,9 +35,15 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 161,
-      "totalDurationMs": 1268627344,
+      "totalSessions": 159,
+      "totalDurationMs": 1272311557,
       "sessions": [
+        {
+          "id": "300659fe-d5b5-44b0-b899-3266cf70a95a",
+          "title": "**********",
+          "timestamp": "2026-05-03T13:22:26.512Z",
+          "totalDurationMs": 4356925
+        },
         {
           "id": "45a449aa-aec6-4651-80cb-1825a118d4e6",
           "title": "**********",
@@ -499,30 +505,6 @@
           "title": "**********",
           "timestamp": "2026-04-02T18:49:45.119Z",
           "totalDurationMs": 835292
-        },
-        {
-          "id": "91bd4d77-7f25-49c8-a174-de20db25b5a9",
-          "title": "**********",
-          "timestamp": "2026-04-02T18:39:42.084Z",
-          "totalDurationMs": 416557
-        },
-        {
-          "id": "4be7b82d-2ce2-447b-80ae-ce388f7beb41",
-          "title": "**********",
-          "timestamp": "2026-04-02T18:24:35.170Z",
-          "totalDurationMs": 5827
-        },
-        {
-          "id": "13767daf-b885-4b81-8ae5-3f58aecac15b",
-          "title": "**********",
-          "timestamp": "2026-04-02T14:01:28.019Z",
-          "totalDurationMs": 48849
-        },
-        {
-          "id": "763a94a1-393c-415c-bcad-81c7d76e4967",
-          "title": "**********",
-          "timestamp": "2026-04-02T13:57:32.140Z",
-          "totalDurationMs": 201479
         }
       ]
     }
@@ -535,6 +517,10 @@
     "2026-04-21": {
       "sessions": 3,
       "durationMs": 489363601
+    },
+    "2026-05-03": {
+      "sessions": 2,
+      "durationMs": 4356925
     },
     "2026-05-02": {
       "sessions": 2,
@@ -605,40 +591,40 @@
       "durationMs": 6829
     },
     "2026-04-02": {
-      "sessions": 12,
-      "durationMs": 10786416
+      "sessions": 8,
+      "durationMs": 10113704
     }
   },
   "tokenUsage": {
-    "inputTokens": 325834,
-    "outputTokens": 4907797,
-    "cacheReadTokens": 1217052429,
-    "cacheCreationTokens": 47501707
+    "inputTokens": 325823,
+    "outputTokens": 4917707,
+    "cacheReadTokens": 1213981784,
+    "cacheCreationTokens": 47515103
   },
   "toolUsage": {
-    "Grep": 837,
-    "Bash": 1890,
-    "Read": 1993,
-    "Edit": 671,
-    "ToolSearch": 69,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 15,
+    "Grep": 828,
+    "Bash": 1882,
+    "Read": 1971,
+    "Edit": 658,
+    "ToolSearch": 71,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 17,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 12,
+    "Agent": 81,
+    "mcp__linear-server__list_projects": 7,
+    "mcp__linear-server__list_issue_labels": 9,
+    "mcp__linear-server__list_issues": 33,
+    "mcp__linear-server__save_issue": 38,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 6,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_projects": 1,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issue_labels": 1,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 11,
-    "Agent": 80,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issues": 1,
     "TodoWrite": 152,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_issue": 5,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 5,
-    "mcp__linear-server__list_projects": 6,
-    "mcp__linear-server__list_issue_labels": 8,
-    "mcp__linear-server__list_issues": 32,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 10,
-    "mcp__linear-server__save_issue": 36,
     "mcp__figma-desktop__get_design_context": 14,
     "mcp__figma-desktop__get_screenshot": 8,
     "mcp__figma-desktop__get_metadata": 5,
-    "Write": 135,
+    "Write": 134,
     "Skill": 17,
     "mcp__playwright__browser_navigate": 2,
     "Monitor": 3,
@@ -652,7 +638,7 @@
     "mcp__linear-server__get_issue": 6,
     "mcp__linear-server__create_issue_label": 1,
     "ExitPlanMode": 18,
-    "Glob": 183,
+    "Glob": 181,
     "mcp__local-postgres__query": 2,
     "AskUserQuestion": 10,
     "WebSearch": 3,
