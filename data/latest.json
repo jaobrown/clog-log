@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-05T13:22:54.798Z",
+  "generatedAt": "2026-05-05T16:00:06.356Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 164,
-    "totalDurationMs": 2625212111,
-    "totalTokens": 1270483455,
+    "totalSessions": 157,
+    "totalDurationMs": 2615610002,
+    "totalTokens": 1242996050,
     "projectCount": 2
   },
   "projects": [
@@ -35,9 +35,15 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 161,
-      "totalDurationMs": 1275759354,
+      "totalSessions": 154,
+      "totalDurationMs": 1266157245,
       "sessions": [
+        {
+          "id": "0d4e020a-4dda-4029-b640-e8a93c982042",
+          "title": "**********",
+          "timestamp": "2026-05-05T13:38:38.407Z",
+          "totalDurationMs": 511595
+        },
         {
           "id": "28b2caf0-6e1b-4987-8453-ec693966adc2",
           "title": "**********",
@@ -493,24 +499,6 @@
           "title": "**********",
           "timestamp": "2026-04-06T15:44:27.346Z",
           "totalDurationMs": 1159
-        },
-        {
-          "id": "d8f817cf-ccb3-415d-a629-d892318fbd7e",
-          "title": "**********",
-          "timestamp": "2026-04-02T19:38:20.844Z",
-          "totalDurationMs": 326287
-        },
-        {
-          "id": "14b78340-71ff-4d83-b06a-62369be82ccf",
-          "title": "**********",
-          "timestamp": "2026-04-02T18:55:14.364Z",
-          "totalDurationMs": 8952125
-        },
-        {
-          "id": "05732545-dc71-4584-859e-7edc0fd52ee2",
-          "title": "**********",
-          "timestamp": "2026-04-02T18:49:45.119Z",
-          "totalDurationMs": 835292
         }
       ]
     }
@@ -523,6 +511,10 @@
     "2026-04-21": {
       "sessions": 3,
       "durationMs": 489363601
+    },
+    "2026-05-05": {
+      "sessions": 1,
+      "durationMs": 511595
     },
     "2026-05-04": {
       "sessions": 2,
@@ -599,44 +591,42 @@
     "2026-04-06": {
       "sessions": 2,
       "durationMs": 6829
-    },
-    "2026-04-02": {
-      "sessions": 8,
-      "durationMs": 10113704
     }
   },
   "tokenUsage": {
-    "inputTokens": 325973,
-    "outputTokens": 5008034,
-    "cacheReadTokens": 1216996442,
-    "cacheCreationTokens": 48153006
+    "inputTokens": 286170,
+    "outputTokens": 5076101,
+    "cacheReadTokens": 1190512423,
+    "cacheCreationTokens": 47121356
   },
   "toolUsage": {
-    "Grep": 828,
-    "Bash": 1886,
-    "Read": 1971,
-    "Edit": 658,
-    "ToolSearch": 76,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 19,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 13,
-    "Agent": 82,
+    "Grep": 793,
+    "Bash": 1826,
+    "Read": 1856,
+    "Edit": 596,
+    "ToolSearch": 73,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 21,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 14,
+    "mcp__linear-server__list_projects": 8,
+    "mcp__linear-server__list_issue_labels": 11,
+    "mcp__linear-server__list_issues": 36,
+    "mcp__linear-server__get_issue": 9,
+    "mcp__linear-server__save_comment": 5,
+    "mcp__linear-server__save_issue": 58,
+    "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_issue": 22,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 8,
+    "Agent": 77,
     "SendMessage": 1,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_projects": 3,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issue_labels": 2,
     "TodoWrite": 156,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issues": 2,
-    "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_issue": 12,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_comment": 1,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 7,
-    "mcp__linear-server__list_projects": 7,
-    "mcp__linear-server__list_issue_labels": 9,
-    "mcp__linear-server__list_issues": 33,
-    "mcp__linear-server__save_issue": 38,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 10,
     "mcp__figma-desktop__get_design_context": 14,
     "mcp__figma-desktop__get_screenshot": 8,
     "mcp__figma-desktop__get_metadata": 5,
-    "Write": 134,
+    "Write": 130,
     "Skill": 17,
     "mcp__playwright__browser_navigate": 2,
     "Monitor": 3,
@@ -647,10 +637,9 @@
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__get_user_profile_by_username": 12,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__send_chat_message_prepare": 12,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__send_chat_message_confirm": 12,
-    "mcp__linear-server__get_issue": 6,
     "mcp__linear-server__create_issue_label": 1,
-    "ExitPlanMode": 18,
-    "Glob": 181,
+    "ExitPlanMode": 17,
+    "Glob": 174,
     "mcp__local-postgres__query": 2,
     "AskUserQuestion": 10,
     "WebSearch": 3,
@@ -663,8 +652,8 @@
     "mcp__sentry__complete_authentication": 1,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__get_issue": 1,
     "EnterPlanMode": 1,
-    "TaskCreate": 26,
-    "TaskUpdate": 47
+    "TaskCreate": 5,
+    "TaskUpdate": 10
   },
   "modelBreakdown": {
     "opus-4.5": {
