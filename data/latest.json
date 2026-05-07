@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-07T12:06:13.012Z",
+  "generatedAt": "2026-05-07T16:00:06.309Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 160,
-    "totalDurationMs": 2616644926,
-    "totalTokens": 1251045851,
+    "totalSessions": 162,
+    "totalDurationMs": 2618262312,
+    "totalTokens": 1269441183,
     "projectCount": 2
   },
   "projects": [
@@ -35,9 +35,27 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 157,
-      "totalDurationMs": 1267192169,
+      "totalSessions": 159,
+      "totalDurationMs": 1268809555,
       "sessions": [
+        {
+          "id": "09b28515-c299-43fd-8e11-95680503cf59",
+          "title": "**********",
+          "timestamp": "2026-05-07T15:19:41.261Z",
+          "totalDurationMs": 525628
+        },
+        {
+          "id": "315c57f4-5aa8-4c1d-b7d9-8bfb6b3ab3e0",
+          "title": "**********",
+          "timestamp": "2026-05-07T13:44:36.073Z",
+          "totalDurationMs": 361320
+        },
+        {
+          "id": "746ee8f2-587f-4611-a8d3-7b7a5e213fbd",
+          "title": "**********",
+          "timestamp": "2026-05-07T13:42:15.794Z",
+          "totalDurationMs": 737267
+        },
         {
           "id": "0dc19175-8abd-4381-9c34-0f4ebb6fc962",
           "title": "**********",
@@ -499,18 +517,6 @@
           "title": "**********",
           "timestamp": "2026-04-08T18:57:20.838Z",
           "totalDurationMs": 391
-        },
-        {
-          "id": "79f7b833-33cb-448d-90b2-086092cc2865",
-          "title": "**********",
-          "timestamp": "2026-04-06T15:44:47.750Z",
-          "totalDurationMs": 5670
-        },
-        {
-          "id": "c03728b3-66a4-4cd2-91aa-749a89ceb2b7",
-          "title": "**********",
-          "timestamp": "2026-04-06T15:44:27.346Z",
-          "totalDurationMs": 1159
         }
       ]
     }
@@ -523,6 +529,10 @@
     "2026-04-21": {
       "sessions": 3,
       "durationMs": 489363601
+    },
+    "2026-05-07": {
+      "sessions": 4,
+      "durationMs": 1624215
     },
     "2026-05-06": {
       "sessions": 2,
@@ -603,35 +613,31 @@
     "2026-04-08": {
       "sessions": 3,
       "durationMs": 583164
-    },
-    "2026-04-06": {
-      "sessions": 2,
-      "durationMs": 6829
     }
   },
   "tokenUsage": {
-    "inputTokens": 286417,
-    "outputTokens": 5233267,
-    "cacheReadTokens": 1196723199,
-    "cacheCreationTokens": 48802968
+    "inputTokens": 286827,
+    "outputTokens": 5351786,
+    "cacheReadTokens": 1213666577,
+    "cacheCreationTokens": 50135993
   },
   "toolUsage": {
     "Grep": 793,
-    "Bash": 1830,
-    "Read": 1856,
+    "Bash": 1892,
+    "Read": 1866,
     "Edit": 596,
-    "ToolSearch": 77,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 23,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 16,
-    "mcp__linear-server__list_projects": 9,
-    "mcp__linear-server__list_issue_labels": 12,
-    "mcp__linear-server__list_issues": 37,
-    "Agent": 78,
-    "TodoWrite": 160,
-    "mcp__linear-server__save_issue": 71,
-    "mcp__linear-server__save_comment": 8,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 9,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 5,
+    "ToolSearch": 83,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 27,
+    "mcp__linear-server__list_projects": 11,
+    "mcp__linear-server__list_issue_labels": 14,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 20,
+    "mcp__linear-server__list_issues": 39,
+    "mcp__linear-server__save_issue": 76,
+    "mcp__linear-server__save_comment": 12,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 11,
+    "TodoWrite": 165,
+    "Agent": 79,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 15,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__get_user_profile_by_username": 23,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__send_chat_message_prepare": 23,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__send_chat_message_confirm": 23,
