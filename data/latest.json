@@ -1,48 +1,29 @@
 {
-  "generatedAt": "2026-05-08T16:00:06.511Z",
+  "generatedAt": "2026-05-08T20:00:06.126Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 174,
-    "totalDurationMs": 2625785276,
-    "totalTokens": 1303883015,
+    "totalSessions": 175,
+    "totalDurationMs": 2723964167,
+    "totalTokens": 1310616482,
     "projectCount": 2
   },
   "projects": [
     {
-      "projectName": "contra-cluster",
-      "totalSessions": 3,
-      "totalDurationMs": 1349452757,
-      "sessions": [
-        {
-          "id": "baccc66b-23b7-4195-9871-0b497ed9b813",
-          "title": null,
-          "timestamp": "2026-04-22T14:56:47.066Z",
-          "totalDurationMs": 427702682
-        },
-        {
-          "id": "b1fac43d-a061-4b0a-abda-c7217996e33a",
-          "title": null,
-          "timestamp": "2026-04-22T13:36:59.648Z",
-          "totalDurationMs": 432489917
-        },
-        {
-          "id": "45431091-2533-43f8-84e5-e8050f2ef410",
-          "title": null,
-          "timestamp": "2026-04-21T21:50:49.118Z",
-          "totalDurationMs": 489260158
-        }
-      ]
-    },
-    {
       "projectName": "top secret",
-      "totalSessions": 171,
-      "totalDurationMs": 1276332519,
+      "totalSessions": 172,
+      "totalDurationMs": 1374511410,
       "sessions": [
+        {
+          "id": "b2fee419-9ae2-4373-b7e2-9dbc3692e194",
+          "title": "**********",
+          "timestamp": "2026-05-08T16:44:14.632Z",
+          "totalDurationMs": 4495355
+        },
         {
           "id": "2fbd37d2-c3df-4014-ae67-104aec55cc17",
           "title": "**********",
           "timestamp": "2026-05-08T15:33:41.185Z",
-          "totalDurationMs": 1689162
+          "totalDurationMs": 3059032
         },
         {
           "id": "c01a113c-b0ef-4ee7-af82-2ba68b9b77ca",
@@ -72,7 +53,7 @@
           "id": "af6353a2-2a5e-4d8c-b775-5c02821dbe6f",
           "title": "**********",
           "timestamp": "2026-05-07T16:31:17.257Z",
-          "totalDurationMs": 1123993
+          "totalDurationMs": 93437659
         },
         {
           "id": "0834a176-2e86-4dc2-b551-e5460c6be065",
@@ -561,24 +542,41 @@
           "totalDurationMs": 391
         }
       ]
+    },
+    {
+      "projectName": "contra-cluster",
+      "totalSessions": 3,
+      "totalDurationMs": 1349452757,
+      "sessions": [
+        {
+          "id": "baccc66b-23b7-4195-9871-0b497ed9b813",
+          "title": null,
+          "timestamp": "2026-04-22T14:56:47.066Z",
+          "totalDurationMs": 427702682
+        },
+        {
+          "id": "b1fac43d-a061-4b0a-abda-c7217996e33a",
+          "title": null,
+          "timestamp": "2026-04-22T13:36:59.648Z",
+          "totalDurationMs": 432489917
+        },
+        {
+          "id": "45431091-2533-43f8-84e5-e8050f2ef410",
+          "title": null,
+          "timestamp": "2026-04-21T21:50:49.118Z",
+          "totalDurationMs": 489260158
+        }
+      ]
     }
   ],
   "activity": {
-    "2026-04-22": {
-      "sessions": 18,
-      "durationMs": 1700162245
-    },
-    "2026-04-21": {
-      "sessions": 3,
-      "durationMs": 489363601
-    },
     "2026-05-08": {
-      "sessions": 7,
-      "durationMs": 4937439
+      "sessions": 8,
+      "durationMs": 10802664
     },
     "2026-05-07": {
       "sessions": 9,
-      "durationMs": 4209740
+      "durationMs": 96523406
     },
     "2026-05-06": {
       "sessions": 2,
@@ -628,6 +626,14 @@
       "sessions": 19,
       "durationMs": 86188048
     },
+    "2026-04-22": {
+      "sessions": 18,
+      "durationMs": 1700162245
+    },
+    "2026-04-21": {
+      "sessions": 3,
+      "durationMs": 489363601
+    },
     "2026-04-20": {
       "sessions": 12,
       "durationMs": 13125702
@@ -662,16 +668,14 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 287828,
-    "outputTokens": 5651800,
-    "cacheReadTokens": 1244700997,
-    "cacheCreationTokens": 53242390
+    "inputTokens": 288024,
+    "outputTokens": 5748516,
+    "cacheReadTokens": 1250961722,
+    "cacheCreationTokens": 53618220
   },
   "toolUsage": {
-    "Grep": 793,
-    "Bash": 1994,
-    "Read": 1933,
-    "Edit": 599,
+    "Bash": 2015,
+    "Read": 1939,
     "Agent": 84,
     "ToolSearch": 84,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 29,
@@ -682,6 +686,7 @@
     "mcp__linear-server__save_issue": 86,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 12,
     "Write": 131,
+    "Edit": 599,
     "Skill": 19,
     "mcp__linear-server__save_comment": 12,
     "TodoWrite": 165,
@@ -696,6 +701,7 @@
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issue_labels": 2,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issues": 2,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_comment": 1,
+    "Grep": 793,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 10,
     "mcp__figma-desktop__get_design_context": 14,
     "mcp__figma-desktop__get_screenshot": 8,
