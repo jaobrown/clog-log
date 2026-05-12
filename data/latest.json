@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-05-12T12:00:35.662Z",
+  "generatedAt": "2026-05-12T16:00:03.475Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 153,
-    "totalDurationMs": 2720179160,
-    "totalTokens": 1308023222,
+    "totalSessions": 154,
+    "totalDurationMs": 2721227945,
+    "totalTokens": 1319230712,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 150,
-      "totalDurationMs": 1370726403,
+      "totalSessions": 151,
+      "totalDurationMs": 1371775188,
       "sessions": [
+        {
+          "id": "af36f61f-af54-4c2e-b57f-93d45721f25f",
+          "title": "**********",
+          "timestamp": "2026-05-12T13:31:00.505Z",
+          "totalDurationMs": 1048785
+        },
         {
           "id": "0e1de41c-c3d8-4d72-a82c-246b97810a06",
           "title": "**********",
@@ -552,6 +558,10 @@
     }
   ],
   "activity": {
+    "2026-05-12": {
+      "sessions": 1,
+      "durationMs": 1048785
+    },
     "2026-05-11": {
       "sessions": 8,
       "durationMs": 2383680
@@ -646,29 +656,29 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 286425,
-    "outputTokens": 5764329,
-    "cacheReadTokens": 1249568361,
-    "cacheCreationTokens": 52404107
+    "inputTokens": 286612,
+    "outputTokens": 5948654,
+    "cacheReadTokens": 1259607594,
+    "cacheCreationTokens": 53387852
   },
   "toolUsage": {
+    "ToolSearch": 88,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 35,
+    "mcp__linear-server__list_projects": 15,
+    "mcp__linear-server__list_issue_labels": 18,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 26,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 16,
+    "mcp__linear-server__list_issues": 51,
+    "Bash": 2037,
+    "mcp__linear-server__save_comment": 19,
+    "mcp__linear-server__save_issue": 119,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 15,
     "Read": 1721,
-    "ToolSearch": 87,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 33,
-    "mcp__linear-server__list_projects": 14,
-    "mcp__linear-server__list_issue_labels": 17,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 24,
     "Agent": 65,
-    "mcp__linear-server__list_issues": 42,
-    "Bash": 2005,
-    "mcp__linear-server__save_issue": 111,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 14,
     "Write": 115,
     "Edit": 573,
     "Skill": 19,
-    "mcp__linear-server__save_comment": 12,
     "TodoWrite": 165,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 15,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__get_user_profile_by_username": 23,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__send_chat_message_prepare": 23,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__send_chat_message_confirm": 23,
