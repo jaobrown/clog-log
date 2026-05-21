@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-05-21T16:00:06.816Z",
+  "generatedAt": "2026-05-21T20:00:06.302Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 159,
-    "totalDurationMs": 3317728177,
-    "totalTokens": 1807677570,
+    "totalSessions": 161,
+    "totalDurationMs": 3318162423,
+    "totalTokens": 1814872009,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 156,
-      "totalDurationMs": 1968275420,
+      "totalSessions": 158,
+      "totalDurationMs": 1968709666,
       "sessions": [
+        {
+          "id": "a10cc045-f2ef-4cfb-be0f-abbdb7e7f2fa",
+          "title": "**********",
+          "timestamp": "2026-05-21T16:53:53.450Z",
+          "totalDurationMs": 76006
+        },
+        {
+          "id": "1a07b3c1-17d7-4574-8a32-7f995d9cba34",
+          "title": "**********",
+          "timestamp": "2026-05-21T16:07:52.856Z",
+          "totalDurationMs": 358240
+        },
         {
           "id": "3c50a0df-4544-4b98-89f5-f5f4bc9a148f",
           "title": "**********",
@@ -547,8 +559,8 @@
   ],
   "activity": {
     "2026-05-21": {
-      "sessions": 2,
-      "durationMs": 2011935
+      "sessions": 4,
+      "durationMs": 2446181
     },
     "2026-05-20": {
       "sessions": 2,
@@ -644,20 +656,21 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 271624,
-    "outputTokens": 7313070,
-    "cacheReadTokens": 1736172337,
-    "cacheCreationTokens": 63920539
+    "inputTokens": 271763,
+    "outputTokens": 7364205,
+    "cacheReadTokens": 1742839384,
+    "cacheCreationTokens": 64396657
   },
   "toolUsage": {
-    "Bash": 2693,
-    "Read": 2125,
-    "ToolSearch": 101,
+    "Bash": 2717,
+    "Read": 2138,
+    "ToolSearch": 102,
+    "mcp__linear-server__list_issues": 58,
+    "Write": 136,
+    "Edit": 615,
+    "Skill": 19,
     "TaskCreate": 21,
     "TaskUpdate": 41,
-    "Edit": 609,
-    "Write": 135,
-    "Skill": 18,
     "mcp__ccd_session__mark_chapter": 1,
     "AskUserQuestion": 15,
     "TodoWrite": 178,
@@ -675,7 +688,6 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 31,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 15,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 28,
-    "mcp__linear-server__list_issues": 56,
     "mcp__linear-server__get_issue": 12,
     "mcp__linear-server__list_projects": 17,
     "mcp__linear-server__list_issue_labels": 20,

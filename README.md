@@ -6,8 +6,8 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   159             Tokens     1.8B
-  Duration   921h 35m        Projects   2
+  Sessions   161             Tokens     1.8B
+  Duration   921h 42m        Projects   2
 
 ```
 
@@ -15,7 +15,7 @@ CLAUDE CODE STATS
 TOP PROJECTS
 ==================================================
 
-  top secret     ####################  546h 44m
+  top secret     ####################  546h 51m
   contra-cluster ##############------  374h 50m
 
 ```
@@ -24,11 +24,11 @@ TOP PROJECTS
 RECENT SESSIONS
 ==================================================
 
+  2026-05-21  top secret  **********                  1.9M        1m
+  2026-05-21  top secret  **********                  5.3M        5m
   2026-05-21  top secret  **********                  1.4M        2m
   2026-05-21  top secret  **********                 93.4M       30m
   2026-05-20  top secret  **********                 72.6M   18h 54m
-  2026-05-20  top secret  **********                 33.8M       14m
-  2026-05-18  top secret  **********                831.1k        1m
 
 ```
 
