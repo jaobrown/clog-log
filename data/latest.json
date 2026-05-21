@@ -1,23 +1,35 @@
 {
-  "generatedAt": "2026-05-21T12:01:36.661Z",
+  "generatedAt": "2026-05-21T16:00:06.816Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 157,
-    "totalDurationMs": 3254055003,
-    "totalTokens": 1680114967,
+    "totalSessions": 159,
+    "totalDurationMs": 3317728177,
+    "totalTokens": 1807677570,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 154,
-      "totalDurationMs": 1904602246,
+      "totalSessions": 156,
+      "totalDurationMs": 1968275420,
       "sessions": [
+        {
+          "id": "3c50a0df-4544-4b98-89f5-f5f4bc9a148f",
+          "title": "**********",
+          "timestamp": "2026-05-21T15:22:52.403Z",
+          "totalDurationMs": 160318
+        },
+        {
+          "id": "8f452eac-201f-4fcf-a372-52d746b48984",
+          "title": "**********",
+          "timestamp": "2026-05-21T15:22:40.636Z",
+          "totalDurationMs": 1851617
+        },
         {
           "id": "36f68e70-6568-40b4-8a8b-09341db2033f",
           "title": "**********",
           "timestamp": "2026-05-20T20:22:14.242Z",
-          "totalDurationMs": 6388906
+          "totalDurationMs": 68050145
         },
         {
           "id": "4d526b81-31fa-478b-8f13-2aee77eb0909",
@@ -534,9 +546,13 @@
     }
   ],
   "activity": {
+    "2026-05-21": {
+      "sessions": 2,
+      "durationMs": 2011935
+    },
     "2026-05-20": {
       "sessions": 2,
-      "durationMs": 7249128
+      "durationMs": 68910367
     },
     "2026-05-18": {
       "sessions": 15,
@@ -628,21 +644,21 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 270977,
-    "outputTokens": 6892716,
-    "cacheReadTokens": 1613561837,
-    "cacheCreationTokens": 59389437
+    "inputTokens": 271624,
+    "outputTokens": 7313070,
+    "cacheReadTokens": 1736172337,
+    "cacheCreationTokens": 63920539
   },
   "toolUsage": {
-    "Bash": 2556,
-    "ToolSearch": 100,
-    "TaskCreate": 12,
-    "TaskUpdate": 23,
+    "Bash": 2693,
+    "Read": 2125,
+    "ToolSearch": 101,
+    "TaskCreate": 21,
+    "TaskUpdate": 41,
+    "Edit": 609,
+    "Write": 135,
+    "Skill": 18,
     "mcp__ccd_session__mark_chapter": 1,
-    "Read": 2051,
-    "Write": 128,
-    "Edit": 554,
-    "Skill": 17,
     "AskUserQuestion": 15,
     "TodoWrite": 178,
     "Agent": 72,
