@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-27T20:00:01.522Z",
+  "generatedAt": "2026-05-28T12:13:34.322Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 104,
-    "totalDurationMs": 777910089,
-    "totalTokens": 1152933153,
+    "totalSessions": 103,
+    "totalDurationMs": 785760902,
+    "totalTokens": 1247262985,
     "projectCount": 1
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 104,
-      "totalDurationMs": 777910089,
+      "totalSessions": 103,
+      "totalDurationMs": 785760902,
       "sessions": [
         {
           "id": "09e6fc51-97e2-4423-b711-0e6cae91ca9d",
@@ -23,7 +23,7 @@
           "id": "975270b7-1668-49d3-8ef5-89cb4fdd5b04",
           "title": "**********",
           "timestamp": "2026-05-27T19:51:59.561Z",
-          "totalDurationMs": 465773
+          "totalDurationMs": 8547521
         },
         {
           "id": "5a890eca-53bb-493f-a657-d10986ef88e5",
@@ -356,12 +356,6 @@
           "totalDurationMs": 249966
         },
         {
-          "id": "81451ad8-3854-4980-a5cf-fa215c714680",
-          "title": "**********",
-          "timestamp": "2026-04-27T17:55:51.408Z",
-          "totalDurationMs": 230935
-        },
-        {
           "id": "4ca4fdf3-a94e-4902-bded-522475948d11",
           "title": "**********",
           "timestamp": "2026-04-27T16:33:12.156Z",
@@ -385,7 +379,7 @@
   "activity": {
     "2026-05-27": {
       "sessions": 4,
-      "durationMs": 3649291
+      "durationMs": 11731039
     },
     "2026-05-21": {
       "sessions": 4,
@@ -460,23 +454,23 @@
       "durationMs": 7794358
     },
     "2026-04-27": {
-      "sessions": 12,
-      "durationMs": 6271829
+      "sessions": 11,
+      "durationMs": 6040894
     }
   },
   "tokenUsage": {
-    "inputTokens": 77083,
-    "outputTokens": 5156542,
-    "cacheReadTokens": 1102943589,
-    "cacheCreationTokens": 44755939
+    "inputTokens": 77429,
+    "outputTokens": 5400111,
+    "cacheReadTokens": 1195087265,
+    "cacheCreationTokens": 46698180
   },
   "toolUsage": {
-    "Bash": 1895,
-    "Read": 1137,
-    "Edit": 280,
+    "Bash": 1987,
+    "Read": 1183,
+    "Write": 86,
+    "Edit": 316,
+    "Skill": 12,
     "AskUserQuestion": 7,
-    "Write": 72,
-    "Skill": 11,
     "ToolSearch": 74,
     "mcp__linear-server__list_issues": 58,
     "TaskCreate": 21,
