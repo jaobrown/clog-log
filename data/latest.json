@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-05-28T16:00:00.628Z",
+  "generatedAt": "2026-05-28T20:00:09.571Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 103,
-    "totalDurationMs": 785760902,
-    "totalTokens": 1247262985,
-    "projectCount": 1
+    "totalSessions": 106,
+    "totalDurationMs": 786616589,
+    "totalTokens": 1253207311,
+    "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 103,
-      "totalDurationMs": 785760902,
+      "totalSessions": 104,
+      "totalDurationMs": 785853394,
       "sessions": [
+        {
+          "id": "ac715394-19f0-46f6-adc0-e318714cd6d7",
+          "title": "**********",
+          "timestamp": "2026-05-28T17:51:29.768Z",
+          "totalDurationMs": 92492
+        },
         {
           "id": "09e6fc51-97e2-4423-b711-0e6cae91ca9d",
           "title": "**********",
@@ -374,9 +380,32 @@
           "totalDurationMs": 1239899
         }
       ]
+    },
+    {
+      "projectName": "jackal",
+      "totalSessions": 2,
+      "totalDurationMs": 763195,
+      "sessions": [
+        {
+          "id": "bcee8dac-ad65-4e98-b5d7-3e0770b77831",
+          "title": null,
+          "timestamp": "2026-05-28T16:23:18.037Z",
+          "totalDurationMs": 516315
+        },
+        {
+          "id": "9ca4f2c4-54e1-43ab-913f-60389800bdbd",
+          "title": null,
+          "timestamp": "2026-05-28T16:15:19.340Z",
+          "totalDurationMs": 246880
+        }
+      ]
     }
   ],
   "activity": {
+    "2026-05-28": {
+      "sessions": 3,
+      "durationMs": 855687
+    },
     "2026-05-27": {
       "sessions": 4,
       "durationMs": 11731039
@@ -459,18 +488,18 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 77429,
-    "outputTokens": 5400111,
-    "cacheReadTokens": 1195087265,
-    "cacheCreationTokens": 46698180
+    "inputTokens": 77793,
+    "outputTokens": 5470675,
+    "cacheReadTokens": 1200618683,
+    "cacheCreationTokens": 47040160
   },
   "toolUsage": {
-    "Bash": 1987,
-    "Read": 1183,
-    "Write": 86,
+    "Bash": 2020,
+    "AskUserQuestion": 9,
+    "Read": 1187,
+    "Write": 89,
     "Edit": 316,
     "Skill": 12,
-    "AskUserQuestion": 7,
     "ToolSearch": 74,
     "mcp__linear-server__list_issues": 58,
     "TaskCreate": 21,
