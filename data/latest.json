@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-05-29T16:00:03.794Z",
+  "generatedAt": "2026-05-29T20:03:36.313Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 115,
-    "totalDurationMs": 856354657,
-    "totalTokens": 1365149815,
+    "totalSessions": 116,
+    "totalDurationMs": 857477833,
+    "totalTokens": 1400773420,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 113,
-      "totalDurationMs": 855591462,
+      "totalSessions": 114,
+      "totalDurationMs": 856714638,
       "sessions": [
+        {
+          "id": "870350ef-442b-49cf-a382-51e5b57011ac",
+          "title": "**********",
+          "timestamp": "2026-05-29T17:21:37.561Z",
+          "totalDurationMs": 1123176
+        },
         {
           "id": "d7a37b14-3a3e-43d5-a38f-36574ea4fd75",
           "title": "**********",
@@ -391,8 +397,8 @@
   ],
   "activity": {
     "2026-05-29": {
-      "sessions": 14,
-      "durationMs": 4911656
+      "sessions": 15,
+      "durationMs": 6034832
     },
     "2026-05-28": {
       "sessions": 4,
@@ -480,23 +486,23 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 82523,
-    "outputTokens": 6494749,
-    "cacheReadTokens": 1304820808,
-    "cacheCreationTokens": 53751735
+    "inputTokens": 82875,
+    "outputTokens": 6736520,
+    "cacheReadTokens": 1337408959,
+    "cacheCreationTokens": 56545066
   },
   "toolUsage": {
-    "ToolSearch": 78,
-    "TaskCreate": 34,
+    "Bash": 2200,
+    "Read": 1397,
+    "ToolSearch": 79,
+    "TaskCreate": 39,
+    "TaskUpdate": 74,
+    "Edit": 363,
+    "Write": 99,
     "AskUserQuestion": 13,
-    "TaskUpdate": 64,
     "mcp__figma-desktop__get_design_context": 10,
     "mcp__figma-desktop__get_screenshot": 11,
     "Agent": 54,
-    "Read": 1368,
-    "Bash": 2176,
-    "Write": 97,
-    "Edit": 343,
     "Skill": 17,
     "mcp__local-postgres__query": 5,
     "mcp__playwright__browser_navigate": 3,
