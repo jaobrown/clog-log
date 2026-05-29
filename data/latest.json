@@ -1,23 +1,29 @@
 {
-  "generatedAt": "2026-05-29T12:09:29.161Z",
+  "generatedAt": "2026-05-29T16:00:03.794Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 102,
-    "totalDurationMs": 789646325,
-    "totalTokens": 1273169565,
+    "totalSessions": 115,
+    "totalDurationMs": 856354657,
+    "totalTokens": 1365149815,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 100,
-      "totalDurationMs": 788883130,
+      "totalSessions": 113,
+      "totalDurationMs": 855591462,
       "sessions": [
+        {
+          "id": "d7a37b14-3a3e-43d5-a38f-36574ea4fd75",
+          "title": "**********",
+          "timestamp": "2026-05-29T14:39:40.208Z",
+          "totalDurationMs": 4911656
+        },
         {
           "id": "ec886417-8d83-4ce8-a570-cd5041ba31e5",
           "title": "**********",
           "timestamp": "2026-05-28T20:21:59.625Z",
-          "totalDurationMs": 4364793
+          "totalDurationMs": 66340021
         },
         {
           "id": "ac715394-19f0-46f6-adc0-e318714cd6d7",
@@ -320,12 +326,6 @@
           "totalDurationMs": 709381
         },
         {
-          "id": "10b397ea-5228-4230-b509-44ca377fee9f",
-          "title": "**********",
-          "timestamp": "2026-04-29T13:21:28.778Z",
-          "totalDurationMs": 178552
-        },
-        {
           "id": "23073d6d-aeb1-46d0-b428-e2e104b7771d",
           "title": "**********",
           "timestamp": "2026-04-28T18:14:29.813Z",
@@ -390,9 +390,13 @@
     }
   ],
   "activity": {
+    "2026-05-29": {
+      "sessions": 14,
+      "durationMs": 4911656
+    },
     "2026-05-28": {
       "sessions": 4,
-      "durationMs": 5220480
+      "durationMs": 67195708
     },
     "2026-05-27": {
       "sessions": 4,
@@ -463,8 +467,8 @@
       "durationMs": 3061878
     },
     "2026-04-29": {
-      "sessions": 2,
-      "durationMs": 887933
+      "sessions": 1,
+      "durationMs": 709381
     },
     "2026-04-28": {
       "sessions": 8,
@@ -476,48 +480,50 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 79931,
-    "outputTokens": 5716812,
-    "cacheReadTokens": 1218710496,
-    "cacheCreationTokens": 48662326
+    "inputTokens": 82523,
+    "outputTokens": 6494749,
+    "cacheReadTokens": 1304820808,
+    "cacheCreationTokens": 53751735
   },
   "toolUsage": {
-    "Bash": 2042,
-    "Read": 1194,
-    "Skill": 13,
-    "ToolSearch": 75,
-    "TaskCreate": 25,
-    "Edit": 326,
-    "TaskUpdate": 46,
-    "AskUserQuestion": 10,
-    "Write": 91,
+    "ToolSearch": 78,
+    "TaskCreate": 34,
+    "AskUserQuestion": 13,
+    "TaskUpdate": 64,
+    "mcp__figma-desktop__get_design_context": 10,
+    "mcp__figma-desktop__get_screenshot": 11,
+    "Agent": 54,
+    "Read": 1368,
+    "Bash": 2176,
+    "Write": 97,
+    "Edit": 343,
+    "Skill": 17,
+    "mcp__local-postgres__query": 5,
+    "mcp__playwright__browser_navigate": 3,
+    "mcp__ccd_session__spawn_task": 1,
+    "Grep": 152,
+    "mcp__ccd_session__mark_chapter": 2,
+    "Glob": 16,
     "mcp__Claude_Preview__preview_list": 1,
     "mcp__Claude_Preview__preview_start": 1,
     "mcp__Claude_Preview__preview_screenshot": 2,
     "mcp__Claude_Preview__preview_stop": 1,
-    "mcp__linear-server__list_issues": 54,
-    "mcp__ccd_session__mark_chapter": 1,
+    "mcp__linear-server__list_issues": 49,
     "TodoWrite": 100,
-    "Agent": 41,
-    "mcp__figma-desktop__get_design_context": 8,
-    "mcp__figma-desktop__get_screenshot": 9,
     "TaskOutput": 9,
-    "mcp__local-postgres__query": 2,
     "mcp__playwright__browser_resize": 1,
     "mcp__figma-desktop__get_metadata": 4,
-    "Grep": 124,
-    "Glob": 13,
     "mcp__linear-server__get_project": 1,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 37,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 30,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 35,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 28,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 15,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 28,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 26,
     "mcp__linear-server__get_issue": 8,
-    "mcp__linear-server__list_projects": 16,
-    "mcp__linear-server__list_issue_labels": 15,
-    "mcp__linear-server__save_issue": 126,
+    "mcp__linear-server__list_projects": 15,
+    "mcp__linear-server__list_issue_labels": 14,
+    "mcp__linear-server__save_issue": 125,
     "mcp__linear-server__save_comment": 34,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 28,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 27,
     "mcp__linear-server__list_users": 3,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 16,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__get_user_profile_by_username": 23,
@@ -529,7 +535,6 @@
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issue_labels": 2,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issues": 2,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_comment": 1,
-    "mcp__playwright__browser_navigate": 1,
     "Monitor": 1,
     "mcp__linear-server__save_document": 2,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__whoami": 2,
