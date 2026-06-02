@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-06-02T16:00:05.640Z",
+  "generatedAt": "2026-06-02T20:00:06.625Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 89,
-    "totalDurationMs": 836103419,
-    "totalTokens": 1194279916,
+    "totalSessions": 103,
+    "totalDurationMs": 849566823,
+    "totalTokens": 1351460267,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 87,
-      "totalDurationMs": 835340224,
+      "totalSessions": 101,
+      "totalDurationMs": 848803628,
       "sessions": [
+        {
+          "id": "e6015cb0-2348-4463-9945-06611fd6c693",
+          "title": "**********",
+          "timestamp": "2026-06-02T16:04:29.855Z",
+          "totalDurationMs": 13463404
+        },
         {
           "id": "81520a3f-31e4-4dae-a28d-8f79a3f14316",
           "title": "**********",
@@ -312,6 +318,10 @@
     }
   ],
   "activity": {
+    "2026-06-02": {
+      "sessions": 14,
+      "durationMs": 13463404
+    },
     "2026-06-01": {
       "sessions": 2,
       "durationMs": 12523229
@@ -378,30 +388,34 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 56005,
-    "outputTokens": 5937927,
-    "cacheReadTokens": 1140458155,
-    "cacheCreationTokens": 47827829
+    "inputTokens": 88219,
+    "outputTokens": 6993068,
+    "cacheReadTokens": 1287747152,
+    "cacheCreationTokens": 56631828
   },
   "toolUsage": {
-    "Bash": 1801,
-    "Read": 1226,
-    "Edit": 304,
-    "ToolSearch": 56,
-    "TaskCreate": 44,
-    "TaskUpdate": 83,
-    "Write": 87,
-    "AskUserQuestion": 13,
+    "ToolSearch": 59,
+    "TaskCreate": 53,
+    "mcp__figma-desktop__get_screenshot": 17,
+    "AskUserQuestion": 16,
+    "TaskUpdate": 98,
+    "Agent": 54,
+    "mcp__figma-desktop__get_metadata": 2,
+    "mcp__figma-desktop__get_variable_defs": 1,
+    "TaskList": 4,
+    "Read": 1540,
+    "Bash": 1958,
+    "Write": 102,
+    "Edit": 310,
+    "Skill": 16,
+    "mcp__playwright__browser_resize": 2,
+    "mcp__playwright__browser_navigate": 3,
+    "Glob": 32,
+    "Grep": 187,
+    "mcp__ccd_session__mark_chapter": 4,
     "mcp__figma-desktop__get_design_context": 7,
-    "mcp__figma-desktop__get_screenshot": 8,
-    "Agent": 41,
-    "Skill": 14,
     "mcp__local-postgres__query": 5,
-    "mcp__playwright__browser_navigate": 2,
     "mcp__ccd_session__spawn_task": 1,
-    "Grep": 147,
-    "mcp__ccd_session__mark_chapter": 2,
-    "Glob": 16,
     "mcp__Claude_Preview__preview_list": 1,
     "mcp__Claude_Preview__preview_start": 1,
     "mcp__Claude_Preview__preview_screenshot": 2,
@@ -409,8 +423,6 @@
     "mcp__linear-server__list_issues": 25,
     "TodoWrite": 57,
     "TaskOutput": 9,
-    "mcp__playwright__browser_resize": 1,
-    "mcp__figma-desktop__get_metadata": 1,
     "mcp__linear-server__get_project": 1,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 24,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 19,
