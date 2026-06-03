@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-06-03T16:00:06.501Z",
+  "generatedAt": "2026-06-03T20:00:06.286Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 103,
-    "totalDurationMs": 849566823,
-    "totalTokens": 1351460267,
+    "totalSessions": 102,
+    "totalDurationMs": 848359473,
+    "totalTokens": 1352180326,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 101,
-      "totalDurationMs": 848803628,
+      "totalSessions": 100,
+      "totalDurationMs": 847596278,
       "sessions": [
+        {
+          "id": "9ddf1a5f-0ff7-461d-985a-a38a9790b8e7",
+          "title": "**********",
+          "timestamp": "2026-06-03T19:22:04.745Z",
+          "totalDurationMs": 2240447
+        },
         {
           "id": "e6015cb0-2348-4463-9945-06611fd6c693",
           "title": "**********",
@@ -288,12 +294,6 @@
           "title": "**********",
           "timestamp": "2026-05-05T13:38:38.407Z",
           "totalDurationMs": 511595
-        },
-        {
-          "id": "28b2caf0-6e1b-4987-8453-ec693966adc2",
-          "title": "**********",
-          "timestamp": "2026-05-04T13:23:39.415Z",
-          "totalDurationMs": 3447797
         }
       ]
     },
@@ -318,6 +318,10 @@
     }
   ],
   "activity": {
+    "2026-06-03": {
+      "sessions": 1,
+      "durationMs": 2240447
+    },
     "2026-06-02": {
       "sessions": 14,
       "durationMs": 13463404
@@ -381,30 +385,27 @@
     "2026-05-05": {
       "sessions": 2,
       "durationMs": 1115800
-    },
-    "2026-05-04": {
-      "sessions": 2,
-      "durationMs": 3447797
     }
   },
   "tokenUsage": {
-    "inputTokens": 88219,
-    "outputTokens": 6993068,
-    "cacheReadTokens": 1287747152,
-    "cacheCreationTokens": 56631828
+    "inputTokens": 181327,
+    "outputTokens": 7010067,
+    "cacheReadTokens": 1288019590,
+    "cacheCreationTokens": 56969342
   },
   "toolUsage": {
-    "ToolSearch": 59,
+    "Bash": 1959,
+    "Read": 1547,
+    "ToolSearch": 55,
+    "mcp__local-postgres__query": 8,
     "TaskCreate": 53,
     "mcp__figma-desktop__get_screenshot": 17,
     "AskUserQuestion": 16,
     "TaskUpdate": 98,
-    "Agent": 54,
+    "Agent": 53,
     "mcp__figma-desktop__get_metadata": 2,
     "mcp__figma-desktop__get_variable_defs": 1,
     "TaskList": 4,
-    "Read": 1540,
-    "Bash": 1958,
     "Write": 102,
     "Edit": 310,
     "Skill": 16,
@@ -414,18 +415,17 @@
     "Grep": 187,
     "mcp__ccd_session__mark_chapter": 4,
     "mcp__figma-desktop__get_design_context": 7,
-    "mcp__local-postgres__query": 5,
     "mcp__ccd_session__spawn_task": 1,
     "mcp__Claude_Preview__preview_list": 1,
     "mcp__Claude_Preview__preview_start": 1,
     "mcp__Claude_Preview__preview_screenshot": 2,
     "mcp__Claude_Preview__preview_stop": 1,
     "mcp__linear-server__list_issues": 25,
-    "TodoWrite": 57,
+    "TodoWrite": 53,
     "TaskOutput": 9,
     "mcp__linear-server__get_project": 1,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 24,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 19,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 22,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 18,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 5,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 26,
     "mcp__linear-server__get_issue": 7,
@@ -433,18 +433,13 @@
     "mcp__linear-server__list_issue_labels": 11,
     "mcp__linear-server__save_issue": 100,
     "mcp__linear-server__save_comment": 34,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 23,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 22,
     "mcp__linear-server__list_users": 3,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 13,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__get_user_profile_by_username": 11,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__send_chat_message_prepare": 11,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__send_chat_message_confirm": 11,
-    "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_issue": 17,
-    "SendMessage": 1,
-    "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_projects": 2,
-    "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issue_labels": 1,
-    "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issues": 1,
-    "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_comment": 1
+    "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_issue": 10
   },
   "modelBreakdown": {
     "opus-4.5": {
