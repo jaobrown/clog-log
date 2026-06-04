@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-03T20:00:06.286Z",
+  "generatedAt": "2026-06-04T12:08:28.982Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 102,
-    "totalDurationMs": 848359473,
-    "totalTokens": 1352180326,
+    "totalDurationMs": 852430142,
+    "totalTokens": 1411845827,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
       "totalSessions": 100,
-      "totalDurationMs": 847596278,
+      "totalDurationMs": 851666947,
       "sessions": [
         {
           "id": "9ddf1a5f-0ff7-461d-985a-a38a9790b8e7",
           "title": "**********",
           "timestamp": "2026-06-03T19:22:04.745Z",
-          "totalDurationMs": 2240447
+          "totalDurationMs": 6311116
         },
         {
           "id": "e6015cb0-2348-4463-9945-06611fd6c693",
@@ -320,7 +320,7 @@
   "activity": {
     "2026-06-03": {
       "sessions": 1,
-      "durationMs": 2240447
+      "durationMs": 6311116
     },
     "2026-06-02": {
       "sessions": 14,
@@ -388,16 +388,19 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 181327,
-    "outputTokens": 7010067,
-    "cacheReadTokens": 1288019590,
-    "cacheCreationTokens": 56969342
+    "inputTokens": 189927,
+    "outputTokens": 7664225,
+    "cacheReadTokens": 1346345548,
+    "cacheCreationTokens": 57646127
   },
   "toolUsage": {
-    "Bash": 1959,
-    "Read": 1547,
+    "Bash": 1991,
+    "Read": 1554,
     "ToolSearch": 55,
-    "mcp__local-postgres__query": 8,
+    "mcp__local-postgres__query": 17,
+    "mcp__ccd_session__mark_chapter": 6,
+    "Edit": 348,
+    "Write": 103,
     "TaskCreate": 53,
     "mcp__figma-desktop__get_screenshot": 17,
     "AskUserQuestion": 16,
@@ -406,14 +409,11 @@
     "mcp__figma-desktop__get_metadata": 2,
     "mcp__figma-desktop__get_variable_defs": 1,
     "TaskList": 4,
-    "Write": 102,
-    "Edit": 310,
     "Skill": 16,
     "mcp__playwright__browser_resize": 2,
     "mcp__playwright__browser_navigate": 3,
     "Glob": 32,
     "Grep": 187,
-    "mcp__ccd_session__mark_chapter": 4,
     "mcp__figma-desktop__get_design_context": 7,
     "mcp__ccd_session__spawn_task": 1,
     "mcp__Claude_Preview__preview_list": 1,
