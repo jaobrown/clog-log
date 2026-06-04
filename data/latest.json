@@ -1,18 +1,36 @@
 {
-  "generatedAt": "2026-06-04T16:00:02.027Z",
+  "generatedAt": "2026-06-04T20:00:05.303Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 102,
-    "totalDurationMs": 852430142,
-    "totalTokens": 1411845827,
+    "totalSessions": 109,
+    "totalDurationMs": 859157303,
+    "totalTokens": 1499092643,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 100,
-      "totalDurationMs": 851666947,
+      "totalSessions": 107,
+      "totalDurationMs": 858394108,
       "sessions": [
+        {
+          "id": "609ecded-e9a3-46d7-8f2c-cb7345803942",
+          "title": "**********",
+          "timestamp": "2026-06-04T19:42:31.339Z",
+          "totalDurationMs": 1022422
+        },
+        {
+          "id": "7db00b84-fe3a-41ce-844f-f6de7114060d",
+          "title": "**********",
+          "timestamp": "2026-06-04T18:07:06.836Z",
+          "totalDurationMs": 5361423
+        },
+        {
+          "id": "a73d442c-8ced-43ad-8b9e-599267a59c2c",
+          "title": "**********",
+          "timestamp": "2026-06-04T16:40:42.346Z",
+          "totalDurationMs": 1459116
+        },
         {
           "id": "9ddf1a5f-0ff7-461d-985a-a38a9790b8e7",
           "title": "**********",
@@ -282,18 +300,6 @@
           "title": "**********",
           "timestamp": "2026-05-06T13:20:57.212Z",
           "totalDurationMs": 430719
-        },
-        {
-          "id": "430f1f0a-fe5d-4bb8-a282-576caf12712d",
-          "title": "**********",
-          "timestamp": "2026-05-05T17:43:29.886Z",
-          "totalDurationMs": 604205
-        },
-        {
-          "id": "0d4e020a-4dda-4029-b640-e8a93c982042",
-          "title": "**********",
-          "timestamp": "2026-05-05T13:38:38.407Z",
-          "totalDurationMs": 511595
         }
       ]
     },
@@ -318,6 +324,10 @@
     }
   ],
   "activity": {
+    "2026-06-04": {
+      "sessions": 9,
+      "durationMs": 7842961
+    },
     "2026-06-03": {
       "sessions": 1,
       "durationMs": 6311116
@@ -381,65 +391,64 @@
     "2026-05-06": {
       "sessions": 2,
       "durationMs": 430719
-    },
-    "2026-05-05": {
-      "sessions": 2,
-      "durationMs": 1115800
     }
   },
   "tokenUsage": {
-    "inputTokens": 189927,
-    "outputTokens": 7664225,
-    "cacheReadTokens": 1346345548,
-    "cacheCreationTokens": 57646127
+    "inputTokens": 921705,
+    "outputTokens": 8506517,
+    "cacheReadTokens": 1428529116,
+    "cacheCreationTokens": 61135305
   },
   "toolUsage": {
-    "Bash": 1991,
-    "Read": 1554,
-    "ToolSearch": 55,
+    "ToolSearch": 62,
+    "Bash": 2109,
+    "mcp__figma-desktop__get_design_context": 9,
+    "mcp__figma-desktop__get_screenshot": 19,
+    "Read": 1675,
+    "mcp__figma-desktop__get_metadata": 6,
+    "mcp__figma-desktop__get_variable_defs": 2,
+    "AskUserQuestion": 18,
+    "mcp__ccd_session__mark_chapter": 9,
+    "Edit": 367,
+    "mcp__playwright__browser_resize": 3,
+    "Write": 117,
+    "mcp__9904539c-0153-41b4-9429-dc44c1567799__get_issue": 2,
+    "Agent": 59,
+    "TaskCreate": 60,
+    "TaskUpdate": 108,
+    "Skill": 17,
+    "mcp__playwright__browser_navigate": 4,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 46,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 17,
+    "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_projects": 1,
+    "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issues": 4,
+    "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_documents": 1,
+    "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_users": 1,
+    "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_issue": 7,
+    "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_document": 1,
     "mcp__local-postgres__query": 17,
-    "mcp__ccd_session__mark_chapter": 6,
-    "Edit": 348,
-    "Write": 103,
-    "TaskCreate": 53,
-    "mcp__figma-desktop__get_screenshot": 17,
-    "AskUserQuestion": 16,
-    "TaskUpdate": 98,
-    "Agent": 53,
-    "mcp__figma-desktop__get_metadata": 2,
-    "mcp__figma-desktop__get_variable_defs": 1,
     "TaskList": 4,
-    "Skill": 16,
-    "mcp__playwright__browser_resize": 2,
-    "mcp__playwright__browser_navigate": 3,
     "Glob": 32,
     "Grep": 187,
-    "mcp__figma-desktop__get_design_context": 7,
     "mcp__ccd_session__spawn_task": 1,
     "mcp__Claude_Preview__preview_list": 1,
     "mcp__Claude_Preview__preview_start": 1,
     "mcp__Claude_Preview__preview_screenshot": 2,
     "mcp__Claude_Preview__preview_stop": 1,
-    "mcp__linear-server__list_issues": 25,
+    "mcp__linear-server__list_issues": 22,
     "TodoWrite": 53,
     "TaskOutput": 9,
     "mcp__linear-server__get_project": 1,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 22,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 18,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 20,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 5,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 26,
-    "mcp__linear-server__get_issue": 7,
-    "mcp__linear-server__list_projects": 10,
-    "mcp__linear-server__list_issue_labels": 11,
-    "mcp__linear-server__save_issue": 100,
-    "mcp__linear-server__save_comment": 34,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 22,
+    "mcp__linear-server__get_issue": 4,
+    "mcp__linear-server__list_projects": 9,
+    "mcp__linear-server__list_issue_labels": 9,
+    "mcp__linear-server__save_issue": 80,
+    "mcp__linear-server__save_comment": 29,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 21,
     "mcp__linear-server__list_users": 3,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 13,
-    "mcp__e7032509-9192-448e-b041-ea3950c2babb__get_user_profile_by_username": 11,
-    "mcp__e7032509-9192-448e-b041-ea3950c2babb__send_chat_message_prepare": 11,
-    "mcp__e7032509-9192-448e-b041-ea3950c2babb__send_chat_message_confirm": 11,
-    "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_issue": 10
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 11
   },
   "modelBreakdown": {
     "opus-4.5": {
