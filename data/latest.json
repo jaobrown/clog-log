@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-04T20:00:05.303Z",
+  "generatedAt": "2026-06-05T12:07:42.370Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 109,
-    "totalDurationMs": 859157303,
-    "totalTokens": 1499092643,
+    "totalDurationMs": 859598667,
+    "totalTokens": 1511176558,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
       "totalSessions": 107,
-      "totalDurationMs": 858394108,
+      "totalDurationMs": 858835472,
       "sessions": [
         {
           "id": "609ecded-e9a3-46d7-8f2c-cb7345803942",
           "title": "**********",
           "timestamp": "2026-06-04T19:42:31.339Z",
-          "totalDurationMs": 1022422
+          "totalDurationMs": 1463786
         },
         {
           "id": "7db00b84-fe3a-41ce-844f-f6de7114060d",
@@ -326,7 +326,7 @@
   "activity": {
     "2026-06-04": {
       "sessions": 9,
-      "durationMs": 7842961
+      "durationMs": 8284325
     },
     "2026-06-03": {
       "sessions": 1,
@@ -394,29 +394,30 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 921705,
-    "outputTokens": 8506517,
-    "cacheReadTokens": 1428529116,
-    "cacheCreationTokens": 61135305
+    "inputTokens": 934744,
+    "outputTokens": 8586732,
+    "cacheReadTokens": 1440426683,
+    "cacheCreationTokens": 61228399
   },
   "toolUsage": {
-    "ToolSearch": 62,
-    "Bash": 2109,
+    "ToolSearch": 63,
+    "Bash": 2118,
     "mcp__figma-desktop__get_design_context": 9,
     "mcp__figma-desktop__get_screenshot": 19,
-    "Read": 1675,
+    "Read": 1679,
     "mcp__figma-desktop__get_metadata": 6,
     "mcp__figma-desktop__get_variable_defs": 2,
     "AskUserQuestion": 18,
     "mcp__ccd_session__mark_chapter": 9,
-    "Edit": 367,
+    "Edit": 368,
     "mcp__playwright__browser_resize": 3,
     "Write": 117,
+    "mcp__local-postgres__query": 19,
+    "Skill": 18,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__get_issue": 2,
     "Agent": 59,
     "TaskCreate": 60,
     "TaskUpdate": 108,
-    "Skill": 17,
     "mcp__playwright__browser_navigate": 4,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 46,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 17,
@@ -426,7 +427,6 @@
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_users": 1,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_issue": 7,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_document": 1,
-    "mcp__local-postgres__query": 17,
     "TaskList": 4,
     "Glob": 32,
     "Grep": 187,
