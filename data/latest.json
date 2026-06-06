@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-06-05T20:00:06.462Z",
+  "generatedAt": "2026-06-06T12:02:08.916Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 114,
-    "totalDurationMs": 863119332,
-    "totalTokens": 1555257850,
+    "totalSessions": 116,
+    "totalDurationMs": 867556196,
+    "totalTokens": 1617718005,
     "projectCount": 2
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 112,
-      "totalDurationMs": 862356137,
+      "totalSessions": 114,
+      "totalDurationMs": 866793001,
       "sessions": [
+        {
+          "id": "cebcfb3c-34f8-4a61-86b9-99c8532c3a83",
+          "title": "**********",
+          "timestamp": "2026-06-05T22:09:08.316Z",
+          "totalDurationMs": 1044737
+        },
+        {
+          "id": "6f3e5585-b8fe-4bc5-858e-a9d032f79fef",
+          "title": "**********",
+          "timestamp": "2026-06-05T21:54:45.477Z",
+          "totalDurationMs": 3392127
+        },
         {
           "id": "2a413eb8-63af-4bd0-b948-0d487b42f9ee",
           "title": "**********",
@@ -343,8 +355,8 @@
   ],
   "activity": {
     "2026-06-05": {
-      "sessions": 7,
-      "durationMs": 3951384
+      "sessions": 9,
+      "durationMs": 8388248
     },
     "2026-06-04": {
       "sessions": 9,
@@ -412,17 +424,21 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 1221779,
-    "outputTokens": 9201996,
-    "cacheReadTokens": 1480658830,
-    "cacheCreationTokens": 64175245
+    "inputTokens": 1466899,
+    "outputTokens": 9754455,
+    "cacheReadTokens": 1540515583,
+    "cacheCreationTokens": 65981068
   },
   "toolUsage": {
-    "Read": 1734,
-    "Bash": 2171,
-    "Edit": 418,
+    "Bash": 2271,
+    "Read": 1757,
+    "Edit": 436,
+    "mcp__ccd_session__mark_chapter": 10,
+    "ToolSearch": 67,
+    "Monitor": 3,
+    "ScheduleWakeup": 2,
+    "TaskStop": 1,
     "Write": 121,
-    "ToolSearch": 65,
     "mcp__playwright__browser_navigate": 6,
     "mcp__Claude_Preview__preview_list": 3,
     "Agent": 61,
@@ -433,7 +449,6 @@
     "mcp__figma-desktop__get_metadata": 6,
     "mcp__figma-desktop__get_variable_defs": 2,
     "AskUserQuestion": 18,
-    "mcp__ccd_session__mark_chapter": 9,
     "mcp__playwright__browser_resize": 3,
     "mcp__local-postgres__query": 19,
     "Skill": 18,

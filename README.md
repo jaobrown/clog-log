@@ -6,8 +6,8 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   114             Tokens     1.6B
-  Duration   239h 45m        Projects   2
+  Sessions   116             Tokens     1.6B
+  Duration   240h 59m        Projects   2
 
 ```
 
@@ -15,7 +15,7 @@ CLAUDE CODE STATS
 TOP PROJECTS
 ==================================================
 
-  top secret     ####################  239h 32m
+  top secret     ####################  240h 46m
   jackal         --------------------       12m
 
 ```
@@ -24,11 +24,11 @@ TOP PROJECTS
 RECENT SESSIONS
 ==================================================
 
+  2026-06-05  top secret  **********                 11.6M       17m
+  2026-06-05  top secret  **********                 50.8M       56m
   2026-06-05  top secret  **********                 21.1M       30m
   2026-06-05  top secret  **********                 21.1M       27m
   2026-06-05  top secret  **********                  5.9M        7m
-  2026-06-05  top secret  **********                     0        0m
-  2026-06-04  top secret  **********                 28.3M       24m
 
 ```
 
