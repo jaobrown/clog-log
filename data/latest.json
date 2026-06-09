@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-09T12:09:24.686Z",
+  "generatedAt": "2026-06-09T16:00:01.930Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 109,
-    "totalDurationMs": 773887798,
-    "totalTokens": 1722419585,
+    "totalSessions": 110,
+    "totalDurationMs": 774266225,
+    "totalTokens": 1724924582,
     "projectCount": 3
   },
   "projects": [
@@ -287,9 +287,15 @@
     },
     {
       "projectName": "contra",
-      "totalSessions": 6,
-      "totalDurationMs": 12904723,
+      "totalSessions": 7,
+      "totalDurationMs": 13283150,
       "sessions": [
+        {
+          "id": "2d601da7-3e38-4557-93d1-521792f33ba1",
+          "title": null,
+          "timestamp": "2026-06-09T14:06:35.611Z",
+          "totalDurationMs": 378427
+        },
         {
           "id": "c122989b-09d7-4e03-8b46-98b3caf8c8fd",
           "title": null,
@@ -416,18 +422,22 @@
     "2026-05-07": {
       "sessions": 2,
       "durationMs": 737267
+    },
+    "2026-06-09": {
+      "sessions": 1,
+      "durationMs": 378427
     }
   },
   "tokenUsage": {
-    "inputTokens": 1708983,
-    "outputTokens": 10638206,
-    "cacheReadTokens": 1641313588,
-    "cacheCreationTokens": 68758808
+    "inputTokens": 1755912,
+    "outputTokens": 10709436,
+    "cacheReadTokens": 1643428041,
+    "cacheCreationTokens": 69031193
   },
   "toolUsage": {
-    "ToolSearch": 94,
-    "Bash": 2185,
-    "Read": 1709,
+    "ToolSearch": 95,
+    "Bash": 2196,
+    "Read": 1710,
     "Edit": 469,
     "mcp__ccd_session__mark_chapter": 14,
     "Monitor": 3,
@@ -451,7 +461,7 @@
     "TaskCreate": 60,
     "TaskUpdate": 108,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 46,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 13,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 17,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_projects": 1,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issues": 4,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_documents": 1,
@@ -467,7 +477,7 @@
     "TodoWrite": 49,
     "TaskOutput": 9,
     "mcp__linear-server__get_project": 1,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 14,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 15,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 5,
     "mcp__linear-server__get_issue": 4,
     "mcp__linear-server__list_projects": 6,
