@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-10T16:00:04.786Z",
+  "generatedAt": "2026-06-10T20:00:04.823Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 110,
-    "totalDurationMs": 774266225,
-    "totalTokens": 1724924582,
+    "totalSessions": 111,
+    "totalDurationMs": 779717906,
+    "totalTokens": 1868541267,
     "projectCount": 3
   },
   "projects": [
@@ -287,9 +287,15 @@
     },
     {
       "projectName": "contra",
-      "totalSessions": 7,
-      "totalDurationMs": 13283150,
+      "totalSessions": 8,
+      "totalDurationMs": 18734831,
       "sessions": [
+        {
+          "id": "da1d194d-2eba-4bc0-80fe-fbc01237d9d6",
+          "title": null,
+          "timestamp": "2026-06-10T18:05:02.645Z",
+          "totalDurationMs": 5451681
+        },
         {
           "id": "2d601da7-3e38-4557-93d1-521792f33ba1",
           "title": null,
@@ -423,27 +429,31 @@
       "sessions": 2,
       "durationMs": 737267
     },
+    "2026-06-10": {
+      "sessions": 1,
+      "durationMs": 5451681
+    },
     "2026-06-09": {
       "sessions": 1,
       "durationMs": 378427
     }
   },
   "tokenUsage": {
-    "inputTokens": 1755912,
-    "outputTokens": 10709436,
-    "cacheReadTokens": 1643428041,
-    "cacheCreationTokens": 69031193
+    "inputTokens": 1931921,
+    "outputTokens": 11054706,
+    "cacheReadTokens": 1781353727,
+    "cacheCreationTokens": 74200913
   },
   "toolUsage": {
-    "ToolSearch": 95,
-    "Bash": 2196,
-    "Read": 1710,
-    "Edit": 469,
-    "mcp__ccd_session__mark_chapter": 14,
+    "ToolSearch": 99,
+    "Bash": 2326,
+    "Read": 1733,
+    "Edit": 510,
+    "mcp__ccd_session__mark_chapter": 16,
     "Monitor": 3,
-    "ScheduleWakeup": 3,
+    "ScheduleWakeup": 4,
     "TaskStop": 1,
-    "Write": 132,
+    "Write": 141,
     "mcp__playwright__browser_navigate": 6,
     "mcp__Claude_Preview__preview_list": 8,
     "Agent": 56,
@@ -456,10 +466,10 @@
     "AskUserQuestion": 18,
     "mcp__playwright__browser_resize": 3,
     "mcp__local-postgres__query": 19,
-    "Skill": 17,
+    "Skill": 19,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__get_issue": 2,
-    "TaskCreate": 60,
-    "TaskUpdate": 108,
+    "TaskCreate": 64,
+    "TaskUpdate": 116,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 46,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 17,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_projects": 1,
@@ -469,10 +479,10 @@
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_issue": 7,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_document": 1,
     "TaskList": 4,
-    "mcp__ccd_session__spawn_task": 1,
-    "mcp__Claude_Preview__preview_start": 10,
+    "mcp__ccd_session__spawn_task": 2,
+    "mcp__Claude_Preview__preview_start": 11,
     "mcp__Claude_Preview__preview_screenshot": 74,
-    "mcp__Claude_Preview__preview_stop": 3,
+    "mcp__Claude_Preview__preview_stop": 4,
     "mcp__linear-server__list_issues": 19,
     "TodoWrite": 49,
     "TaskOutput": 9,
@@ -487,21 +497,21 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 18,
     "mcp__linear-server__list_users": 3,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 11,
+    "Workflow": 3,
+    "mcp__Control_Chrome__open_url": 3,
+    "mcp__Claude_Preview__preview_eval": 124,
     "mcp__figma__get_metadata": 3,
     "mcp__figma__get_screenshot": 15,
     "mcp__figma__get_design_context": 43,
     "mcp__Claude_Preview__preview_resize": 26,
     "mcp__Claude_Preview__preview_console_logs": 7,
     "mcp__Claude_Preview__preview_network": 3,
-    "mcp__Claude_Preview__preview_eval": 119,
     "mcp__Claude_Preview__preview_inspect": 2,
     "mcp__Claude_Preview__preview_fill": 1,
     "mcp__Claude_Preview__preview_click": 2,
     "mcp__figma__get_variable_defs": 1,
-    "Workflow": 1,
     "mcp__computer-use__request_access": 1,
     "mcp__computer-use__screenshot": 1,
-    "mcp__Control_Chrome__open_url": 2,
     "mcp__Claude_Preview__preview_snapshot": 2,
     "mcp__figma__authenticate": 1
   },
