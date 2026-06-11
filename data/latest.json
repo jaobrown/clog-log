@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-11T16:00:05.911Z",
+  "generatedAt": "2026-06-11T20:00:04.715Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 112,
-    "totalDurationMs": 785089529,
-    "totalTokens": 1885870399,
+    "totalSessions": 113,
+    "totalDurationMs": 785345041,
+    "totalTokens": 1889870634,
     "projectCount": 3
   },
   "projects": [
@@ -287,9 +287,15 @@
     },
     {
       "projectName": "contra",
-      "totalSessions": 9,
-      "totalDurationMs": 24106454,
+      "totalSessions": 10,
+      "totalDurationMs": 24361966,
       "sessions": [
+        {
+          "id": "94cbf752-4ede-4f50-8025-674169a21900",
+          "title": null,
+          "timestamp": "2026-06-11T19:55:40.567Z",
+          "totalDurationMs": 255512
+        },
         {
           "id": "7556140b-15bc-47c2-a62b-07e5c7f3a739",
           "title": null,
@@ -436,8 +442,8 @@
       "durationMs": 737267
     },
     "2026-06-11": {
-      "sessions": 1,
-      "durationMs": 1796044
+      "sessions": 2,
+      "durationMs": 2051556
     },
     "2026-06-10": {
       "sessions": 1,
@@ -449,15 +455,15 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 2053691,
-    "outputTokens": 11246988,
-    "cacheReadTokens": 1797476490,
-    "cacheCreationTokens": 75093230
+    "inputTokens": 2173170,
+    "outputTokens": 11297077,
+    "cacheReadTokens": 1800666186,
+    "cacheCreationTokens": 75734201
   },
   "toolUsage": {
     "ToolSearch": 102,
-    "Bash": 2373,
-    "Read": 1738,
+    "Bash": 2383,
+    "Read": 1751,
     "Edit": 512,
     "mcp__ccd_session__mark_chapter": 16,
     "Monitor": 3,
@@ -507,8 +513,8 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_send_message": 18,
     "mcp__linear-server__list_users": 3,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 15,
+    "Workflow": 4,
     "mcp__Control_Chrome__open_url": 4,
-    "Workflow": 3,
     "mcp__Claude_Preview__preview_eval": 124,
     "mcp__figma__get_metadata": 3,
     "mcp__figma__get_screenshot": 15,
