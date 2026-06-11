@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-10T20:00:04.823Z",
+  "generatedAt": "2026-06-11T12:06:02.173Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 111,
-    "totalDurationMs": 779717906,
+    "totalDurationMs": 783293485,
     "totalTokens": 1868541267,
     "projectCount": 3
   },
@@ -288,13 +288,13 @@
     {
       "projectName": "contra",
       "totalSessions": 8,
-      "totalDurationMs": 18734831,
+      "totalDurationMs": 22310410,
       "sessions": [
         {
           "id": "da1d194d-2eba-4bc0-80fe-fbc01237d9d6",
           "title": null,
           "timestamp": "2026-06-10T18:05:02.645Z",
-          "totalDurationMs": 5451681
+          "totalDurationMs": 9027260
         },
         {
           "id": "2d601da7-3e38-4557-93d1-521792f33ba1",
@@ -431,7 +431,7 @@
     },
     "2026-06-10": {
       "sessions": 1,
-      "durationMs": 5451681
+      "durationMs": 9027260
     },
     "2026-06-09": {
       "sessions": 1,
