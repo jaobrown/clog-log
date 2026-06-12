@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-12T12:14:29.842Z",
+  "generatedAt": "2026-06-12T16:00:05.235Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 113,
-    "totalDurationMs": 790491763,
-    "totalTokens": 2164601501,
+    "totalDurationMs": 854897361,
+    "totalTokens": 2314145508,
     "projectCount": 3
   },
   "projects": [
@@ -288,13 +288,13 @@
     {
       "projectName": "contra",
       "totalSessions": 10,
-      "totalDurationMs": 29508688,
+      "totalDurationMs": 93914286,
       "sessions": [
         {
           "id": "94cbf752-4ede-4f50-8025-674169a21900",
           "title": null,
           "timestamp": "2026-06-11T19:55:40.567Z",
-          "totalDurationMs": 5402234
+          "totalDurationMs": 69807832
         },
         {
           "id": "7556140b-15bc-47c2-a62b-07e5c7f3a739",
@@ -443,7 +443,7 @@
     },
     "2026-06-11": {
       "sessions": 2,
-      "durationMs": 7198278
+      "durationMs": 71603876
     },
     "2026-06-10": {
       "sessions": 1,
@@ -455,21 +455,21 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 2313349,
-    "outputTokens": 11902395,
-    "cacheReadTokens": 2072570273,
-    "cacheCreationTokens": 77815484
+    "inputTokens": 2396343,
+    "outputTokens": 12204334,
+    "cacheReadTokens": 2214736517,
+    "cacheCreationTokens": 84808314
   },
   "toolUsage": {
-    "ToolSearch": 104,
-    "Bash": 2554,
-    "Read": 1783,
-    "Edit": 604,
-    "mcp__ccd_session__mark_chapter": 16,
+    "ToolSearch": 106,
+    "Bash": 2593,
+    "Read": 1791,
+    "Edit": 631,
+    "mcp__ccd_session__mark_chapter": 17,
     "Monitor": 3,
     "ScheduleWakeup": 4,
     "TaskStop": 1,
-    "Write": 165,
+    "Write": 170,
     "mcp__playwright__browser_navigate": 6,
     "mcp__Claude_Preview__preview_list": 8,
     "Agent": 56,
@@ -482,10 +482,10 @@
     "AskUserQuestion": 18,
     "mcp__playwright__browser_resize": 3,
     "mcp__local-postgres__query": 19,
-    "Skill": 20,
+    "Skill": 21,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__get_issue": 2,
     "TaskCreate": 69,
-    "TaskUpdate": 129,
+    "TaskUpdate": 130,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 46,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 19,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_projects": 1,
@@ -496,8 +496,8 @@
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_document": 1,
     "TaskList": 4,
     "mcp__ccd_session__spawn_task": 3,
-    "mcp__Claude_Preview__preview_start": 11,
-    "mcp__Claude_Preview__preview_screenshot": 74,
+    "mcp__Claude_Preview__preview_start": 12,
+    "mcp__Claude_Preview__preview_screenshot": 78,
     "mcp__Claude_Preview__preview_stop": 4,
     "mcp__linear-server__list_issues": 19,
     "TodoWrite": 49,
@@ -514,12 +514,12 @@
     "mcp__linear-server__list_users": 3,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 15,
     "Workflow": 5,
+    "mcp__Claude_Preview__preview_eval": 133,
+    "mcp__Claude_Preview__preview_resize": 30,
     "mcp__Control_Chrome__open_url": 4,
-    "mcp__Claude_Preview__preview_eval": 124,
     "mcp__figma__get_metadata": 3,
     "mcp__figma__get_screenshot": 15,
     "mcp__figma__get_design_context": 43,
-    "mcp__Claude_Preview__preview_resize": 26,
     "mcp__Claude_Preview__preview_console_logs": 7,
     "mcp__Claude_Preview__preview_network": 3,
     "mcp__Claude_Preview__preview_inspect": 2,
