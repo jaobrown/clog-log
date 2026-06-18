@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-17T20:00:06.000Z",
+  "generatedAt": "2026-06-18T12:09:51.605Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 100,
-    "totalDurationMs": 721653257,
-    "totalTokens": 2366115007,
-    "projectCount": 3
+    "totalSessions": 102,
+    "totalDurationMs": 750783242,
+    "totalTokens": 2560062373,
+    "projectCount": 4
   },
   "projects": [
     {
       "projectName": "top secret",
       "totalSessions": 87,
-      "totalDurationMs": 616097372,
+      "totalDurationMs": 618336596,
       "sessions": [
         {
           "id": "6f30362d-3add-4bfc-90bb-4e80b96902d8",
           "title": "**********",
           "timestamp": "2026-06-17T19:39:59.014Z",
-          "totalDurationMs": 1036516
+          "totalDurationMs": 3275740
         },
         {
           "id": "3f349595-b3f0-470c-9d2b-9f93287378c9",
@@ -317,6 +317,19 @@
       ]
     },
     {
+      "projectName": "home-office",
+      "totalSessions": 2,
+      "totalDurationMs": 26890761,
+      "sessions": [
+        {
+          "id": "686ed317-f7dd-4226-b30f-01d0332e9f85",
+          "title": null,
+          "timestamp": "2026-06-17T20:24:06.842Z",
+          "totalDurationMs": 26890761
+        }
+      ]
+    },
+    {
       "projectName": "jackal",
       "totalSessions": 2,
       "totalDurationMs": 763195,
@@ -338,8 +351,8 @@
   ],
   "activity": {
     "2026-06-17": {
-      "sessions": 3,
-      "durationMs": 1049874
+      "sessions": 5,
+      "durationMs": 30179859
     },
     "2026-06-12": {
       "sessions": 4,
@@ -415,23 +428,23 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 2707149,
-    "outputTokens": 11736784,
-    "cacheReadTokens": 2265109400,
-    "cacheCreationTokens": 86561674
+    "inputTokens": 3029735,
+    "outputTokens": 13502276,
+    "cacheReadTokens": 2452722271,
+    "cacheCreationTokens": 90808091
   },
   "toolUsage": {
-    "Workflow": 7,
-    "Read": 1769,
+    "Workflow": 8,
+    "Read": 1784,
     "mcp__visualize__read_me": 1,
-    "Bash": 2517,
+    "Bash": 2615,
     "mcp__visualize__show_widget": 1,
-    "Agent": 49,
-    "Write": 168,
-    "mcp__ccd_session__mark_chapter": 18,
+    "Agent": 50,
+    "Write": 295,
+    "mcp__ccd_session__mark_chapter": 22,
     "Monitor": 4,
-    "ToolSearch": 90,
-    "Edit": 626,
+    "ToolSearch": 93,
+    "Edit": 679,
     "ScheduleWakeup": 4,
     "TaskStop": 1,
     "mcp__playwright__browser_navigate": 6,
@@ -442,7 +455,7 @@
     "mcp__figma-desktop__get_screenshot": 19,
     "mcp__figma-desktop__get_metadata": 6,
     "mcp__figma-desktop__get_variable_defs": 2,
-    "AskUserQuestion": 18,
+    "AskUserQuestion": 19,
     "mcp__playwright__browser_resize": 3,
     "mcp__local-postgres__query": 19,
     "Skill": 21,
@@ -485,7 +498,9 @@
     "mcp__computer-use__request_access": 1,
     "mcp__computer-use__screenshot": 1,
     "mcp__Claude_Preview__preview_snapshot": 2,
-    "mcp__figma__authenticate": 1
+    "mcp__figma__authenticate": 1,
+    "WebFetch": 28,
+    "WebSearch": 2
   },
   "modelBreakdown": {
     "opus-4.5": {
