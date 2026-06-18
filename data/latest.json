@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-18T12:09:51.605Z",
+  "generatedAt": "2026-06-18T16:00:05.979Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 102,
-    "totalDurationMs": 750783242,
-    "totalTokens": 2560062373,
+    "totalSessions": 88,
+    "totalDurationMs": 399394291,
+    "totalTokens": 2121017091,
     "projectCount": 4
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 87,
-      "totalDurationMs": 618336596,
+      "totalSessions": 71,
+      "totalDurationMs": 222870427,
       "sessions": [
         {
           "id": "6f30362d-3add-4bfc-90bb-4e80b96902d8",
@@ -212,30 +212,6 @@
           "totalDurationMs": 860222
         },
         {
-          "id": "3db400da-7154-4e48-a029-248ff255bdfa",
-          "title": "**********",
-          "timestamp": "2026-05-18T21:25:36.996Z",
-          "totalDurationMs": 104395
-        },
-        {
-          "id": "589da3e8-ac93-4ab5-a07a-307ec863ad84",
-          "title": "**********",
-          "timestamp": "2026-05-18T21:25:09.914Z",
-          "totalDurationMs": 326123
-        },
-        {
-          "id": "97f39ba5-c2d8-4ec3-8eb5-89412e4f3db1",
-          "title": "**********",
-          "timestamp": "2026-05-18T15:46:26.033Z",
-          "totalDurationMs": 30409218
-        },
-        {
-          "id": "2c78c75f-8fe7-451c-ba48-246fa8b26391",
-          "title": "**********",
-          "timestamp": "2026-05-14T18:12:01.080Z",
-          "totalDurationMs": 364626433
-        },
-        {
           "id": "3e8b4cc1-301c-469a-82b0-4b55bcb9341e",
           "title": "**********",
           "timestamp": "2026-05-12T17:59:09.214Z",
@@ -318,14 +294,26 @@
     },
     {
       "projectName": "home-office",
-      "totalSessions": 2,
-      "totalDurationMs": 26890761,
+      "totalSessions": 4,
+      "totalDurationMs": 70967979,
       "sessions": [
+        {
+          "id": "36fe7681-83f8-4917-9d49-6d2869f8ede6",
+          "title": null,
+          "timestamp": "2026-06-18T15:09:43.014Z",
+          "totalDurationMs": 2986199
+        },
+        {
+          "id": "d00e89c7-02ff-43a2-b256-dc4c2a86d936",
+          "title": null,
+          "timestamp": "2026-06-18T15:09:21.114Z",
+          "totalDurationMs": 3902
+        },
         {
           "id": "686ed317-f7dd-4226-b30f-01d0332e9f85",
           "title": null,
           "timestamp": "2026-06-17T20:24:06.842Z",
-          "totalDurationMs": 26890761
+          "totalDurationMs": 67977878
         }
       ]
     },
@@ -352,7 +340,7 @@
   "activity": {
     "2026-06-17": {
       "sessions": 5,
-      "durationMs": 30179859
+      "durationMs": 71266976
     },
     "2026-06-12": {
       "sessions": 4,
@@ -402,14 +390,6 @@
       "sessions": 2,
       "durationMs": 68910367
     },
-    "2026-05-18": {
-      "sessions": 15,
-      "durationMs": 30839736
-    },
-    "2026-05-14": {
-      "sessions": 1,
-      "durationMs": 364626433
-    },
     "2026-05-12": {
       "sessions": 1,
       "durationMs": 12310
@@ -425,45 +405,49 @@
     "2026-06-09": {
       "sessions": 1,
       "durationMs": 378427
+    },
+    "2026-06-18": {
+      "sessions": 2,
+      "durationMs": 2990101
     }
   },
   "tokenUsage": {
-    "inputTokens": 3029735,
-    "outputTokens": 13502276,
-    "cacheReadTokens": 2452722271,
-    "cacheCreationTokens": 90808091
+    "inputTokens": 3160376,
+    "outputTokens": 13124352,
+    "cacheReadTokens": 2020604632,
+    "cacheCreationTokens": 84127731
   },
   "toolUsage": {
-    "Workflow": 8,
-    "Read": 1784,
+    "Workflow": 9,
+    "Read": 1248,
     "mcp__visualize__read_me": 1,
-    "Bash": 2615,
+    "Bash": 2081,
     "mcp__visualize__show_widget": 1,
-    "Agent": 50,
-    "Write": 295,
-    "mcp__ccd_session__mark_chapter": 22,
+    "Agent": 38,
+    "Write": 282,
+    "mcp__ccd_session__mark_chapter": 23,
     "Monitor": 4,
-    "ToolSearch": 93,
-    "Edit": 679,
+    "ToolSearch": 84,
+    "Edit": 620,
     "ScheduleWakeup": 4,
     "TaskStop": 1,
     "mcp__playwright__browser_navigate": 6,
     "mcp__Claude_Preview__preview_list": 8,
-    "Grep": 202,
-    "Glob": 35,
-    "mcp__figma-desktop__get_design_context": 9,
-    "mcp__figma-desktop__get_screenshot": 19,
-    "mcp__figma-desktop__get_metadata": 6,
+    "Grep": 83,
+    "Glob": 23,
+    "mcp__figma-desktop__get_design_context": 4,
+    "mcp__figma-desktop__get_screenshot": 13,
+    "mcp__figma-desktop__get_metadata": 5,
     "mcp__figma-desktop__get_variable_defs": 2,
-    "AskUserQuestion": 19,
-    "mcp__playwright__browser_resize": 3,
-    "mcp__local-postgres__query": 19,
-    "Skill": 21,
+    "AskUserQuestion": 15,
+    "mcp__playwright__browser_resize": 2,
+    "mcp__local-postgres__query": 17,
+    "Skill": 20,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__get_issue": 2,
     "TaskCreate": 69,
     "TaskUpdate": 130,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 28,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 8,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 20,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 7,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_projects": 1,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_issues": 4,
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__list_documents": 1,
@@ -475,17 +459,12 @@
     "mcp__Claude_Preview__preview_start": 12,
     "mcp__Claude_Preview__preview_screenshot": 78,
     "mcp__Claude_Preview__preview_stop": 4,
-    "mcp__linear-server__list_issues": 5,
-    "TodoWrite": 17,
-    "TaskOutput": 9,
-    "mcp__linear-server__get_project": 1,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 2,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 4,
-    "mcp__linear-server__get_issue": 1,
+    "mcp__linear-server__list_issues": 2,
     "mcp__Claude_Preview__preview_eval": 133,
     "mcp__Claude_Preview__preview_resize": 30,
     "mcp__Control_Chrome__open_url": 4,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 4,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 1,
     "mcp__figma__get_metadata": 3,
     "mcp__figma__get_screenshot": 15,
     "mcp__figma__get_design_context": 43,
