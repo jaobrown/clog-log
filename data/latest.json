@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-19T12:07:42.691Z",
+  "generatedAt": "2026-06-19T16:07:44.956Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 92,
-    "totalDurationMs": 459278267,
+    "totalDurationMs": 487950792,
     "totalTokens": 2554631774,
     "projectCount": 4
   },
@@ -228,13 +228,13 @@
     {
       "projectName": "home-office",
       "totalSessions": 7,
-      "totalDurationMs": 123559633,
+      "totalDurationMs": 152232158,
       "sessions": [
         {
           "id": "b301815a-9650-46d0-b01d-962caf24221b",
           "title": null,
           "timestamp": "2026-06-18T20:49:48.655Z",
-          "totalDurationMs": 35496201
+          "totalDurationMs": 64168726
         },
         {
           "id": "47bde4cf-f7d6-483c-af7d-1f8c5b80fc69",
@@ -358,7 +358,7 @@
   "activity": {
     "2026-06-18": {
       "sessions": 6,
-      "durationMs": 62874077
+      "durationMs": 91546602
     },
     "2026-06-17": {
       "sessions": 5,
