@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-29T20:00:06.025Z",
+  "generatedAt": "2026-06-30T12:08:47.678Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 84,
-    "totalDurationMs": 1151618804,
-    "totalTokens": 3361442297,
+    "totalSessions": 85,
+    "totalDurationMs": 1153737590,
+    "totalTokens": 3362975941,
     "projectCount": 3
   },
   "projects": [
     {
       "projectName": "top secret",
       "totalSessions": 62,
-      "totalDurationMs": 530190331,
+      "totalDurationMs": 532041747,
       "sessions": [
         {
           "id": "4a4b3a8e-f8a7-46a8-a90a-b0d8796513db",
           "title": "**********",
           "timestamp": "2026-06-29T19:23:36.747Z",
-          "totalDurationMs": 2075490
+          "totalDurationMs": 3926906
         },
         {
           "id": "3dc6d201-d976-4b00-b2f7-65750d090afd",
@@ -228,9 +228,15 @@
     },
     {
       "projectName": "contra",
-      "totalSessions": 11,
-      "totalDurationMs": 104792690,
+      "totalSessions": 12,
+      "totalDurationMs": 105060060,
       "sessions": [
+        {
+          "id": "e0a1e670-b267-4935-8c9f-c524ea9002dc",
+          "title": null,
+          "timestamp": "2026-06-29T20:48:55.402Z",
+          "totalDurationMs": 267370
+        },
         {
           "id": "6158f513-2f4e-46ef-ab8f-d3b6a473dde2",
           "title": "Command Session (/improve)",
@@ -302,8 +308,8 @@
   ],
   "activity": {
     "2026-06-29": {
-      "sessions": 12,
-      "durationMs": 12358867
+      "sessions": 13,
+      "durationMs": 14477653
     },
     "2026-06-18": {
       "sessions": 11,
@@ -367,28 +373,28 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 5463260,
-    "outputTokens": 17558824,
-    "cacheReadTokens": 3248964503,
-    "cacheCreationTokens": 89455710
+    "inputTokens": 5528463,
+    "outputTokens": 17598382,
+    "cacheReadTokens": 3250235465,
+    "cacheCreationTokens": 89613631
   },
   "toolUsage": {
-    "Bash": 2232,
-    "Read": 1395,
+    "Bash": 2236,
+    "Read": 1398,
     "Edit": 864,
     "Agent": 40,
     "TaskCreate": 59,
     "mcp__ccd_session__spawn_task": 3,
     "mcp__ccd_session__mark_chapter": 32,
     "Workflow": 20,
-    "ToolSearch": 82,
+    "ToolSearch": 83,
     "mcp__local-postgres__query": 41,
     "Write": 387,
     "AskUserQuestion": 19,
     "bash": 1,
     "ScheduleWakeup": 5,
     "ExitPlanMode": 4,
-    "WebFetch": 31,
+    "WebFetch": 32,
     "Skill": 17,
     "mcp__playwright__browser_navigate": 5,
     "TaskUpdate": 103,
