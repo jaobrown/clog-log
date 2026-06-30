@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-06-30T12:08:47.678Z",
+  "generatedAt": "2026-06-30T16:00:00.753Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 85,
-    "totalDurationMs": 1153737590,
-    "totalTokens": 3362975941,
+    "totalSessions": 88,
+    "totalDurationMs": 1304313455,
+    "totalTokens": 3439702138,
     "projectCount": 3
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 62,
-      "totalDurationMs": 532041747,
+      "totalSessions": 63,
+      "totalDurationMs": 616314772,
       "sessions": [
+        {
+          "id": "d13ed322-4729-4546-9ec0-6791f0f68e71",
+          "title": "**********",
+          "timestamp": "2026-06-30T15:33:07.306Z",
+          "totalDurationMs": 547714
+        },
         {
           "id": "4a4b3a8e-f8a7-46a8-a90a-b0d8796513db",
           "title": "**********",
@@ -47,7 +53,7 @@
           "id": "fd388909-f207-45c4-af92-71a8de1657e2",
           "title": "**********",
           "timestamp": "2026-06-29T15:38:04.409Z",
-          "totalDurationMs": 2188710
+          "totalDurationMs": 85914021
         },
         {
           "id": "c11447ff-8c04-4210-876b-97341cdab87b",
@@ -185,9 +191,15 @@
     },
     {
       "projectName": "home-office",
-      "totalSessions": 11,
-      "totalDurationMs": 516635783,
+      "totalSessions": 12,
+      "totalDurationMs": 516638088,
       "sessions": [
+        {
+          "id": "3b962e56-288f-401b-aa1f-5e246f4f8502",
+          "title": null,
+          "timestamp": "2026-06-30T14:06:51.701Z",
+          "totalDurationMs": 2305
+        },
         {
           "id": "5b4c7918-7414-4ddc-bb48-8cd7c8ba43df",
           "title": null,
@@ -228,14 +240,20 @@
     },
     {
       "projectName": "contra",
-      "totalSessions": 12,
-      "totalDurationMs": 105060060,
+      "totalSessions": 13,
+      "totalDurationMs": 171360595,
       "sessions": [
+        {
+          "id": "4d6765cf-51bc-4b20-9ae0-410fc2af465c",
+          "title": null,
+          "timestamp": "2026-06-30T14:32:40.262Z",
+          "totalDurationMs": 2893969
+        },
         {
           "id": "e0a1e670-b267-4935-8c9f-c524ea9002dc",
           "title": null,
           "timestamp": "2026-06-29T20:48:55.402Z",
-          "totalDurationMs": 267370
+          "totalDurationMs": 63673936
         },
         {
           "id": "6158f513-2f4e-46ef-ab8f-d3b6a473dde2",
@@ -307,9 +325,13 @@
     }
   ],
   "activity": {
+    "2026-06-30": {
+      "sessions": 3,
+      "durationMs": 3443988
+    },
     "2026-06-29": {
       "sessions": 13,
-      "durationMs": 14477653
+      "durationMs": 161609530
     },
     "2026-06-18": {
       "sessions": 11,
@@ -373,23 +395,23 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 5528463,
-    "outputTokens": 17598382,
-    "cacheReadTokens": 3250235465,
-    "cacheCreationTokens": 89613631
+    "inputTokens": 5827409,
+    "outputTokens": 18176788,
+    "cacheReadTokens": 3323386039,
+    "cacheCreationTokens": 92311902
   },
   "toolUsage": {
-    "Bash": 2236,
-    "Read": 1398,
-    "Edit": 864,
+    "Bash": 2314,
+    "Read": 1425,
+    "Edit": 934,
+    "Write": 400,
     "Agent": 40,
     "TaskCreate": 59,
     "mcp__ccd_session__spawn_task": 3,
-    "mcp__ccd_session__mark_chapter": 32,
-    "Workflow": 20,
+    "mcp__ccd_session__mark_chapter": 33,
+    "Workflow": 21,
     "ToolSearch": 83,
     "mcp__local-postgres__query": 41,
-    "Write": 387,
     "AskUserQuestion": 19,
     "bash": 1,
     "ScheduleWakeup": 5,
