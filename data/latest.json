@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-01T16:00:06.339Z",
+  "generatedAt": "2026-07-01T20:00:04.553Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 106,
-    "totalDurationMs": 1465305578,
-    "totalTokens": 3888723652,
+    "totalSessions": 107,
+    "totalDurationMs": 1475277339,
+    "totalTokens": 3923256052,
     "projectCount": 3
   },
   "projects": [
@@ -246,14 +246,20 @@
     },
     {
       "projectName": "contra",
-      "totalSessions": 30,
-      "totalDurationMs": 328121033,
+      "totalSessions": 31,
+      "totalDurationMs": 338092794,
       "sessions": [
+        {
+          "id": "e332f3bc-26f7-4b35-87fd-a138028bd854",
+          "title": null,
+          "timestamp": "2026-07-01T16:51:46.686Z",
+          "totalDurationMs": 2094299
+        },
         {
           "id": "291e14d2-ee29-4533-81a5-2d35600cc3eb",
           "title": null,
           "timestamp": "2026-07-01T15:09:53.197Z",
-          "totalDurationMs": 2430250
+          "totalDurationMs": 10307712
         },
         {
           "id": "f53e8c0b-7b02-44e9-b24c-b210c4be3601",
@@ -484,8 +490,8 @@
       "durationMs": 475704
     },
     "2026-07-01": {
-      "sessions": 4,
-      "durationMs": 6972866
+      "sessions": 5,
+      "durationMs": 16944627
     },
     "2026-06-11": {
       "sessions": 2,
@@ -501,21 +507,21 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 7504613,
-    "outputTokens": 22047088,
-    "cacheReadTokens": 3752026867,
-    "cacheCreationTokens": 107145084
+    "inputTokens": 7585717,
+    "outputTokens": 22415116,
+    "cacheReadTokens": 3783071392,
+    "cacheCreationTokens": 110183827
   },
   "toolUsage": {
-    "Bash": 2491,
-    "Read": 1606,
-    "Edit": 1135,
-    "Write": 424,
+    "Bash": 2515,
+    "Read": 1630,
+    "Edit": 1139,
+    "Write": 429,
     "Agent": 41,
     "TaskCreate": 59,
     "mcp__ccd_session__spawn_task": 3,
-    "mcp__ccd_session__mark_chapter": 37,
-    "Workflow": 25,
+    "mcp__ccd_session__mark_chapter": 39,
+    "Workflow": 28,
     "ToolSearch": 117,
     "mcp__local-postgres__query": 41,
     "AskUserQuestion": 20,
@@ -549,11 +555,11 @@
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_document": 1,
     "TaskList": 4,
     "WebSearch": 2,
-    "mcp__Claude_Preview__preview_start": 33,
-    "mcp__Claude_Preview__preview_resize": 92,
-    "mcp__Claude_Preview__preview_screenshot": 180,
-    "mcp__Claude_Preview__preview_eval": 325,
-    "mcp__Claude_Preview__preview_stop": 4,
+    "mcp__Claude_Preview__preview_start": 35,
+    "mcp__Claude_Preview__preview_resize": 94,
+    "mcp__Claude_Preview__preview_eval": 332,
+    "mcp__Claude_Preview__preview_screenshot": 184,
+    "mcp__Claude_Preview__preview_stop": 5,
     "mcp__Claude_Preview__preview_console_logs": 25,
     "mcp__Claude_Preview__preview_click": 14,
     "mcp__Claude_Preview__preview_fill": 5,
