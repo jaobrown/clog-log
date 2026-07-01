@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-30T20:00:05.724Z",
+  "generatedAt": "2026-07-01T12:05:08.554Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 98,
-    "totalDurationMs": 1317791250,
-    "totalTokens": 3516116427,
+    "totalSessions": 102,
+    "totalDurationMs": 1330267430,
+    "totalTokens": 3799638699,
     "projectCount": 3
   },
   "projects": [
@@ -246,9 +246,33 @@
     },
     {
       "projectName": "contra",
-      "totalSessions": 22,
-      "totalDurationMs": 180606705,
+      "totalSessions": 26,
+      "totalDurationMs": 193082885,
       "sessions": [
+        {
+          "id": "8f38f6f2-b375-4bb8-845c-1abe797363c5",
+          "title": null,
+          "timestamp": "2026-06-30T20:20:20.684Z",
+          "totalDurationMs": 1731825
+        },
+        {
+          "id": "87c86f61-50b4-45c1-8e1e-566908d5cd74",
+          "title": null,
+          "timestamp": "2026-06-30T20:20:06.558Z",
+          "totalDurationMs": 1624177
+        },
+        {
+          "id": "e162c385-7081-4ffb-b72c-21dddc38fc1a",
+          "title": null,
+          "timestamp": "2026-06-30T20:19:54.804Z",
+          "totalDurationMs": 1194381
+        },
+        {
+          "id": "f32040da-7012-41e8-8611-5063b8183ccf",
+          "title": null,
+          "timestamp": "2026-06-30T20:06:14.483Z",
+          "totalDurationMs": 773287
+        },
         {
           "id": "5c3edcd2-60c1-463f-b59c-d5187f51ce00",
           "title": null,
@@ -265,7 +289,7 @@
           "id": "a8a9a97a-e56f-448c-8984-0a0a019cbbb3",
           "title": "Command Session (/improve)",
           "timestamp": "2026-06-30T19:19:05.531Z",
-          "totalDurationMs": 2525992
+          "totalDurationMs": 9678502
         },
         {
           "id": "701b2e1a-e15a-4450-953a-dd7e5fc3fa90",
@@ -380,8 +404,8 @@
   ],
   "activity": {
     "2026-06-30": {
-      "sessions": 13,
-      "durationMs": 16921783
+      "sessions": 17,
+      "durationMs": 29397963
     },
     "2026-06-29": {
       "sessions": 13,
@@ -449,28 +473,28 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 6687030,
-    "outputTokens": 19349361,
-    "cacheReadTokens": 3393346637,
-    "cacheCreationTokens": 96733399
+    "inputTokens": 7100645,
+    "outputTokens": 21034921,
+    "cacheReadTokens": 3667695508,
+    "cacheCreationTokens": 103807625
   },
   "toolUsage": {
-    "Bash": 2389,
-    "Read": 1497,
-    "Edit": 976,
-    "Write": 412,
+    "Bash": 2451,
+    "Read": 1546,
+    "Edit": 1096,
+    "Write": 418,
     "Agent": 41,
     "TaskCreate": 59,
     "mcp__ccd_session__spawn_task": 3,
     "mcp__ccd_session__mark_chapter": 34,
-    "Workflow": 21,
-    "ToolSearch": 104,
+    "Workflow": 23,
+    "ToolSearch": 113,
     "mcp__local-postgres__query": 41,
     "AskUserQuestion": 20,
     "bash": 1,
     "ScheduleWakeup": 5,
     "ExitPlanMode": 4,
-    "WebFetch": 40,
+    "WebFetch": 46,
     "Skill": 24,
     "mcp__playwright__browser_navigate": 5,
     "TaskUpdate": 103,
@@ -497,11 +521,13 @@
     "mcp__9904539c-0153-41b4-9429-dc44c1567799__save_document": 1,
     "TaskList": 4,
     "WebSearch": 2,
-    "mcp__Claude_Preview__preview_start": 22,
-    "mcp__Claude_Preview__preview_eval": 161,
-    "mcp__Claude_Preview__preview_resize": 51,
-    "mcp__Claude_Preview__preview_screenshot": 100,
-    "mcp__Claude_Preview__preview_console_logs": 12,
+    "mcp__Claude_Preview__preview_start": 25,
+    "mcp__Claude_Preview__preview_eval": 269,
+    "mcp__Claude_Preview__preview_resize": 76,
+    "mcp__Claude_Preview__preview_console_logs": 19,
+    "mcp__Claude_Preview__preview_screenshot": 141,
+    "mcp__Claude_Preview__preview_click": 9,
+    "mcp__Claude_Preview__preview_fill": 4,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__get_user_profile_by_username": 1,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__list_services": 1,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__list_products": 1,
@@ -514,8 +540,6 @@
     "mcp__figma__get_design_context": 43,
     "mcp__Claude_Preview__preview_network": 3,
     "mcp__Claude_Preview__preview_inspect": 2,
-    "mcp__Claude_Preview__preview_fill": 1,
-    "mcp__Claude_Preview__preview_click": 2,
     "mcp__figma__get_variable_defs": 1,
     "mcp__computer-use__request_access": 1,
     "mcp__computer-use__screenshot": 1,
