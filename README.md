@@ -6,8 +6,8 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   102             Tokens     3.8B
-  Duration   369h 31m        Projects   3
+  Sessions   106             Tokens     3.9B
+  Duration   407h 1m         Projects   3
 
 ```
 
@@ -17,7 +17,7 @@ TOP PROJECTS
 
   top secret     ####################  172h 22m
   home-office    #################---  143h 30m
-  contra         ######--------------   53h 38m
+  contra         ###########---------    91h 8m
 
 ```
 
@@ -25,11 +25,11 @@ TOP PROJECTS
 RECENT SESSIONS
 ==================================================
 
+  2026-07-01  contra      untitled                   26.3M       40m
+  2026-07-01  contra      untitled                   16.4M       24m
+  2026-07-01  contra      untitled                   24.0M       26m
+  2026-07-01  contra      untitled                   20.3M       23m
   2026-06-30  contra      untitled                   34.2M       28m
-  2026-06-30  contra      untitled                   38.2M       27m
-  2026-06-30  contra      untitled                   14.4M       19m
-  2026-06-30  contra      untitled                  723.3k       12m
-  2026-06-30  contra      untitled                    3.3M        5m
 
 ```
 
