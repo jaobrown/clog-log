@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-06T20:00:05.739Z",
+  "generatedAt": "2026-07-07T13:19:08.856Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 83,
-    "totalDurationMs": 1448836044,
-    "totalTokens": 3570940110,
-    "projectCount": 4
+    "totalSessions": 90,
+    "totalDurationMs": 1481821272,
+    "totalTokens": 3671375418,
+    "projectCount": 6
   },
   "projects": [
     {
@@ -361,22 +361,78 @@
     },
     {
       "projectName": "Developer",
-      "totalSessions": 1,
-      "totalDurationMs": 3109015,
+      "totalSessions": 2,
+      "totalDurationMs": 30673259,
       "sessions": [
+        {
+          "id": "ac693c2e-55b8-400c-904c-c761df774b71",
+          "title": "(no title)",
+          "timestamp": "2026-07-07T02:22:51.049Z",
+          "totalDurationMs": 1049992
+        },
         {
           "id": "eddfa2f3-2129-4ed3-83ac-d819fafbec91",
           "title": "(no title)",
           "timestamp": "2026-07-06T18:04:36.982Z",
-          "totalDurationMs": 3109015
+          "totalDurationMs": 29623267
+        }
+      ]
+    },
+    {
+      "projectName": "kody",
+      "totalSessions": 3,
+      "totalDurationMs": 5420882,
+      "sessions": [
+        {
+          "id": "1cb66015-eee2-4b70-b2c0-7dfa81a8870d",
+          "title": null,
+          "timestamp": "2026-07-07T02:16:48.108Z",
+          "totalDurationMs": 55496
+        },
+        {
+          "id": "a7e5304a-3cea-426d-bc91-5b2242a0d100",
+          "title": "Command Session (/mcp)",
+          "timestamp": "2026-07-07T02:11:01.680Z",
+          "totalDurationMs": 0
+        },
+        {
+          "id": "a95b041b-61f7-432d-8195-4476ca236a1c",
+          "title": null,
+          "timestamp": "2026-07-06T20:04:06.247Z",
+          "totalDurationMs": 5365386
+        }
+      ]
+    },
+    {
+      "projectName": "kody-finance",
+      "totalSessions": 3,
+      "totalDurationMs": 102,
+      "sessions": [
+        {
+          "id": "fc5d1f4e-d3d5-4f16-9319-da99fb64e952",
+          "title": null,
+          "timestamp": "2026-07-07T02:15:22.602Z",
+          "totalDurationMs": 33
+        },
+        {
+          "id": "987dffa9-dcae-4191-8dc0-8100099a2f5c",
+          "title": null,
+          "timestamp": "2026-07-07T02:15:11.417Z",
+          "totalDurationMs": 35
+        },
+        {
+          "id": "d53f36f1-75ad-48e4-874e-b5105b2377da",
+          "title": null,
+          "timestamp": "2026-07-07T02:14:05.349Z",
+          "totalDurationMs": 34
         }
       ]
     }
   ],
   "activity": {
     "2026-07-06": {
-      "sessions": 12,
-      "durationMs": 21300002
+      "sessions": 13,
+      "durationMs": 53179640
     },
     "2026-07-01": {
       "sessions": 6,
@@ -421,18 +477,22 @@
     "2026-06-09": {
       "sessions": 1,
       "durationMs": 378427
+    },
+    "2026-07-07": {
+      "sessions": 6,
+      "durationMs": 1105590
     }
   },
   "tokenUsage": {
-    "inputTokens": 7401206,
-    "outputTokens": 18256876,
-    "cacheReadTokens": 3454623297,
-    "cacheCreationTokens": 90658731
+    "inputTokens": 7684069,
+    "outputTokens": 19125673,
+    "cacheReadTokens": 3550521957,
+    "cacheCreationTokens": 94043719
   },
   "toolUsage": {
-    "Bash": 2479,
-    "Read": 1169,
-    "ToolSearch": 101,
+    "Bash": 2630,
+    "Read": 1188,
+    "ToolSearch": 109,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 2,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 8,
     "Agent": 28,
@@ -446,19 +506,19 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 5,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 1,
     "mcp__local-postgres__query": 33,
-    "Write": 395,
+    "Write": 431,
     "Workflow": 29,
-    "Edit": 972,
-    "TaskCreate": 33,
+    "Edit": 989,
+    "TaskCreate": 36,
     "mcp__ccd_session__spawn_task": 3,
     "AskUserQuestion": 15,
     "bash": 1,
     "ScheduleWakeup": 3,
     "ExitPlanMode": 4,
-    "WebFetch": 62,
+    "WebFetch": 66,
     "Skill": 21,
     "mcp__playwright__browser_navigate": 1,
-    "TaskUpdate": 59,
+    "TaskUpdate": 65,
     "mcp__visualize__read_me": 1,
     "mcp__visualize__show_widget": 1,
     "WebSearch": 5,
@@ -483,7 +543,9 @@
     "mcp__computer-use__request_access": 1,
     "mcp__computer-use__screenshot": 1,
     "mcp__Claude_Preview__preview_snapshot": 2,
-    "mcp__figma__authenticate": 1
+    "mcp__figma__authenticate": 1,
+    "mcp__kody__search": 8,
+    "mcp__kody__execute": 15
   },
   "modelBreakdown": {
     "opus-4.5": {
