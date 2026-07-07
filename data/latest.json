@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-07T16:00:06.079Z",
+  "generatedAt": "2026-07-07T20:00:03.032Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 91,
-    "totalDurationMs": 1530490680,
-    "totalTokens": 3799342551,
+    "totalSessions": 104,
+    "totalDurationMs": 1618317888,
+    "totalTokens": 3854892429,
     "projectCount": 6
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 39,
-      "totalDurationMs": 590996147,
+      "totalSessions": 52,
+      "totalDurationMs": 678823355,
       "sessions": [
         {
           "id": "fd586cf0-25bf-40ca-bbb9-2c1acc27eb51",
           "title": "**********",
           "timestamp": "2026-07-06T18:16:41.937Z",
-          "totalDurationMs": 4428846
+          "totalDurationMs": 92256054
         },
         {
           "id": "97970580-fb5a-48e8-af4a-87030335c452",
@@ -437,8 +437,8 @@
   ],
   "activity": {
     "2026-07-06": {
-      "sessions": 13,
-      "durationMs": 53179640
+      "sessions": 26,
+      "durationMs": 141006848
     },
     "2026-07-01": {
       "sessions": 6,
@@ -490,18 +490,23 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 7810020,
-    "outputTokens": 19969442,
-    "cacheReadTokens": 3675041772,
-    "cacheCreationTokens": 96521317
+    "inputTokens": 9919868,
+    "outputTokens": 20609954,
+    "cacheReadTokens": 3722765685,
+    "cacheCreationTokens": 101596922
   },
   "toolUsage": {
-    "Bash": 2798,
-    "Read": 1192,
-    "ToolSearch": 112,
+    "Bash": 2827,
+    "Read": 1296,
+    "Write": 447,
+    "Edit": 1048,
+    "Skill": 22,
+    "Artifact": 9,
+    "Agent": 41,
+    "ToolSearch": 113,
+    "WebSearch": 7,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 2,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 8,
-    "Agent": 28,
     "Monitor": 3,
     "mcp__ccd_session__mark_chapter": 32,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 1,
@@ -512,9 +517,7 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 5,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 1,
     "mcp__local-postgres__query": 33,
-    "Write": 439,
     "Workflow": 29,
-    "Edit": 1001,
     "TaskCreate": 40,
     "mcp__ccd_session__spawn_task": 4,
     "AskUserQuestion": 15,
@@ -522,12 +525,10 @@
     "ScheduleWakeup": 3,
     "ExitPlanMode": 4,
     "WebFetch": 66,
-    "Skill": 21,
     "mcp__playwright__browser_navigate": 1,
     "TaskUpdate": 73,
     "mcp__visualize__read_me": 1,
     "mcp__visualize__show_widget": 1,
-    "WebSearch": 5,
     "mcp__Claude_Preview__preview_start": 35,
     "mcp__Claude_Preview__preview_resize": 94,
     "mcp__Claude_Preview__preview_eval": 332,
