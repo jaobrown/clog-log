@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-07-09T20:00:06.208Z",
+  "generatedAt": "2026-07-10T14:13:38.463Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 138,
-    "totalDurationMs": 1701845300,
-    "totalTokens": 3922415123,
+    "totalSessions": 141,
+    "totalDurationMs": 1707322882,
+    "totalTokens": 4081557790,
     "projectCount": 6
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 86,
-      "totalDurationMs": 771949007,
+      "totalSessions": 87,
+      "totalDurationMs": 774781185,
       "sessions": [
+        {
+          "id": "486e534b-f4c5-4408-8ce4-77c1582dd60c",
+          "title": "**********",
+          "timestamp": "2026-07-09T20:20:37.424Z",
+          "totalDurationMs": 2832178
+        },
         {
           "id": "cca081b2-017a-4e16-9922-e043608d83bf",
           "title": "**********",
@@ -119,9 +125,21 @@
     },
     {
       "projectName": "home-office",
-      "totalSessions": 18,
-      "totalDurationMs": 519944571,
+      "totalSessions": 20,
+      "totalDurationMs": 522589975,
       "sessions": [
+        {
+          "id": "d4300db0-dc37-4c85-b69b-8cbea4fd5c5a",
+          "title": "Command Session (/frontend-design)",
+          "timestamp": "2026-07-10T03:11:16.295Z",
+          "totalDurationMs": 2632438
+        },
+        {
+          "id": "dd74ad74-25c2-4e35-bb42-45355e1f931a",
+          "title": "Command Session (/improve)",
+          "timestamp": "2026-07-10T03:08:39.750Z",
+          "totalDurationMs": 12966
+        },
         {
           "id": "c13240ae-6e27-42dd-962b-09d6e2a2ed99",
           "title": null,
@@ -400,6 +418,10 @@
     }
   ],
   "activity": {
+    "2026-07-09": {
+      "sessions": 7,
+      "durationMs": 6138661
+    },
     "2026-07-08": {
       "sessions": 1,
       "durationMs": 800822
@@ -432,9 +454,9 @@
       "sessions": 4,
       "durationMs": 15065654
     },
-    "2026-07-09": {
-      "sessions": 6,
-      "durationMs": 3306483
+    "2026-07-10": {
+      "sessions": 2,
+      "durationMs": 2645404
     },
     "2026-06-23": {
       "sessions": 3,
@@ -458,22 +480,26 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 15421221,
-    "outputTokens": 20625564,
-    "cacheReadTokens": 3781731148,
-    "cacheCreationTokens": 104637190
+    "inputTokens": 15765104,
+    "outputTokens": 21272474,
+    "cacheReadTokens": 3937726162,
+    "cacheCreationTokens": 106794050
   },
   "toolUsage": {
-    "ToolSearch": 87,
+    "Skill": 24,
+    "Bash": 3070,
+    "Workflow": 30,
+    "ToolSearch": 89,
+    "TaskCreate": 44,
+    "TaskUpdate": 80,
+    "TaskOutput": 2,
+    "Read": 1709,
+    "Edit": 1194,
+    "Write": 464,
     "mcp__computer-use__request_access": 1,
     "mcp__Control_Chrome__list_tabs": 2,
     "mcp__computer-use__screenshot": 2,
     "mcp__computer-use__open_application": 1,
-    "Bash": 2944,
-    "Read": 1640,
-    "Write": 448,
-    "Edit": 1078,
-    "Skill": 22,
     "Artifact": 17,
     "Agent": 81,
     "WebSearch": 26,
@@ -489,8 +515,6 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 5,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 1,
     "mcp__local-postgres__query": 33,
-    "Workflow": 28,
-    "TaskCreate": 40,
     "mcp__ccd_session__spawn_task": 4,
     "AskUserQuestion": 16,
     "bash": 1,
@@ -498,18 +522,17 @@
     "ExitPlanMode": 5,
     "WebFetch": 70,
     "mcp__playwright__browser_navigate": 1,
-    "TaskUpdate": 73,
     "mcp__visualize__read_me": 1,
     "mcp__visualize__show_widget": 1,
-    "mcp__Claude_Preview__preview_start": 26,
-    "mcp__Claude_Preview__preview_resize": 68,
-    "mcp__Claude_Preview__preview_eval": 213,
-    "mcp__Claude_Preview__preview_screenshot": 112,
+    "mcp__Claude_Preview__preview_start": 29,
+    "mcp__Claude_Preview__preview_screenshot": 137,
+    "mcp__Claude_Preview__preview_fill": 10,
+    "mcp__Claude_Preview__preview_click": 25,
+    "mcp__Claude_Preview__preview_stop": 4,
+    "mcp__Claude_Preview__preview_eval": 225,
+    "mcp__Claude_Preview__preview_resize": 69,
     "mcp__Claude_Preview__preview_list": 4,
-    "mcp__Claude_Preview__preview_stop": 3,
     "mcp__Claude_Preview__preview_console_logs": 18,
-    "mcp__Claude_Preview__preview_click": 12,
-    "mcp__Claude_Preview__preview_fill": 4,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__list_services": 1,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__list_products": 1,
     "mcp__Control_Chrome__open_url": 2,
