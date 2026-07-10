@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-07-10T14:13:38.463Z",
+  "generatedAt": "2026-07-10T16:00:06.973Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 141,
-    "totalDurationMs": 1707322882,
-    "totalTokens": 4081557790,
+    "totalSessions": 148,
+    "totalDurationMs": 1712420943,
+    "totalTokens": 4129849848,
     "projectCount": 6
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 87,
-      "totalDurationMs": 774781185,
+      "totalSessions": 88,
+      "totalDurationMs": 775060181,
       "sessions": [
+        {
+          "id": "9fe019f6-15dc-46c4-a932-b71cff335dc0",
+          "title": "**********",
+          "timestamp": "2026-07-10T15:55:07.303Z",
+          "totalDurationMs": 278996
+        },
         {
           "id": "486e534b-f4c5-4408-8ce4-77c1582dd60c",
           "title": "**********",
@@ -125,9 +131,15 @@
     },
     {
       "projectName": "home-office",
-      "totalSessions": 20,
-      "totalDurationMs": 522589975,
+      "totalSessions": 26,
+      "totalDurationMs": 527409040,
       "sessions": [
+        {
+          "id": "d224c784-894c-47bc-bece-4e1b26c1a091",
+          "title": "Command Session (/improve)",
+          "timestamp": "2026-07-10T14:45:44.401Z",
+          "totalDurationMs": 4819065
+        },
         {
           "id": "d4300db0-dc37-4c85-b69b-8cbea4fd5c5a",
           "title": "Command Session (/frontend-design)",
@@ -418,6 +430,10 @@
     }
   ],
   "activity": {
+    "2026-07-10": {
+      "sessions": 9,
+      "durationMs": 7743465
+    },
     "2026-07-09": {
       "sessions": 7,
       "durationMs": 6138661
@@ -454,10 +470,6 @@
       "sessions": 4,
       "durationMs": 15065654
     },
-    "2026-07-10": {
-      "sessions": 2,
-      "durationMs": 2645404
-    },
     "2026-06-23": {
       "sessions": 3,
       "durationMs": 475704
@@ -480,33 +492,33 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 15765104,
-    "outputTokens": 21272474,
-    "cacheReadTokens": 3937726162,
-    "cacheCreationTokens": 106794050
+    "inputTokens": 16052389,
+    "outputTokens": 21638563,
+    "cacheReadTokens": 3983597208,
+    "cacheCreationTokens": 108561688
   },
   "toolUsage": {
+    "Bash": 3233,
+    "Read": 1870,
     "Skill": 24,
-    "Bash": 3070,
-    "Workflow": 30,
+    "Workflow": 31,
     "ToolSearch": 89,
     "TaskCreate": 44,
     "TaskUpdate": 80,
     "TaskOutput": 2,
-    "Read": 1709,
-    "Edit": 1194,
-    "Write": 464,
+    "Edit": 1195,
+    "Write": 472,
     "mcp__computer-use__request_access": 1,
     "mcp__Control_Chrome__list_tabs": 2,
     "mcp__computer-use__screenshot": 2,
     "mcp__computer-use__open_application": 1,
     "Artifact": 17,
-    "Agent": 81,
+    "Agent": 86,
     "WebSearch": 26,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 2,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 8,
     "Monitor": 3,
-    "mcp__ccd_session__mark_chapter": 29,
+    "mcp__ccd_session__mark_chapter": 30,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 1,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__auth_status": 1,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__get_user_profile_by_username": 2,
