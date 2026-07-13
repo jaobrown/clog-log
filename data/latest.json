@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-13T16:00:06.136Z",
+  "generatedAt": "2026-07-13T20:00:01.583Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 147,
-    "totalDurationMs": 1972873336,
-    "totalTokens": 3575268448,
+    "totalDurationMs": 1983687745,
+    "totalTokens": 3677468245,
     "projectCount": 6
   },
   "projects": [
     {
       "projectName": "home-office",
       "totalSessions": 27,
-      "totalDurationMs": 883526556,
+      "totalDurationMs": 894340965,
       "sessions": [
         {
           "id": "52ca4c39-2ddf-46a4-b26a-5d81547c6e95",
-          "title": null,
+          "title": "Command Session (/model)",
           "timestamp": "2026-07-10T19:40:04.298Z",
-          "totalDurationMs": 244650078
+          "totalDurationMs": 255464487
         },
         {
           "id": "d224c784-894c-47bc-bece-4e1b26c1a091",
@@ -414,7 +414,7 @@
   "activity": {
     "2026-07-10": {
       "sessions": 16,
-      "durationMs": 265071976
+      "durationMs": 275886385
     },
     "2026-07-09": {
       "sessions": 7,
@@ -458,21 +458,34 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 16052607,
-    "outputTokens": 20679721,
-    "cacheReadTokens": 3449288934,
-    "cacheCreationTokens": 89247186
+    "inputTokens": 16090525,
+    "outputTokens": 20902133,
+    "cacheReadTokens": 3550021060,
+    "cacheCreationTokens": 90454527
   },
   "toolUsage": {
-    "Read": 1851,
-    "Bash": 2993,
+    "Read": 1864,
+    "Bash": 3048,
     "ToolSearch": 79,
-    "Workflow": 36,
+    "Workflow": 38,
     "TaskCreate": 48,
-    "TaskUpdate": 83,
-    "mcp__ccd_session__mark_chapter": 31,
-    "Edit": 1137,
+    "TaskUpdate": 90,
+    "mcp__ccd_session__mark_chapter": 33,
+    "Edit": 1149,
     "Write": 440,
+    "mcp__Claude_Browser__preview_start": 3,
+    "mcp__Claude_Browser__navigate": 5,
+    "mcp__Claude_Browser__read_page": 5,
+    "mcp__Claude_Browser__find": 2,
+    "mcp__Claude_Browser__form_input": 4,
+    "mcp__Claude_Browser__computer": 7,
+    "mcp__Claude_Browser__resize_window": 2,
+    "mcp__Claude_Browser__get_page_text": 2,
+    "mcp__Claude_Browser__javascript_tool": 1,
+    "mcp__Claude_Browser__read_console_messages": 4,
+    "mcp__Claude_Browser__preview_stop": 4,
+    "Monitor": 3,
+    "mcp__Claude_Browser__preview_list": 1,
     "Agent": 88,
     "mcp__Claude_Preview__preview_start": 27,
     "mcp__Claude_Preview__preview_screenshot": 133,
@@ -486,7 +499,6 @@
     "WebSearch": 26,
     "WebFetch": 70,
     "Skill": 20,
-    "Monitor": 2,
     "TaskOutput": 6,
     "mcp__computer-use__request_access": 1,
     "mcp__Control_Chrome__list_tabs": 2,
