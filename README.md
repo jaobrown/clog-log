@@ -6,8 +6,8 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   148             Tokens     3.7B
-  Duration   551h 1m         Projects   6
+  Sessions   149             Tokens     3.7B
+  Duration   551h 3m         Projects   6
 
 ```
 
@@ -16,7 +16,7 @@ TOP PROJECTS
 ==================================================
 
   home-office    ####################  248h 25m
-  top secret     #################---  214h 14m
+  top secret     #################---  214h 17m
   contra         #####---------------   65h 37m
   Developer      ##------------------   21h 13m
   kody           --------------------    1h 30m
@@ -27,11 +27,11 @@ TOP PROJECTS
 RECENT SESSIONS
 ==================================================
 
+  2026-07-17  top secret  **********                  1.2M        2m
   2026-07-14  top secret  **********                     0        0m
   2026-07-10  home-offi...  Command Session (/model)  158.3M   70h 57m
   2026-07-10  top secret  **********                 24.2M    1h 43m
   2026-07-10  top secret  **********                 79.8M     1h 9m
-  2026-07-10  top secret  **********                 14.8M       18m
 
 ```
 
