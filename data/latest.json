@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-21T12:10:06.866Z",
+  "generatedAt": "2026-07-21T16:00:06.610Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 147,
-    "totalDurationMs": 1967554676,
-    "totalTokens": 3673224056,
+    "totalDurationMs": 2031554353,
+    "totalTokens": 3677008013,
     "projectCount": 7
   },
   "projects": [
@@ -339,7 +339,7 @@
     {
       "projectName": "gdm-autorater",
       "totalSessions": 5,
-      "totalDurationMs": 7096779,
+      "totalDurationMs": 71096456,
       "sessions": [
         {
           "id": "12fe3a8d-ad9f-43dd-827e-a700d2e9cc00",
@@ -351,7 +351,7 @@
           "id": "901c277e-19fa-4828-854e-a2cee81b62b7",
           "title": null,
           "timestamp": "2026-07-20T19:48:35.991Z",
-          "totalDurationMs": 6901976
+          "totalDurationMs": 70901653
         },
         {
           "id": "50020363-12ec-41d1-9886-b00649c6286d",
@@ -473,18 +473,18 @@
     },
     "2026-07-20": {
       "sessions": 5,
-      "durationMs": 7096779
+      "durationMs": 71096456
     }
   },
   "tokenUsage": {
-    "inputTokens": 15870160,
-    "outputTokens": 20335055,
-    "cacheReadTokens": 3548307655,
-    "cacheCreationTokens": 88711186
+    "inputTokens": 15870174,
+    "outputTokens": 20340421,
+    "cacheReadTokens": 3551057756,
+    "cacheCreationTokens": 89739662
   },
   "toolUsage": {
     "Read": 1792,
-    "Bash": 2982,
+    "Bash": 2984,
     "ToolSearch": 85,
     "Workflow": 36,
     "TaskCreate": 53,
