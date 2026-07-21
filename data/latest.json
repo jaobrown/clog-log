@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-21T16:00:06.610Z",
+  "generatedAt": "2026-07-21T20:00:05.173Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 147,
-    "totalDurationMs": 2031554353,
-    "totalTokens": 3677008013,
+    "totalSessions": 149,
+    "totalDurationMs": 2054536387,
+    "totalTokens": 3787293120,
     "projectCount": 7
   },
   "projects": [
@@ -318,29 +318,22 @@
       ]
     },
     {
-      "projectName": "Developer",
-      "totalSessions": 2,
-      "totalDurationMs": 76393731,
+      "projectName": "gdm-autorater",
+      "totalSessions": 7,
+      "totalDurationMs": 94078490,
       "sessions": [
         {
-          "id": "ac693c2e-55b8-400c-904c-c761df774b71",
-          "title": "(no title)",
-          "timestamp": "2026-07-07T02:22:51.049Z",
-          "totalDurationMs": 46770464
+          "id": "3981d1d6-c9cf-43de-ba76-d9c6a445bb16",
+          "title": null,
+          "timestamp": "2026-07-21T16:20:18.858Z",
+          "totalDurationMs": 11395722
         },
         {
-          "id": "eddfa2f3-2129-4ed3-83ac-d819fafbec91",
-          "title": "(no title)",
-          "timestamp": "2026-07-06T18:04:36.982Z",
-          "totalDurationMs": 29623267
-        }
-      ]
-    },
-    {
-      "projectName": "gdm-autorater",
-      "totalSessions": 5,
-      "totalDurationMs": 71096456,
-      "sessions": [
+          "id": "73cfabdd-b0d3-417c-9f95-203ecf0cf2d8",
+          "title": null,
+          "timestamp": "2026-07-21T16:20:18.858Z",
+          "totalDurationMs": 11586312
+        },
         {
           "id": "12fe3a8d-ad9f-43dd-827e-a700d2e9cc00",
           "title": null,
@@ -364,6 +357,25 @@
           "title": null,
           "timestamp": "2026-07-20T19:46:44.972Z",
           "totalDurationMs": 11663
+        }
+      ]
+    },
+    {
+      "projectName": "Developer",
+      "totalSessions": 2,
+      "totalDurationMs": 76393731,
+      "sessions": [
+        {
+          "id": "ac693c2e-55b8-400c-904c-c761df774b71",
+          "title": "(no title)",
+          "timestamp": "2026-07-07T02:22:51.049Z",
+          "totalDurationMs": 46770464
+        },
+        {
+          "id": "eddfa2f3-2129-4ed3-83ac-d819fafbec91",
+          "title": "(no title)",
+          "timestamp": "2026-07-06T18:04:36.982Z",
+          "totalDurationMs": 29623267
         }
       ]
     },
@@ -471,36 +483,40 @@
       "sessions": 7,
       "durationMs": 49774998
     },
+    "2026-07-21": {
+      "sessions": 2,
+      "durationMs": 22982034
+    },
     "2026-07-20": {
       "sessions": 5,
       "durationMs": 71096456
     }
   },
   "tokenUsage": {
-    "inputTokens": 15870174,
-    "outputTokens": 20340421,
-    "cacheReadTokens": 3551057756,
-    "cacheCreationTokens": 89739662
+    "inputTokens": 15880870,
+    "outputTokens": 21188732,
+    "cacheReadTokens": 3656935696,
+    "cacheCreationTokens": 93287822
   },
   "toolUsage": {
-    "Read": 1792,
-    "Bash": 2984,
-    "ToolSearch": 85,
-    "Workflow": 36,
+    "Read": 1822,
+    "Bash": 3105,
+    "ToolSearch": 87,
+    "Workflow": 38,
     "TaskCreate": 53,
     "TaskUpdate": 100,
-    "mcp__ccd_session__mark_chapter": 31,
-    "Edit": 1152,
-    "Write": 415,
+    "mcp__ccd_session__mark_chapter": 33,
+    "Edit": 1173,
+    "Write": 425,
     "mcp__Claude_Browser__preview_start": 5,
     "mcp__Claude_Browser__navigate": 9,
     "mcp__Claude_Browser__read_page": 7,
     "mcp__Claude_Browser__find": 3,
     "mcp__Claude_Browser__form_input": 5,
     "mcp__Claude_Browser__computer": 22,
-    "mcp__Claude_Browser__resize_window": 2,
+    "mcp__Claude_Browser__resize_window": 10,
     "mcp__Claude_Browser__get_page_text": 4,
-    "mcp__Claude_Browser__javascript_tool": 8,
+    "mcp__Claude_Browser__javascript_tool": 16,
     "mcp__Claude_Browser__read_console_messages": 5,
     "mcp__Claude_Browser__preview_stop": 4,
     "Monitor": 3,
@@ -517,7 +533,7 @@
     "ExitPlanMode": 5,
     "WebSearch": 26,
     "WebFetch": 70,
-    "Skill": 19,
+    "Skill": 21,
     "TaskOutput": 6,
     "mcp__computer-use__request_access": 1,
     "mcp__Control_Chrome__list_tabs": 2,
@@ -534,17 +550,19 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 1,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 1,
     "mcp__local-postgres__query": 33,
-    "mcp__ccd_session__spawn_task": 2,
+    "mcp__ccd_session__spawn_task": 4,
     "bash": 1,
-    "ScheduleWakeup": 1,
+    "ScheduleWakeup": 15,
     "mcp__playwright__browser_navigate": 1,
     "mcp__Claude_Preview__preview_list": 4,
     "mcp__Claude_Preview__preview_console_logs": 18,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__list_services": 1,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__list_products": 1,
+    "mcp__Claude_Browser__tabs_context": 2,
+    "TaskStop": 6,
+    "mcp__Control_Chrome__open_url": 1,
     "mcp__kody__search": 11,
-    "mcp__kody__execute": 27,
-    "mcp__Control_Chrome__open_url": 1
+    "mcp__kody__execute": 27
   },
   "modelBreakdown": {
     "opus-4.5": {
