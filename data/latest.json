@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-20T20:00:05.286Z",
+  "generatedAt": "2026-07-21T12:10:06.866Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 145,
-    "totalDurationMs": 1960954191,
-    "totalTokens": 3512791334,
+    "totalSessions": 147,
+    "totalDurationMs": 1967554676,
+    "totalTokens": 3673224056,
     "projectCount": 7
   },
   "projects": [
@@ -337,6 +337,37 @@
       ]
     },
     {
+      "projectName": "gdm-autorater",
+      "totalSessions": 5,
+      "totalDurationMs": 7096779,
+      "sessions": [
+        {
+          "id": "12fe3a8d-ad9f-43dd-827e-a700d2e9cc00",
+          "title": null,
+          "timestamp": "2026-07-20T20:21:41.865Z",
+          "totalDurationMs": 182879
+        },
+        {
+          "id": "901c277e-19fa-4828-854e-a2cee81b62b7",
+          "title": null,
+          "timestamp": "2026-07-20T19:48:35.991Z",
+          "totalDurationMs": 6901976
+        },
+        {
+          "id": "50020363-12ec-41d1-9886-b00649c6286d",
+          "title": null,
+          "timestamp": "2026-07-20T19:47:08.064Z",
+          "totalDurationMs": 261
+        },
+        {
+          "id": "c14db084-d80a-4335-bfcd-f344a974921f",
+          "title": null,
+          "timestamp": "2026-07-20T19:46:44.972Z",
+          "totalDurationMs": 11663
+        }
+      ]
+    },
+    {
       "projectName": "kody",
       "totalSessions": 3,
       "totalDurationMs": 5420882,
@@ -358,31 +389,6 @@
           "title": null,
           "timestamp": "2026-07-06T20:04:06.247Z",
           "totalDurationMs": 5365386
-        }
-      ]
-    },
-    {
-      "projectName": "gdm-autorater",
-      "totalSessions": 3,
-      "totalDurationMs": 496294,
-      "sessions": [
-        {
-          "id": "901c277e-19fa-4828-854e-a2cee81b62b7",
-          "title": null,
-          "timestamp": "2026-07-20T19:48:35.991Z",
-          "totalDurationMs": 484370
-        },
-        {
-          "id": "50020363-12ec-41d1-9886-b00649c6286d",
-          "title": null,
-          "timestamp": "2026-07-20T19:47:08.064Z",
-          "totalDurationMs": 261
-        },
-        {
-          "id": "c14db084-d80a-4335-bfcd-f344a974921f",
-          "title": null,
-          "timestamp": "2026-07-20T19:46:44.972Z",
-          "totalDurationMs": 11663
         }
       ]
     },
@@ -466,40 +472,40 @@
       "durationMs": 49774998
     },
     "2026-07-20": {
-      "sessions": 3,
-      "durationMs": 496294
+      "sessions": 5,
+      "durationMs": 7096779
     }
   },
   "tokenUsage": {
-    "inputTokens": 15869216,
-    "outputTokens": 19655848,
-    "cacheReadTokens": 3390009548,
-    "cacheCreationTokens": 87256722
+    "inputTokens": 15870160,
+    "outputTokens": 20335055,
+    "cacheReadTokens": 3548307655,
+    "cacheCreationTokens": 88711186
   },
   "toolUsage": {
-    "Read": 1772,
-    "Bash": 2927,
-    "ToolSearch": 80,
-    "Workflow": 35,
+    "Read": 1792,
+    "Bash": 2982,
+    "ToolSearch": 85,
+    "Workflow": 36,
     "TaskCreate": 53,
-    "TaskUpdate": 95,
+    "TaskUpdate": 100,
     "mcp__ccd_session__mark_chapter": 31,
-    "Edit": 1045,
-    "Write": 399,
-    "mcp__Claude_Browser__preview_start": 3,
-    "mcp__Claude_Browser__navigate": 5,
-    "mcp__Claude_Browser__read_page": 5,
-    "mcp__Claude_Browser__find": 2,
-    "mcp__Claude_Browser__form_input": 4,
-    "mcp__Claude_Browser__computer": 7,
+    "Edit": 1152,
+    "Write": 415,
+    "mcp__Claude_Browser__preview_start": 5,
+    "mcp__Claude_Browser__navigate": 9,
+    "mcp__Claude_Browser__read_page": 7,
+    "mcp__Claude_Browser__find": 3,
+    "mcp__Claude_Browser__form_input": 5,
+    "mcp__Claude_Browser__computer": 22,
     "mcp__Claude_Browser__resize_window": 2,
-    "mcp__Claude_Browser__get_page_text": 2,
-    "mcp__Claude_Browser__javascript_tool": 1,
-    "mcp__Claude_Browser__read_console_messages": 4,
+    "mcp__Claude_Browser__get_page_text": 4,
+    "mcp__Claude_Browser__javascript_tool": 8,
+    "mcp__Claude_Browser__read_console_messages": 5,
     "mcp__Claude_Browser__preview_stop": 4,
-    "Monitor": 2,
+    "Monitor": 3,
     "mcp__Claude_Browser__preview_list": 1,
-    "Agent": 87,
+    "Agent": 88,
     "mcp__Claude_Preview__preview_start": 27,
     "mcp__Claude_Preview__preview_screenshot": 133,
     "mcp__Claude_Preview__preview_fill": 10,
@@ -536,8 +542,9 @@
     "mcp__Claude_Preview__preview_console_logs": 18,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__list_services": 1,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__list_products": 1,
-    "mcp__kody__search": 10,
-    "mcp__kody__execute": 26
+    "mcp__kody__search": 11,
+    "mcp__kody__execute": 27,
+    "mcp__Control_Chrome__open_url": 1
   },
   "modelBreakdown": {
     "opus-4.5": {
