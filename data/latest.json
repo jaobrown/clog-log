@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-22T16:00:05.089Z",
+  "generatedAt": "2026-07-22T20:00:03.080Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 153,
-    "totalDurationMs": 2067548788,
-    "totalTokens": 4069589304,
+    "totalDurationMs": 2115316773,
+    "totalTokens": 4070845294,
     "projectCount": 7
   },
   "projects": [
@@ -320,13 +320,13 @@
     {
       "projectName": "gdm-autorater",
       "totalSessions": 11,
-      "totalDurationMs": 107090891,
+      "totalDurationMs": 154858876,
       "sessions": [
         {
           "id": "ad4b3793-3b29-476d-bc32-e675fb932be9",
           "title": null,
           "timestamp": "2026-07-22T01:47:14.230Z",
-          "totalDurationMs": 13010739
+          "totalDurationMs": 60778724
         },
         {
           "id": "cf651f39-edf1-4ef8-a39d-4f382a162c79",
@@ -497,7 +497,7 @@
     },
     "2026-07-22": {
       "sessions": 4,
-      "durationMs": 13012401
+      "durationMs": 60780386
     },
     "2026-07-21": {
       "sessions": 2,
@@ -509,10 +509,10 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 15882292,
-    "outputTokens": 22818387,
-    "cacheReadTokens": 3933702051,
-    "cacheCreationTokens": 97186574
+    "inputTokens": 15882296,
+    "outputTokens": 22826251,
+    "cacheReadTokens": 3933756055,
+    "cacheCreationTokens": 98380692
   },
   "toolUsage": {
     "Read": 1888,
