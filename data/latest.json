@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-21T20:00:05.173Z",
+  "generatedAt": "2026-07-22T12:06:20.863Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 149,
-    "totalDurationMs": 2054536387,
-    "totalTokens": 3787293120,
+    "totalSessions": 153,
+    "totalDurationMs": 2067548788,
+    "totalTokens": 4069589304,
     "projectCount": 7
   },
   "projects": [
@@ -319,9 +319,21 @@
     },
     {
       "projectName": "gdm-autorater",
-      "totalSessions": 7,
-      "totalDurationMs": 94078490,
+      "totalSessions": 11,
+      "totalDurationMs": 107090891,
       "sessions": [
+        {
+          "id": "ad4b3793-3b29-476d-bc32-e675fb932be9",
+          "title": null,
+          "timestamp": "2026-07-22T01:47:14.230Z",
+          "totalDurationMs": 13010739
+        },
+        {
+          "id": "cf651f39-edf1-4ef8-a39d-4f382a162c79",
+          "title": null,
+          "timestamp": "2026-07-22T01:45:34.597Z",
+          "totalDurationMs": 1662
+        },
         {
           "id": "3981d1d6-c9cf-43de-ba76-d9c6a445bb16",
           "title": null,
@@ -483,6 +495,10 @@
       "sessions": 7,
       "durationMs": 49774998
     },
+    "2026-07-22": {
+      "sessions": 4,
+      "durationMs": 13012401
+    },
     "2026-07-21": {
       "sessions": 2,
       "durationMs": 22982034
@@ -493,21 +509,21 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 15880870,
-    "outputTokens": 21188732,
-    "cacheReadTokens": 3656935696,
-    "cacheCreationTokens": 93287822
+    "inputTokens": 15882292,
+    "outputTokens": 22818387,
+    "cacheReadTokens": 3933702051,
+    "cacheCreationTokens": 97186574
   },
   "toolUsage": {
-    "Read": 1822,
-    "Bash": 3105,
-    "ToolSearch": 87,
+    "Read": 1888,
+    "Bash": 3188,
+    "ToolSearch": 90,
     "Workflow": 38,
-    "TaskCreate": 53,
-    "TaskUpdate": 100,
+    "TaskCreate": 63,
+    "TaskUpdate": 117,
     "mcp__ccd_session__mark_chapter": 33,
-    "Edit": 1173,
-    "Write": 425,
+    "Edit": 1308,
+    "Write": 488,
     "mcp__Claude_Browser__preview_start": 5,
     "mcp__Claude_Browser__navigate": 9,
     "mcp__Claude_Browser__read_page": 7,
@@ -521,7 +537,7 @@
     "mcp__Claude_Browser__preview_stop": 4,
     "Monitor": 3,
     "mcp__Claude_Browser__preview_list": 1,
-    "Agent": 88,
+    "Agent": 90,
     "mcp__Claude_Preview__preview_start": 27,
     "mcp__Claude_Preview__preview_screenshot": 133,
     "mcp__Claude_Preview__preview_fill": 10,
@@ -529,11 +545,11 @@
     "mcp__Claude_Preview__preview_stop": 3,
     "mcp__Claude_Preview__preview_eval": 211,
     "mcp__Claude_Preview__preview_resize": 65,
-    "AskUserQuestion": 13,
-    "ExitPlanMode": 5,
-    "WebSearch": 26,
-    "WebFetch": 70,
-    "Skill": 21,
+    "AskUserQuestion": 14,
+    "ExitPlanMode": 7,
+    "WebSearch": 31,
+    "WebFetch": 106,
+    "Skill": 22,
     "TaskOutput": 6,
     "mcp__computer-use__request_access": 1,
     "mcp__Control_Chrome__list_tabs": 2,
@@ -558,6 +574,7 @@
     "mcp__Claude_Preview__preview_console_logs": 18,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__list_services": 1,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__list_products": 1,
+    "EnterPlanMode": 1,
     "mcp__Claude_Browser__tabs_context": 2,
     "TaskStop": 6,
     "mcp__Control_Chrome__open_url": 1,
