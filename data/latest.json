@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-24T16:00:02.182Z",
+  "generatedAt": "2026-07-24T20:00:02.380Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 145,
-    "totalDurationMs": 1180176428,
-    "totalTokens": 2566309796,
-    "projectCount": 7
+    "totalSessions": 154,
+    "totalDurationMs": 1192007019,
+    "totalTokens": 2734291709,
+    "projectCount": 11
   },
   "projects": [
     {
@@ -53,9 +53,15 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 86,
-      "totalDurationMs": 319305082,
+      "totalSessions": 87,
+      "totalDurationMs": 319686704,
       "sessions": [
+        {
+          "id": "26d41956-e766-4744-8ba0-f636a0ed0068",
+          "title": "**********",
+          "timestamp": "2026-07-24T16:40:24.985Z",
+          "totalDurationMs": 381622
+        },
         {
           "id": "a5a69cdb-de9c-4117-9d7b-d44a3395eb06",
           "title": "**********",
@@ -417,6 +423,82 @@
       ]
     },
     {
+      "projectName": "sleep-tech-one",
+      "totalSessions": 1,
+      "totalDurationMs": 3530979,
+      "sessions": [
+        {
+          "id": "b1681f69-7781-4357-bc87-5b3213790b6a",
+          "title": null,
+          "timestamp": "2026-07-24T19:01:09.512Z",
+          "totalDurationMs": 3530979
+        }
+      ]
+    },
+    {
+      "projectName": "sleep-tech-two",
+      "totalSessions": 1,
+      "totalDurationMs": 3511262,
+      "sessions": [
+        {
+          "id": "b49b0091-c6d9-4186-9f41-b82910a75401",
+          "title": null,
+          "timestamp": "2026-07-24T19:01:26.991Z",
+          "totalDurationMs": 3511262
+        }
+      ]
+    },
+    {
+      "projectName": "sleep-tech-two",
+      "totalSessions": 1,
+      "totalDurationMs": 3096163,
+      "sessions": [
+        {
+          "id": "e11a5641-e461-49bd-9301-9d798c202abe",
+          "title": null,
+          "timestamp": "2026-07-24T19:01:26.991Z",
+          "totalDurationMs": 3096163
+        }
+      ]
+    },
+    {
+      "projectName": "sleep-tech-one",
+      "totalSessions": 5,
+      "totalDurationMs": 1310565,
+      "sessions": [
+        {
+          "id": "9fc9559f-422e-4de6-b1cf-7aa23509575e",
+          "title": null,
+          "timestamp": "2026-07-24T19:01:09.512Z",
+          "totalDurationMs": 1114064
+        },
+        {
+          "id": "48202ade-7e2c-46e8-bb8d-024aec725c1f",
+          "title": null,
+          "timestamp": "2026-07-24T19:00:00.372Z",
+          "totalDurationMs": 32023
+        },
+        {
+          "id": "ccc4ffb1-4c7d-453e-bfd5-f988f0252cb5",
+          "title": null,
+          "timestamp": "2026-07-24T18:59:51.231Z",
+          "totalDurationMs": 39187
+        },
+        {
+          "id": "f1d04389-d587-4512-a801-6ee0f409e7ca",
+          "title": null,
+          "timestamp": "2026-07-24T18:58:37.232Z",
+          "totalDurationMs": 55192
+        },
+        {
+          "id": "b6d20cf4-08ed-42d0-b8d4-e37b6fef4408",
+          "title": null,
+          "timestamp": "2026-07-24T18:58:24.980Z",
+          "totalDurationMs": 70099
+        }
+      ]
+    },
+    {
       "projectName": "kody-finance",
       "totalSessions": 3,
       "totalDurationMs": 102,
@@ -456,8 +538,8 @@
       "durationMs": 157463245
     },
     "2026-07-24": {
-      "sessions": 1,
-      "durationMs": 559144
+      "sessions": 10,
+      "durationMs": 12389735
     },
     "2026-07-17": {
       "sessions": 1,
@@ -505,31 +587,31 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 14501793,
-    "outputTokens": 17081372,
-    "cacheReadTokens": 2457415308,
-    "cacheCreationTokens": 77311323
+    "inputTokens": 14503653,
+    "outputTokens": 18176050,
+    "cacheReadTokens": 2620540651,
+    "cacheCreationTokens": 81071355
   },
   "toolUsage": {
-    "Read": 1565,
-    "Bash": 2648,
+    "Read": 1595,
+    "Bash": 2767,
     "ToolSearch": 80,
     "Workflow": 30,
     "TaskCreate": 40,
     "TaskUpdate": 80,
     "mcp__ccd_session__mark_chapter": 21,
-    "Edit": 1001,
-    "Write": 255,
-    "mcp__Claude_Browser__preview_start": 7,
-    "mcp__Claude_Browser__navigate": 13,
+    "Edit": 1059,
+    "Write": 274,
+    "mcp__Claude_Browser__preview_start": 12,
+    "mcp__Claude_Browser__navigate": 47,
     "mcp__Claude_Browser__read_page": 7,
     "mcp__Claude_Browser__find": 3,
     "mcp__Claude_Browser__form_input": 5,
-    "mcp__Claude_Browser__computer": 40,
-    "mcp__Claude_Browser__resize_window": 15,
+    "mcp__Claude_Browser__computer": 166,
+    "mcp__Claude_Browser__resize_window": 37,
     "mcp__Claude_Browser__get_page_text": 4,
-    "mcp__Claude_Browser__javascript_tool": 35,
-    "mcp__Claude_Browser__read_console_messages": 5,
+    "mcp__Claude_Browser__javascript_tool": 160,
+    "mcp__Claude_Browser__read_console_messages": 9,
     "mcp__Claude_Browser__preview_stop": 4,
     "Monitor": 3,
     "mcp__Claude_Browser__preview_list": 1,
@@ -545,9 +627,9 @@
     "ExitPlanMode": 5,
     "WebSearch": 29,
     "WebFetch": 75,
+    "Skill": 19,
     "mcp__sentry__get_sentry_resource": 1,
     "TaskOutput": 6,
-    "Skill": 16,
     "mcp__computer-use__request_access": 1,
     "mcp__Control_Chrome__list_tabs": 2,
     "mcp__computer-use__screenshot": 2,
@@ -570,7 +652,7 @@
     "mcp__Claude_Preview__preview_console_logs": 18,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__list_services": 1,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__list_products": 1,
-    "mcp__Claude_Browser__tabs_context": 3,
+    "mcp__Claude_Browser__tabs_context": 4,
     "EnterPlanMode": 1,
     "TaskStop": 6,
     "mcp__Control_Chrome__open_url": 1,
