@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-24T12:00:05.440Z",
+  "generatedAt": "2026-07-24T16:00:02.182Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 144,
-    "totalDurationMs": 1179617284,
-    "totalTokens": 2563080200,
+    "totalSessions": 145,
+    "totalDurationMs": 1180176428,
+    "totalTokens": 2566309796,
     "projectCount": 7
   },
   "projects": [
@@ -53,9 +53,15 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 85,
-      "totalDurationMs": 318745938,
+      "totalSessions": 86,
+      "totalDurationMs": 319305082,
       "sessions": [
+        {
+          "id": "a5a69cdb-de9c-4117-9d7b-d44a3395eb06",
+          "title": "**********",
+          "timestamp": "2026-07-24T14:48:28.573Z",
+          "totalDurationMs": 559144
+        },
         {
           "id": "e83c0f0f-936e-4723-9bc2-f6da46b1952d",
           "title": "**********",
@@ -449,6 +455,10 @@
       "sessions": 17,
       "durationMs": 157463245
     },
+    "2026-07-24": {
+      "sessions": 1,
+      "durationMs": 559144
+    },
     "2026-07-17": {
       "sessions": 1,
       "durationMs": 143961
@@ -495,15 +505,15 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 14400406,
-    "outputTokens": 17055814,
-    "cacheReadTokens": 2454458725,
-    "cacheCreationTokens": 77165255
+    "inputTokens": 14501793,
+    "outputTokens": 17081372,
+    "cacheReadTokens": 2457415308,
+    "cacheCreationTokens": 77311323
   },
   "toolUsage": {
-    "Read": 1563,
-    "Bash": 2634,
-    "ToolSearch": 79,
+    "Read": 1565,
+    "Bash": 2648,
+    "ToolSearch": 80,
     "Workflow": 30,
     "TaskCreate": 40,
     "TaskUpdate": 80,
@@ -535,6 +545,7 @@
     "ExitPlanMode": 5,
     "WebSearch": 29,
     "WebFetch": 75,
+    "mcp__sentry__get_sentry_resource": 1,
     "TaskOutput": 6,
     "Skill": 16,
     "mcp__computer-use__request_access": 1,
