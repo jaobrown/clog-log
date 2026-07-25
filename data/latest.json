@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-24T20:00:02.380Z",
+  "generatedAt": "2026-07-25T12:10:01.268Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 154,
-    "totalDurationMs": 1192007019,
-    "totalTokens": 2734291709,
+    "totalSessions": 155,
+    "totalDurationMs": 1192983285,
+    "totalTokens": 2746638097,
     "projectCount": 11
   },
   "projects": [
@@ -423,28 +423,34 @@
       ]
     },
     {
+      "projectName": "sleep-tech-directed",
+      "totalSessions": 2,
+      "totalDurationMs": 4060140,
+      "sessions": [
+        {
+          "id": "3f00f405-9bd7-4b2b-8753-5c5c2c7b9a40",
+          "title": null,
+          "timestamp": "2026-07-24T20:14:50.198Z",
+          "totalDurationMs": 413429
+        },
+        {
+          "id": "b49b0091-c6d9-4186-9f41-b82910a75401",
+          "title": null,
+          "timestamp": "2026-07-24T19:01:26.991Z",
+          "totalDurationMs": 3646711
+        }
+      ]
+    },
+    {
       "projectName": "sleep-tech-one",
       "totalSessions": 1,
-      "totalDurationMs": 3530979,
+      "totalDurationMs": 3958367,
       "sessions": [
         {
           "id": "b1681f69-7781-4357-bc87-5b3213790b6a",
           "title": null,
           "timestamp": "2026-07-24T19:01:09.512Z",
-          "totalDurationMs": 3530979
-        }
-      ]
-    },
-    {
-      "projectName": "sleep-tech-two",
-      "totalSessions": 1,
-      "totalDurationMs": 3511262,
-      "sessions": [
-        {
-          "id": "b49b0091-c6d9-4186-9f41-b82910a75401",
-          "title": null,
-          "timestamp": "2026-07-24T19:01:26.991Z",
-          "totalDurationMs": 3511262
+          "totalDurationMs": 3958367
         }
       ]
     },
@@ -538,8 +544,8 @@
       "durationMs": 157463245
     },
     "2026-07-24": {
-      "sessions": 10,
-      "durationMs": 12389735
+      "sessions": 11,
+      "durationMs": 13366001
     },
     "2026-07-17": {
       "sessions": 1,
@@ -587,30 +593,30 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 14503653,
-    "outputTokens": 18176050,
-    "cacheReadTokens": 2620540651,
-    "cacheCreationTokens": 81071355
+    "inputTokens": 14503752,
+    "outputTokens": 18271302,
+    "cacheReadTokens": 2631882335,
+    "cacheCreationTokens": 81980708
   },
   "toolUsage": {
     "Read": 1595,
-    "Bash": 2767,
+    "Bash": 2768,
     "ToolSearch": 80,
     "Workflow": 30,
     "TaskCreate": 40,
     "TaskUpdate": 80,
     "mcp__ccd_session__mark_chapter": 21,
     "Edit": 1059,
-    "Write": 274,
-    "mcp__Claude_Browser__preview_start": 12,
-    "mcp__Claude_Browser__navigate": 47,
+    "Write": 275,
+    "mcp__Claude_Browser__preview_start": 13,
+    "mcp__Claude_Browser__navigate": 48,
     "mcp__Claude_Browser__read_page": 7,
     "mcp__Claude_Browser__find": 3,
     "mcp__Claude_Browser__form_input": 5,
-    "mcp__Claude_Browser__computer": 166,
-    "mcp__Claude_Browser__resize_window": 37,
+    "mcp__Claude_Browser__computer": 170,
+    "mcp__Claude_Browser__resize_window": 39,
     "mcp__Claude_Browser__get_page_text": 4,
-    "mcp__Claude_Browser__javascript_tool": 160,
+    "mcp__Claude_Browser__javascript_tool": 165,
     "mcp__Claude_Browser__read_console_messages": 9,
     "mcp__Claude_Browser__preview_stop": 4,
     "Monitor": 3,
@@ -627,14 +633,14 @@
     "ExitPlanMode": 5,
     "WebSearch": 29,
     "WebFetch": 75,
-    "Skill": 19,
+    "Skill": 20,
     "mcp__sentry__get_sentry_resource": 1,
     "TaskOutput": 6,
     "mcp__computer-use__request_access": 1,
     "mcp__Control_Chrome__list_tabs": 2,
     "mcp__computer-use__screenshot": 2,
     "mcp__computer-use__open_application": 1,
-    "Artifact": 18,
+    "Artifact": 23,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 1,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 2,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 1,
@@ -657,7 +663,8 @@
     "TaskStop": 6,
     "mcp__Control_Chrome__open_url": 1,
     "mcp__kody__search": 11,
-    "mcp__kody__execute": 27
+    "mcp__kody__execute": 27,
+    "SendUserFile": 1
   },
   "modelBreakdown": {
     "opus-4.5": {
