@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-27T16:00:05.974Z",
+  "generatedAt": "2026-07-27T20:00:07.044Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 156,
-    "totalDurationMs": 1193362836,
-    "totalTokens": 2751947461,
-    "projectCount": 11
+    "totalSessions": 192,
+    "totalDurationMs": 1202510614,
+    "totalTokens": 2852019575,
+    "projectCount": 17
   },
   "projects": [
     {
@@ -53,9 +53,33 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 88,
-      "totalDurationMs": 320066255,
+      "totalSessions": 96,
+      "totalDurationMs": 323834726,
       "sessions": [
+        {
+          "id": "1e2e6550-fe14-4f97-ab6f-1e65d40b6f32",
+          "title": "**********",
+          "timestamp": "2026-07-27T18:13:50.381Z",
+          "totalDurationMs": 1054
+        },
+        {
+          "id": "4ef019e4-a4dc-44d2-a079-c527d371d16f",
+          "title": "**********",
+          "timestamp": "2026-07-27T17:49:22.791Z",
+          "totalDurationMs": 569520
+        },
+        {
+          "id": "ae457865-2435-42a7-90aa-21fed4ff97fc",
+          "title": "**********",
+          "timestamp": "2026-07-27T17:49:22.750Z",
+          "totalDurationMs": 631268
+        },
+        {
+          "id": "433239b8-a01a-4c66-9264-65635a66394d",
+          "title": "**********",
+          "timestamp": "2026-07-27T17:43:57.737Z",
+          "totalDurationMs": 2566629
+        },
         {
           "id": "4926649c-cadc-4ff4-b822-3b03f5b43f98",
           "title": "**********",
@@ -186,9 +210,57 @@
     },
     {
       "projectName": "contra",
-      "totalSessions": 21,
-      "totalDurationMs": 236249040,
+      "totalSessions": 29,
+      "totalDurationMs": 237340101,
       "sessions": [
+        {
+          "id": "40ed327e-74b4-4911-9fc6-5bf04cc290e6",
+          "title": null,
+          "timestamp": "2026-07-27T18:02:08.077Z",
+          "totalDurationMs": 1084
+        },
+        {
+          "id": "9369f67b-3fb4-48e1-811b-a51e9361d5f2",
+          "title": null,
+          "timestamp": "2026-07-27T18:02:08.040Z",
+          "totalDurationMs": 1177
+        },
+        {
+          "id": "bd0cb1fa-03e2-4bc6-9f58-3e0ba3911882",
+          "title": null,
+          "timestamp": "2026-07-27T18:02:08.040Z",
+          "totalDurationMs": 1177
+        },
+        {
+          "id": "e606cbdd-c184-43a7-9b8c-a65ffe3a3955",
+          "title": null,
+          "timestamp": "2026-07-27T18:01:28.009Z",
+          "totalDurationMs": 1605
+        },
+        {
+          "id": "f22fa7d0-710c-4967-bcfb-d21cb295a1b2",
+          "title": null,
+          "timestamp": "2026-07-27T18:01:27.836Z",
+          "totalDurationMs": 1202
+        },
+        {
+          "id": "bf531b3f-6ae7-4f92-8ad5-2cf7226352df",
+          "title": null,
+          "timestamp": "2026-07-27T18:01:27.565Z",
+          "totalDurationMs": 1226
+        },
+        {
+          "id": "29c44f3f-a83e-4d3e-ba6a-e45b91468015",
+          "title": null,
+          "timestamp": "2026-07-27T17:50:19.410Z",
+          "totalDurationMs": 619312
+        },
+        {
+          "id": "64a2d4b8-7e56-4b71-be57-ebc6fc6a71a0",
+          "title": null,
+          "timestamp": "2026-07-27T17:50:19.405Z",
+          "totalDurationMs": 464278
+        },
         {
           "id": "fdf832b3-d0ea-46a9-8f73-300242046c74",
           "title": null,
@@ -474,6 +546,37 @@
       ]
     },
     {
+      "projectName": "agent-cost-baseline",
+      "totalSessions": 4,
+      "totalDurationMs": 2836884,
+      "sessions": [
+        {
+          "id": "e2437169-c783-47a5-9e3e-8beea934b158",
+          "title": null,
+          "timestamp": "2026-07-27T17:35:10.138Z",
+          "totalDurationMs": 2461491
+        },
+        {
+          "id": "af52a1bb-e19a-4c01-86e1-dc95184dc6dc",
+          "title": null,
+          "timestamp": "2026-07-27T17:22:13.065Z",
+          "totalDurationMs": 19069
+        },
+        {
+          "id": "23cc93f8-d762-4914-80eb-5e276082ee07",
+          "title": null,
+          "timestamp": "2026-07-27T17:03:19.815Z",
+          "totalDurationMs": 172606
+        },
+        {
+          "id": "e881a71c-34cd-49e8-86eb-4d226b59414c",
+          "title": null,
+          "timestamp": "2026-07-27T16:35:57.759Z",
+          "totalDurationMs": 183718
+        }
+      ]
+    },
+    {
       "projectName": "sleep-tech-one",
       "totalSessions": 5,
       "totalDurationMs": 1310565,
@@ -507,6 +610,137 @@
           "title": null,
           "timestamp": "2026-07-24T18:58:24.980Z",
           "totalDurationMs": 70099
+        }
+      ]
+    },
+    {
+      "projectName": "agent-cost-help-center",
+      "totalSessions": 3,
+      "totalDurationMs": 453670,
+      "sessions": [
+        {
+          "id": "39634e93-2e19-4e98-b45c-3e30042c2a8b",
+          "title": null,
+          "timestamp": "2026-07-27T16:17:30.769Z",
+          "totalDurationMs": 79368
+        },
+        {
+          "id": "2c3bf694-f517-492f-b115-3ba6bb2f99db",
+          "title": null,
+          "timestamp": "2026-07-27T16:14:09.871Z",
+          "totalDurationMs": 107379
+        },
+        {
+          "id": "d592786f-47cf-4505-9197-990ca7eceb5b",
+          "title": null,
+          "timestamp": "2026-07-27T16:09:02.466Z",
+          "totalDurationMs": 266923
+        }
+      ]
+    },
+    {
+      "projectName": "agent-cost-tool-flow",
+      "totalSessions": 2,
+      "totalDurationMs": 319394,
+      "sessions": [
+        {
+          "id": "de1b0880-05c3-4a08-8c98-5edd09a93726",
+          "title": null,
+          "timestamp": "2026-07-27T16:57:31.808Z",
+          "totalDurationMs": 136023
+        },
+        {
+          "id": "ba5c3438-930f-4a14-8598-b7634362b711",
+          "title": null,
+          "timestamp": "2026-07-27T16:43:20.339Z",
+          "totalDurationMs": 183371
+        }
+      ]
+    },
+    {
+      "projectName": "agent-cost-discover",
+      "totalSessions": 4,
+      "totalDurationMs": 280267,
+      "sessions": [
+        {
+          "id": "cd3dc77c-7d52-48d4-a152-42dae4368433",
+          "title": null,
+          "timestamp": "2026-07-27T17:13:22.281Z",
+          "totalDurationMs": 63185
+        },
+        {
+          "id": "38117b16-8338-47a5-8999-937ae69ebdfa",
+          "title": null,
+          "timestamp": "2026-07-27T17:10:03.535Z",
+          "totalDurationMs": 96557
+        },
+        {
+          "id": "71ab58d3-b654-4cff-bf22-7de1d1c0d644",
+          "title": null,
+          "timestamp": "2026-07-27T16:26:34.277Z",
+          "totalDurationMs": 36955
+        },
+        {
+          "id": "69379dcb-7b54-4e81-9a57-12d48420e0c0",
+          "title": null,
+          "timestamp": "2026-07-27T16:24:00.625Z",
+          "totalDurationMs": 83570
+        }
+      ]
+    },
+    {
+      "projectName": "agent-cost-intake",
+      "totalSessions": 5,
+      "totalDurationMs": 266230,
+      "sessions": [
+        {
+          "id": "325d08d1-0b50-4084-b615-565239bc9886",
+          "title": null,
+          "timestamp": "2026-07-27T17:12:10.525Z",
+          "totalDurationMs": 65012
+        },
+        {
+          "id": "d9fb928c-ae12-4456-a0fd-e0207f93c34a",
+          "title": null,
+          "timestamp": "2026-07-27T17:11:46.085Z",
+          "totalDurationMs": 15998
+        },
+        {
+          "id": "0ce914f4-e44f-4e56-9a4e-5fc62e3b329d",
+          "title": null,
+          "timestamp": "2026-07-27T17:10:03.634Z",
+          "totalDurationMs": 14104
+        },
+        {
+          "id": "585417da-cc23-4045-bafa-6f633d46fbe3",
+          "title": null,
+          "timestamp": "2026-07-27T16:26:51.231Z",
+          "totalDurationMs": 72584
+        },
+        {
+          "id": "fd86107f-4707-4fc3-bc22-9e84a3d538b7",
+          "title": null,
+          "timestamp": "2026-07-27T16:19:01.494Z",
+          "totalDurationMs": 98532
+        }
+      ]
+    },
+    {
+      "projectName": "agent-cost-tool-schema",
+      "totalSessions": 2,
+      "totalDurationMs": 131801,
+      "sessions": [
+        {
+          "id": "9a01a07c-43a0-41b5-83ff-e73cfe23afbd",
+          "title": null,
+          "timestamp": "2026-07-27T16:21:39.337Z",
+          "totalDurationMs": 33411
+        },
+        {
+          "id": "ffe6abb5-fdd7-4e3f-87e0-41a9c57c2f42",
+          "title": null,
+          "timestamp": "2026-07-27T16:19:01.438Z",
+          "totalDurationMs": 98390
         }
       ]
     },
@@ -550,8 +784,8 @@
       "durationMs": 157463245
     },
     "2026-07-27": {
-      "sessions": 1,
-      "durationMs": 379551
+      "sessions": 37,
+      "durationMs": 9527329
     },
     "2026-07-24": {
       "sessions": 11,
@@ -603,21 +837,21 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 14503814,
-    "outputTokens": 18338093,
-    "cacheReadTokens": 2636015358,
-    "cacheCreationTokens": 83090196
+    "inputTokens": 14580845,
+    "outputTokens": 19454726,
+    "cacheReadTokens": 2722585441,
+    "cacheCreationTokens": 95398563
   },
   "toolUsage": {
-    "Read": 1603,
-    "Bash": 2768,
-    "ToolSearch": 80,
+    "Read": 1714,
+    "Bash": 2932,
+    "ToolSearch": 83,
     "Workflow": 30,
     "TaskCreate": 40,
     "TaskUpdate": 80,
     "mcp__ccd_session__mark_chapter": 21,
     "Edit": 1059,
-    "Write": 275,
+    "Write": 277,
     "mcp__Claude_Browser__preview_start": 13,
     "mcp__Claude_Browser__navigate": 48,
     "mcp__Claude_Browser__read_page": 7,
@@ -631,7 +865,7 @@
     "mcp__Claude_Browser__preview_stop": 4,
     "Monitor": 3,
     "mcp__Claude_Browser__preview_list": 1,
-    "Agent": 81,
+    "Agent": 85,
     "mcp__Claude_Preview__preview_start": 27,
     "mcp__Claude_Preview__preview_screenshot": 133,
     "mcp__Claude_Preview__preview_fill": 10,
@@ -641,11 +875,17 @@
     "mcp__Claude_Preview__preview_resize": 65,
     "AskUserQuestion": 6,
     "ExitPlanMode": 5,
-    "WebSearch": 29,
-    "WebFetch": 75,
-    "Grep": 10,
+    "WebSearch": 40,
+    "WebFetch": 78,
+    "Glob": 3,
+    "mcp__exa__web_fetch_exa": 1,
+    "mcp__exa__web_search_exa": 7,
+    "Grep": 25,
+    "mcp__linear-server__list_issues": 1,
+    "mcp__sentry__find_organizations": 1,
+    "mcp__sentry__search_issues": 3,
+    "mcp__sentry__get_sentry_resource": 3,
     "Skill": 20,
-    "mcp__sentry__get_sentry_resource": 1,
     "TaskOutput": 6,
     "mcp__computer-use__request_access": 1,
     "mcp__Control_Chrome__list_tabs": 2,
