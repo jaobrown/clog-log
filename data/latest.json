@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-29T16:00:03.882Z",
+  "generatedAt": "2026-07-29T20:00:03.476Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 196,
-    "totalDurationMs": 1205387299,
-    "totalTokens": 2943817122,
-    "projectCount": 17
+    "totalSessions": 190,
+    "totalDurationMs": 1204054988,
+    "totalTokens": 2918072545,
+    "projectCount": 18
   },
   "projects": [
     {
@@ -53,8 +53,8 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 100,
-      "totalDurationMs": 326711411,
+      "totalSessions": 93,
+      "totalDurationMs": 325174855,
       "sessions": [
         {
           "id": "df7ac78c-e1c6-4ac2-a5ab-3f2431a3cde2",
@@ -207,22 +207,10 @@
           "totalDurationMs": 3410896
         },
         {
-          "id": "625eaad7-5c89-40f9-badc-821e5df7b6b4",
-          "title": "**********",
-          "timestamp": "2026-06-29T18:28:26.824Z",
-          "totalDurationMs": 759509
-        },
-        {
           "id": "6d13c550-36e8-4070-ac25-57aa1d06352b",
           "title": "**********",
           "timestamp": "2026-06-29T16:27:09.172Z",
           "totalDurationMs": 3147215
-        },
-        {
-          "id": "5c967bcc-9583-4a1c-8101-fc6a3c78c930",
-          "title": "**********",
-          "timestamp": "2026-06-29T16:21:51.145Z",
-          "totalDurationMs": 777047
         },
         {
           "id": "fd388909-f207-45c4-af92-71a8de1657e2",
@@ -750,6 +738,19 @@
       ]
     },
     {
+      "projectName": "Crema-Conference-2018",
+      "totalSessions": 1,
+      "totalDurationMs": 204245,
+      "sessions": [
+        {
+          "id": "8053666e-3fcc-4973-95ec-a9bdd046ad47",
+          "title": null,
+          "timestamp": "2026-07-29T19:25:18.591Z",
+          "totalDurationMs": 204245
+        }
+      ]
+    },
+    {
       "projectName": "agent-cost-tool-schema",
       "totalSessions": 2,
       "totalDurationMs": 131801,
@@ -836,8 +837,8 @@
       "durationMs": 19309138
     },
     "2026-06-29": {
-      "sessions": 13,
-      "durationMs": 161609530
+      "sessions": 6,
+      "durationMs": 160072974
     },
     "2026-07-07": {
       "sessions": 7,
@@ -858,23 +859,27 @@
     "2026-07-20": {
       "sessions": 5,
       "durationMs": 71096456
+    },
+    "2026-07-29": {
+      "sessions": 1,
+      "durationMs": 204245
     }
   },
   "tokenUsage": {
-    "inputTokens": 14592809,
-    "outputTokens": 20087880,
-    "cacheReadTokens": 2810792768,
-    "cacheCreationTokens": 98343665
+    "inputTokens": 14246789,
+    "outputTokens": 19858867,
+    "cacheReadTokens": 2786943310,
+    "cacheCreationTokens": 97023579
   },
   "toolUsage": {
-    "Read": 1758,
-    "Bash": 2991,
+    "Read": 1670,
+    "Bash": 2892,
     "ToolSearch": 83,
     "Workflow": 30,
     "TaskCreate": 40,
     "TaskUpdate": 80,
     "mcp__ccd_session__mark_chapter": 21,
-    "Edit": 1059,
+    "Edit": 1052,
     "Write": 277,
     "mcp__Claude_Browser__preview_start": 13,
     "mcp__Claude_Browser__navigate": 48,
@@ -889,7 +894,7 @@
     "mcp__Claude_Browser__preview_stop": 4,
     "Monitor": 3,
     "mcp__Claude_Browser__preview_list": 1,
-    "Agent": 85,
+    "Agent": 80,
     "mcp__Claude_Preview__preview_start": 27,
     "mcp__Claude_Preview__preview_screenshot": 133,
     "mcp__Claude_Preview__preview_fill": 10,
@@ -927,7 +932,6 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 1,
     "mcp__local-postgres__query": 32,
     "mcp__ccd_session__spawn_task": 4,
-    "bash": 1,
     "ScheduleWakeup": 15,
     "mcp__Claude_Preview__preview_list": 4,
     "mcp__Claude_Preview__preview_console_logs": 18,
