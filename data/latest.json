@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-27T20:00:07.044Z",
+  "generatedAt": "2026-07-29T13:53:05.914Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 192,
-    "totalDurationMs": 1202510614,
-    "totalTokens": 2852019575,
+    "totalSessions": 196,
+    "totalDurationMs": 1205387299,
+    "totalTokens": 2943817122,
     "projectCount": 17
   },
   "projects": [
@@ -53,9 +53,33 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 96,
-      "totalDurationMs": 323834726,
+      "totalSessions": 100,
+      "totalDurationMs": 326711411,
       "sessions": [
+        {
+          "id": "df7ac78c-e1c6-4ac2-a5ab-3f2431a3cde2",
+          "title": "**********",
+          "timestamp": "2026-07-27T20:20:49.969Z",
+          "totalDurationMs": 682200
+        },
+        {
+          "id": "9c38c7a0-364f-4e68-81d6-2f13c19cfeba",
+          "title": "**********",
+          "timestamp": "2026-07-27T20:06:38.176Z",
+          "totalDurationMs": 780621
+        },
+        {
+          "id": "fb5cd678-1b5e-400d-99e4-7ed0388ee948",
+          "title": "**********",
+          "timestamp": "2026-07-27T20:06:38.164Z",
+          "totalDurationMs": 692820
+        },
+        {
+          "id": "ce19afb4-8b4e-42f5-9089-3c90439d7358",
+          "title": "**********",
+          "timestamp": "2026-07-27T20:06:37.965Z",
+          "totalDurationMs": 721044
+        },
         {
           "id": "1e2e6550-fe14-4f97-ab6f-1e65d40b6f32",
           "title": "**********",
@@ -784,8 +808,8 @@
       "durationMs": 157463245
     },
     "2026-07-27": {
-      "sessions": 37,
-      "durationMs": 9527329
+      "sessions": 41,
+      "durationMs": 12404014
     },
     "2026-07-24": {
       "sessions": 11,
@@ -837,14 +861,14 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 14580845,
-    "outputTokens": 19454726,
-    "cacheReadTokens": 2722585441,
-    "cacheCreationTokens": 95398563
+    "inputTokens": 14592809,
+    "outputTokens": 20087880,
+    "cacheReadTokens": 2810792768,
+    "cacheCreationTokens": 98343665
   },
   "toolUsage": {
-    "Read": 1714,
-    "Bash": 2932,
+    "Read": 1758,
+    "Bash": 2991,
     "ToolSearch": 83,
     "Workflow": 30,
     "TaskCreate": 40,
@@ -875,12 +899,12 @@
     "mcp__Claude_Preview__preview_resize": 65,
     "AskUserQuestion": 6,
     "ExitPlanMode": 5,
-    "WebSearch": 40,
-    "WebFetch": 78,
-    "Glob": 3,
-    "mcp__exa__web_fetch_exa": 1,
+    "WebSearch": 64,
+    "WebFetch": 85,
+    "Grep": 92,
+    "mcp__exa__web_fetch_exa": 5,
+    "Glob": 11,
     "mcp__exa__web_search_exa": 7,
-    "Grep": 25,
     "mcp__linear-server__list_issues": 1,
     "mcp__sentry__find_organizations": 1,
     "mcp__sentry__search_issues": 3,
