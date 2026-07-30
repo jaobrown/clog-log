@@ -7,7 +7,7 @@ CLAUDE CODE STATS
 ==================================================
 
   Sessions   191             Tokens     2.9B
-  Duration   334h 4m         Projects   18
+  Duration   352h 40m        Projects   18
 
 ```
 
@@ -29,7 +29,7 @@ RECENT SESSIONS
 
   2026-07-30  top secret  **********                  9.6M        8m
   2026-07-30  top secret  **********                 44.1M    1h 30m
-  2026-07-29  Crema-Con...  untitled                  327.9k        3m
+  2026-07-29  Crema-Con...  untitled                  327.9k   18h 39m
   2026-07-27  top secret  **********                  7.1M       11m
   2026-07-27  top secret  **********                 30.5M       13m
 

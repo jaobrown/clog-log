@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-30T13:39:18.849Z",
+  "generatedAt": "2026-07-30T16:00:04.837Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 191,
-    "totalDurationMs": 1202664227,
+    "totalDurationMs": 1269615463,
     "totalTokens": 2942596900,
     "projectCount": 18
   },
@@ -488,6 +488,19 @@
       ]
     },
     {
+      "projectName": "Crema-Conference-2018",
+      "totalSessions": 1,
+      "totalDurationMs": 67155481,
+      "sessions": [
+        {
+          "id": "8053666e-3fcc-4973-95ec-a9bdd046ad47",
+          "title": null,
+          "timestamp": "2026-07-29T19:25:18.591Z",
+          "totalDurationMs": 67155481
+        }
+      ]
+    },
+    {
       "projectName": "kody",
       "totalSessions": 3,
       "totalDurationMs": 5420882,
@@ -738,19 +751,6 @@
       ]
     },
     {
-      "projectName": "Crema-Conference-2018",
-      "totalSessions": 1,
-      "totalDurationMs": 204245,
-      "sessions": [
-        {
-          "id": "8053666e-3fcc-4973-95ec-a9bdd046ad47",
-          "title": null,
-          "timestamp": "2026-07-29T19:25:18.591Z",
-          "totalDurationMs": 204245
-        }
-      ]
-    },
-    {
       "projectName": "agent-cost-tool-schema",
       "totalSessions": 2,
       "totalDurationMs": 131801,
@@ -866,7 +866,7 @@
     },
     "2026-07-29": {
       "sessions": 1,
-      "durationMs": 204245
+      "durationMs": 67155481
     }
   },
   "tokenUsage": {
