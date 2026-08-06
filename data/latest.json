@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-06T16:00:06.807Z",
+  "generatedAt": "2026-08-06T20:00:05.921Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 171,
-    "totalDurationMs": 950233865,
-    "totalTokens": 2356137964,
-    "projectCount": 18
+    "totalSessions": 155,
+    "totalDurationMs": 901334195,
+    "totalTokens": 2127042084,
+    "projectCount": 17
   },
   "projects": [
     {
@@ -47,9 +47,21 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 95,
-      "totalDurationMs": 237704905,
+      "totalSessions": 86,
+      "totalDurationMs": 226798422,
       "sessions": [
+        {
+          "id": "1669782b-1737-471c-973b-760383eece07",
+          "title": "**********",
+          "timestamp": "2026-08-06T18:40:51.658Z",
+          "totalDurationMs": 2809022
+        },
+        {
+          "id": "e778fffa-0ea5-4879-980e-b4a11698cca0",
+          "title": "**********",
+          "timestamp": "2026-08-06T17:07:27.790Z",
+          "totalDurationMs": 2411147
+        },
         {
           "id": "f05a6774-44dd-41d2-9e44-6b90e87d03bc",
           "title": "**********",
@@ -187,18 +199,6 @@
           "title": "**********",
           "timestamp": "2026-07-06T18:16:41.937Z",
           "totalDurationMs": 184596566
-        },
-        {
-          "id": "97970580-fb5a-48e8-af4a-87030335c452",
-          "title": "**********",
-          "timestamp": "2026-07-06T14:20:18.120Z",
-          "totalDurationMs": 13762141
-        },
-        {
-          "id": "dbe2d510-ab95-40d7-9a2a-8164fff702eb",
-          "title": "**********",
-          "timestamp": "2026-07-01T20:40:36.527Z",
-          "totalDurationMs": 2364511
         }
       ]
     },
@@ -276,25 +276,6 @@
       ]
     },
     {
-      "projectName": "Developer",
-      "totalSessions": 2,
-      "totalDurationMs": 76393731,
-      "sessions": [
-        {
-          "id": "ac693c2e-55b8-400c-904c-c761df774b71",
-          "title": "(no title)",
-          "timestamp": "2026-07-07T02:22:51.049Z",
-          "totalDurationMs": 46770464
-        },
-        {
-          "id": "eddfa2f3-2129-4ed3-83ac-d819fafbec91",
-          "title": "(no title)",
-          "timestamp": "2026-07-06T18:04:36.982Z",
-          "totalDurationMs": 29623267
-        }
-      ]
-    },
-    {
       "projectName": "Crema-Conference-2018",
       "totalSessions": 1,
       "totalDurationMs": 67155481,
@@ -308,27 +289,15 @@
       ]
     },
     {
-      "projectName": "kody",
-      "totalSessions": 3,
-      "totalDurationMs": 5420882,
+      "projectName": "Developer",
+      "totalSessions": 1,
+      "totalDurationMs": 46770464,
       "sessions": [
         {
-          "id": "1cb66015-eee2-4b70-b2c0-7dfa81a8870d",
-          "title": null,
-          "timestamp": "2026-07-07T02:16:48.108Z",
-          "totalDurationMs": 55496
-        },
-        {
-          "id": "a7e5304a-3cea-426d-bc91-5b2242a0d100",
-          "title": "Command Session (/mcp)",
-          "timestamp": "2026-07-07T02:11:01.680Z",
-          "totalDurationMs": 0
-        },
-        {
-          "id": "a95b041b-61f7-432d-8195-4476ca236a1c",
-          "title": null,
-          "timestamp": "2026-07-06T20:04:06.247Z",
-          "totalDurationMs": 5365386
+          "id": "ac693c2e-55b8-400c-904c-c761df774b71",
+          "title": "(no title)",
+          "timestamp": "2026-07-07T02:22:51.049Z",
+          "totalDurationMs": 46770464
         }
       ]
     },
@@ -348,67 +317,6 @@
           "title": null,
           "timestamp": "2026-07-24T19:01:26.991Z",
           "totalDurationMs": 3646711
-        }
-      ]
-    },
-    {
-      "projectName": "contra",
-      "totalSessions": 9,
-      "totalDurationMs": 4039997,
-      "sessions": [
-        {
-          "id": "40ed327e-74b4-4911-9fc6-5bf04cc290e6",
-          "title": null,
-          "timestamp": "2026-07-27T18:02:08.077Z",
-          "totalDurationMs": 1084
-        },
-        {
-          "id": "9369f67b-3fb4-48e1-811b-a51e9361d5f2",
-          "title": null,
-          "timestamp": "2026-07-27T18:02:08.040Z",
-          "totalDurationMs": 1177
-        },
-        {
-          "id": "bd0cb1fa-03e2-4bc6-9f58-3e0ba3911882",
-          "title": null,
-          "timestamp": "2026-07-27T18:02:08.040Z",
-          "totalDurationMs": 1177
-        },
-        {
-          "id": "e606cbdd-c184-43a7-9b8c-a65ffe3a3955",
-          "title": null,
-          "timestamp": "2026-07-27T18:01:28.009Z",
-          "totalDurationMs": 1605
-        },
-        {
-          "id": "f22fa7d0-710c-4967-bcfb-d21cb295a1b2",
-          "title": null,
-          "timestamp": "2026-07-27T18:01:27.836Z",
-          "totalDurationMs": 1202
-        },
-        {
-          "id": "bf531b3f-6ae7-4f92-8ad5-2cf7226352df",
-          "title": null,
-          "timestamp": "2026-07-27T18:01:27.565Z",
-          "totalDurationMs": 1226
-        },
-        {
-          "id": "29c44f3f-a83e-4d3e-ba6a-e45b91468015",
-          "title": null,
-          "timestamp": "2026-07-27T17:50:19.410Z",
-          "totalDurationMs": 619312
-        },
-        {
-          "id": "64a2d4b8-7e56-4b71-be57-ebc6fc6a71a0",
-          "title": null,
-          "timestamp": "2026-07-27T17:50:19.405Z",
-          "totalDurationMs": 464278
-        },
-        {
-          "id": "fdf832b3-d0ea-46a9-8f73-300242046c74",
-          "title": null,
-          "timestamp": "2026-07-07T14:08:35.851Z",
-          "totalDurationMs": 2948936
         }
       ]
     },
@@ -503,6 +411,61 @@
           "title": null,
           "timestamp": "2026-07-24T18:58:24.980Z",
           "totalDurationMs": 70099
+        }
+      ]
+    },
+    {
+      "projectName": "contra",
+      "totalSessions": 8,
+      "totalDurationMs": 1091061,
+      "sessions": [
+        {
+          "id": "40ed327e-74b4-4911-9fc6-5bf04cc290e6",
+          "title": null,
+          "timestamp": "2026-07-27T18:02:08.077Z",
+          "totalDurationMs": 1084
+        },
+        {
+          "id": "9369f67b-3fb4-48e1-811b-a51e9361d5f2",
+          "title": null,
+          "timestamp": "2026-07-27T18:02:08.040Z",
+          "totalDurationMs": 1177
+        },
+        {
+          "id": "bd0cb1fa-03e2-4bc6-9f58-3e0ba3911882",
+          "title": null,
+          "timestamp": "2026-07-27T18:02:08.040Z",
+          "totalDurationMs": 1177
+        },
+        {
+          "id": "e606cbdd-c184-43a7-9b8c-a65ffe3a3955",
+          "title": null,
+          "timestamp": "2026-07-27T18:01:28.009Z",
+          "totalDurationMs": 1605
+        },
+        {
+          "id": "f22fa7d0-710c-4967-bcfb-d21cb295a1b2",
+          "title": null,
+          "timestamp": "2026-07-27T18:01:27.836Z",
+          "totalDurationMs": 1202
+        },
+        {
+          "id": "bf531b3f-6ae7-4f92-8ad5-2cf7226352df",
+          "title": null,
+          "timestamp": "2026-07-27T18:01:27.565Z",
+          "totalDurationMs": 1226
+        },
+        {
+          "id": "29c44f3f-a83e-4d3e-ba6a-e45b91468015",
+          "title": null,
+          "timestamp": "2026-07-27T17:50:19.410Z",
+          "totalDurationMs": 619312
+        },
+        {
+          "id": "64a2d4b8-7e56-4b71-be57-ebc6fc6a71a0",
+          "title": null,
+          "timestamp": "2026-07-27T17:50:19.405Z",
+          "totalDurationMs": 464278
         }
       ]
     },
@@ -638,27 +601,15 @@
       ]
     },
     {
-      "projectName": "kody-finance",
-      "totalSessions": 3,
-      "totalDurationMs": 102,
+      "projectName": "kody",
+      "totalSessions": 1,
+      "totalDurationMs": 0,
       "sessions": [
         {
-          "id": "fc5d1f4e-d3d5-4f16-9319-da99fb64e952",
-          "title": null,
-          "timestamp": "2026-07-07T02:15:22.602Z",
-          "totalDurationMs": 33
-        },
-        {
-          "id": "987dffa9-dcae-4191-8dc0-8100099a2f5c",
-          "title": null,
-          "timestamp": "2026-07-07T02:15:11.417Z",
-          "totalDurationMs": 35
-        },
-        {
-          "id": "d53f36f1-75ad-48e4-874e-b5105b2377da",
-          "title": null,
-          "timestamp": "2026-07-07T02:14:05.349Z",
-          "totalDurationMs": 34
+          "id": "a7e5304a-3cea-426d-bc91-5b2242a0d100",
+          "title": "Command Session (/mcp)",
+          "timestamp": "2026-07-07T02:11:01.680Z",
+          "totalDurationMs": 0
         }
       ]
     }
@@ -671,6 +622,10 @@
     "2026-07-09": {
       "sessions": 7,
       "durationMs": 116178593
+    },
+    "2026-08-06": {
+      "sessions": 2,
+      "durationMs": 5220169
     },
     "2026-08-03": {
       "sessions": 5,
@@ -701,12 +656,8 @@
       "durationMs": 800822
     },
     "2026-07-06": {
-      "sessions": 61,
-      "durationMs": 233347360
-    },
-    "2026-07-01": {
-      "sessions": 1,
-      "durationMs": 2364511
+      "sessions": 49,
+      "durationMs": 184596566
     },
     "2026-07-23": {
       "sessions": 1,
@@ -724,31 +675,31 @@
       "sessions": 5,
       "durationMs": 71096456
     },
-    "2026-07-07": {
-      "sessions": 7,
-      "durationMs": 49774998
-    },
     "2026-07-29": {
       "sessions": 1,
       "durationMs": 67155481
+    },
+    "2026-07-07": {
+      "sessions": 2,
+      "durationMs": 46770464
     }
   },
   "tokenUsage": {
-    "inputTokens": 11537989,
-    "outputTokens": 14828978,
-    "cacheReadTokens": 2252051307,
-    "cacheCreationTokens": 77719690
+    "inputTokens": 10166033,
+    "outputTokens": 13641604,
+    "cacheReadTokens": 2033610307,
+    "cacheCreationTokens": 69624140
   },
   "toolUsage": {
-    "Read": 1443,
-    "Bash": 2675,
-    "ToolSearch": 51,
+    "Read": 1301,
+    "Bash": 2080,
+    "ToolSearch": 42,
     "Workflow": 20,
-    "TaskCreate": 44,
+    "TaskCreate": 45,
     "TaskUpdate": 90,
     "mcp__ccd_session__mark_chapter": 13,
-    "Edit": 791,
-    "Write": 229,
+    "Edit": 772,
+    "Write": 183,
     "mcp__Claude_Browser__preview_start": 13,
     "mcp__Claude_Browser__navigate": 48,
     "mcp__Claude_Browser__read_page": 7,
@@ -762,7 +713,7 @@
     "mcp__Claude_Browser__preview_stop": 4,
     "Monitor": 3,
     "mcp__Claude_Browser__preview_list": 1,
-    "Agent": 83,
+    "Agent": 74,
     "mcp__Claude_Preview__preview_start": 3,
     "mcp__Claude_Preview__preview_screenshot": 25,
     "mcp__Claude_Preview__preview_fill": 6,
@@ -772,22 +723,24 @@
     "mcp__Claude_Preview__preview_resize": 1,
     "AskUserQuestion": 2,
     "ExitPlanMode": 3,
-    "WebSearch": 71,
-    "WebFetch": 77,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 3,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 4,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 2,
+    "WebSearch": 68,
+    "WebFetch": 67,
+    "mcp__sentry__find_organizations": 3,
+    "mcp__sentry__find_projects": 1,
+    "mcp__sentry__search_issues": 11,
+    "mcp__sentry__get_sentry_resource": 4,
+    "mcp__sentry__search_events": 3,
+    "mcp__ccd_session__spawn_task": 6,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 2,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 2,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 1,
     "mcp__Control_Chrome__open_url": 2,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 3,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 2,
     "Grep": 110,
     "Glob": 17,
-    "mcp__ccd_session__spawn_task": 4,
     "mcp__exa__web_fetch_exa": 5,
     "mcp__exa__web_search_exa": 7,
     "mcp__linear-server__list_issues": 1,
-    "mcp__sentry__find_organizations": 1,
-    "mcp__sentry__search_issues": 3,
-    "mcp__sentry__get_sentry_resource": 3,
     "Skill": 12,
     "TaskOutput": 6,
     "mcp__computer-use__request_access": 1,
@@ -795,18 +748,12 @@
     "mcp__computer-use__screenshot": 2,
     "mcp__computer-use__open_application": 1,
     "Artifact": 23,
-    "mcp__e7032509-9192-448e-b041-ea3950c2babb__auth_status": 1,
-    "mcp__e7032509-9192-448e-b041-ea3950c2babb__get_user_profile_by_username": 1,
-    "mcp__e7032509-9192-448e-b041-ea3950c2babb__list_portfolio_projects": 1,
-    "mcp__e7032509-9192-448e-b041-ea3950c2babb__get_portfolio_project": 1,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 1,
-    "mcp__local-postgres__query": 6,
     "mcp__Claude_Browser__tabs_context": 4,
     "EnterPlanMode": 1,
     "ScheduleWakeup": 14,
     "TaskStop": 6,
-    "mcp__kody__search": 11,
-    "mcp__kody__execute": 27,
+    "mcp__kody__search": 10,
+    "mcp__kody__execute": 26,
     "SendUserFile": 1
   },
   "modelBreakdown": {
