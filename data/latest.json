@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-07T16:00:01.785Z",
+  "generatedAt": "2026-08-07T20:00:01.833Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 155,
-    "totalDurationMs": 901334195,
+    "totalSessions": 154,
+    "totalDurationMs": 984043524,
     "totalTokens": 2127042084,
-    "projectCount": 17
+    "projectCount": 16
   },
   "projects": [
     {
@@ -48,13 +48,13 @@
     {
       "projectName": "top secret",
       "totalSessions": 86,
-      "totalDurationMs": 226798422,
+      "totalDurationMs": 309507751,
       "sessions": [
         {
           "id": "1669782b-1737-471c-973b-760383eece07",
           "title": "**********",
           "timestamp": "2026-08-06T18:40:51.658Z",
-          "totalDurationMs": 2809022
+          "totalDurationMs": 85518351
         },
         {
           "id": "e778fffa-0ea5-4879-980e-b4a11698cca0",
@@ -599,19 +599,6 @@
           "totalDurationMs": 98390
         }
       ]
-    },
-    {
-      "projectName": "kody",
-      "totalSessions": 1,
-      "totalDurationMs": 0,
-      "sessions": [
-        {
-          "id": "a7e5304a-3cea-426d-bc91-5b2242a0d100",
-          "title": "Command Session (/mcp)",
-          "timestamp": "2026-07-07T02:11:01.680Z",
-          "totalDurationMs": 0
-        }
-      ]
     }
   ],
   "activity": {
@@ -625,7 +612,7 @@
     },
     "2026-08-06": {
       "sessions": 2,
-      "durationMs": 5220169
+      "durationMs": 87929498
     },
     "2026-08-03": {
       "sessions": 5,
@@ -680,7 +667,7 @@
       "durationMs": 67155481
     },
     "2026-07-07": {
-      "sessions": 2,
+      "sessions": 1,
       "durationMs": 46770464
     }
   },
