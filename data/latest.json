@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T16:00:01.340Z",
+  "generatedAt": "2026-08-11T20:00:05.597Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 88,
-    "totalDurationMs": 621447808,
-    "totalTokens": 1489764727,
+    "totalSessions": 89,
+    "totalDurationMs": 626019885,
+    "totalTokens": 1635288566,
     "projectCount": 15
   },
   "projects": [
@@ -101,127 +101,133 @@
       ]
     },
     {
-      "projectName": "top secret",
-      "totalSessions": 33,
-      "totalDurationMs": 113939458,
+      "projectName": "gdm-autorater",
+      "totalSessions": 34,
+      "totalDurationMs": 118511535,
       "sessions": [
         {
+          "id": "d9844819-4639-4bdf-91f5-b9aeb08d462e",
+          "title": "(no title)",
+          "timestamp": "2026-08-11T18:27:56.632Z",
+          "totalDurationMs": 4572077
+        },
+        {
           "id": "1669782b-1737-471c-973b-760383eece07",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-08-06T18:40:51.658Z",
           "totalDurationMs": 85518351
         },
         {
           "id": "e778fffa-0ea5-4879-980e-b4a11698cca0",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-08-06T17:07:27.790Z",
           "totalDurationMs": 2411147
         },
         {
           "id": "f05a6774-44dd-41d2-9e44-6b90e87d03bc",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-08-03T13:34:53.727Z",
           "totalDurationMs": 7759111
         },
         {
           "id": "d3076bd5-0b83-4882-92ee-95a3a94f99ed",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-08-03T13:34:43.930Z",
           "totalDurationMs": 2335
         },
         {
           "id": "77da264b-da92-4bcb-bb58-76167c02b0fd",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-07-30T02:00:26.021Z",
           "totalDurationMs": 518631
         },
         {
           "id": "ed299ec9-f924-4108-b104-f6afcfcc3e1f",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-07-30T02:00:18.572Z",
           "totalDurationMs": 5428410
         },
         {
           "id": "df7ac78c-e1c6-4ac2-a5ab-3f2431a3cde2",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-07-27T20:20:49.969Z",
           "totalDurationMs": 682200
         },
         {
           "id": "9c38c7a0-364f-4e68-81d6-2f13c19cfeba",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-07-27T20:06:38.176Z",
           "totalDurationMs": 780621
         },
         {
           "id": "fb5cd678-1b5e-400d-99e4-7ed0388ee948",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-07-27T20:06:38.164Z",
           "totalDurationMs": 692820
         },
         {
           "id": "ce19afb4-8b4e-42f5-9089-3c90439d7358",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-07-27T20:06:37.965Z",
           "totalDurationMs": 721044
         },
         {
           "id": "1e2e6550-fe14-4f97-ab6f-1e65d40b6f32",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-07-27T18:13:50.381Z",
           "totalDurationMs": 1054
         },
         {
           "id": "4ef019e4-a4dc-44d2-a079-c527d371d16f",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-07-27T17:49:22.791Z",
           "totalDurationMs": 569520
         },
         {
           "id": "ae457865-2435-42a7-90aa-21fed4ff97fc",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-07-27T17:49:22.750Z",
           "totalDurationMs": 631268
         },
         {
           "id": "433239b8-a01a-4c66-9264-65635a66394d",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-07-27T17:43:57.737Z",
           "totalDurationMs": 2566629
         },
         {
           "id": "4926649c-cadc-4ff4-b822-3b03f5b43f98",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-07-27T15:07:56.700Z",
           "totalDurationMs": 379551
         },
         {
           "id": "26d41956-e766-4744-8ba0-f636a0ed0068",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-07-24T16:40:24.985Z",
           "totalDurationMs": 381622
         },
         {
           "id": "a5a69cdb-de9c-4117-9d7b-d44a3395eb06",
-          "title": "**********",
+          "title": "Command Session (/mcp)",
           "timestamp": "2026-07-24T14:48:28.573Z",
           "totalDurationMs": 559144
         },
         {
           "id": "e83c0f0f-936e-4723-9bc2-f6da46b1952d",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-07-17T13:51:19.143Z",
           "totalDurationMs": 143961
         },
         {
           "id": "941dfeb8-6ecb-449b-bed3-d951eb6e49c4",
-          "title": "**********",
+          "title": "(no title)",
           "timestamp": "2026-07-14T16:35:36.902Z",
           "totalDurationMs": 843
         },
         {
           "id": "4d1a96a5-79d4-499e-a302-e5b92a2ca586",
-          "title": "**********",
+          "title": "Command Session (/simplify)",
           "timestamp": "2026-07-10T18:56:41.330Z",
           "totalDurationMs": 4191196
         }
@@ -565,6 +571,10 @@
       "sessions": 5,
       "durationMs": 71096456
     },
+    "2026-08-11": {
+      "sessions": 1,
+      "durationMs": 4572077
+    },
     "2026-08-06": {
       "sessions": 2,
       "durationMs": 87929498
@@ -599,21 +609,21 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 1272020,
-    "outputTokens": 9548667,
-    "cacheReadTokens": 1430893218,
-    "cacheCreationTokens": 48050822
+    "inputTokens": 1272945,
+    "outputTokens": 10041889,
+    "cacheReadTokens": 1574773158,
+    "cacheCreationTokens": 49200574
   },
   "toolUsage": {
-    "Read": 561,
-    "Bash": 1483,
-    "ToolSearch": 27,
+    "Read": 582,
+    "Bash": 1646,
+    "ToolSearch": 28,
     "Workflow": 16,
-    "TaskCreate": 33,
-    "TaskUpdate": 68,
+    "TaskCreate": 42,
+    "TaskUpdate": 86,
     "mcp__ccd_session__mark_chapter": 11,
-    "Edit": 516,
-    "Write": 128,
+    "Edit": 569,
+    "Write": 137,
     "mcp__Claude_Browser__preview_start": 13,
     "mcp__Claude_Browser__navigate": 48,
     "mcp__Claude_Browser__read_page": 7,
