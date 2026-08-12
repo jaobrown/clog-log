@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T16:00:06.230Z",
+  "generatedAt": "2026-08-12T20:00:01.357Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 91,
-    "totalDurationMs": 699135923,
-    "totalTokens": 1748129054,
+    "totalDurationMs": 711888848,
+    "totalTokens": 1913247168,
     "projectCount": 16
   },
   "projects": [
@@ -24,13 +24,13 @@
     {
       "projectName": "gdm-autorater",
       "totalSessions": 34,
-      "totalDurationMs": 191462702,
+      "totalDurationMs": 204215627,
       "sessions": [
         {
           "id": "d9844819-4639-4bdf-91f5-b9aeb08d462e",
           "title": "(no title)",
           "timestamp": "2026-08-11T18:27:56.632Z",
-          "totalDurationMs": 77523244
+          "totalDurationMs": 90276169
         },
         {
           "id": "1669782b-1737-471c-973b-760383eece07",
@@ -572,7 +572,7 @@
     },
     "2026-08-11": {
       "sessions": 1,
-      "durationMs": 77523244
+      "durationMs": 90276169
     },
     "2026-08-06": {
       "sessions": 2,
@@ -632,21 +632,21 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 1273398,
-    "outputTokens": 10254096,
-    "cacheReadTokens": 1685161754,
-    "cacheCreationTokens": 51439806
+    "inputTokens": 1273851,
+    "outputTokens": 10429186,
+    "cacheReadTokens": 1848436194,
+    "cacheCreationTokens": 53107937
   },
   "toolUsage": {
     "Read": 598,
-    "Bash": 1734,
+    "Bash": 1832,
     "ToolSearch": 28,
     "Workflow": 16,
     "TaskCreate": 47,
-    "TaskUpdate": 95,
+    "TaskUpdate": 96,
     "mcp__ccd_session__mark_chapter": 11,
-    "Edit": 578,
-    "Write": 137,
+    "Edit": 581,
+    "Write": 138,
     "mcp__Claude_Browser__preview_start": 13,
     "mcp__Claude_Browser__navigate": 48,
     "mcp__Claude_Browser__read_page": 7,
@@ -660,7 +660,7 @@
     "mcp__Claude_Browser__preview_stop": 4,
     "Monitor": 3,
     "mcp__Claude_Browser__preview_list": 1,
-    "Skill": 10,
+    "Skill": 13,
     "mcp__sentry__find_organizations": 3,
     "mcp__sentry__find_projects": 1,
     "mcp__sentry__search_issues": 11,
