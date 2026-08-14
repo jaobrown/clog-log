@@ -6,7 +6,7 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   90              Tokens     1.8B
+  Sessions   89              Tokens     1.8B
   Duration   126h 47m        Projects   15
 
 ```

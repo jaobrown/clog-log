@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-14T16:00:06.350Z",
+  "generatedAt": "2026-08-14T20:00:06.347Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 90,
-    "totalDurationMs": 456424361,
+    "totalSessions": 89,
+    "totalDurationMs": 456423518,
     "totalTokens": 1754969391,
     "projectCount": 15
   },
   "projects": [
     {
       "projectName": "gdm-autorater",
-      "totalSessions": 34,
-      "totalDurationMs": 204215627,
+      "totalSessions": 33,
+      "totalDurationMs": 204214784,
       "sessions": [
         {
           "id": "d9844819-4639-4bdf-91f5-b9aeb08d462e",
@@ -126,12 +126,6 @@
           "title": "(no title)",
           "timestamp": "2026-07-17T13:51:19.143Z",
           "totalDurationMs": 143961
-        },
-        {
-          "id": "941dfeb8-6ecb-449b-bed3-d951eb6e49c4",
-          "title": "(no title)",
-          "timestamp": "2026-07-14T16:35:36.902Z",
-          "totalDurationMs": 843
         },
         {
           "id": "4d1a96a5-79d4-499e-a302-e5b92a2ca586",
@@ -580,10 +574,6 @@
     "2026-07-17": {
       "sessions": 1,
       "durationMs": 143961
-    },
-    "2026-07-14": {
-      "sessions": 1,
-      "durationMs": 843
     },
     "2026-07-10": {
       "sessions": 5,
