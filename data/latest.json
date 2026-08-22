@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-22T12:00:06.345Z",
+  "generatedAt": "2026-08-22T16:00:30.707Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 89,
-    "totalDurationMs": 445722975,
-    "totalTokens": 1704558605,
+    "totalSessions": 91,
+    "totalDurationMs": 451501559,
+    "totalTokens": 1789952793,
     "projectCount": 15
   },
   "projects": [
@@ -137,9 +137,21 @@
     },
     {
       "projectName": "gdm-autorater",
-      "totalSessions": 16,
-      "totalDurationMs": 156383297,
+      "totalSessions": 18,
+      "totalDurationMs": 162161881,
       "sessions": [
+        {
+          "id": "c520ae38-17dd-4a7f-9ad2-3ce124097e32",
+          "title": null,
+          "timestamp": "2026-08-22T14:23:20.379Z",
+          "totalDurationMs": 5416626
+        },
+        {
+          "id": "1174234d-e11e-4241-9933-9bc7a75df253",
+          "title": null,
+          "timestamp": "2026-08-22T14:16:03.988Z",
+          "totalDurationMs": 361958
+        },
         {
           "id": "dca54b80-b452-47a4-8596-8cc07e621774",
           "title": null,
@@ -579,6 +591,10 @@
       "sessions": 5,
       "durationMs": 4191196
     },
+    "2026-08-22": {
+      "sessions": 2,
+      "durationMs": 5778584
+    },
     "2026-08-21": {
       "sessions": 1,
       "durationMs": 695179
@@ -613,17 +629,17 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 982288,
-    "outputTokens": 9459853,
-    "cacheReadTokens": 1645928222,
-    "cacheCreationTokens": 48188242
+    "inputTokens": 983166,
+    "outputTokens": 9790400,
+    "cacheReadTokens": 1730130314,
+    "cacheCreationTokens": 49048913
   },
   "toolUsage": {
-    "Bash": 1667,
+    "Bash": 1877,
     "ToolSearch": 27,
     "TaskCreate": 38,
     "TaskUpdate": 71,
-    "Read": 544,
+    "Read": 557,
     "Write": 131,
     "Edit": 522,
     "Skill": 13,
@@ -632,7 +648,7 @@
     "mcp__sentry__search_issues": 11,
     "mcp__sentry__get_sentry_resource": 4,
     "mcp__sentry__search_events": 3,
-    "mcp__ccd_session__spawn_task": 4,
+    "mcp__ccd_session__spawn_task": 6,
     "Monitor": 2,
     "Workflow": 4,
     "mcp__ccd_session__mark_chapter": 3,
@@ -649,15 +665,16 @@
     "mcp__exa__web_fetch_exa": 5,
     "mcp__exa__web_search_exa": 7,
     "mcp__linear-server__list_issues": 1,
-    "mcp__Claude_Browser__preview_start": 10,
+    "AskUserQuestion": 2,
+    "mcp__Claude_Browser__preview_start": 11,
+    "mcp__Claude_Browser__computer": 165,
+    "mcp__Claude_Browser__navigate": 44,
+    "mcp__ccd_session__dismiss_task": 1,
     "mcp__Claude_Browser__resize_window": 33,
     "mcp__Claude_Browser__tabs_context": 3,
-    "mcp__Claude_Browser__computer": 163,
     "mcp__Claude_Browser__javascript_tool": 160,
-    "mcp__Claude_Browser__navigate": 43,
     "Artifact": 6,
     "EnterPlanMode": 1,
-    "AskUserQuestion": 1,
     "ExitPlanMode": 2,
     "ScheduleWakeup": 7,
     "TaskStop": 3,
