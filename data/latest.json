@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-24T20:00:06.024Z",
+  "generatedAt": "2026-08-25T12:10:04.592Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 90,
-    "totalDurationMs": 816194318,
-    "totalTokens": 1892276081,
+    "totalDurationMs": 827091277,
+    "totalTokens": 1923225539,
     "projectCount": 15
   },
   "projects": [
     {
       "projectName": "gdm-autorater",
       "totalSessions": 19,
-      "totalDurationMs": 527795406,
+      "totalDurationMs": 538692365,
       "sessions": [
         {
           "id": "a7a9b52b-5e90-421f-988d-46378a06b9d7",
           "title": null,
           "timestamp": "2026-08-22T14:23:20.379Z",
-          "totalDurationMs": 189020567
+          "totalDurationMs": 199917526
         },
         {
           "id": "c520ae38-17dd-4a7f-9ad2-3ce124097e32",
@@ -555,7 +555,7 @@
   "activity": {
     "2026-08-22": {
       "sessions": 3,
-      "durationMs": 371412109
+      "durationMs": 382309068
     },
     "2026-08-21": {
       "sessions": 1,
@@ -623,15 +623,15 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 882612,
-    "outputTokens": 10082016,
-    "cacheReadTokens": 1830743220,
-    "cacheCreationTokens": 50568233
+    "inputTokens": 882770,
+    "outputTokens": 10183741,
+    "cacheReadTokens": 1860829443,
+    "cacheCreationTokens": 51329585
   },
   "toolUsage": {
-    "Bash": 2053,
-    "Read": 569,
-    "AskUserQuestion": 5,
+    "Bash": 2088,
+    "Read": 571,
+    "AskUserQuestion": 6,
     "mcp__Claude_Browser__preview_start": 12,
     "mcp__Claude_Browser__computer": 167,
     "mcp__Claude_Browser__navigate": 45,
