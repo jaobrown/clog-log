@@ -6,8 +6,8 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   90              Tokens     1.9B
-  Duration   229h 44m        Projects   15
+  Sessions   49              Tokens     1.7B
+  Duration   226h 18m        Projects   8
 
 ```
 
@@ -16,7 +16,7 @@ TOP PROJECTS
 ==================================================
 
   gdm-autorater  ####################  149h 38m
-  gdm-autorater  ########------------   56h 27m
+  gdm-autorater  #######-------------   54h 30m
   Crema-Confere... ##------------------   18h 39m
   sleep-tech-di... --------------------     1h 7m
   sleep-tech-one --------------------     1h 5m

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-27T16:00:00.957Z",
+  "generatedAt": "2026-08-27T20:00:04.894Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 90,
-    "totalDurationMs": 827091277,
-    "totalTokens": 1923225539,
-    "projectCount": 15
+    "totalSessions": 49,
+    "totalDurationMs": 814687263,
+    "totalTokens": 1726046514,
+    "projectCount": 8
   },
   "projects": [
     {
@@ -107,8 +107,8 @@
     },
     {
       "projectName": "gdm-autorater",
-      "totalSessions": 31,
-      "totalDurationMs": 203274018,
+      "totalSessions": 18,
+      "totalDurationMs": 196249311,
       "sessions": [
         {
           "id": "d9844819-4639-4bdf-91f5-b9aeb08d462e",
@@ -151,60 +151,6 @@
           "title": "(no title)",
           "timestamp": "2026-07-30T02:00:18.572Z",
           "totalDurationMs": 5428410
-        },
-        {
-          "id": "df7ac78c-e1c6-4ac2-a5ab-3f2431a3cde2",
-          "title": "(no title)",
-          "timestamp": "2026-07-27T20:20:49.969Z",
-          "totalDurationMs": 682200
-        },
-        {
-          "id": "9c38c7a0-364f-4e68-81d6-2f13c19cfeba",
-          "title": "(no title)",
-          "timestamp": "2026-07-27T20:06:38.176Z",
-          "totalDurationMs": 780621
-        },
-        {
-          "id": "fb5cd678-1b5e-400d-99e4-7ed0388ee948",
-          "title": "(no title)",
-          "timestamp": "2026-07-27T20:06:38.164Z",
-          "totalDurationMs": 692820
-        },
-        {
-          "id": "ce19afb4-8b4e-42f5-9089-3c90439d7358",
-          "title": "(no title)",
-          "timestamp": "2026-07-27T20:06:37.965Z",
-          "totalDurationMs": 721044
-        },
-        {
-          "id": "1e2e6550-fe14-4f97-ab6f-1e65d40b6f32",
-          "title": "(no title)",
-          "timestamp": "2026-07-27T18:13:50.381Z",
-          "totalDurationMs": 1054
-        },
-        {
-          "id": "4ef019e4-a4dc-44d2-a079-c527d371d16f",
-          "title": "(no title)",
-          "timestamp": "2026-07-27T17:49:22.791Z",
-          "totalDurationMs": 569520
-        },
-        {
-          "id": "ae457865-2435-42a7-90aa-21fed4ff97fc",
-          "title": "(no title)",
-          "timestamp": "2026-07-27T17:49:22.750Z",
-          "totalDurationMs": 631268
-        },
-        {
-          "id": "433239b8-a01a-4c66-9264-65635a66394d",
-          "title": "(no title)",
-          "timestamp": "2026-07-27T17:43:57.737Z",
-          "totalDurationMs": 2566629
-        },
-        {
-          "id": "4926649c-cadc-4ff4-b822-3b03f5b43f98",
-          "title": "(no title)",
-          "timestamp": "2026-07-27T15:07:56.700Z",
-          "totalDurationMs": 379551
         },
         {
           "id": "e83c0f0f-936e-4723-9bc2-f6da46b1952d",
@@ -279,37 +225,6 @@
       ]
     },
     {
-      "projectName": "agent-cost-baseline",
-      "totalSessions": 4,
-      "totalDurationMs": 2836884,
-      "sessions": [
-        {
-          "id": "e2437169-c783-47a5-9e3e-8beea934b158",
-          "title": null,
-          "timestamp": "2026-07-27T17:35:10.138Z",
-          "totalDurationMs": 2461491
-        },
-        {
-          "id": "af52a1bb-e19a-4c01-86e1-dc95184dc6dc",
-          "title": null,
-          "timestamp": "2026-07-27T17:22:13.065Z",
-          "totalDurationMs": 19069
-        },
-        {
-          "id": "23cc93f8-d762-4914-80eb-5e276082ee07",
-          "title": null,
-          "timestamp": "2026-07-27T17:03:19.815Z",
-          "totalDurationMs": 172606
-        },
-        {
-          "id": "e881a71c-34cd-49e8-86eb-4d226b59414c",
-          "title": null,
-          "timestamp": "2026-07-27T16:35:57.759Z",
-          "totalDurationMs": 183718
-        }
-      ]
-    },
-    {
       "projectName": "sleep-tech-one",
       "totalSessions": 5,
       "totalDurationMs": 1310565,
@@ -347,173 +262,6 @@
       ]
     },
     {
-      "projectName": "contra",
-      "totalSessions": 8,
-      "totalDurationMs": 1091061,
-      "sessions": [
-        {
-          "id": "40ed327e-74b4-4911-9fc6-5bf04cc290e6",
-          "title": null,
-          "timestamp": "2026-07-27T18:02:08.077Z",
-          "totalDurationMs": 1084
-        },
-        {
-          "id": "9369f67b-3fb4-48e1-811b-a51e9361d5f2",
-          "title": null,
-          "timestamp": "2026-07-27T18:02:08.040Z",
-          "totalDurationMs": 1177
-        },
-        {
-          "id": "bd0cb1fa-03e2-4bc6-9f58-3e0ba3911882",
-          "title": null,
-          "timestamp": "2026-07-27T18:02:08.040Z",
-          "totalDurationMs": 1177
-        },
-        {
-          "id": "e606cbdd-c184-43a7-9b8c-a65ffe3a3955",
-          "title": null,
-          "timestamp": "2026-07-27T18:01:28.009Z",
-          "totalDurationMs": 1605
-        },
-        {
-          "id": "f22fa7d0-710c-4967-bcfb-d21cb295a1b2",
-          "title": null,
-          "timestamp": "2026-07-27T18:01:27.836Z",
-          "totalDurationMs": 1202
-        },
-        {
-          "id": "bf531b3f-6ae7-4f92-8ad5-2cf7226352df",
-          "title": null,
-          "timestamp": "2026-07-27T18:01:27.565Z",
-          "totalDurationMs": 1226
-        },
-        {
-          "id": "29c44f3f-a83e-4d3e-ba6a-e45b91468015",
-          "title": null,
-          "timestamp": "2026-07-27T17:50:19.410Z",
-          "totalDurationMs": 619312
-        },
-        {
-          "id": "64a2d4b8-7e56-4b71-be57-ebc6fc6a71a0",
-          "title": null,
-          "timestamp": "2026-07-27T17:50:19.405Z",
-          "totalDurationMs": 464278
-        }
-      ]
-    },
-    {
-      "projectName": "agent-cost-help-center",
-      "totalSessions": 3,
-      "totalDurationMs": 453670,
-      "sessions": [
-        {
-          "id": "39634e93-2e19-4e98-b45c-3e30042c2a8b",
-          "title": null,
-          "timestamp": "2026-07-27T16:17:30.769Z",
-          "totalDurationMs": 79368
-        },
-        {
-          "id": "2c3bf694-f517-492f-b115-3ba6bb2f99db",
-          "title": null,
-          "timestamp": "2026-07-27T16:14:09.871Z",
-          "totalDurationMs": 107379
-        },
-        {
-          "id": "d592786f-47cf-4505-9197-990ca7eceb5b",
-          "title": null,
-          "timestamp": "2026-07-27T16:09:02.466Z",
-          "totalDurationMs": 266923
-        }
-      ]
-    },
-    {
-      "projectName": "agent-cost-tool-flow",
-      "totalSessions": 2,
-      "totalDurationMs": 319394,
-      "sessions": [
-        {
-          "id": "de1b0880-05c3-4a08-8c98-5edd09a93726",
-          "title": null,
-          "timestamp": "2026-07-27T16:57:31.808Z",
-          "totalDurationMs": 136023
-        },
-        {
-          "id": "ba5c3438-930f-4a14-8598-b7634362b711",
-          "title": null,
-          "timestamp": "2026-07-27T16:43:20.339Z",
-          "totalDurationMs": 183371
-        }
-      ]
-    },
-    {
-      "projectName": "agent-cost-discover",
-      "totalSessions": 4,
-      "totalDurationMs": 280267,
-      "sessions": [
-        {
-          "id": "cd3dc77c-7d52-48d4-a152-42dae4368433",
-          "title": null,
-          "timestamp": "2026-07-27T17:13:22.281Z",
-          "totalDurationMs": 63185
-        },
-        {
-          "id": "38117b16-8338-47a5-8999-937ae69ebdfa",
-          "title": null,
-          "timestamp": "2026-07-27T17:10:03.535Z",
-          "totalDurationMs": 96557
-        },
-        {
-          "id": "71ab58d3-b654-4cff-bf22-7de1d1c0d644",
-          "title": null,
-          "timestamp": "2026-07-27T16:26:34.277Z",
-          "totalDurationMs": 36955
-        },
-        {
-          "id": "69379dcb-7b54-4e81-9a57-12d48420e0c0",
-          "title": null,
-          "timestamp": "2026-07-27T16:24:00.625Z",
-          "totalDurationMs": 83570
-        }
-      ]
-    },
-    {
-      "projectName": "agent-cost-intake",
-      "totalSessions": 5,
-      "totalDurationMs": 266230,
-      "sessions": [
-        {
-          "id": "325d08d1-0b50-4084-b615-565239bc9886",
-          "title": null,
-          "timestamp": "2026-07-27T17:12:10.525Z",
-          "totalDurationMs": 65012
-        },
-        {
-          "id": "d9fb928c-ae12-4456-a0fd-e0207f93c34a",
-          "title": null,
-          "timestamp": "2026-07-27T17:11:46.085Z",
-          "totalDurationMs": 15998
-        },
-        {
-          "id": "0ce914f4-e44f-4e56-9a4e-5fc62e3b329d",
-          "title": null,
-          "timestamp": "2026-07-27T17:10:03.634Z",
-          "totalDurationMs": 14104
-        },
-        {
-          "id": "585417da-cc23-4045-bafa-6f633d46fbe3",
-          "title": null,
-          "timestamp": "2026-07-27T16:26:51.231Z",
-          "totalDurationMs": 72584
-        },
-        {
-          "id": "fd86107f-4707-4fc3-bc22-9e84a3d538b7",
-          "title": null,
-          "timestamp": "2026-07-27T16:19:01.494Z",
-          "totalDurationMs": 98532
-        }
-      ]
-    },
-    {
       "projectName": "design-accent",
       "totalSessions": 2,
       "totalDurationMs": 164871,
@@ -529,25 +277,6 @@
           "title": null,
           "timestamp": "2026-08-12T13:46:34.262Z",
           "totalDurationMs": 124472
-        }
-      ]
-    },
-    {
-      "projectName": "agent-cost-tool-schema",
-      "totalSessions": 2,
-      "totalDurationMs": 131801,
-      "sessions": [
-        {
-          "id": "9a01a07c-43a0-41b5-83ff-e73cfe23afbd",
-          "title": null,
-          "timestamp": "2026-07-27T16:21:39.337Z",
-          "totalDurationMs": 33411
-        },
-        {
-          "id": "ffe6abb5-fdd7-4e3f-87e0-41a9c57c2f42",
-          "title": null,
-          "timestamp": "2026-07-27T16:19:01.438Z",
-          "totalDurationMs": 98390
         }
       ]
     }
@@ -597,10 +326,6 @@
       "sessions": 4,
       "durationMs": 5947041
     },
-    "2026-07-27": {
-      "sessions": 41,
-      "durationMs": 12404014
-    },
     "2026-07-17": {
       "sessions": 1,
       "durationMs": 143961
@@ -623,14 +348,14 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 882770,
-    "outputTokens": 10183741,
-    "cacheReadTokens": 1860829443,
-    "cacheCreationTokens": 51329585
+    "inputTokens": 793713,
+    "outputTokens": 8367163,
+    "cacheReadTokens": 1681919010,
+    "cacheCreationTokens": 34966628
   },
   "toolUsage": {
-    "Bash": 2088,
-    "Read": 571,
+    "Bash": 1865,
+    "Read": 408,
     "AskUserQuestion": 6,
     "mcp__Claude_Browser__preview_start": 12,
     "mcp__Claude_Browser__computer": 167,
@@ -638,16 +363,16 @@
     "mcp__ccd_session__spawn_task": 8,
     "mcp__ccd_session__dismiss_task": 2,
     "Skill": 12,
-    "ToolSearch": 26,
-    "Agent": 17,
+    "ToolSearch": 23,
+    "Agent": 13,
     "mcp__Claude_Browser__resize_window": 33,
     "mcp__Claude_Browser__tabs_context": 3,
     "mcp__Claude_Browser__javascript_tool": 160,
     "Edit": 522,
-    "Write": 131,
+    "Write": 129,
     "Artifact": 6,
-    "WebFetch": 61,
-    "WebSearch": 47,
+    "WebFetch": 51,
+    "WebSearch": 12,
     "EnterPlanMode": 1,
     "ExitPlanMode": 2,
     "TaskCreate": 38,
@@ -665,20 +390,17 @@
     "mcp__Claude_Browser__find": 1,
     "mcp__Claude_Browser__form_input": 1,
     "Monitor": 2,
-    "mcp__sentry__find_organizations": 3,
+    "mcp__sentry__find_organizations": 2,
     "mcp__sentry__find_projects": 1,
-    "mcp__sentry__search_issues": 11,
-    "mcp__sentry__get_sentry_resource": 3,
+    "mcp__sentry__search_issues": 8,
+    "mcp__sentry__get_sentry_resource": 1,
     "mcp__sentry__search_events": 3,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 2,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 2,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 1,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 2,
-    "Grep": 110,
-    "Glob": 17,
-    "mcp__exa__web_fetch_exa": 5,
-    "mcp__exa__web_search_exa": 7,
-    "mcp__linear-server__list_issues": 1,
+    "Grep": 18,
+    "Glob": 6,
     "SendUserFile": 1
   },
   "modelBreakdown": {
