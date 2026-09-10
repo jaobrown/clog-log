@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-09T20:00:06.270Z",
+  "generatedAt": "2026-09-10T12:08:55.652Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 51,
-    "totalDurationMs": 749313200,
-    "totalTokens": 1744153636,
+    "totalSessions": 55,
+    "totalDurationMs": 751387043,
+    "totalTokens": 1801467595,
     "projectCount": 7
   },
   "projects": [
@@ -107,9 +107,15 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 21,
-      "totalDurationMs": 198030729,
+      "totalSessions": 25,
+      "totalDurationMs": 200104572,
       "sessions": [
+        {
+          "id": "a90aacd5-2c29-42fa-afd5-7b406629ec8a",
+          "title": "**********",
+          "timestamp": "2026-09-09T20:21:30.684Z",
+          "totalDurationMs": 2073843
+        },
         {
           "id": "d3de80b9-2e3d-47a1-bdde-41a754ae0976",
           "title": "**********",
@@ -303,6 +309,10 @@
       "sessions": 5,
       "durationMs": 71096456
     },
+    "2026-09-09": {
+      "sessions": 4,
+      "durationMs": 2073843
+    },
     "2026-09-08": {
       "sessions": 3,
       "durationMs": 1781418
@@ -341,14 +351,14 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 797659,
-    "outputTokens": 8511388,
-    "cacheReadTokens": 1698485596,
-    "cacheCreationTokens": 36358993
+    "inputTokens": 800317,
+    "outputTokens": 8682605,
+    "cacheReadTokens": 1753883645,
+    "cacheCreationTokens": 38101028
   },
   "toolUsage": {
-    "Bash": 1930,
-    "Read": 414,
+    "Bash": 2203,
+    "Read": 431,
     "AskUserQuestion": 6,
     "mcp__Claude_Browser__preview_start": 12,
     "mcp__Claude_Browser__computer": 167,
@@ -356,8 +366,8 @@
     "mcp__ccd_session__spawn_task": 8,
     "mcp__ccd_session__dismiss_task": 2,
     "Skill": 14,
-    "ToolSearch": 23,
-    "Agent": 15,
+    "ToolSearch": 24,
+    "Agent": 18,
     "mcp__Claude_Browser__resize_window": 33,
     "mcp__Claude_Browser__tabs_context": 3,
     "mcp__Claude_Browser__javascript_tool": 160,
@@ -372,7 +382,7 @@
     "TaskUpdate": 71,
     "Workflow": 4,
     "ScheduleWakeup": 7,
-    "mcp__ccd_session__mark_chapter": 3,
+    "mcp__ccd_session__mark_chapter": 4,
     "TaskStop": 3,
     "mcp__Control_Chrome__open_url": 2,
     "mcp__kody__search": 1,
@@ -383,6 +393,7 @@
     "mcp__Claude_Browser__find": 1,
     "mcp__Claude_Browser__form_input": 1,
     "Monitor": 2,
+    "mcp__production-postgres-readonly__execute_sql": 4,
     "mcp__sentry__find_organizations": 2,
     "mcp__sentry__find_projects": 1,
     "mcp__sentry__search_issues": 8,
