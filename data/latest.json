@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T12:08:55.652Z",
+  "generatedAt": "2026-09-10T16:00:06.192Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 55,
-    "totalDurationMs": 751387043,
-    "totalTokens": 1801467595,
+    "totalSessions": 58,
+    "totalDurationMs": 754811313,
+    "totalTokens": 1837424291,
     "projectCount": 7
   },
   "projects": [
@@ -107,9 +107,15 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 25,
-      "totalDurationMs": 200104572,
+      "totalSessions": 28,
+      "totalDurationMs": 203528842,
       "sessions": [
+        {
+          "id": "8f7c00a7-d432-495e-bb60-9122b885d37f",
+          "title": "**********",
+          "timestamp": "2026-09-10T15:13:59.226Z",
+          "totalDurationMs": 3424270
+        },
         {
           "id": "a90aacd5-2c29-42fa-afd5-7b406629ec8a",
           "title": "**********",
@@ -309,6 +315,10 @@
       "sessions": 5,
       "durationMs": 71096456
     },
+    "2026-09-10": {
+      "sessions": 3,
+      "durationMs": 3424270
+    },
     "2026-09-09": {
       "sessions": 4,
       "durationMs": 2073843
@@ -351,29 +361,29 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 800317,
-    "outputTokens": 8682605,
-    "cacheReadTokens": 1753883645,
-    "cacheCreationTokens": 38101028
+    "inputTokens": 802499,
+    "outputTokens": 8946065,
+    "cacheReadTokens": 1788370826,
+    "cacheCreationTokens": 39304901
   },
   "toolUsage": {
-    "Bash": 2203,
+    "Bash": 2398,
     "Read": 431,
     "AskUserQuestion": 6,
     "mcp__Claude_Browser__preview_start": 12,
     "mcp__Claude_Browser__computer": 167,
-    "mcp__Claude_Browser__navigate": 45,
+    "mcp__Claude_Browser__navigate": 46,
     "mcp__ccd_session__spawn_task": 8,
     "mcp__ccd_session__dismiss_task": 2,
-    "Skill": 14,
-    "ToolSearch": 24,
-    "Agent": 18,
+    "Skill": 15,
+    "ToolSearch": 25,
+    "Agent": 20,
     "mcp__Claude_Browser__resize_window": 33,
     "mcp__Claude_Browser__tabs_context": 3,
     "mcp__Claude_Browser__javascript_tool": 160,
     "Edit": 522,
-    "Write": 129,
-    "Artifact": 6,
+    "Write": 131,
+    "Artifact": 7,
     "WebFetch": 51,
     "WebSearch": 12,
     "EnterPlanMode": 1,
@@ -382,7 +392,7 @@
     "TaskUpdate": 71,
     "Workflow": 4,
     "ScheduleWakeup": 7,
-    "mcp__ccd_session__mark_chapter": 4,
+    "mcp__ccd_session__mark_chapter": 7,
     "TaskStop": 3,
     "mcp__Control_Chrome__open_url": 2,
     "mcp__kody__search": 1,
@@ -393,6 +403,9 @@
     "mcp__Claude_Browser__find": 1,
     "mcp__Claude_Browser__form_input": 1,
     "Monitor": 2,
+    "mcp__Claude_Browser__browser_batch": 3,
+    "mcp__Claude_Browser__tabs_create": 1,
+    "mcp__Claude_Browser__tabs_close": 1,
     "mcp__production-postgres-readonly__execute_sql": 4,
     "mcp__sentry__find_organizations": 2,
     "mcp__sentry__find_projects": 1,
