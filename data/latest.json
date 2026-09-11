@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T12:04:56.046Z",
+  "generatedAt": "2026-09-11T16:00:05.302Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 58,
-    "totalDurationMs": 754811313,
-    "totalTokens": 1837424291,
+    "totalSessions": 61,
+    "totalDurationMs": 756051007,
+    "totalTokens": 1856727591,
     "projectCount": 7
   },
   "projects": [
@@ -107,9 +107,15 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 28,
-      "totalDurationMs": 203528842,
+      "totalSessions": 32,
+      "totalDurationMs": 204893008,
       "sessions": [
+        {
+          "id": "fa98fc15-3bfc-4c66-9318-c84cc9e3427b",
+          "title": "**********",
+          "timestamp": "2026-09-11T14:08:10.183Z",
+          "totalDurationMs": 1364166
+        },
         {
           "id": "8f7c00a7-d432-495e-bb60-9122b885d37f",
           "title": "**********",
@@ -268,20 +274,14 @@
     },
     {
       "projectName": "design-accent",
-      "totalSessions": 2,
-      "totalDurationMs": 164871,
+      "totalSessions": 1,
+      "totalDurationMs": 40399,
       "sessions": [
         {
           "id": "ac55004a-bc03-471e-a352-1f83bf36967d",
           "title": null,
           "timestamp": "2026-08-12T15:44:16.279Z",
           "totalDurationMs": 40399
-        },
-        {
-          "id": "ba9419e7-bc76-4f8d-a787-b96080bcaa30",
-          "title": null,
-          "timestamp": "2026-08-12T13:46:34.262Z",
-          "totalDurationMs": 124472
         }
       ]
     }
@@ -314,6 +314,10 @@
     "2026-07-20": {
       "sessions": 5,
       "durationMs": 71096456
+    },
+    "2026-09-11": {
+      "sessions": 4,
+      "durationMs": 1364166
     },
     "2026-09-10": {
       "sessions": 3,
@@ -356,34 +360,34 @@
       "durationMs": 12425235
     },
     "2026-08-12": {
-      "sessions": 2,
-      "durationMs": 164871
+      "sessions": 1,
+      "durationMs": 40399
     }
   },
   "tokenUsage": {
-    "inputTokens": 802499,
-    "outputTokens": 8946065,
-    "cacheReadTokens": 1788370826,
-    "cacheCreationTokens": 39304901
+    "inputTokens": 804403,
+    "outputTokens": 9168691,
+    "cacheReadTokens": 1806189906,
+    "cacheCreationTokens": 40564591
   },
   "toolUsage": {
-    "Bash": 2398,
-    "Read": 431,
+    "Bash": 2488,
+    "Read": 436,
     "AskUserQuestion": 6,
     "mcp__Claude_Browser__preview_start": 12,
     "mcp__Claude_Browser__computer": 167,
     "mcp__Claude_Browser__navigate": 46,
     "mcp__ccd_session__spawn_task": 8,
     "mcp__ccd_session__dismiss_task": 2,
-    "Skill": 15,
-    "ToolSearch": 25,
-    "Agent": 20,
-    "mcp__Claude_Browser__resize_window": 33,
+    "Skill": 17,
+    "ToolSearch": 26,
+    "Agent": 23,
+    "mcp__Claude_Browser__resize_window": 34,
     "mcp__Claude_Browser__tabs_context": 3,
     "mcp__Claude_Browser__javascript_tool": 160,
     "Edit": 522,
-    "Write": 131,
-    "Artifact": 7,
+    "Write": 132,
+    "Artifact": 9,
     "WebFetch": 51,
     "WebSearch": 12,
     "EnterPlanMode": 1,
@@ -403,10 +407,11 @@
     "mcp__Claude_Browser__find": 1,
     "mcp__Claude_Browser__form_input": 1,
     "Monitor": 2,
-    "mcp__Claude_Browser__browser_batch": 3,
+    "mcp__production-postgres-readonly__execute_sql": 8,
+    "mcp__Claude_Browser__browser_batch": 7,
+    "SendUserFile": 2,
     "mcp__Claude_Browser__tabs_create": 1,
     "mcp__Claude_Browser__tabs_close": 1,
-    "mcp__production-postgres-readonly__execute_sql": 4,
     "mcp__sentry__find_organizations": 2,
     "mcp__sentry__find_projects": 1,
     "mcp__sentry__search_issues": 8,
@@ -417,8 +422,7 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 1,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 2,
     "Grep": 18,
-    "Glob": 6,
-    "SendUserFile": 1
+    "Glob": 6
   },
   "modelBreakdown": {
     "opus-4.5": {
