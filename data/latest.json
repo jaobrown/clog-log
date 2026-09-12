@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-11T20:00:06.317Z",
+  "generatedAt": "2026-09-12T12:00:06.063Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 61,
-    "totalDurationMs": 756051007,
-    "totalTokens": 1856727591,
-    "projectCount": 7
+    "totalSessions": 60,
+    "totalDurationMs": 781121878,
+    "totalTokens": 1856679971,
+    "projectCount": 6
   },
   "projects": [
     {
@@ -108,13 +108,13 @@
     {
       "projectName": "top secret",
       "totalSessions": 32,
-      "totalDurationMs": 204893008,
+      "totalDurationMs": 230004278,
       "sessions": [
         {
           "id": "fa98fc15-3bfc-4c66-9318-c84cc9e3427b",
           "title": "**********",
           "timestamp": "2026-09-11T14:08:10.183Z",
-          "totalDurationMs": 1364166
+          "totalDurationMs": 26475436
         },
         {
           "id": "8f7c00a7-d432-495e-bb60-9122b885d37f",
@@ -271,19 +271,6 @@
           "totalDurationMs": 70099
         }
       ]
-    },
-    {
-      "projectName": "design-accent",
-      "totalSessions": 1,
-      "totalDurationMs": 40399,
-      "sessions": [
-        {
-          "id": "ac55004a-bc03-471e-a352-1f83bf36967d",
-          "title": null,
-          "timestamp": "2026-08-12T15:44:16.279Z",
-          "totalDurationMs": 40399
-        }
-      ]
     }
   ],
   "activity": {
@@ -317,7 +304,7 @@
     },
     "2026-09-11": {
       "sessions": 4,
-      "durationMs": 1364166
+      "durationMs": 26475436
     },
     "2026-09-10": {
       "sessions": 3,
@@ -358,17 +345,13 @@
     "2026-07-24": {
       "sessions": 9,
       "durationMs": 12425235
-    },
-    "2026-08-12": {
-      "sessions": 1,
-      "durationMs": 40399
     }
   },
   "tokenUsage": {
-    "inputTokens": 804403,
-    "outputTokens": 9168691,
+    "inputTokens": 804399,
+    "outputTokens": 9163259,
     "cacheReadTokens": 1806189906,
-    "cacheCreationTokens": 40564591
+    "cacheCreationTokens": 40522407
   },
   "toolUsage": {
     "Bash": 2488,
