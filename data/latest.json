@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T12:01:14.668Z",
+  "generatedAt": "2026-09-14T16:00:06.407Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 60,
-    "totalDurationMs": 781121878,
-    "totalTokens": 1856679971,
+    "totalSessions": 63,
+    "totalDurationMs": 784441974,
+    "totalTokens": 1906076188,
     "projectCount": 6
   },
   "projects": [
@@ -107,9 +107,15 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 32,
-      "totalDurationMs": 230004278,
+      "totalSessions": 35,
+      "totalDurationMs": 233324374,
       "sessions": [
+        {
+          "id": "f63869c5-8c76-4fd4-9fc8-8305291c508c",
+          "title": "**********",
+          "timestamp": "2026-09-14T12:39:15.701Z",
+          "totalDurationMs": 3320096
+        },
         {
           "id": "fa98fc15-3bfc-4c66-9318-c84cc9e3427b",
           "title": "**********",
@@ -302,6 +308,10 @@
       "sessions": 5,
       "durationMs": 71096456
     },
+    "2026-09-14": {
+      "sessions": 3,
+      "durationMs": 3320096
+    },
     "2026-09-11": {
       "sessions": 4,
       "durationMs": 26475436
@@ -348,23 +358,23 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 804399,
-    "outputTokens": 9163259,
-    "cacheReadTokens": 1806189906,
-    "cacheCreationTokens": 40522407
+    "inputTokens": 812681,
+    "outputTokens": 9478107,
+    "cacheReadTokens": 1852567757,
+    "cacheCreationTokens": 43217643
   },
   "toolUsage": {
-    "Bash": 2488,
-    "Read": 436,
+    "Bash": 2636,
+    "Read": 438,
     "AskUserQuestion": 6,
     "mcp__Claude_Browser__preview_start": 12,
     "mcp__Claude_Browser__computer": 167,
     "mcp__Claude_Browser__navigate": 46,
     "mcp__ccd_session__spawn_task": 8,
     "mcp__ccd_session__dismiss_task": 2,
-    "Skill": 17,
+    "Skill": 19,
     "ToolSearch": 26,
-    "Agent": 23,
+    "Agent": 25,
     "mcp__Claude_Browser__resize_window": 34,
     "mcp__Claude_Browser__tabs_context": 3,
     "mcp__Claude_Browser__javascript_tool": 160,
