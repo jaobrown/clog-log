@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T16:00:06.742Z",
+  "generatedAt": "2026-10-07T20:00:07.872Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 63,
-    "totalDurationMs": 602713205,
-    "totalTokens": 1834968857,
+    "totalSessions": 67,
+    "totalDurationMs": 614684421,
+    "totalTokens": 2342621649,
     "projectCount": 6
   },
   "projects": [
@@ -101,9 +101,27 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 36,
-      "totalDurationMs": 233625189,
+      "totalSessions": 40,
+      "totalDurationMs": 245596405,
       "sessions": [
+        {
+          "id": "bf796f2d-0bf7-44f0-adbe-8b37f6b7d337",
+          "title": "**********",
+          "timestamp": "2026-10-07T19:54:24.428Z",
+          "totalDurationMs": 223051
+        },
+        {
+          "id": "7b439782-83c7-4d66-b0c0-d6f26b09b2a9",
+          "title": "**********",
+          "timestamp": "2026-10-07T18:29:17.530Z",
+          "totalDurationMs": 2961554
+        },
+        {
+          "id": "abe56114-ca1a-4d11-98cb-9c8e7051a75f",
+          "title": "**********",
+          "timestamp": "2026-10-07T17:45:36.425Z",
+          "totalDurationMs": 8786611
+        },
         {
           "id": "4b653431-3a1b-48eb-bab8-f39ede358123",
           "title": "**********",
@@ -308,6 +326,10 @@
       "sessions": 5,
       "durationMs": 71096456
     },
+    "2026-10-07": {
+      "sessions": 4,
+      "durationMs": 11971216
+    },
     "2026-09-23": {
       "sessions": 1,
       "durationMs": 300815
@@ -362,29 +384,29 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 812053,
-    "outputTokens": 9258509,
-    "cacheReadTokens": 1781689519,
-    "cacheCreationTokens": 43208776
+    "inputTokens": 814529,
+    "outputTokens": 10315027,
+    "cacheReadTokens": 2284760815,
+    "cacheCreationTokens": 46731278
   },
   "toolUsage": {
-    "Bash": 2475,
-    "Read": 432,
-    "AskUserQuestion": 5,
+    "Bash": 2814,
+    "Read": 507,
+    "AskUserQuestion": 6,
     "mcp__Claude_Browser__preview_start": 11,
     "mcp__Claude_Browser__computer": 165,
     "mcp__Claude_Browser__navigate": 45,
-    "mcp__ccd_session__spawn_task": 6,
+    "mcp__ccd_session__spawn_task": 8,
     "mcp__ccd_session__dismiss_task": 1,
-    "Skill": 19,
-    "ToolSearch": 27,
-    "Agent": 25,
+    "Skill": 20,
+    "ToolSearch": 35,
+    "Agent": 26,
     "mcp__Claude_Browser__resize_window": 34,
     "mcp__Claude_Browser__tabs_context": 3,
     "mcp__Claude_Browser__javascript_tool": 160,
-    "Edit": 524,
-    "Write": 134,
-    "Artifact": 9,
+    "Edit": 528,
+    "Write": 139,
+    "Artifact": 11,
     "WebFetch": 51,
     "WebSearch": 12,
     "EnterPlanMode": 1,
@@ -393,8 +415,8 @@
     "TaskUpdate": 71,
     "Workflow": 4,
     "ScheduleWakeup": 7,
-    "mcp__ccd_session__mark_chapter": 7,
-    "TaskStop": 3,
+    "mcp__ccd_session__mark_chapter": 8,
+    "TaskStop": 4,
     "mcp__Control_Chrome__open_url": 2,
     "mcp__kody__search": 1,
     "mcp__kody__execute": 1,
@@ -403,9 +425,25 @@
     "mcp__Claude_Browser__read_page": 2,
     "mcp__Claude_Browser__find": 1,
     "mcp__Claude_Browser__form_input": 1,
-    "Monitor": 2,
+    "Monitor": 7,
+    "mcp__ccd_pr__get_status": 3,
+    "mcp__ccd_pr__bind_pr": 1,
+    "mcp__ccd_pr__set_monitor": 1,
+    "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_thread": 13,
+    "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_channel": 2,
+    "mcp__a5fffb56-f14f-48d7-be47-f611e66d05b5__notion-fetch": 1,
+    "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_search_public_and_private": 4,
+    "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_file": 2,
+    "mcp__production-postgres-readonly__execute_sql": 33,
+    "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__guide": 1,
+    "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__batch": 1,
+    "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__update": 1,
+    "mcp__ccd_session_mgmt__search_session_transcripts": 1,
+    "mcp__visualize__read_me": 1,
+    "mcp__visualize__show_widget": 1,
+    "Glob": 14,
+    "Grep": 55,
     "mcp__playwright__browser_navigate": 1,
-    "mcp__production-postgres-readonly__execute_sql": 8,
     "mcp__Claude_Browser__browser_batch": 7,
     "SendUserFile": 2,
     "mcp__Claude_Browser__tabs_create": 1,
@@ -418,9 +456,7 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 2,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 2,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 1,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 2,
-    "Grep": 18,
-    "Glob": 6
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 2
   },
   "modelBreakdown": {
     "opus-4.5": {
