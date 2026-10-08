@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T20:00:07.872Z",
+  "generatedAt": "2026-10-08T12:00:05.720Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 67,
-    "totalDurationMs": 614684421,
-    "totalTokens": 2342621649,
+    "totalSessions": 68,
+    "totalDurationMs": 687626831,
+    "totalTokens": 2766165234,
     "projectCount": 6
   },
   "projects": [
@@ -101,14 +101,20 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 40,
-      "totalDurationMs": 245596405,
+      "totalSessions": 41,
+      "totalDurationMs": 318538815,
       "sessions": [
+        {
+          "id": "0e8befe8-2e00-451d-a27c-296001e27b35",
+          "title": "**********",
+          "timestamp": "2026-10-07T20:13:28.728Z",
+          "totalDurationMs": 554157
+        },
         {
           "id": "bf796f2d-0bf7-44f0-adbe-8b37f6b7d337",
           "title": "**********",
           "timestamp": "2026-10-07T19:54:24.428Z",
-          "totalDurationMs": 223051
+          "totalDurationMs": 46840739
         },
         {
           "id": "7b439782-83c7-4d66-b0c0-d6f26b09b2a9",
@@ -120,7 +126,7 @@
           "id": "abe56114-ca1a-4d11-98cb-9c8e7051a75f",
           "title": "**********",
           "timestamp": "2026-10-07T17:45:36.425Z",
-          "totalDurationMs": 8786611
+          "totalDurationMs": 34557176
         },
         {
           "id": "4b653431-3a1b-48eb-bab8-f39ede358123",
@@ -327,8 +333,8 @@
       "durationMs": 71096456
     },
     "2026-10-07": {
-      "sessions": 4,
-      "durationMs": 11971216
+      "sessions": 5,
+      "durationMs": 84913626
     },
     "2026-09-23": {
       "sessions": 1,
@@ -384,29 +390,29 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 814529,
-    "outputTokens": 10315027,
-    "cacheReadTokens": 2284760815,
-    "cacheCreationTokens": 46731278
+    "inputTokens": 816965,
+    "outputTokens": 11077343,
+    "cacheReadTokens": 2705124297,
+    "cacheCreationTokens": 49146629
   },
   "toolUsage": {
-    "Bash": 2814,
-    "Read": 507,
+    "Bash": 3172,
+    "Read": 516,
     "AskUserQuestion": 6,
     "mcp__Claude_Browser__preview_start": 11,
-    "mcp__Claude_Browser__computer": 165,
-    "mcp__Claude_Browser__navigate": 45,
-    "mcp__ccd_session__spawn_task": 8,
+    "mcp__Claude_Browser__computer": 166,
+    "mcp__Claude_Browser__navigate": 46,
+    "mcp__ccd_session__spawn_task": 11,
     "mcp__ccd_session__dismiss_task": 1,
     "Skill": 20,
-    "ToolSearch": 35,
+    "ToolSearch": 37,
     "Agent": 26,
-    "mcp__Claude_Browser__resize_window": 34,
+    "mcp__Claude_Browser__resize_window": 35,
     "mcp__Claude_Browser__tabs_context": 3,
     "mcp__Claude_Browser__javascript_tool": 160,
     "Edit": 528,
-    "Write": 139,
-    "Artifact": 11,
+    "Write": 142,
+    "Artifact": 16,
     "WebFetch": 51,
     "WebSearch": 12,
     "EnterPlanMode": 1,
@@ -425,8 +431,8 @@
     "mcp__Claude_Browser__read_page": 2,
     "mcp__Claude_Browser__find": 1,
     "mcp__Claude_Browser__form_input": 1,
-    "Monitor": 7,
-    "mcp__ccd_pr__get_status": 3,
+    "Monitor": 18,
+    "mcp__ccd_pr__get_status": 6,
     "mcp__ccd_pr__bind_pr": 1,
     "mcp__ccd_pr__set_monitor": 1,
     "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_thread": 13,
@@ -441,12 +447,12 @@
     "mcp__ccd_session_mgmt__search_session_transcripts": 1,
     "mcp__visualize__read_me": 1,
     "mcp__visualize__show_widget": 1,
+    "mcp__Claude_Browser__browser_batch": 10,
+    "mcp__Claude_Browser__tabs_create": 2,
     "Glob": 14,
     "Grep": 55,
     "mcp__playwright__browser_navigate": 1,
-    "mcp__Claude_Browser__browser_batch": 7,
     "SendUserFile": 2,
-    "mcp__Claude_Browser__tabs_create": 1,
     "mcp__Claude_Browser__tabs_close": 1,
     "mcp__sentry__find_organizations": 2,
     "mcp__sentry__find_projects": 1,
