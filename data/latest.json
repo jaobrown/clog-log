@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T16:00:06.365Z",
+  "generatedAt": "2026-10-12T20:00:06.424Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 68,
-    "totalDurationMs": 687626831,
-    "totalTokens": 2766165234,
+    "totalSessions": 70,
+    "totalDurationMs": 691964102,
+    "totalTokens": 2825728746,
     "projectCount": 6
   },
   "projects": [
@@ -101,9 +101,21 @@
     },
     {
       "projectName": "top secret",
-      "totalSessions": 41,
-      "totalDurationMs": 318538815,
+      "totalSessions": 43,
+      "totalDurationMs": 322876086,
       "sessions": [
+        {
+          "id": "3cae7b1f-0a2d-4505-9edf-74e078a2ec3c",
+          "title": "**********",
+          "timestamp": "2026-10-12T17:35:37.523Z",
+          "totalDurationMs": 2184728
+        },
+        {
+          "id": "d909903d-cf97-4a88-bb3c-c5107177226b",
+          "title": "**********",
+          "timestamp": "2026-10-12T16:12:00.374Z",
+          "totalDurationMs": 2152543
+        },
         {
           "id": "0e8befe8-2e00-451d-a27c-296001e27b35",
           "title": "**********",
@@ -332,6 +344,10 @@
       "sessions": 5,
       "durationMs": 71096456
     },
+    "2026-10-12": {
+      "sessions": 2,
+      "durationMs": 4337271
+    },
     "2026-10-07": {
       "sessions": 5,
       "durationMs": 84913626
@@ -390,36 +406,36 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 816965,
-    "outputTokens": 11077343,
-    "cacheReadTokens": 2705124297,
-    "cacheCreationTokens": 49146629
+    "inputTokens": 823879,
+    "outputTokens": 12004977,
+    "cacheReadTokens": 2759414106,
+    "cacheCreationTokens": 53485784
   },
   "toolUsage": {
-    "Bash": 3172,
-    "Read": 516,
+    "Bash": 3244,
+    "Read": 518,
     "AskUserQuestion": 6,
     "mcp__Claude_Browser__preview_start": 11,
     "mcp__Claude_Browser__computer": 166,
     "mcp__Claude_Browser__navigate": 46,
     "mcp__ccd_session__spawn_task": 11,
     "mcp__ccd_session__dismiss_task": 1,
-    "Skill": 20,
-    "ToolSearch": 37,
+    "Skill": 22,
+    "ToolSearch": 43,
     "Agent": 26,
     "mcp__Claude_Browser__resize_window": 35,
     "mcp__Claude_Browser__tabs_context": 3,
     "mcp__Claude_Browser__javascript_tool": 160,
     "Edit": 528,
-    "Write": 142,
-    "Artifact": 16,
-    "WebFetch": 51,
+    "Write": 146,
+    "Artifact": 19,
+    "WebFetch": 53,
     "WebSearch": 12,
     "EnterPlanMode": 1,
     "ExitPlanMode": 2,
     "TaskCreate": 38,
     "TaskUpdate": 71,
-    "Workflow": 4,
+    "Workflow": 6,
     "ScheduleWakeup": 7,
     "mcp__ccd_session__mark_chapter": 8,
     "TaskStop": 4,
@@ -432,18 +448,22 @@
     "mcp__Claude_Browser__find": 1,
     "mcp__Claude_Browser__form_input": 1,
     "Monitor": 18,
+    "mcp__production-postgres-readonly__list_tables": 6,
+    "mcp__production-postgres-readonly__execute_sql": 79,
+    "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__guide": 3,
+    "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__batch": 3,
+    "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__update": 4,
+    "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__read": 1,
+    "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_search_public_and_private": 8,
+    "mcp__a5fffb56-f14f-48d7-be47-f611e66d05b5__notion-search": 1,
+    "mcp__linear-server__list_issues": 1,
+    "mcp__a5fffb56-f14f-48d7-be47-f611e66d05b5__notion-fetch": 4,
     "mcp__ccd_pr__get_status": 6,
     "mcp__ccd_pr__bind_pr": 1,
     "mcp__ccd_pr__set_monitor": 1,
     "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_thread": 13,
     "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_channel": 2,
-    "mcp__a5fffb56-f14f-48d7-be47-f611e66d05b5__notion-fetch": 1,
-    "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_search_public_and_private": 4,
     "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_file": 2,
-    "mcp__production-postgres-readonly__execute_sql": 33,
-    "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__guide": 1,
-    "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__batch": 1,
-    "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__update": 1,
     "mcp__ccd_session_mgmt__search_session_transcripts": 1,
     "mcp__visualize__read_me": 1,
     "mcp__visualize__show_widget": 1,
