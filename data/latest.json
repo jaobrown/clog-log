@@ -1,114 +1,23 @@
 {
-  "generatedAt": "2026-10-12T20:00:06.424Z",
+  "generatedAt": "2026-10-13T12:00:02.357Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 70,
-    "totalDurationMs": 691964102,
-    "totalTokens": 2825728746,
+    "totalDurationMs": 727240915,
+    "totalTokens": 2859873321,
     "projectCount": 6
   },
   "projects": [
     {
-      "projectName": "gdm-autorater",
-      "totalSessions": 18,
-      "totalDurationMs": 356662781,
-      "sessions": [
-        {
-          "id": "a7a9b52b-5e90-421f-988d-46378a06b9d7",
-          "title": null,
-          "timestamp": "2026-08-22T14:23:20.379Z",
-          "totalDurationMs": 199917526
-        },
-        {
-          "id": "1174234d-e11e-4241-9933-9bc7a75df253",
-          "title": null,
-          "timestamp": "2026-08-22T14:16:03.988Z",
-          "totalDurationMs": 361958
-        },
-        {
-          "id": "dca54b80-b452-47a4-8596-8cc07e621774",
-          "title": null,
-          "timestamp": "2026-08-21T23:21:00.672Z",
-          "totalDurationMs": 695179
-        },
-        {
-          "id": "aba0f9a0-ac4d-445d-b5f3-60297aa34798",
-          "title": null,
-          "timestamp": "2026-08-10T14:30:01.863Z",
-          "totalDurationMs": 1981431
-        },
-        {
-          "id": "0777eeac-5580-49e6-aab1-6fc53e7b5991",
-          "title": null,
-          "timestamp": "2026-07-23T01:09:52.002Z",
-          "totalDurationMs": 5563844
-        },
-        {
-          "id": "b8f76a64-5443-4895-a956-98124109eb68",
-          "title": null,
-          "timestamp": "2026-07-22T23:18:21.735Z",
-          "totalDurationMs": 1871234
-        },
-        {
-          "id": "0aeac989-6597-4b66-9411-635ef763b62c",
-          "title": null,
-          "timestamp": "2026-07-22T20:08:47.359Z",
-          "totalDurationMs": 2808455
-        },
-        {
-          "id": "ad4b3793-3b29-476d-bc32-e675fb932be9",
-          "title": null,
-          "timestamp": "2026-07-22T01:47:14.230Z",
-          "totalDurationMs": 60778724
-        },
-        {
-          "id": "cf651f39-edf1-4ef8-a39d-4f382a162c79",
-          "title": null,
-          "timestamp": "2026-07-22T01:45:34.597Z",
-          "totalDurationMs": 1662
-        },
-        {
-          "id": "73cfabdd-b0d3-417c-9f95-203ecf0cf2d8",
-          "title": null,
-          "timestamp": "2026-07-21T16:20:18.858Z",
-          "totalDurationMs": 11586312
-        },
-        {
-          "id": "12fe3a8d-ad9f-43dd-827e-a700d2e9cc00",
-          "title": null,
-          "timestamp": "2026-07-20T20:21:41.865Z",
-          "totalDurationMs": 182879
-        },
-        {
-          "id": "901c277e-19fa-4828-854e-a2cee81b62b7",
-          "title": null,
-          "timestamp": "2026-07-20T19:48:35.991Z",
-          "totalDurationMs": 70901653
-        },
-        {
-          "id": "50020363-12ec-41d1-9886-b00649c6286d",
-          "title": null,
-          "timestamp": "2026-07-20T19:47:08.064Z",
-          "totalDurationMs": 261
-        },
-        {
-          "id": "c14db084-d80a-4335-bfcd-f344a974921f",
-          "title": null,
-          "timestamp": "2026-07-20T19:46:44.972Z",
-          "totalDurationMs": 11663
-        }
-      ]
-    },
-    {
       "projectName": "top secret",
       "totalSessions": 43,
-      "totalDurationMs": 322876086,
+      "totalDurationMs": 358152899,
       "sessions": [
         {
           "id": "3cae7b1f-0a2d-4505-9edf-74e078a2ec3c",
           "title": "**********",
           "timestamp": "2026-10-12T17:35:37.523Z",
-          "totalDurationMs": 2184728
+          "totalDurationMs": 37461541
         },
         {
           "id": "d909903d-cf97-4a88-bb3c-c5107177226b",
@@ -233,6 +142,97 @@
       ]
     },
     {
+      "projectName": "gdm-autorater",
+      "totalSessions": 18,
+      "totalDurationMs": 356662781,
+      "sessions": [
+        {
+          "id": "a7a9b52b-5e90-421f-988d-46378a06b9d7",
+          "title": null,
+          "timestamp": "2026-08-22T14:23:20.379Z",
+          "totalDurationMs": 199917526
+        },
+        {
+          "id": "1174234d-e11e-4241-9933-9bc7a75df253",
+          "title": null,
+          "timestamp": "2026-08-22T14:16:03.988Z",
+          "totalDurationMs": 361958
+        },
+        {
+          "id": "dca54b80-b452-47a4-8596-8cc07e621774",
+          "title": null,
+          "timestamp": "2026-08-21T23:21:00.672Z",
+          "totalDurationMs": 695179
+        },
+        {
+          "id": "aba0f9a0-ac4d-445d-b5f3-60297aa34798",
+          "title": null,
+          "timestamp": "2026-08-10T14:30:01.863Z",
+          "totalDurationMs": 1981431
+        },
+        {
+          "id": "0777eeac-5580-49e6-aab1-6fc53e7b5991",
+          "title": null,
+          "timestamp": "2026-07-23T01:09:52.002Z",
+          "totalDurationMs": 5563844
+        },
+        {
+          "id": "b8f76a64-5443-4895-a956-98124109eb68",
+          "title": null,
+          "timestamp": "2026-07-22T23:18:21.735Z",
+          "totalDurationMs": 1871234
+        },
+        {
+          "id": "0aeac989-6597-4b66-9411-635ef763b62c",
+          "title": null,
+          "timestamp": "2026-07-22T20:08:47.359Z",
+          "totalDurationMs": 2808455
+        },
+        {
+          "id": "ad4b3793-3b29-476d-bc32-e675fb932be9",
+          "title": null,
+          "timestamp": "2026-07-22T01:47:14.230Z",
+          "totalDurationMs": 60778724
+        },
+        {
+          "id": "cf651f39-edf1-4ef8-a39d-4f382a162c79",
+          "title": null,
+          "timestamp": "2026-07-22T01:45:34.597Z",
+          "totalDurationMs": 1662
+        },
+        {
+          "id": "73cfabdd-b0d3-417c-9f95-203ecf0cf2d8",
+          "title": null,
+          "timestamp": "2026-07-21T16:20:18.858Z",
+          "totalDurationMs": 11586312
+        },
+        {
+          "id": "12fe3a8d-ad9f-43dd-827e-a700d2e9cc00",
+          "title": null,
+          "timestamp": "2026-07-20T20:21:41.865Z",
+          "totalDurationMs": 182879
+        },
+        {
+          "id": "901c277e-19fa-4828-854e-a2cee81b62b7",
+          "title": null,
+          "timestamp": "2026-07-20T19:48:35.991Z",
+          "totalDurationMs": 70901653
+        },
+        {
+          "id": "50020363-12ec-41d1-9886-b00649c6286d",
+          "title": null,
+          "timestamp": "2026-07-20T19:47:08.064Z",
+          "totalDurationMs": 261
+        },
+        {
+          "id": "c14db084-d80a-4335-bfcd-f344a974921f",
+          "title": null,
+          "timestamp": "2026-07-20T19:46:44.972Z",
+          "totalDurationMs": 11663
+        }
+      ]
+    },
+    {
       "projectName": "sleep-tech-directed",
       "totalSessions": 2,
       "totalDurationMs": 4060140,
@@ -316,37 +316,9 @@
     }
   ],
   "activity": {
-    "2026-08-22": {
-      "sessions": 2,
-      "durationMs": 200279484
-    },
-    "2026-08-21": {
-      "sessions": 1,
-      "durationMs": 695179
-    },
-    "2026-08-10": {
-      "sessions": 2,
-      "durationMs": 1981431
-    },
-    "2026-07-23": {
-      "sessions": 1,
-      "durationMs": 5563844
-    },
-    "2026-07-22": {
-      "sessions": 6,
-      "durationMs": 65460075
-    },
-    "2026-07-21": {
-      "sessions": 1,
-      "durationMs": 11586312
-    },
-    "2026-07-20": {
-      "sessions": 5,
-      "durationMs": 71096456
-    },
     "2026-10-12": {
       "sessions": 2,
-      "durationMs": 4337271
+      "durationMs": 39614084
     },
     "2026-10-07": {
       "sessions": 5,
@@ -400,60 +372,60 @@
       "sessions": 5,
       "durationMs": 4191196
     },
+    "2026-08-22": {
+      "sessions": 2,
+      "durationMs": 200279484
+    },
+    "2026-08-21": {
+      "sessions": 1,
+      "durationMs": 695179
+    },
+    "2026-08-10": {
+      "sessions": 2,
+      "durationMs": 1981431
+    },
+    "2026-07-23": {
+      "sessions": 1,
+      "durationMs": 5563844
+    },
+    "2026-07-22": {
+      "sessions": 6,
+      "durationMs": 65460075
+    },
+    "2026-07-21": {
+      "sessions": 1,
+      "durationMs": 11586312
+    },
+    "2026-07-20": {
+      "sessions": 5,
+      "durationMs": 71096456
+    },
     "2026-07-24": {
       "sessions": 9,
       "durationMs": 12425235
     }
   },
   "tokenUsage": {
-    "inputTokens": 823879,
-    "outputTokens": 12004977,
-    "cacheReadTokens": 2759414106,
-    "cacheCreationTokens": 53485784
+    "inputTokens": 825621,
+    "outputTokens": 12229777,
+    "cacheReadTokens": 2789605635,
+    "cacheCreationTokens": 57212288
   },
   "toolUsage": {
-    "Bash": 3244,
-    "Read": 518,
-    "AskUserQuestion": 6,
-    "mcp__Claude_Browser__preview_start": 11,
-    "mcp__Claude_Browser__computer": 166,
-    "mcp__Claude_Browser__navigate": 46,
-    "mcp__ccd_session__spawn_task": 11,
-    "mcp__ccd_session__dismiss_task": 1,
-    "Skill": 22,
+    "Bash": 3256,
     "ToolSearch": 43,
-    "Agent": 26,
-    "mcp__Claude_Browser__resize_window": 35,
-    "mcp__Claude_Browser__tabs_context": 3,
-    "mcp__Claude_Browser__javascript_tool": 160,
-    "Edit": 528,
-    "Write": 146,
-    "Artifact": 19,
-    "WebFetch": 53,
-    "WebSearch": 12,
-    "EnterPlanMode": 1,
-    "ExitPlanMode": 2,
-    "TaskCreate": 38,
-    "TaskUpdate": 71,
-    "Workflow": 6,
-    "ScheduleWakeup": 7,
-    "mcp__ccd_session__mark_chapter": 8,
-    "TaskStop": 4,
-    "mcp__Control_Chrome__open_url": 2,
-    "mcp__kody__search": 1,
-    "mcp__kody__execute": 1,
-    "mcp__Claude_Browser__get_page_text": 2,
-    "mcp__Claude_Browser__read_console_messages": 5,
-    "mcp__Claude_Browser__read_page": 2,
-    "mcp__Claude_Browser__find": 1,
-    "mcp__Claude_Browser__form_input": 1,
-    "Monitor": 18,
     "mcp__production-postgres-readonly__list_tables": 6,
-    "mcp__production-postgres-readonly__execute_sql": 79,
+    "mcp__production-postgres-readonly__execute_sql": 81,
+    "Write": 146,
+    "WebFetch": 53,
+    "Workflow": 7,
+    "Artifact": 19,
+    "Skill": 22,
     "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__guide": 3,
     "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__batch": 3,
-    "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__update": 4,
-    "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__read": 1,
+    "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__update": 17,
+    "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__read": 4,
+    "Read": 523,
     "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_search_public_and_private": 8,
     "mcp__a5fffb56-f14f-48d7-be47-f611e66d05b5__notion-search": 1,
     "mcp__linear-server__list_issues": 1,
@@ -461,19 +433,31 @@
     "mcp__ccd_pr__get_status": 6,
     "mcp__ccd_pr__bind_pr": 1,
     "mcp__ccd_pr__set_monitor": 1,
+    "mcp__ccd_session__spawn_task": 11,
     "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_thread": 13,
     "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_channel": 2,
     "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_file": 2,
+    "Edit": 528,
+    "Monitor": 18,
     "mcp__ccd_session_mgmt__search_session_transcripts": 1,
+    "AskUserQuestion": 6,
     "mcp__visualize__read_me": 1,
     "mcp__visualize__show_widget": 1,
+    "mcp__ccd_session__mark_chapter": 8,
+    "Agent": 26,
+    "TaskStop": 4,
+    "mcp__Claude_Browser__navigate": 46,
+    "mcp__Claude_Browser__computer": 166,
     "mcp__Claude_Browser__browser_batch": 10,
+    "mcp__Claude_Browser__resize_window": 35,
     "mcp__Claude_Browser__tabs_create": 2,
     "Glob": 14,
     "Grep": 55,
     "mcp__playwright__browser_navigate": 1,
     "SendUserFile": 2,
     "mcp__Claude_Browser__tabs_close": 1,
+    "TaskCreate": 38,
+    "TaskUpdate": 71,
     "mcp__sentry__find_organizations": 2,
     "mcp__sentry__find_projects": 1,
     "mcp__sentry__search_issues": 8,
@@ -482,7 +466,23 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 2,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 2,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 1,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 2
+    "mcp__Control_Chrome__open_url": 2,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 2,
+    "WebSearch": 12,
+    "mcp__Claude_Browser__preview_start": 11,
+    "mcp__ccd_session__dismiss_task": 1,
+    "mcp__Claude_Browser__tabs_context": 3,
+    "mcp__Claude_Browser__javascript_tool": 160,
+    "EnterPlanMode": 1,
+    "ExitPlanMode": 2,
+    "ScheduleWakeup": 7,
+    "mcp__kody__search": 1,
+    "mcp__kody__execute": 1,
+    "mcp__Claude_Browser__get_page_text": 2,
+    "mcp__Claude_Browser__read_console_messages": 5,
+    "mcp__Claude_Browser__read_page": 2,
+    "mcp__Claude_Browser__find": 1,
+    "mcp__Claude_Browser__form_input": 1
   },
   "modelBreakdown": {
     "opus-4.5": {
