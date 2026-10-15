@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-10-15T12:00:06.134Z",
+  "generatedAt": "2026-10-15T16:00:05.594Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 70,
-    "totalDurationMs": 727240915,
-    "totalTokens": 2859873321,
+    "totalSessions": 71,
+    "totalDurationMs": 727461672,
+    "totalTokens": 2863507048,
     "projectCount": 6
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 43,
-      "totalDurationMs": 358152899,
+      "totalSessions": 44,
+      "totalDurationMs": 358373656,
       "sessions": [
+        {
+          "id": "99b7fcb5-b39f-4a60-9874-f90fd90f4930",
+          "title": "**********",
+          "timestamp": "2026-10-15T15:56:21.526Z",
+          "totalDurationMs": 220757
+        },
         {
           "id": "3cae7b1f-0a2d-4505-9edf-74e078a2ec3c",
           "title": "**********",
@@ -316,6 +322,10 @@
     }
   ],
   "activity": {
+    "2026-10-15": {
+      "sessions": 1,
+      "durationMs": 220757
+    },
     "2026-10-12": {
       "sessions": 2,
       "durationMs": 39614084
@@ -406,13 +416,14 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 825621,
-    "outputTokens": 12229777,
-    "cacheReadTokens": 2789605635,
-    "cacheCreationTokens": 57212288
+    "inputTokens": 825677,
+    "outputTokens": 12278824,
+    "cacheReadTokens": 2792826265,
+    "cacheCreationTokens": 57576282
   },
   "toolUsage": {
-    "Bash": 3256,
+    "mcp__ccd_turn__update_plan": 1,
+    "Bash": 3271,
     "ToolSearch": 43,
     "mcp__production-postgres-readonly__list_tables": 6,
     "mcp__production-postgres-readonly__execute_sql": 81,
