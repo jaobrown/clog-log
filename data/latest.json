@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T16:00:06.423Z",
+  "generatedAt": "2026-10-20T20:00:06.907Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 92,
-    "totalDurationMs": 1093796701,
-    "totalTokens": 4479601485,
+    "totalDurationMs": 1107281786,
+    "totalTokens": 4866550127,
     "projectCount": 7
   },
   "projects": [
@@ -247,13 +247,13 @@
     {
       "projectName": "contra",
       "totalSessions": 19,
-      "totalDurationMs": 50635733,
+      "totalDurationMs": 64120818,
       "sessions": [
         {
           "id": "9f539b06-d4c9-4b58-921f-f2ce025a3d9d",
           "title": null,
           "timestamp": "2026-10-20T13:45:16.502Z",
-          "totalDurationMs": 12520518
+          "totalDurationMs": 26005603
         },
         {
           "id": "78301e5c-b3d8-4aa4-9cbe-4572a06198fa",
@@ -461,7 +461,7 @@
     },
     "2026-10-20": {
       "sessions": 4,
-      "durationMs": 12520518
+      "durationMs": 26005603
     },
     "2026-10-19": {
       "sessions": 15,
@@ -473,16 +473,16 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 836925,
-    "outputTokens": 15404629,
-    "cacheReadTokens": 4385041394,
-    "cacheCreationTokens": 78318537
+    "inputTokens": 838043,
+    "outputTokens": 15801686,
+    "cacheReadTokens": 4770957886,
+    "cacheCreationTokens": 78952512
   },
   "toolUsage": {
-    "mcp__ccd_turn__update_plan": 42,
-    "Bash": 5871,
-    "Read": 679,
-    "ToolSearch": 65,
+    "mcp__ccd_turn__update_plan": 80,
+    "Bash": 6088,
+    "Read": 686,
+    "ToolSearch": 69,
     "AskUserQuestion": 8,
     "mcp__production-postgres-readonly__list_tables": 8,
     "mcp__production-postgres-readonly__execute_sql": 86,
@@ -491,7 +491,7 @@
     "mcp__Claude_Browser__preview_start": 14,
     "Artifact": 24,
     "Skill": 30,
-    "mcp__ccd_turn__wrap_up": 11,
+    "mcp__ccd_turn__wrap_up": 24,
     "mcp__exa__web_search_exa": 6,
     "Agent": 40,
     "PushNotification": 1,
@@ -507,19 +507,19 @@
     "mcp__a5fffb56-f14f-48d7-be47-f611e66d05b5__notion-search": 1,
     "mcp__linear-server__list_issues": 1,
     "mcp__a5fffb56-f14f-48d7-be47-f611e66d05b5__notion-fetch": 4,
-    "mcp__ccd_pr__get_status": 7,
+    "mcp__ccd_pr__get_status": 8,
     "mcp__ccd_pr__bind_pr": 1,
-    "mcp__ccd_pr__set_monitor": 1,
+    "mcp__ccd_pr__set_monitor": 2,
     "mcp__ccd_session__spawn_task": 11,
     "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_thread": 13,
     "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_channel": 2,
     "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_file": 2,
-    "Monitor": 37,
+    "Monitor": 43,
     "mcp__ccd_session_mgmt__search_session_transcripts": 1,
     "mcp__visualize__read_me": 1,
     "mcp__visualize__show_widget": 1,
     "mcp__ccd_session__mark_chapter": 10,
-    "TaskStop": 7,
+    "TaskStop": 27,
     "mcp__Claude_Browser__navigate": 67,
     "mcp__Claude_Browser__computer": 166,
     "mcp__Claude_Browser__browser_batch": 20,
