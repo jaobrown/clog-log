@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-10-20T20:00:06.907Z",
+  "generatedAt": "2026-10-21T12:00:05.990Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 92,
-    "totalDurationMs": 1107281786,
-    "totalTokens": 4866550127,
+    "totalSessions": 93,
+    "totalDurationMs": 1130191723,
+    "totalTokens": 5179092680,
     "projectCount": 7
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 46,
-      "totalDurationMs": 674072952,
+      "totalSessions": 47,
+      "totalDurationMs": 678874969,
       "sessions": [
+        {
+          "id": "055d51a3-c271-4005-b20e-128fe248379a",
+          "title": "**********",
+          "timestamp": "2026-10-21T00:37:49.171Z",
+          "totalDurationMs": 4802017
+        },
         {
           "id": "1beb0e87-85b2-457c-bc55-dd582a76c08b",
           "title": "**********",
@@ -247,13 +253,13 @@
     {
       "projectName": "contra",
       "totalSessions": 19,
-      "totalDurationMs": 64120818,
+      "totalDurationMs": 82228738,
       "sessions": [
         {
           "id": "9f539b06-d4c9-4b58-921f-f2ce025a3d9d",
           "title": null,
           "timestamp": "2026-10-20T13:45:16.502Z",
-          "totalDurationMs": 26005603
+          "totalDurationMs": 44113523
         },
         {
           "id": "78301e5c-b3d8-4aa4-9cbe-4572a06198fa",
@@ -371,6 +377,10 @@
     }
   ],
   "activity": {
+    "2026-10-21": {
+      "sessions": 1,
+      "durationMs": 4802017
+    },
     "2026-10-15": {
       "sessions": 3,
       "durationMs": 315920053
@@ -461,7 +471,7 @@
     },
     "2026-10-20": {
       "sessions": 4,
-      "durationMs": 26005603
+      "durationMs": 44113523
     },
     "2026-10-19": {
       "sessions": 15,
@@ -473,29 +483,30 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 838043,
-    "outputTokens": 15801686,
-    "cacheReadTokens": 4770957886,
-    "cacheCreationTokens": 78952512
+    "inputTokens": 839297,
+    "outputTokens": 16438944,
+    "cacheReadTokens": 5078124453,
+    "cacheCreationTokens": 83689986
   },
   "toolUsage": {
-    "mcp__ccd_turn__update_plan": 80,
-    "Bash": 6088,
-    "Read": 686,
-    "ToolSearch": 69,
+    "Bash": 6476,
+    "Read": 706,
+    "Grep": 62,
+    "Write": 242,
+    "Edit": 646,
+    "mcp__ccd_turn__update_plan": 90,
+    "ToolSearch": 70,
     "AskUserQuestion": 8,
     "mcp__production-postgres-readonly__list_tables": 8,
     "mcp__production-postgres-readonly__execute_sql": 86,
-    "Write": 230,
-    "Edit": 636,
     "mcp__Claude_Browser__preview_start": 14,
     "Artifact": 24,
     "Skill": 30,
-    "mcp__ccd_turn__wrap_up": 24,
+    "mcp__ccd_turn__wrap_up": 26,
     "mcp__exa__web_search_exa": 6,
     "Agent": 40,
     "PushNotification": 1,
-    "mcp__ccd_session__start_session": 10,
+    "mcp__ccd_session__start_session": 11,
     "SubagentHandback": 14,
     "WebFetch": 119,
     "Workflow": 7,
@@ -507,7 +518,7 @@
     "mcp__a5fffb56-f14f-48d7-be47-f611e66d05b5__notion-search": 1,
     "mcp__linear-server__list_issues": 1,
     "mcp__a5fffb56-f14f-48d7-be47-f611e66d05b5__notion-fetch": 4,
-    "mcp__ccd_pr__get_status": 8,
+    "mcp__ccd_pr__get_status": 9,
     "mcp__ccd_pr__bind_pr": 1,
     "mcp__ccd_pr__set_monitor": 2,
     "mcp__ccd_session__spawn_task": 11,
@@ -526,7 +537,6 @@
     "mcp__Claude_Browser__resize_window": 35,
     "mcp__Claude_Browser__tabs_create": 3,
     "Glob": 14,
-    "Grep": 55,
     "mcp__playwright__browser_navigate": 1,
     "SendUserFile": 2,
     "mcp__Claude_Browser__tabs_close": 4,
