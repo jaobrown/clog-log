@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-10-22T16:00:11.642Z",
+  "generatedAt": "2026-10-22T20:00:07.646Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 93,
-    "totalDurationMs": 1185592549,
-    "totalTokens": 5833142062,
+    "totalSessions": 94,
+    "totalDurationMs": 1186032393,
+    "totalTokens": 5841714262,
     "projectCount": 7
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 47,
-      "totalDurationMs": 734275795,
+      "totalSessions": 48,
+      "totalDurationMs": 734715639,
       "sessions": [
+        {
+          "id": "9d38cbf3-345c-4d52-8712-254b1cc96913",
+          "title": "**********",
+          "timestamp": "2026-10-22T18:09:56.839Z",
+          "totalDurationMs": 439844
+        },
         {
           "id": "055d51a3-c271-4005-b20e-128fe248379a",
           "title": "**********",
@@ -377,6 +383,10 @@
     }
   ],
   "activity": {
+    "2026-10-22": {
+      "sessions": 1,
+      "durationMs": 439844
+    },
     "2026-10-21": {
       "sessions": 1,
       "durationMs": 60202843
@@ -483,15 +493,16 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 841481,
-    "outputTokens": 17496485,
-    "cacheReadTokens": 5726538033,
-    "cacheCreationTokens": 88266063
+    "inputTokens": 841657,
+    "outputTokens": 17564797,
+    "cacheReadTokens": 5734494164,
+    "cacheCreationTokens": 88813644
   },
   "toolUsage": {
+    "Read": 758,
+    "Grep": 125,
+    "Glob": 24,
     "Bash": 7288,
-    "Read": 708,
-    "Grep": 65,
     "Write": 261,
     "Edit": 646,
     "mcp__ccd_turn__update_plan": 90,
@@ -536,7 +547,6 @@
     "mcp__Claude_Browser__browser_batch": 20,
     "mcp__Claude_Browser__resize_window": 35,
     "mcp__Claude_Browser__tabs_create": 3,
-    "Glob": 14,
     "mcp__playwright__browser_navigate": 1,
     "SendUserFile": 2,
     "mcp__Claude_Browser__tabs_close": 4,
