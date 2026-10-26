@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-10-26T12:00:07.600Z",
+  "generatedAt": "2026-10-26T16:00:17.639Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 95,
-    "totalDurationMs": 1187030564,
-    "totalTokens": 5847005715,
+    "totalDurationMs": 1187229798,
+    "totalTokens": 5852419167,
     "projectCount": 7
   },
   "projects": [
     {
       "projectName": "top secret",
       "totalSessions": 49,
-      "totalDurationMs": 735713810,
+      "totalDurationMs": 735913044,
       "sessions": [
+        {
+          "id": "a01302e2-73fa-47f6-a7de-53b5913e4581",
+          "title": "**********",
+          "timestamp": "2026-10-26T15:10:51.040Z",
+          "totalDurationMs": 500049
+        },
         {
           "id": "abf2af48-f577-4c74-85ff-26b8cca3624b",
           "title": "**********",
@@ -78,12 +84,6 @@
           "title": "**********",
           "timestamp": "2026-10-07T17:45:36.425Z",
           "totalDurationMs": 34557176
-        },
-        {
-          "id": "4b653431-3a1b-48eb-bab8-f39ede358123",
-          "title": "**********",
-          "timestamp": "2026-09-23T20:56:19.039Z",
-          "totalDurationMs": 300815
         },
         {
           "id": "f63869c5-8c76-4fd4-9fc8-8305291c508c",
@@ -389,6 +389,10 @@
     }
   ],
   "activity": {
+    "2026-10-26": {
+      "sessions": 1,
+      "durationMs": 500049
+    },
     "2026-10-23": {
       "sessions": 1,
       "durationMs": 998171
@@ -412,10 +416,6 @@
     "2026-10-07": {
       "sessions": 5,
       "durationMs": 84913626
-    },
-    "2026-09-23": {
-      "sessions": 1,
-      "durationMs": 300815
     },
     "2026-09-14": {
       "sessions": 3,
@@ -503,20 +503,20 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 841783,
-    "outputTokens": 17636630,
-    "cacheReadTokens": 5739242163,
-    "cacheCreationTokens": 89285139
+    "inputTokens": 841869,
+    "outputTokens": 17642836,
+    "cacheReadTokens": 5744547285,
+    "cacheCreationTokens": 89387177
   },
   "toolUsage": {
-    "Read": 800,
-    "Grep": 165,
-    "Glob": 34,
-    "Bash": 7288,
-    "Write": 261,
-    "Edit": 646,
+    "Glob": 42,
+    "Read": 857,
+    "Grep": 213,
+    "Bash": 7276,
+    "Write": 259,
+    "Edit": 644,
     "mcp__ccd_turn__update_plan": 90,
-    "ToolSearch": 70,
+    "ToolSearch": 69,
     "AskUserQuestion": 8,
     "mcp__production-postgres-readonly__list_tables": 8,
     "mcp__production-postgres-readonly__execute_sql": 86,
@@ -557,7 +557,6 @@
     "mcp__Claude_Browser__browser_batch": 20,
     "mcp__Claude_Browser__resize_window": 35,
     "mcp__Claude_Browser__tabs_create": 3,
-    "mcp__playwright__browser_navigate": 1,
     "SendUserFile": 2,
     "mcp__Claude_Browser__tabs_close": 4,
     "TaskCreate": 38,
