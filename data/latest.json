@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-29T16:00:07.496Z",
+  "generatedAt": "2026-10-29T20:00:09.706Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 99,
-    "totalDurationMs": 1188631426,
-    "totalTokens": 5904489868,
-    "projectCount": 7
+    "totalSessions": 105,
+    "totalDurationMs": 1195793254,
+    "totalTokens": 5971738591,
+    "projectCount": 13
   },
   "projects": [
     {
@@ -375,6 +375,32 @@
       ]
     },
     {
+      "projectName": "artifact-conformance-ayq6ovc1",
+      "totalSessions": 1,
+      "totalDurationMs": 2694800,
+      "sessions": [
+        {
+          "id": "ddae147d-f70f-473e-ae56-0458bb0ff870",
+          "title": null,
+          "timestamp": "2026-10-29T19:15:11.544Z",
+          "totalDurationMs": 2694800
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-review-_tm1i4wi",
+      "totalSessions": 1,
+      "totalDurationMs": 2394779,
+      "sessions": [
+        {
+          "id": "f6b271bc-55ab-4617-a096-63bac1a870ac",
+          "title": null,
+          "timestamp": "2026-10-29T19:20:11.516Z",
+          "totalDurationMs": 2394779
+        }
+      ]
+    },
+    {
       "projectName": "sleep-tech-one",
       "totalSessions": 5,
       "totalDurationMs": 1310565,
@@ -408,6 +434,58 @@
           "title": null,
           "timestamp": "2026-07-24T18:58:24.980Z",
           "totalDurationMs": 70099
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-review-4ahn8ynx",
+      "totalSessions": 1,
+      "totalDurationMs": 599556,
+      "sessions": [
+        {
+          "id": "cdec6a07-3f2c-4490-98bb-fa342d4e537c",
+          "title": null,
+          "timestamp": "2026-10-29T18:53:50.253Z",
+          "totalDurationMs": 599556
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-review-gtlbkr_0",
+      "totalSessions": 1,
+      "totalDurationMs": 548350,
+      "sessions": [
+        {
+          "id": "0e29804b-b05b-41d7-ba89-384ffcab55f9",
+          "title": null,
+          "timestamp": "2026-10-29T19:10:31.095Z",
+          "totalDurationMs": 548350
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-review-r8funpb_",
+      "totalSessions": 1,
+      "totalDurationMs": 489288,
+      "sessions": [
+        {
+          "id": "20180199-69c3-4ff2-b90b-e9dc063a654e",
+          "title": null,
+          "timestamp": "2026-10-29T18:45:08.819Z",
+          "totalDurationMs": 489288
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-review-v3s63kpw",
+      "totalSessions": 1,
+      "totalDurationMs": 435055,
+      "sessions": [
+        {
+          "id": "e5152b3b-0ae7-43ff-b2cf-42fbb19241e7",
+          "title": null,
+          "timestamp": "2026-10-29T19:02:56.482Z",
+          "totalDurationMs": 435055
         }
       ]
     }
@@ -528,17 +606,21 @@
     "2026-07-24": {
       "sessions": 9,
       "durationMs": 12425235
+    },
+    "2026-10-29": {
+      "sessions": 6,
+      "durationMs": 7161828
     }
   },
   "tokenUsage": {
-    "inputTokens": 842439,
-    "outputTokens": 17908765,
-    "cacheReadTokens": 5790781522,
-    "cacheCreationTokens": 94957142
+    "inputTokens": 859759,
+    "outputTokens": 20695157,
+    "cacheReadTokens": 5836459561,
+    "cacheCreationTokens": 113724114
   },
   "toolUsage": {
-    "Read": 975,
-    "Glob": 66,
+    "Read": 2004,
+    "Glob": 77,
     "Grep": 405,
     "Bash": 7276,
     "Write": 259,
