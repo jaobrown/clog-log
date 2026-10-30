@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-29T20:00:09.706Z",
+  "generatedAt": "2026-10-30T12:00:10.921Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 105,
-    "totalDurationMs": 1195793254,
-    "totalTokens": 5971738591,
-    "projectCount": 13
+    "totalSessions": 117,
+    "totalDurationMs": 1218213043,
+    "totalTokens": 6120980186,
+    "projectCount": 25
   },
   "projects": [
     {
@@ -330,6 +330,19 @@
       ]
     },
     {
+      "projectName": "artifact-review-akhfumhg",
+      "totalSessions": 1,
+      "totalDurationMs": 15530920,
+      "sessions": [
+        {
+          "id": "878fcd7c-d64e-4108-9100-b478c64242a4",
+          "title": null,
+          "timestamp": "2026-10-29T22:19:25.576Z",
+          "totalDurationMs": 15530920
+        }
+      ]
+    },
+    {
       "projectName": "sleep-tech-directed",
       "totalSessions": 2,
       "totalDurationMs": 4060140,
@@ -362,6 +375,19 @@
       ]
     },
     {
+      "projectName": "artifact-conformance-ayq6ovc1",
+      "totalSessions": 1,
+      "totalDurationMs": 3228394,
+      "sessions": [
+        {
+          "id": "ddae147d-f70f-473e-ae56-0458bb0ff870",
+          "title": null,
+          "timestamp": "2026-10-29T19:15:11.544Z",
+          "totalDurationMs": 3228394
+        }
+      ]
+    },
+    {
       "projectName": "sleep-tech-two",
       "totalSessions": 1,
       "totalDurationMs": 3096163,
@@ -375,28 +401,15 @@
       ]
     },
     {
-      "projectName": "artifact-conformance-ayq6ovc1",
-      "totalSessions": 1,
-      "totalDurationMs": 2694800,
-      "sessions": [
-        {
-          "id": "ddae147d-f70f-473e-ae56-0458bb0ff870",
-          "title": null,
-          "timestamp": "2026-10-29T19:15:11.544Z",
-          "totalDurationMs": 2694800
-        }
-      ]
-    },
-    {
       "projectName": "artifact-review-_tm1i4wi",
       "totalSessions": 1,
-      "totalDurationMs": 2394779,
+      "totalDurationMs": 2747186,
       "sessions": [
         {
           "id": "f6b271bc-55ab-4617-a096-63bac1a870ac",
           "title": null,
           "timestamp": "2026-10-29T19:20:11.516Z",
-          "totalDurationMs": 2394779
+          "totalDurationMs": 2747186
         }
       ]
     },
@@ -438,6 +451,58 @@
       ]
     },
     {
+      "projectName": "artifact-conformance-em0gw60m",
+      "totalSessions": 1,
+      "totalDurationMs": 763404,
+      "sessions": [
+        {
+          "id": "8c859e6d-052f-4a72-a2c4-1c40988fe66b",
+          "title": null,
+          "timestamp": "2026-10-29T20:13:16.326Z",
+          "totalDurationMs": 763404
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-review-_dmydpyv",
+      "totalSessions": 1,
+      "totalDurationMs": 736494,
+      "sessions": [
+        {
+          "id": "c8290f82-27df-4b4c-816c-8e2044dffc7e",
+          "title": null,
+          "timestamp": "2026-10-29T22:12:17.186Z",
+          "totalDurationMs": 736494
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-conformance-mhs94q96",
+      "totalSessions": 1,
+      "totalDurationMs": 694486,
+      "sessions": [
+        {
+          "id": "6963006f-5266-4c47-970c-77aae0c5f02b",
+          "title": null,
+          "timestamp": "2026-10-29T20:09:50.121Z",
+          "totalDurationMs": 694486
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-review-2y3_a02z",
+      "totalSessions": 1,
+      "totalDurationMs": 669414,
+      "sessions": [
+        {
+          "id": "289d8ebc-e32a-4df0-b427-91ed478c8192",
+          "title": null,
+          "timestamp": "2026-10-30T02:39:13.465Z",
+          "totalDurationMs": 669414
+        }
+      ]
+    },
+    {
       "projectName": "artifact-review-4ahn8ynx",
       "totalSessions": 1,
       "totalDurationMs": 599556,
@@ -447,6 +512,19 @@
           "title": null,
           "timestamp": "2026-10-29T18:53:50.253Z",
           "totalDurationMs": 599556
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-review-v9wi7j8w",
+      "totalSessions": 1,
+      "totalDurationMs": 597861,
+      "sessions": [
+        {
+          "id": "d72e71c5-9851-438e-827d-842a5b23b5b0",
+          "title": null,
+          "timestamp": "2026-10-30T02:39:18.359Z",
+          "totalDurationMs": 597861
         }
       ]
     },
@@ -464,6 +542,19 @@
       ]
     },
     {
+      "projectName": "artifact-conformance-t767hmgi",
+      "totalSessions": 1,
+      "totalDurationMs": 541561,
+      "sessions": [
+        {
+          "id": "8c2b0623-2b73-4ce6-ba1b-e07017cc31f7",
+          "title": null,
+          "timestamp": "2026-10-29T20:23:33.139Z",
+          "totalDurationMs": 541561
+        }
+      ]
+    },
+    {
       "projectName": "artifact-review-r8funpb_",
       "totalSessions": 1,
       "totalDurationMs": 489288,
@@ -477,6 +568,32 @@
       ]
     },
     {
+      "projectName": "artifact-review-yqxayry4",
+      "totalSessions": 1,
+      "totalDurationMs": 448111,
+      "sessions": [
+        {
+          "id": "351240d3-51b2-45f1-b2c4-d3463cccc9e1",
+          "title": null,
+          "timestamp": "2026-10-29T22:11:05.948Z",
+          "totalDurationMs": 448111
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-review-jzb39b_l",
+      "totalSessions": 1,
+      "totalDurationMs": 436536,
+      "sessions": [
+        {
+          "id": "49e15aaf-ebb5-4d58-be5e-8ef78a27e70e",
+          "title": null,
+          "timestamp": "2026-10-30T02:29:35.792Z",
+          "totalDurationMs": 436536
+        }
+      ]
+    },
+    {
       "projectName": "artifact-review-v3s63kpw",
       "totalSessions": 1,
       "totalDurationMs": 435055,
@@ -486,6 +603,45 @@
           "title": null,
           "timestamp": "2026-10-29T19:02:56.482Z",
           "totalDurationMs": 435055
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-review-cmhqmmt4",
+      "totalSessions": 1,
+      "totalDurationMs": 406134,
+      "sessions": [
+        {
+          "id": "508ba94d-f2cd-45ee-a41b-28aa84c53d0d",
+          "title": null,
+          "timestamp": "2026-10-30T04:19:07.280Z",
+          "totalDurationMs": 406134
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-review-3alzekmk",
+      "totalSessions": 1,
+      "totalDurationMs": 370831,
+      "sessions": [
+        {
+          "id": "238be364-4e35-44e1-bf3e-8d7e6a1e3c43",
+          "title": null,
+          "timestamp": "2026-10-29T20:06:26.966Z",
+          "totalDurationMs": 370831
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-review-p1njarbx",
+      "totalSessions": 1,
+      "totalDurationMs": 338036,
+      "sessions": [
+        {
+          "id": "ca640985-ed7a-4fbd-88bf-8a6f40a45261",
+          "title": null,
+          "timestamp": "2026-10-29T21:41:25.266Z",
+          "totalDurationMs": 338036
         }
       ]
     }
@@ -603,24 +759,28 @@
       "sessions": 15,
       "durationMs": 38115215
     },
+    "2026-10-29": {
+      "sessions": 14,
+      "durationMs": 27471672
+    },
     "2026-07-24": {
       "sessions": 9,
       "durationMs": 12425235
     },
-    "2026-10-29": {
-      "sessions": 6,
-      "durationMs": 7161828
+    "2026-10-30": {
+      "sessions": 4,
+      "durationMs": 2109945
     }
   },
   "tokenUsage": {
-    "inputTokens": 859759,
-    "outputTokens": 20695157,
-    "cacheReadTokens": 5836459561,
-    "cacheCreationTokens": 113724114
+    "inputTokens": 895919,
+    "outputTokens": 25691586,
+    "cacheReadTokens": 5944587534,
+    "cacheCreationTokens": 149805147
   },
   "toolUsage": {
-    "Read": 2004,
-    "Glob": 77,
+    "Read": 4060,
+    "Glob": 99,
     "Grep": 405,
     "Bash": 7276,
     "Write": 259,
