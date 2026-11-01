@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-31T20:00:10.052Z",
+  "generatedAt": "2026-11-01T13:00:10.366Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 117,
-    "totalDurationMs": 1218213043,
-    "totalTokens": 6120980186,
-    "projectCount": 25
+    "totalSessions": 124,
+    "totalDurationMs": 1224540857,
+    "totalTokens": 6146801895,
+    "projectCount": 31
   },
   "projects": [
     {
@@ -375,6 +375,19 @@
       ]
     },
     {
+      "projectName": "blender",
+      "totalSessions": 1,
+      "totalDurationMs": 3576699,
+      "sessions": [
+        {
+          "id": "b6ddb7b0-03f8-4374-b5eb-7dec2e9753d9",
+          "title": null,
+          "timestamp": "2026-11-01T02:21:57.849Z",
+          "totalDurationMs": 3576699
+        }
+      ]
+    },
+    {
       "projectName": "artifact-conformance-ayq6ovc1",
       "totalSessions": 1,
       "totalDurationMs": 3228394,
@@ -410,6 +423,25 @@
           "title": null,
           "timestamp": "2026-10-29T19:20:11.516Z",
           "totalDurationMs": 2747186
+        }
+      ]
+    },
+    {
+      "projectName": "game",
+      "totalSessions": 2,
+      "totalDurationMs": 2336801,
+      "sessions": [
+        {
+          "id": "a7440bc1-24e5-435e-97be-a646efb6c899",
+          "title": null,
+          "timestamp": "2026-11-01T02:56:01.405Z",
+          "totalDurationMs": 547608
+        },
+        {
+          "id": "164a6a81-d317-42bf-b50b-52cfc0e320c4",
+          "title": null,
+          "timestamp": "2026-11-01T02:22:03.412Z",
+          "totalDurationMs": 1789193
         }
       ]
     },
@@ -644,6 +676,58 @@
           "totalDurationMs": 338036
         }
       ]
+    },
+    {
+      "projectName": "input",
+      "totalSessions": 1,
+      "totalDurationMs": 170072,
+      "sessions": [
+        {
+          "id": "614a8824-f06d-4410-a27f-333151bb2af7",
+          "title": null,
+          "timestamp": "2026-11-01T02:52:21.789Z",
+          "totalDurationMs": 170072
+        }
+      ]
+    },
+    {
+      "projectName": "input",
+      "totalSessions": 1,
+      "totalDurationMs": 106515,
+      "sessions": [
+        {
+          "id": "3d5bad7e-7b4f-429e-8caa-a949136b6e8e",
+          "title": null,
+          "timestamp": "2026-11-01T03:48:11.873Z",
+          "totalDurationMs": 106515
+        }
+      ]
+    },
+    {
+      "projectName": "input",
+      "totalSessions": 1,
+      "totalDurationMs": 83447,
+      "sessions": [
+        {
+          "id": "cdbdb6bd-0cd6-49a6-b479-60e6634f1cb7",
+          "title": null,
+          "timestamp": "2026-11-01T03:08:59.567Z",
+          "totalDurationMs": 83447
+        }
+      ]
+    },
+    {
+      "projectName": "blender-independent-review",
+      "totalSessions": 1,
+      "totalDurationMs": 54280,
+      "sessions": [
+        {
+          "id": "c0c5b885-bc7d-4f29-8069-b9bfcb2b0251",
+          "title": null,
+          "timestamp": "2026-11-01T03:41:49.678Z",
+          "totalDurationMs": 54280
+        }
+      ]
     }
   ],
   "activity": {
@@ -767,24 +851,28 @@
       "sessions": 9,
       "durationMs": 12425235
     },
+    "2026-11-01": {
+      "sessions": 7,
+      "durationMs": 6327814
+    },
     "2026-10-30": {
       "sessions": 4,
       "durationMs": 2109945
     }
   },
   "tokenUsage": {
-    "inputTokens": 895919,
-    "outputTokens": 25691586,
-    "cacheReadTokens": 5944587534,
-    "cacheCreationTokens": 149805147
+    "inputTokens": 904407,
+    "outputTokens": 27052118,
+    "cacheReadTokens": 5967167414,
+    "cacheCreationTokens": 151677956
   },
   "toolUsage": {
-    "Read": 4060,
-    "Glob": 99,
-    "Grep": 405,
+    "Read": 4192,
+    "Glob": 129,
+    "Grep": 413,
     "Bash": 7276,
-    "Write": 259,
-    "Edit": 644,
+    "Write": 321,
+    "Edit": 808,
     "mcp__ccd_turn__update_plan": 90,
     "ToolSearch": 69,
     "AskUserQuestion": 8,
