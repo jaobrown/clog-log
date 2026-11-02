@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T13:00:30.426Z",
+  "generatedAt": "2026-11-02T17:00:09.425Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 129,
-    "totalDurationMs": 1225431638,
-    "totalTokens": 6152835369,
+    "totalSessions": 131,
+    "totalDurationMs": 1225950265,
+    "totalTokens": 6164532734,
     "projectCount": 36
   },
   "projects": [
@@ -288,9 +288,21 @@
     },
     {
       "projectName": "contra",
-      "totalSessions": 19,
-      "totalDurationMs": 82228738,
+      "totalSessions": 21,
+      "totalDurationMs": 82747365,
       "sessions": [
+        {
+          "id": "9874044d-8a4f-4de7-9493-c51275ced029",
+          "title": null,
+          "timestamp": "2026-11-02T16:44:48.944Z",
+          "totalDurationMs": 86428
+        },
+        {
+          "id": "77f91ac9-bb27-4326-9562-552191b0d3d6",
+          "title": null,
+          "timestamp": "2026-11-02T15:55:12.793Z",
+          "totalDurationMs": 432199
+        },
         {
           "id": "9f539b06-d4c9-4b58-921f-f2ce025a3d9d",
           "title": null,
@@ -900,6 +912,10 @@
       "sessions": 5,
       "durationMs": 71096456
     },
+    "2026-11-02": {
+      "sessions": 5,
+      "durationMs": 914970
+    },
     "2026-10-20": {
       "sessions": 4,
       "durationMs": 44113523
@@ -923,34 +939,30 @@
     "2026-10-30": {
       "sessions": 4,
       "durationMs": 2109945
-    },
-    "2026-11-02": {
-      "sessions": 3,
-      "durationMs": 396343
     }
   },
   "tokenUsage": {
-    "inputTokens": 907231,
-    "outputTokens": 27286493,
-    "cacheReadTokens": 5971128294,
-    "cacheCreationTokens": 153513351
+    "inputTokens": 907453,
+    "outputTokens": 27339697,
+    "cacheReadTokens": 5982365300,
+    "cacheCreationTokens": 153920284
   },
   "toolUsage": {
-    "Read": 4300,
+    "Read": 4301,
     "Glob": 137,
     "Grep": 451,
-    "Bash": 7276,
-    "Write": 321,
-    "Edit": 808,
-    "mcp__ccd_turn__update_plan": 90,
-    "ToolSearch": 69,
-    "AskUserQuestion": 8,
+    "Bash": 7295,
+    "Write": 325,
+    "Edit": 812,
+    "mcp__ccd_turn__update_plan": 104,
+    "ToolSearch": 73,
+    "AskUserQuestion": 9,
     "mcp__production-postgres-readonly__list_tables": 8,
     "mcp__production-postgres-readonly__execute_sql": 86,
-    "mcp__Claude_Browser__preview_start": 14,
+    "mcp__Claude_Browser__preview_start": 16,
     "Artifact": 24,
-    "Skill": 30,
-    "mcp__ccd_turn__wrap_up": 26,
+    "Skill": 31,
+    "mcp__ccd_turn__wrap_up": 29,
     "mcp__exa__web_search_exa": 6,
     "Agent": 40,
     "PushNotification": 1,
@@ -980,9 +992,9 @@
     "mcp__ccd_session__mark_chapter": 10,
     "TaskStop": 27,
     "mcp__Claude_Browser__navigate": 67,
-    "mcp__Claude_Browser__computer": 166,
-    "mcp__Claude_Browser__browser_batch": 20,
-    "mcp__Claude_Browser__resize_window": 35,
+    "mcp__Claude_Browser__computer": 175,
+    "mcp__Claude_Browser__browser_batch": 24,
+    "mcp__Claude_Browser__resize_window": 36,
     "mcp__Claude_Browser__tabs_create": 3,
     "SendUserFile": 2,
     "mcp__Claude_Browser__tabs_close": 4,
@@ -995,23 +1007,24 @@
     "mcp__sentry__search_events": 3,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_channels": 2,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_channel": 2,
-    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 2,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 5,
     "mcp__Control_Chrome__open_url": 2,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 2,
     "WebSearch": 57,
     "mcp__ccd_session__dismiss_task": 2,
     "mcp__Claude_Browser__tabs_context": 4,
-    "mcp__Claude_Browser__javascript_tool": 179,
+    "mcp__Claude_Browser__javascript_tool": 187,
     "EnterPlanMode": 1,
     "ExitPlanMode": 2,
     "ScheduleWakeup": 7,
     "mcp__kody__search": 1,
     "mcp__kody__execute": 1,
-    "mcp__Claude_Browser__get_page_text": 12,
+    "mcp__Claude_Browser__get_page_text": 14,
     "mcp__Claude_Browser__read_console_messages": 11,
     "mcp__Claude_Browser__read_page": 2,
-    "mcp__Claude_Browser__find": 1,
+    "mcp__Claude_Browser__find": 3,
     "mcp__Claude_Browser__form_input": 1,
+    "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_file": 7,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 3,
     "mcp__ccd_session_mgmt__list_sessions": 1
   },
