@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-01T21:00:10.518Z",
+  "generatedAt": "2026-11-02T13:00:30.426Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 124,
-    "totalDurationMs": 1224540857,
-    "totalTokens": 6146801895,
-    "projectCount": 31
+    "totalSessions": 129,
+    "totalDurationMs": 1225431638,
+    "totalTokens": 6152835369,
+    "projectCount": 36
   },
   "projects": [
     {
@@ -678,6 +678,45 @@
       ]
     },
     {
+      "projectName": "single-model-pipeline-review",
+      "totalSessions": 1,
+      "totalDurationMs": 262469,
+      "sessions": [
+        {
+          "id": "22d12361-a7bd-4c29-a788-147930101316",
+          "title": null,
+          "timestamp": "2026-11-01T23:25:29.368Z",
+          "totalDurationMs": 262469
+        }
+      ]
+    },
+    {
+      "projectName": "continuation-01",
+      "totalSessions": 1,
+      "totalDurationMs": 238405,
+      "sessions": [
+        {
+          "id": "6edf2445-99d5-4c9d-acb9-a47f1d20a731",
+          "title": null,
+          "timestamp": "2026-11-02T00:51:51.348Z",
+          "totalDurationMs": 238405
+        }
+      ]
+    },
+    {
+      "projectName": "followup-01",
+      "totalSessions": 1,
+      "totalDurationMs": 231969,
+      "sessions": [
+        {
+          "id": "af8f040f-b24d-480e-9a62-7212d28ab8c2",
+          "title": null,
+          "timestamp": "2026-11-01T23:35:20.074Z",
+          "totalDurationMs": 231969
+        }
+      ]
+    },
+    {
       "projectName": "input",
       "totalSessions": 1,
       "totalDurationMs": 170072,
@@ -704,6 +743,19 @@
       ]
     },
     {
+      "projectName": "reviewer",
+      "totalSessions": 1,
+      "totalDurationMs": 103058,
+      "sessions": [
+        {
+          "id": "96295f4c-4e24-4c9b-81eb-dafbfa88de11",
+          "title": null,
+          "timestamp": "2026-11-02T02:18:13.938Z",
+          "totalDurationMs": 103058
+        }
+      ]
+    },
+    {
       "projectName": "input",
       "totalSessions": 1,
       "totalDurationMs": 83447,
@@ -713,6 +765,19 @@
           "title": null,
           "timestamp": "2026-11-01T03:08:59.567Z",
           "totalDurationMs": 83447
+        }
+      ]
+    },
+    {
+      "projectName": "reviewer",
+      "totalSessions": 1,
+      "totalDurationMs": 54880,
+      "sessions": [
+        {
+          "id": "8ecf568a-0c5b-4923-bb02-e6a091ab9aab",
+          "title": null,
+          "timestamp": "2026-11-02T01:29:37.898Z",
+          "totalDurationMs": 54880
         }
       ]
     },
@@ -852,24 +917,28 @@
       "durationMs": 12425235
     },
     "2026-11-01": {
-      "sessions": 7,
-      "durationMs": 6327814
+      "sessions": 9,
+      "durationMs": 6822252
     },
     "2026-10-30": {
       "sessions": 4,
       "durationMs": 2109945
+    },
+    "2026-11-02": {
+      "sessions": 3,
+      "durationMs": 396343
     }
   },
   "tokenUsage": {
-    "inputTokens": 904407,
-    "outputTokens": 27052118,
-    "cacheReadTokens": 5967167414,
-    "cacheCreationTokens": 151677956
+    "inputTokens": 907231,
+    "outputTokens": 27286493,
+    "cacheReadTokens": 5971128294,
+    "cacheCreationTokens": 153513351
   },
   "toolUsage": {
-    "Read": 4192,
-    "Glob": 129,
-    "Grep": 413,
+    "Read": 4300,
+    "Glob": 137,
+    "Grep": 451,
     "Bash": 7276,
     "Write": 321,
     "Edit": 808,
