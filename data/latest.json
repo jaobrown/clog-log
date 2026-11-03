@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-03T17:00:09.325Z",
+  "generatedAt": "2026-11-03T21:00:09.524Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 131,
-    "totalDurationMs": 1225950265,
-    "totalTokens": 6164532734,
-    "projectCount": 36
+    "totalSessions": 134,
+    "totalDurationMs": 1226216440,
+    "totalTokens": 6166521513,
+    "projectCount": 37
   },
   "projects": [
     {
@@ -690,6 +690,31 @@
       ]
     },
     {
+      "projectName": "please-review-this-channel-contra-studio-4",
+      "totalSessions": 3,
+      "totalDurationMs": 266175,
+      "sessions": [
+        {
+          "id": "0f3d68d8-89c2-460a-9db5-d0e833a4bd8a",
+          "title": null,
+          "timestamp": "2026-11-03T17:22:32.538Z",
+          "totalDurationMs": 169931
+        },
+        {
+          "id": "a11e6f1b-e1d7-45ac-8349-789dbd8d6f97",
+          "title": null,
+          "timestamp": "2026-11-03T17:19:20.831Z",
+          "totalDurationMs": 61298
+        },
+        {
+          "id": "6cb47944-c599-440b-8772-d55e538e7dfc",
+          "title": null,
+          "timestamp": "2026-11-03T17:18:40.544Z",
+          "totalDurationMs": 34946
+        }
+      ]
+    },
+    {
       "projectName": "single-model-pipeline-review",
       "totalSessions": 1,
       "totalDurationMs": 262469,
@@ -939,16 +964,20 @@
     "2026-10-30": {
       "sessions": 4,
       "durationMs": 2109945
+    },
+    "2026-11-03": {
+      "sessions": 3,
+      "durationMs": 266175
     }
   },
   "tokenUsage": {
-    "inputTokens": 907453,
-    "outputTokens": 27339697,
-    "cacheReadTokens": 5982365300,
-    "cacheCreationTokens": 153920284
+    "inputTokens": 907479,
+    "outputTokens": 27390295,
+    "cacheReadTokens": 5983246596,
+    "cacheCreationTokens": 154977143
   },
   "toolUsage": {
-    "Read": 4301,
+    "Read": 4311,
     "Glob": 137,
     "Grep": 451,
     "Bash": 7295,
