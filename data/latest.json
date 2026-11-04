@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-03T21:00:09.524Z",
+  "generatedAt": "2026-11-04T13:00:09.441Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 134,
-    "totalDurationMs": 1226216440,
-    "totalTokens": 6166521513,
-    "projectCount": 37
+    "totalSessions": 174,
+    "totalDurationMs": 1239274432,
+    "totalTokens": 6224950711,
+    "projectCount": 60
   },
   "projects": [
     {
@@ -495,6 +495,225 @@
       ]
     },
     {
+      "projectName": "worker",
+      "totalSessions": 3,
+      "totalDurationMs": 1123923,
+      "sessions": [
+        {
+          "id": "a0e8c0e5-7d7b-48f7-b6e0-80294b459873",
+          "title": null,
+          "timestamp": "2026-11-04T02:43:32.487Z",
+          "totalDurationMs": 323315
+        },
+        {
+          "id": "f17bf64b-ecf2-47e1-bd40-50fb5c9bac41",
+          "title": null,
+          "timestamp": "2026-11-04T02:39:11.984Z",
+          "totalDurationMs": 163802
+        },
+        {
+          "id": "90981acb-6713-46d3-ad01-9d4f5144ad53",
+          "title": null,
+          "timestamp": "2026-11-04T02:25:42.791Z",
+          "totalDurationMs": 636806
+        }
+      ]
+    },
+    {
+      "projectName": "css-benchmark",
+      "totalSessions": 1,
+      "totalDurationMs": 945775,
+      "sessions": [
+        {
+          "id": "9a5caeaa-1a3b-4039-a430-fea99517a8ec",
+          "title": null,
+          "timestamp": "2026-11-04T03:55:31.453Z",
+          "totalDurationMs": 945775
+        }
+      ]
+    },
+    {
+      "projectName": "benchmark",
+      "totalSessions": 1,
+      "totalDurationMs": 932213,
+      "sessions": [
+        {
+          "id": "1ab6a512-0656-4ce3-b043-e96a94ab217c",
+          "title": null,
+          "timestamp": "2026-11-04T02:25:43.868Z",
+          "totalDurationMs": 932213
+        }
+      ]
+    },
+    {
+      "projectName": "metrics",
+      "totalSessions": 2,
+      "totalDurationMs": 928380,
+      "sessions": [
+        {
+          "id": "ee810a7b-bd1e-4a6b-8c66-6bb36a789b9c",
+          "title": null,
+          "timestamp": "2026-11-04T03:08:28.839Z",
+          "totalDurationMs": 355348
+        },
+        {
+          "id": "6acecb71-0503-4fa4-b41c-92ebc0426f58",
+          "title": null,
+          "timestamp": "2026-11-04T02:55:02.449Z",
+          "totalDurationMs": 573032
+        }
+      ]
+    },
+    {
+      "projectName": "calibration",
+      "totalSessions": 1,
+      "totalDurationMs": 898054,
+      "sessions": [
+        {
+          "id": "c0e9fec3-71f4-46b6-81da-c43f30f6df34",
+          "title": null,
+          "timestamp": "2026-11-04T02:52:51.209Z",
+          "totalDurationMs": 898054
+        }
+      ]
+    },
+    {
+      "projectName": "design-weight-experiments",
+      "totalSessions": 5,
+      "totalDurationMs": 865519,
+      "sessions": [
+        {
+          "id": "fcadb774-4608-4cd0-a8b3-00fc5619278f",
+          "title": null,
+          "timestamp": "2026-11-04T02:00:15.596Z",
+          "totalDurationMs": 164106
+        },
+        {
+          "id": "93b5db6c-846a-49fc-a871-521ac34427b0",
+          "title": null,
+          "timestamp": "2026-11-04T01:40:25.894Z",
+          "totalDurationMs": 122488
+        },
+        {
+          "id": "89ff59ba-fb7c-4bf4-98a4-3f5d7a21bdd0",
+          "title": null,
+          "timestamp": "2026-11-04T01:29:46.071Z",
+          "totalDurationMs": 211365
+        },
+        {
+          "id": "d57c6930-28a1-4f21-9163-57f66b45e263",
+          "title": null,
+          "timestamp": "2026-11-04T01:16:38.979Z",
+          "totalDurationMs": 260775
+        },
+        {
+          "id": "e943c5a0-3764-4543-af6c-f58360df1a93",
+          "title": null,
+          "timestamp": "2026-11-04T01:07:20.366Z",
+          "totalDurationMs": 106785
+        }
+      ]
+    },
+    {
+      "projectName": "please-review-this-channel-contra-studio-4",
+      "totalSessions": 10,
+      "totalDurationMs": 848798,
+      "sessions": [
+        {
+          "id": "924f4f56-c4c5-44e0-97e9-6a50a41dc06b",
+          "title": null,
+          "timestamp": "2026-11-04T04:04:24.054Z",
+          "totalDurationMs": 144529
+        },
+        {
+          "id": "002224f1-5e0a-42b8-be4c-4ac81c41f842",
+          "title": null,
+          "timestamp": "2026-11-04T03:49:48.864Z",
+          "totalDurationMs": 64630
+        },
+        {
+          "id": "84c885f6-363a-4d3a-ba14-8b43be8d66f4",
+          "title": null,
+          "timestamp": "2026-11-04T02:24:47.485Z",
+          "totalDurationMs": 91709
+        },
+        {
+          "id": "6af303dc-70e4-4d50-8b80-b8ee2f9e61d5",
+          "title": null,
+          "timestamp": "2026-11-04T02:16:54.384Z",
+          "totalDurationMs": 44360
+        },
+        {
+          "id": "e66eace3-bfcd-4a07-beec-505f06e32312",
+          "title": null,
+          "timestamp": "2026-11-04T01:16:13.670Z",
+          "totalDurationMs": 43441
+        },
+        {
+          "id": "8131ea10-2297-4322-8a14-aa63069bbb6f",
+          "title": null,
+          "timestamp": "2026-11-04T00:06:44.974Z",
+          "totalDurationMs": 106341
+        },
+        {
+          "id": "e6b61af5-123c-4f15-8b57-bb7ae9a39b1e",
+          "title": null,
+          "timestamp": "2026-11-03T23:59:55.233Z",
+          "totalDurationMs": 87613
+        },
+        {
+          "id": "0f3d68d8-89c2-460a-9db5-d0e833a4bd8a",
+          "title": null,
+          "timestamp": "2026-11-03T17:22:32.538Z",
+          "totalDurationMs": 169931
+        },
+        {
+          "id": "a11e6f1b-e1d7-45ac-8349-789dbd8d6f97",
+          "title": null,
+          "timestamp": "2026-11-03T17:19:20.831Z",
+          "totalDurationMs": 61298
+        },
+        {
+          "id": "6cb47944-c599-440b-8772-d55e538e7dfc",
+          "title": null,
+          "timestamp": "2026-11-03T17:18:40.544Z",
+          "totalDurationMs": 34946
+        }
+      ]
+    },
+    {
+      "projectName": "head-worker",
+      "totalSessions": 2,
+      "totalDurationMs": 805946,
+      "sessions": [
+        {
+          "id": "f17ce603-42ac-475e-aeb6-e4d7bec5095d",
+          "title": null,
+          "timestamp": "2026-11-04T03:28:18.210Z",
+          "totalDurationMs": 302827
+        },
+        {
+          "id": "34c8c4a9-fc5b-4e66-97d9-4b4f352e9e1a",
+          "title": null,
+          "timestamp": "2026-11-04T03:16:05.117Z",
+          "totalDurationMs": 503119
+        }
+      ]
+    },
+    {
+      "projectName": "benchmark-primary",
+      "totalSessions": 1,
+      "totalDurationMs": 771557,
+      "sessions": [
+        {
+          "id": "57271a93-48f4-46d9-83fe-9070408daeda",
+          "title": null,
+          "timestamp": "2026-11-04T07:04:13.588Z",
+          "totalDurationMs": 771557
+        }
+      ]
+    },
+    {
       "projectName": "artifact-conformance-em0gw60m",
       "totalSessions": 1,
       "totalDurationMs": 763404,
@@ -508,6 +727,19 @@
       ]
     },
     {
+      "projectName": "benchmark-replication",
+      "totalSessions": 1,
+      "totalDurationMs": 757827,
+      "sessions": [
+        {
+          "id": "e38e984f-1475-40d0-b39f-f5f556fad943",
+          "title": null,
+          "timestamp": "2026-11-04T05:43:14.043Z",
+          "totalDurationMs": 757827
+        }
+      ]
+    },
+    {
       "projectName": "artifact-review-_dmydpyv",
       "totalSessions": 1,
       "totalDurationMs": 736494,
@@ -517,6 +749,45 @@
           "title": null,
           "timestamp": "2026-10-29T22:12:17.186Z",
           "totalDurationMs": 736494
+        }
+      ]
+    },
+    {
+      "projectName": "replication",
+      "totalSessions": 1,
+      "totalDurationMs": 727240,
+      "sessions": [
+        {
+          "id": "6c5b4de9-a240-42f1-b167-d71ec10b906d",
+          "title": null,
+          "timestamp": "2026-11-04T04:52:13.637Z",
+          "totalDurationMs": 727240
+        }
+      ]
+    },
+    {
+      "projectName": "benchmark-primary",
+      "totalSessions": 1,
+      "totalDurationMs": 722558,
+      "sessions": [
+        {
+          "id": "06868a6d-49e1-4e43-a751-4aea4fbc9923",
+          "title": null,
+          "timestamp": "2026-11-04T05:43:12.891Z",
+          "totalDurationMs": 722558
+        }
+      ]
+    },
+    {
+      "projectName": "benchmark-replication",
+      "totalSessions": 1,
+      "totalDurationMs": 711670,
+      "sessions": [
+        {
+          "id": "13819649-914e-44b1-9e8b-1a82f4b285bf",
+          "title": null,
+          "timestamp": "2026-11-04T07:04:14.780Z",
+          "totalDurationMs": 711670
         }
       ]
     },
@@ -651,6 +922,19 @@
       ]
     },
     {
+      "projectName": "css-reset-worker",
+      "totalSessions": 1,
+      "totalDurationMs": 425798,
+      "sessions": [
+        {
+          "id": "39d8c22f-9940-4252-8b98-6cc398027f37",
+          "title": null,
+          "timestamp": "2026-11-04T04:33:48.832Z",
+          "totalDurationMs": 425798
+        }
+      ]
+    },
+    {
       "projectName": "artifact-review-cmhqmmt4",
       "totalSessions": 1,
       "totalDurationMs": 406134,
@@ -690,27 +974,34 @@
       ]
     },
     {
-      "projectName": "please-review-this-channel-contra-studio-4",
-      "totalSessions": 3,
-      "totalDurationMs": 266175,
+      "projectName": "report",
+      "totalSessions": 1,
+      "totalDurationMs": 336080,
       "sessions": [
         {
-          "id": "0f3d68d8-89c2-460a-9db5-d0e833a4bd8a",
+          "id": "3e78cadc-526a-45a9-857d-a4923ac46f63",
           "title": null,
-          "timestamp": "2026-11-03T17:22:32.538Z",
-          "totalDurationMs": 169931
+          "timestamp": "2026-11-04T05:01:39.211Z",
+          "totalDurationMs": 336080
+        }
+      ]
+    },
+    {
+      "projectName": "independent-review",
+      "totalSessions": 2,
+      "totalDurationMs": 334069,
+      "sessions": [
+        {
+          "id": "12a6031f-52f0-4196-841e-4f9d00c9e846",
+          "title": null,
+          "timestamp": "2026-11-04T05:26:50.994Z",
+          "totalDurationMs": 210046
         },
         {
-          "id": "a11e6f1b-e1d7-45ac-8349-789dbd8d6f97",
+          "id": "79b78044-6688-4bfb-b281-85c762f69e74",
           "title": null,
-          "timestamp": "2026-11-03T17:19:20.831Z",
-          "totalDurationMs": 61298
-        },
-        {
-          "id": "6cb47944-c599-440b-8772-d55e538e7dfc",
-          "title": null,
-          "timestamp": "2026-11-03T17:18:40.544Z",
-          "totalDurationMs": 34946
+          "timestamp": "2026-11-04T05:24:16.297Z",
+          "totalDurationMs": 124023
         }
       ]
     },
@@ -754,6 +1045,64 @@
       ]
     },
     {
+      "projectName": "strategy-review",
+      "totalSessions": 1,
+      "totalDurationMs": 229781,
+      "sessions": [
+        {
+          "id": "614d5542-2489-4663-acc1-9329e7d251c8",
+          "title": null,
+          "timestamp": "2026-11-04T07:23:35.101Z",
+          "totalDurationMs": 229781
+        }
+      ]
+    },
+    {
+      "projectName": "backup-audit",
+      "totalSessions": 2,
+      "totalDurationMs": 222138,
+      "sessions": [
+        {
+          "id": "fea6a291-c0cf-40d0-9344-9f9069d454a2",
+          "title": null,
+          "timestamp": "2026-11-04T03:38:12.984Z",
+          "totalDurationMs": 203272
+        },
+        {
+          "id": "2f12ec08-22f6-4ddb-8bda-f573350ae3bc",
+          "title": null,
+          "timestamp": "2026-11-04T03:37:29.397Z",
+          "totalDurationMs": 18866
+        }
+      ]
+    },
+    {
+      "projectName": "independent-review",
+      "totalSessions": 1,
+      "totalDurationMs": 200315,
+      "sessions": [
+        {
+          "id": "7b658870-8cfb-450a-a734-1bda92675a23",
+          "title": null,
+          "timestamp": "2026-11-04T06:26:00.632Z",
+          "totalDurationMs": 200315
+        }
+      ]
+    },
+    {
+      "projectName": "visual-review-claude",
+      "totalSessions": 1,
+      "totalDurationMs": 183452,
+      "sessions": [
+        {
+          "id": "cd4e8f62-8b9d-48c9-9748-9c79e7a5e2ad",
+          "title": null,
+          "timestamp": "2026-11-04T07:01:25.047Z",
+          "totalDurationMs": 183452
+        }
+      ]
+    },
+    {
       "projectName": "input",
       "totalSessions": 1,
       "totalDurationMs": 170072,
@@ -763,6 +1112,19 @@
           "title": null,
           "timestamp": "2026-11-01T02:52:21.789Z",
           "totalDurationMs": 170072
+        }
+      ]
+    },
+    {
+      "projectName": "method-review",
+      "totalSessions": 1,
+      "totalDurationMs": 113908,
+      "sessions": [
+        {
+          "id": "c1379464-240d-42d9-ac66-119e0145a477",
+          "title": null,
+          "timestamp": "2026-11-04T04:20:46.781Z",
+          "totalDurationMs": 113908
         }
       ]
     },
@@ -793,6 +1155,32 @@
       ]
     },
     {
+      "projectName": "shadow-checks",
+      "totalSessions": 1,
+      "totalDurationMs": 95274,
+      "sessions": [
+        {
+          "id": "b24bf97d-d489-4355-92e7-bf6eb43b5586",
+          "title": null,
+          "timestamp": "2026-11-04T03:37:29.392Z",
+          "totalDurationMs": 95274
+        }
+      ]
+    },
+    {
+      "projectName": "protocol-review",
+      "totalSessions": 1,
+      "totalDurationMs": 84063,
+      "sessions": [
+        {
+          "id": "a02c9b0b-e36b-4e5d-b297-cf1eefeec89e",
+          "title": null,
+          "timestamp": "2026-11-04T02:48:16.823Z",
+          "totalDurationMs": 84063
+        }
+      ]
+    },
+    {
       "projectName": "input",
       "totalSessions": 1,
       "totalDurationMs": 83447,
@@ -802,6 +1190,19 @@
           "title": null,
           "timestamp": "2026-11-01T03:08:59.567Z",
           "totalDurationMs": 83447
+        }
+      ]
+    },
+    {
+      "projectName": "spacing-worker",
+      "totalSessions": 1,
+      "totalDurationMs": 59829,
+      "sessions": [
+        {
+          "id": "ddfb87e1-fbd9-4265-a2b8-b05841b7dde4",
+          "title": null,
+          "timestamp": "2026-11-04T04:35:01.824Z",
+          "totalDurationMs": 59829
         }
       ]
     },
@@ -961,28 +1362,32 @@
       "sessions": 9,
       "durationMs": 6822252
     },
+    "2026-11-04": {
+      "sessions": 39,
+      "durationMs": 12970379
+    },
+    "2026-11-03": {
+      "sessions": 4,
+      "durationMs": 353788
+    },
     "2026-10-30": {
       "sessions": 4,
       "durationMs": 2109945
-    },
-    "2026-11-03": {
-      "sessions": 3,
-      "durationMs": 266175
     }
   },
   "tokenUsage": {
-    "inputTokens": 907479,
-    "outputTokens": 27390295,
-    "cacheReadTokens": 5983246596,
-    "cacheCreationTokens": 154977143
+    "inputTokens": 908953,
+    "outputTokens": 31096964,
+    "cacheReadTokens": 6028207612,
+    "cacheCreationTokens": 164737182
   },
   "toolUsage": {
-    "Read": 4311,
-    "Glob": 137,
-    "Grep": 451,
+    "Read": 4847,
+    "Glob": 159,
+    "Grep": 519,
     "Bash": 7295,
-    "Write": 325,
-    "Edit": 812,
+    "Write": 457,
+    "Edit": 950,
     "mcp__ccd_turn__update_plan": 104,
     "ToolSearch": 73,
     "AskUserQuestion": 9,
