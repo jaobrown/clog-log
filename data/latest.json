@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-04T17:00:09.966Z",
+  "generatedAt": "2026-11-04T21:00:09.920Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 196,
-    "totalDurationMs": 1246710021,
-    "totalTokens": 6245713308,
-    "projectCount": 80
+    "totalSessions": 212,
+    "totalDurationMs": 1253271788,
+    "totalTokens": 6280230182,
+    "projectCount": 94
   },
   "projects": [
     {
@@ -520,6 +520,25 @@
       ]
     },
     {
+      "projectName": "worker-draft",
+      "totalSessions": 2,
+      "totalDurationMs": 954577,
+      "sessions": [
+        {
+          "id": "0da6f660-b9a1-48c5-9bdc-88e6ac3d7849",
+          "title": null,
+          "timestamp": "2026-11-04T18:47:57.295Z",
+          "totalDurationMs": 356819
+        },
+        {
+          "id": "a161e861-74f7-4a99-ac13-a723f18d8356",
+          "title": null,
+          "timestamp": "2026-11-04T18:33:24.240Z",
+          "totalDurationMs": 597758
+        }
+      ]
+    },
+    {
       "projectName": "css-benchmark",
       "totalSessions": 1,
       "totalDurationMs": 945775,
@@ -574,6 +593,19 @@
           "title": null,
           "timestamp": "2026-11-04T02:52:51.209Z",
           "totalDurationMs": 898054
+        }
+      ]
+    },
+    {
+      "projectName": "alternative-fit-research",
+      "totalSessions": 1,
+      "totalDurationMs": 885987,
+      "sessions": [
+        {
+          "id": "536ad7ec-9018-44b6-906d-dd947336b230",
+          "title": null,
+          "timestamp": "2026-11-04T18:04:28.880Z",
+          "totalDurationMs": 885987
         }
       ]
     },
@@ -710,6 +742,19 @@
           "title": null,
           "timestamp": "2026-11-04T14:00:47.639Z",
           "totalDurationMs": 842494
+        }
+      ]
+    },
+    {
+      "projectName": "solver-review",
+      "totalSessions": 1,
+      "totalDurationMs": 832414,
+      "sessions": [
+        {
+          "id": "826c1792-72af-41ba-8831-c15a1a2e1844",
+          "title": null,
+          "timestamp": "2026-11-04T20:11:18.398Z",
+          "totalDurationMs": 832414
         }
       ]
     },
@@ -869,6 +914,19 @@
       ]
     },
     {
+      "projectName": "solver-hardened",
+      "totalSessions": 1,
+      "totalDurationMs": 654219,
+      "sessions": [
+        {
+          "id": "e95d8824-631c-4c2f-9141-14be04814885",
+          "title": null,
+          "timestamp": "2026-11-04T18:52:57.606Z",
+          "totalDurationMs": 654219
+        }
+      ]
+    },
+    {
       "projectName": "benchmark-replication",
       "totalSessions": 1,
       "totalDurationMs": 643755,
@@ -878,6 +936,19 @@
           "title": null,
           "timestamp": "2026-11-04T14:00:48.820Z",
           "totalDurationMs": 643755
+        }
+      ]
+    },
+    {
+      "projectName": "verifier-draft",
+      "totalSessions": 1,
+      "totalDurationMs": 606650,
+      "sessions": [
+        {
+          "id": "179e225e-349b-4508-8761-1144b9277d13",
+          "title": null,
+          "timestamp": "2026-11-04T19:41:01.505Z",
+          "totalDurationMs": 606650
         }
       ]
     },
@@ -904,6 +975,19 @@
           "title": null,
           "timestamp": "2026-10-30T02:39:18.359Z",
           "totalDurationMs": 597861
+        }
+      ]
+    },
+    {
+      "projectName": "polish-review",
+      "totalSessions": 1,
+      "totalDurationMs": 597395,
+      "sessions": [
+        {
+          "id": "d871fd6d-f659-4312-858c-72678c17e3f1",
+          "title": null,
+          "timestamp": "2026-11-04T20:15:37.937Z",
+          "totalDurationMs": 597395
         }
       ]
     },
@@ -969,6 +1053,19 @@
           "title": null,
           "timestamp": "2026-10-29T18:45:08.819Z",
           "totalDurationMs": 489288
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-draft",
+      "totalSessions": 1,
+      "totalDurationMs": 458887,
+      "sessions": [
+        {
+          "id": "b3a4dd10-85dd-4955-bacf-245245b19130",
+          "title": null,
+          "timestamp": "2026-11-04T19:55:49.112Z",
+          "totalDurationMs": 458887
         }
       ]
     },
@@ -1051,6 +1148,19 @@
       ]
     },
     {
+      "projectName": "pipeline-draft",
+      "totalSessions": 1,
+      "totalDurationMs": 402262,
+      "sessions": [
+        {
+          "id": "b566cc1a-3048-48a3-8707-5205e19fd03d",
+          "title": null,
+          "timestamp": "2026-11-04T19:46:42.788Z",
+          "totalDurationMs": 402262
+        }
+      ]
+    },
+    {
       "projectName": "development-author-b",
       "totalSessions": 1,
       "totalDurationMs": 398770,
@@ -1073,6 +1183,19 @@
           "title": null,
           "timestamp": "2026-10-29T20:06:26.966Z",
           "totalDurationMs": 370831
+        }
+      ]
+    },
+    {
+      "projectName": "artifact-draft",
+      "totalSessions": 1,
+      "totalDurationMs": 351030,
+      "sessions": [
+        {
+          "id": "9ce8b391-a7a6-4627-8a40-b86682e79745",
+          "title": null,
+          "timestamp": "2026-11-04T20:26:52.415Z",
+          "totalDurationMs": 351030
         }
       ]
     },
@@ -1157,6 +1280,25 @@
           "title": null,
           "timestamp": "2026-11-04T13:59:18.040Z",
           "totalDurationMs": 292394
+        }
+      ]
+    },
+    {
+      "projectName": "solver-review",
+      "totalSessions": 2,
+      "totalDurationMs": 284398,
+      "sessions": [
+        {
+          "id": "e94ec889-b0a5-4860-8bf0-78763b13266e",
+          "title": null,
+          "timestamp": "2026-11-04T18:47:24.872Z",
+          "totalDurationMs": 255975
+        },
+        {
+          "id": "57d4b7b5-cbd3-4f36-8830-7ef731d7852b",
+          "title": null,
+          "timestamp": "2026-11-04T18:41:30.992Z",
+          "totalDurationMs": 28423
         }
       ]
     },
@@ -1323,6 +1465,19 @@
       ]
     },
     {
+      "projectName": "confirmation-review",
+      "totalSessions": 1,
+      "totalDurationMs": 182179,
+      "sessions": [
+        {
+          "id": "2893b8c7-7163-46aa-9813-dc5215a5cfa8",
+          "title": null,
+          "timestamp": "2026-11-04T17:41:24.141Z",
+          "totalDurationMs": 182179
+        }
+      ]
+    },
+    {
       "projectName": "input",
       "totalSessions": 1,
       "totalDurationMs": 170072,
@@ -1336,6 +1491,19 @@
       ]
     },
     {
+      "projectName": "preservation-fit-review",
+      "totalSessions": 1,
+      "totalDurationMs": 156464,
+      "sessions": [
+        {
+          "id": "1a474483-4264-4e0a-976f-8c7b74d81c5f",
+          "title": null,
+          "timestamp": "2026-11-04T17:47:21.801Z",
+          "totalDurationMs": 156464
+        }
+      ]
+    },
+    {
       "projectName": "worker-review",
       "totalSessions": 1,
       "totalDurationMs": 153935,
@@ -1345,6 +1513,19 @@
           "title": null,
           "timestamp": "2026-11-04T15:37:36.493Z",
           "totalDurationMs": 153935
+        }
+      ]
+    },
+    {
+      "projectName": "separator-review",
+      "totalSessions": 1,
+      "totalDurationMs": 143775,
+      "sessions": [
+        {
+          "id": "8817fd9b-a159-40c3-9604-2a74c6c3440a",
+          "title": null,
+          "timestamp": "2026-11-04T17:20:04.677Z",
+          "totalDurationMs": 143775
         }
       ]
     },
@@ -1503,6 +1684,19 @@
           "totalDurationMs": 54280
         }
       ]
+    },
+    {
+      "projectName": "disc-golf-focus",
+      "totalSessions": 1,
+      "totalDurationMs": 51530,
+      "sessions": [
+        {
+          "id": "d632b9b5-b178-4045-b293-3665ce6a66de",
+          "title": null,
+          "timestamp": "2026-11-04T19:39:08.973Z",
+          "totalDurationMs": 51530
+        }
+      ]
     }
   ],
   "activity": {
@@ -1635,8 +1829,8 @@
       "durationMs": 6822252
     },
     "2026-11-04": {
-      "sessions": 61,
-      "durationMs": 20405968
+      "sessions": 77,
+      "durationMs": 26967735
     },
     "2026-11-03": {
       "sessions": 4,
@@ -1648,18 +1842,18 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 909697,
-    "outputTokens": 33150099,
-    "cacheReadTokens": 6041863955,
-    "cacheCreationTokens": 169789557
+    "inputTokens": 910689,
+    "outputTokens": 35489627,
+    "cacheReadTokens": 6069102296,
+    "cacheCreationTokens": 174727570
   },
   "toolUsage": {
-    "Read": 5199,
+    "Read": 5563,
     "Glob": 159,
     "Grep": 519,
     "Bash": 7295,
-    "Write": 539,
-    "Edit": 972,
+    "Write": 639,
+    "Edit": 1102,
     "mcp__ccd_turn__update_plan": 104,
     "ToolSearch": 73,
     "AskUserQuestion": 9,
