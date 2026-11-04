@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-04T13:00:09.441Z",
+  "generatedAt": "2026-11-04T17:00:09.966Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 174,
-    "totalDurationMs": 1239274432,
-    "totalTokens": 6224950711,
-    "projectCount": 60
+    "totalSessions": 196,
+    "totalDurationMs": 1246710021,
+    "totalTokens": 6245713308,
+    "projectCount": 80
   },
   "projects": [
     {
@@ -615,6 +615,25 @@
       ]
     },
     {
+      "projectName": "verification-author",
+      "totalSessions": 2,
+      "totalDurationMs": 853287,
+      "sessions": [
+        {
+          "id": "423135bc-69ea-4a15-89ae-46cae204e710",
+          "title": null,
+          "timestamp": "2026-11-04T14:10:08.289Z",
+          "totalDurationMs": 828817
+        },
+        {
+          "id": "54d2c809-068f-4d00-990c-fe27e67db503",
+          "title": null,
+          "timestamp": "2026-11-04T14:07:32.827Z",
+          "totalDurationMs": 24470
+        }
+      ]
+    },
+    {
       "projectName": "please-review-this-channel-contra-studio-4",
       "totalSessions": 10,
       "totalDurationMs": 848798,
@@ -682,6 +701,19 @@
       ]
     },
     {
+      "projectName": "benchmark-primary",
+      "totalSessions": 1,
+      "totalDurationMs": 842494,
+      "sessions": [
+        {
+          "id": "ed6a8984-f43f-424d-aafc-4016f91de524",
+          "title": null,
+          "timestamp": "2026-11-04T14:00:47.639Z",
+          "totalDurationMs": 842494
+        }
+      ]
+    },
+    {
       "projectName": "head-worker",
       "totalSessions": 2,
       "totalDurationMs": 805946,
@@ -697,6 +729,25 @@
           "title": null,
           "timestamp": "2026-11-04T03:16:05.117Z",
           "totalDurationMs": 503119
+        }
+      ]
+    },
+    {
+      "projectName": "implementation",
+      "totalSessions": 2,
+      "totalDurationMs": 794793,
+      "sessions": [
+        {
+          "id": "11efbb80-35d0-444a-88f5-5b5812272b7a",
+          "title": null,
+          "timestamp": "2026-11-04T13:25:20.095Z",
+          "totalDurationMs": 772999
+        },
+        {
+          "id": "a1cd3503-07f5-424a-91f3-c467d13cd453",
+          "title": null,
+          "timestamp": "2026-11-04T13:23:14.488Z",
+          "totalDurationMs": 21794
         }
       ]
     },
@@ -818,6 +869,19 @@
       ]
     },
     {
+      "projectName": "benchmark-replication",
+      "totalSessions": 1,
+      "totalDurationMs": 643755,
+      "sessions": [
+        {
+          "id": "9f6d2fd2-81e3-4118-a61b-26d1177c418d",
+          "title": null,
+          "timestamp": "2026-11-04T14:00:48.820Z",
+          "totalDurationMs": 643755
+        }
+      ]
+    },
+    {
       "projectName": "artifact-review-4ahn8ynx",
       "totalSessions": 1,
       "totalDurationMs": 599556,
@@ -870,6 +934,32 @@
       ]
     },
     {
+      "projectName": "code-review",
+      "totalSessions": 1,
+      "totalDurationMs": 532613,
+      "sessions": [
+        {
+          "id": "1e215713-07ab-434e-afda-ed4e8266c932",
+          "title": null,
+          "timestamp": "2026-11-04T13:41:40.450Z",
+          "totalDurationMs": 532613
+        }
+      ]
+    },
+    {
+      "projectName": "development-author-a",
+      "totalSessions": 1,
+      "totalDurationMs": 497893,
+      "sessions": [
+        {
+          "id": "db700b14-fb39-477c-a7d0-211d2ef46e84",
+          "title": null,
+          "timestamp": "2026-11-04T15:33:56.246Z",
+          "totalDurationMs": 497893
+        }
+      ]
+    },
+    {
       "projectName": "artifact-review-r8funpb_",
       "totalSessions": 1,
       "totalDurationMs": 489288,
@@ -892,6 +982,19 @@
           "title": null,
           "timestamp": "2026-10-29T22:11:05.948Z",
           "totalDurationMs": 448111
+        }
+      ]
+    },
+    {
+      "projectName": "fit-review",
+      "totalSessions": 1,
+      "totalDurationMs": 447881,
+      "sessions": [
+        {
+          "id": "f599e0fe-77b8-4ff4-81dd-afbb7fd831da",
+          "title": null,
+          "timestamp": "2026-11-04T14:11:20.785Z",
+          "totalDurationMs": 447881
         }
       ]
     },
@@ -948,6 +1051,19 @@
       ]
     },
     {
+      "projectName": "development-author-b",
+      "totalSessions": 1,
+      "totalDurationMs": 398770,
+      "sessions": [
+        {
+          "id": "e8dcfff8-163a-4c82-ab1f-63d79cb9dda3",
+          "title": null,
+          "timestamp": "2026-11-04T15:33:56.223Z",
+          "totalDurationMs": 398770
+        }
+      ]
+    },
+    {
       "projectName": "artifact-review-3alzekmk",
       "totalSessions": 1,
       "totalDurationMs": 370831,
@@ -957,6 +1073,19 @@
           "title": null,
           "timestamp": "2026-10-29T20:06:26.966Z",
           "totalDurationMs": 370831
+        }
+      ]
+    },
+    {
+      "projectName": "fitting-review",
+      "totalSessions": 1,
+      "totalDurationMs": 345244,
+      "sessions": [
+        {
+          "id": "39669d02-519e-4d4c-8df3-dfe458a36ab7",
+          "title": null,
+          "timestamp": "2026-11-04T16:25:32.827Z",
+          "totalDurationMs": 345244
         }
       ]
     },
@@ -1002,6 +1131,32 @@
           "title": null,
           "timestamp": "2026-11-04T05:24:16.297Z",
           "totalDurationMs": 124023
+        }
+      ]
+    },
+    {
+      "projectName": "protocol-review",
+      "totalSessions": 1,
+      "totalDurationMs": 325634,
+      "sessions": [
+        {
+          "id": "eaa70801-df8d-4320-a952-4375473c00cf",
+          "title": null,
+          "timestamp": "2026-11-04T15:07:39.988Z",
+          "totalDurationMs": 325634
+        }
+      ]
+    },
+    {
+      "projectName": "control-worker",
+      "totalSessions": 1,
+      "totalDurationMs": 292394,
+      "sessions": [
+        {
+          "id": "72ed6449-484c-41ad-b5e9-f98e4d9bdeec",
+          "title": null,
+          "timestamp": "2026-11-04T13:59:18.040Z",
+          "totalDurationMs": 292394
         }
       ]
     },
@@ -1058,6 +1213,19 @@
       ]
     },
     {
+      "projectName": "benchmark-validation",
+      "totalSessions": 1,
+      "totalDurationMs": 227841,
+      "sessions": [
+        {
+          "id": "48d5f7a6-3ad6-4220-bc9b-9a9ce63f76e6",
+          "title": null,
+          "timestamp": "2026-11-04T15:16:27.366Z",
+          "totalDurationMs": 227841
+        }
+      ]
+    },
+    {
       "projectName": "backup-audit",
       "totalSessions": 2,
       "totalDurationMs": 222138,
@@ -1077,6 +1245,32 @@
       ]
     },
     {
+      "projectName": "bundle-author",
+      "totalSessions": 1,
+      "totalDurationMs": 208868,
+      "sessions": [
+        {
+          "id": "11457693-bf3f-4c94-ad5a-4fb74e6229df",
+          "title": null,
+          "timestamp": "2026-11-04T14:46:22.747Z",
+          "totalDurationMs": 208868
+        }
+      ]
+    },
+    {
+      "projectName": "benchmark-validation",
+      "totalSessions": 1,
+      "totalDurationMs": 203048,
+      "sessions": [
+        {
+          "id": "46a38407-3546-4664-9833-459c6fd1cb14",
+          "title": null,
+          "timestamp": "2026-11-04T15:53:34.624Z",
+          "totalDurationMs": 203048
+        }
+      ]
+    },
+    {
       "projectName": "independent-review",
       "totalSessions": 1,
       "totalDurationMs": 200315,
@@ -1086,6 +1280,32 @@
           "title": null,
           "timestamp": "2026-11-04T06:26:00.632Z",
           "totalDurationMs": 200315
+        }
+      ]
+    },
+    {
+      "projectName": "prefix-worker",
+      "totalSessions": 1,
+      "totalDurationMs": 198212,
+      "sessions": [
+        {
+          "id": "3a032357-6c64-434c-b281-3f3085fd5d45",
+          "title": null,
+          "timestamp": "2026-11-04T14:30:43.432Z",
+          "totalDurationMs": 198212
+        }
+      ]
+    },
+    {
+      "projectName": "confirmation-review",
+      "totalSessions": 1,
+      "totalDurationMs": 188896,
+      "sessions": [
+        {
+          "id": "64fd9fa8-9cd9-4956-9a2c-e8ebfe2238b7",
+          "title": null,
+          "timestamp": "2026-11-04T16:12:43.918Z",
+          "totalDurationMs": 188896
         }
       ]
     },
@@ -1116,6 +1336,19 @@
       ]
     },
     {
+      "projectName": "worker-review",
+      "totalSessions": 1,
+      "totalDurationMs": 153935,
+      "sessions": [
+        {
+          "id": "0a7fd906-f84f-49d3-8b61-791103424b1a",
+          "title": null,
+          "timestamp": "2026-11-04T15:37:36.493Z",
+          "totalDurationMs": 153935
+        }
+      ]
+    },
+    {
       "projectName": "method-review",
       "totalSessions": 1,
       "totalDurationMs": 113908,
@@ -1142,6 +1375,19 @@
       ]
     },
     {
+      "projectName": "visual-review-claude",
+      "totalSessions": 1,
+      "totalDurationMs": 106141,
+      "sessions": [
+        {
+          "id": "0ecf4540-44b4-4c67-9151-c56522e57e7f",
+          "title": null,
+          "timestamp": "2026-11-04T13:45:28.225Z",
+          "totalDurationMs": 106141
+        }
+      ]
+    },
+    {
       "projectName": "reviewer",
       "totalSessions": 1,
       "totalDurationMs": 103058,
@@ -1164,6 +1410,32 @@
           "title": null,
           "timestamp": "2026-11-04T03:37:29.392Z",
           "totalDurationMs": 95274
+        }
+      ]
+    },
+    {
+      "projectName": "protocol-review",
+      "totalSessions": 1,
+      "totalDurationMs": 87946,
+      "sessions": [
+        {
+          "id": "1d32714b-4aef-4c4b-9d58-2e845aca379c",
+          "title": null,
+          "timestamp": "2026-11-04T15:18:53.009Z",
+          "totalDurationMs": 87946
+        }
+      ]
+    },
+    {
+      "projectName": "batch-1",
+      "totalSessions": 1,
+      "totalDurationMs": 85944,
+      "sessions": [
+        {
+          "id": "e4c4abeb-7039-4075-94cd-bdb0caa749ab",
+          "title": null,
+          "timestamp": "2026-11-04T15:31:53.181Z",
+          "totalDurationMs": 85944
         }
       ]
     },
@@ -1363,8 +1635,8 @@
       "durationMs": 6822252
     },
     "2026-11-04": {
-      "sessions": 39,
-      "durationMs": 12970379
+      "sessions": 61,
+      "durationMs": 20405968
     },
     "2026-11-03": {
       "sessions": 4,
@@ -1376,18 +1648,18 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 908953,
-    "outputTokens": 31096964,
-    "cacheReadTokens": 6028207612,
-    "cacheCreationTokens": 164737182
+    "inputTokens": 909697,
+    "outputTokens": 33150099,
+    "cacheReadTokens": 6041863955,
+    "cacheCreationTokens": 169789557
   },
   "toolUsage": {
-    "Read": 4847,
+    "Read": 5199,
     "Glob": 159,
     "Grep": 519,
     "Bash": 7295,
-    "Write": 457,
-    "Edit": 950,
+    "Write": 539,
+    "Edit": 972,
     "mcp__ccd_turn__update_plan": 104,
     "ToolSearch": 73,
     "AskUserQuestion": 9,
