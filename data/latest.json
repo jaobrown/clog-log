@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-05T13:00:10.303Z",
+  "generatedAt": "2026-11-05T17:00:10.185Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 290,
-    "totalDurationMs": 1280308976,
-    "totalTokens": 6389005986,
-    "projectCount": 127
+    "totalSessions": 308,
+    "totalDurationMs": 1284432899,
+    "totalTokens": 6397652472,
+    "projectCount": 144
   },
   "projects": [
     {
@@ -343,9 +343,15 @@
     },
     {
       "projectName": "design-weight-experiments",
-      "totalSessions": 49,
-      "totalDurationMs": 23529280,
+      "totalSessions": 50,
+      "totalDurationMs": 23611510,
       "sessions": [
+        {
+          "id": "132a63d9-91b6-4932-a89c-a82b7fcd606c",
+          "title": null,
+          "timestamp": "2026-11-05T15:25:48.503Z",
+          "totalDurationMs": 82230
+        },
         {
           "id": "fc4fc264-3f84-4084-a005-c3715a9b7bff",
           "title": null,
@@ -759,6 +765,19 @@
       ]
     },
     {
+      "projectName": "author",
+      "totalSessions": 1,
+      "totalDurationMs": 1523843,
+      "sessions": [
+        {
+          "id": "77846c72-f985-4180-a6b1-72cc32d9798b",
+          "title": null,
+          "timestamp": "2026-11-05T15:39:48.507Z",
+          "totalDurationMs": 1523843
+        }
+      ]
+    },
+    {
       "projectName": "sleep-tech-one",
       "totalSessions": 5,
       "totalDurationMs": 1310565,
@@ -862,6 +881,19 @@
           "title": null,
           "timestamp": "2026-11-04T02:25:43.868Z",
           "totalDurationMs": 932213
+        }
+      ]
+    },
+    {
+      "projectName": "test-author",
+      "totalSessions": 1,
+      "totalDurationMs": 932049,
+      "sessions": [
+        {
+          "id": "dc9c0737-ca0e-405d-a10a-9bdb599dd077",
+          "title": null,
+          "timestamp": "2026-11-05T15:39:48.491Z",
+          "totalDurationMs": 932049
         }
       ]
     },
@@ -1232,6 +1264,19 @@
           "title": null,
           "timestamp": "2026-11-04T19:41:01.505Z",
           "totalDurationMs": 606650
+        }
+      ]
+    },
+    {
+      "projectName": "worker",
+      "totalSessions": 1,
+      "totalDurationMs": 600777,
+      "sessions": [
+        {
+          "id": "8d9c4bbd-f387-4950-866b-46dedf012d9c",
+          "title": null,
+          "timestamp": "2026-11-05T15:39:48.516Z",
+          "totalDurationMs": 600777
         }
       ]
     },
@@ -1852,6 +1897,32 @@
       ]
     },
     {
+      "projectName": "test-audit",
+      "totalSessions": 1,
+      "totalDurationMs": 173150,
+      "sessions": [
+        {
+          "id": "d759ba02-8000-4c5d-bbde-0dde5b388419",
+          "title": null,
+          "timestamp": "2026-11-05T16:02:08.094Z",
+          "totalDurationMs": 173150
+        }
+      ]
+    },
+    {
+      "projectName": "baseline-audit",
+      "totalSessions": 1,
+      "totalDurationMs": 172318,
+      "sessions": [
+        {
+          "id": "1575a307-0c47-4830-b468-cc69b34f2733",
+          "title": null,
+          "timestamp": "2026-11-05T16:33:10.881Z",
+          "totalDurationMs": 172318
+        }
+      ]
+    },
+    {
       "projectName": "input",
       "totalSessions": 1,
       "totalDurationMs": 170072,
@@ -1900,6 +1971,19 @@
           "title": null,
           "timestamp": "2026-11-04T17:20:04.677Z",
           "totalDurationMs": 143775
+        }
+      ]
+    },
+    {
+      "projectName": "train-audit",
+      "totalSessions": 1,
+      "totalDurationMs": 123367,
+      "sessions": [
+        {
+          "id": "d9bdd1f2-9ccc-47fc-ac8d-99fe24c72f8f",
+          "title": null,
+          "timestamp": "2026-11-05T16:07:08.085Z",
+          "totalDurationMs": 123367
         }
       ]
     },
@@ -2138,6 +2222,19 @@
       ]
     },
     {
+      "projectName": "copy-audit",
+      "totalSessions": 1,
+      "totalDurationMs": 85101,
+      "sessions": [
+        {
+          "id": "5815b0da-7349-4ea5-8606-3d54d01d6b59",
+          "title": null,
+          "timestamp": "2026-11-05T16:10:37.377Z",
+          "totalDurationMs": 85101
+        }
+      ]
+    },
+    {
       "projectName": "protocol-review",
       "totalSessions": 1,
       "totalDurationMs": 84063,
@@ -2294,6 +2391,32 @@
       ]
     },
     {
+      "projectName": "batch-003",
+      "totalSessions": 1,
+      "totalDurationMs": 53633,
+      "sessions": [
+        {
+          "id": "17b4388d-d226-4896-9a04-aac94aafa142",
+          "title": null,
+          "timestamp": "2026-11-05T16:44:54.067Z",
+          "totalDurationMs": 53633
+        }
+      ]
+    },
+    {
+      "projectName": "batch-002",
+      "totalSessions": 1,
+      "totalDurationMs": 52073,
+      "sessions": [
+        {
+          "id": "b97a176a-6857-4d87-9b2e-af17b6d15bf6",
+          "title": null,
+          "timestamp": "2026-11-05T16:44:17.084Z",
+          "totalDurationMs": 52073
+        }
+      ]
+    },
+    {
       "projectName": "disc-golf-focus",
       "totalSessions": 1,
       "totalDurationMs": 51530,
@@ -2303,6 +2426,45 @@
           "title": null,
           "timestamp": "2026-11-04T19:39:08.973Z",
           "totalDurationMs": 51530
+        }
+      ]
+    },
+    {
+      "projectName": "batch-005",
+      "totalSessions": 1,
+      "totalDurationMs": 49388,
+      "sessions": [
+        {
+          "id": "686973cf-d949-41ee-8eb7-eb3c5c68ab2f",
+          "title": null,
+          "timestamp": "2026-11-05T16:45:09.877Z",
+          "totalDurationMs": 49388
+        }
+      ]
+    },
+    {
+      "projectName": "batch-001",
+      "totalSessions": 1,
+      "totalDurationMs": 49016,
+      "sessions": [
+        {
+          "id": "260dd200-ca1a-41d2-b2c2-20695f0b7876",
+          "title": null,
+          "timestamp": "2026-11-05T16:44:17.121Z",
+          "totalDurationMs": 49016
+        }
+      ]
+    },
+    {
+      "projectName": "batch-004",
+      "totalSessions": 1,
+      "totalDurationMs": 47071,
+      "sessions": [
+        {
+          "id": "3e991ff1-23d5-4210-abb2-c0992e5dac11",
+          "title": null,
+          "timestamp": "2026-11-05T16:45:06.817Z",
+          "totalDurationMs": 47071
         }
       ]
     },
@@ -2320,6 +2482,19 @@
       ]
     },
     {
+      "projectName": "batch-006",
+      "totalSessions": 1,
+      "totalDurationMs": 45644,
+      "sessions": [
+        {
+          "id": "efb1c60e-084b-4b8c-8e5f-69fcbd820bb8",
+          "title": null,
+          "timestamp": "2026-11-05T16:45:48.516Z",
+          "totalDurationMs": 45644
+        }
+      ]
+    },
+    {
       "projectName": "batch-01",
       "totalSessions": 1,
       "totalDurationMs": 45437,
@@ -2329,6 +2504,19 @@
           "title": null,
           "timestamp": "2026-11-05T00:11:04.210Z",
           "totalDurationMs": 45437
+        }
+      ]
+    },
+    {
+      "projectName": "expansion",
+      "totalSessions": 1,
+      "totalDurationMs": 43911,
+      "sessions": [
+        {
+          "id": "630e2ff3-6cb9-4057-be0e-b6a91d0f27dc",
+          "title": null,
+          "timestamp": "2026-11-05T16:52:19.874Z",
+          "totalDurationMs": 43911
         }
       ]
     },
@@ -2359,6 +2547,19 @@
       ]
     },
     {
+      "projectName": "batch-007",
+      "totalSessions": 1,
+      "totalDurationMs": 40534,
+      "sessions": [
+        {
+          "id": "9911cd57-9aa5-43e6-965c-9e6faf58d2ba",
+          "title": null,
+          "timestamp": "2026-11-05T16:45:54.629Z",
+          "totalDurationMs": 40534
+        }
+      ]
+    },
+    {
       "projectName": "batch-01",
       "totalSessions": 1,
       "totalDurationMs": 40152,
@@ -2385,6 +2586,19 @@
       ]
     },
     {
+      "projectName": "batch-000",
+      "totalSessions": 1,
+      "totalDurationMs": 36081,
+      "sessions": [
+        {
+          "id": "8bc2d239-2e83-4c4a-a14b-27234771a53e",
+          "title": null,
+          "timestamp": "2026-11-05T16:44:17.110Z",
+          "totalDurationMs": 36081
+        }
+      ]
+    },
+    {
       "projectName": "bridge-review",
       "totalSessions": 1,
       "totalDurationMs": 21437,
@@ -2394,6 +2608,19 @@
           "title": null,
           "timestamp": "2026-11-04T21:25:49.461Z",
           "totalDurationMs": 21437
+        }
+      ]
+    },
+    {
+      "projectName": "baseline-audit-followup",
+      "totalSessions": 1,
+      "totalDurationMs": 13737,
+      "sessions": [
+        {
+          "id": "a45085fa-7c96-49fd-a740-2ddd44d229da",
+          "title": null,
+          "timestamp": "2026-11-05T16:39:25.246Z",
+          "totalDurationMs": 13737
         }
       ]
     }
@@ -2516,8 +2743,8 @@
       "durationMs": 38115215
     },
     "2026-11-05": {
-      "sessions": 38,
-      "durationMs": 16647697
+      "sessions": 56,
+      "durationMs": 20771620
     },
     "2026-11-04": {
       "sessions": 117,
@@ -2545,18 +2772,18 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 913845,
-    "outputTokens": 43719741,
-    "cacheReadTokens": 6151900229,
-    "cacheCreationTokens": 192472171
+    "inputTokens": 914183,
+    "outputTokens": 45011775,
+    "cacheReadTokens": 6157540994,
+    "cacheCreationTokens": 194185520
   },
   "toolUsage": {
-    "Read": 6951,
+    "Read": 7043,
     "Glob": 159,
     "Grep": 519,
     "Bash": 7295,
-    "Write": 977,
-    "Edit": 1248,
+    "Write": 1033,
+    "Edit": 1272,
     "mcp__ccd_turn__update_plan": 104,
     "ToolSearch": 73,
     "AskUserQuestion": 9,
