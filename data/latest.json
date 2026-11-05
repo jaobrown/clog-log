@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-05T17:00:10.185Z",
+  "generatedAt": "2026-11-05T21:00:10.354Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 308,
-    "totalDurationMs": 1284432899,
-    "totalTokens": 6397652472,
-    "projectCount": 144
+    "totalSessions": 343,
+    "totalDurationMs": 1287365367,
+    "totalTokens": 6404649353,
+    "projectCount": 179
   },
   "projects": [
     {
@@ -836,6 +836,19 @@
           "title": null,
           "timestamp": "2026-11-04T02:25:42.791Z",
           "totalDurationMs": 636806
+        }
+      ]
+    },
+    {
+      "projectName": "expansion",
+      "totalSessions": 1,
+      "totalDurationMs": 1020965,
+      "sessions": [
+        {
+          "id": "630e2ff3-6cb9-4057-be0e-b6a91d0f27dc",
+          "title": null,
+          "timestamp": "2026-11-05T16:52:19.874Z",
+          "totalDurationMs": 1020965
         }
       ]
     },
@@ -1696,6 +1709,19 @@
       ]
     },
     {
+      "projectName": "final-analysis",
+      "totalSessions": 1,
+      "totalDurationMs": 250378,
+      "sessions": [
+        {
+          "id": "eb552dcc-42c4-4d32-99ab-1f3a83cebea8",
+          "title": null,
+          "timestamp": "2026-11-05T17:41:55.501Z",
+          "totalDurationMs": 250378
+        }
+      ]
+    },
+    {
       "projectName": "validation-author",
       "totalSessions": 1,
       "totalDurationMs": 243058,
@@ -1815,6 +1841,19 @@
           "title": null,
           "timestamp": "2026-11-05T00:36:32.007Z",
           "totalDurationMs": 207667
+        }
+      ]
+    },
+    {
+      "projectName": "claude-review",
+      "totalSessions": 1,
+      "totalDurationMs": 206069,
+      "sessions": [
+        {
+          "id": "4fde6b74-d958-4efe-bcde-0c93234c92d4",
+          "title": null,
+          "timestamp": "2026-11-05T19:52:43.926Z",
+          "totalDurationMs": 206069
         }
       ]
     },
@@ -2131,6 +2170,19 @@
       ]
     },
     {
+      "projectName": "final-analysis-complete",
+      "totalSessions": 1,
+      "totalDurationMs": 98690,
+      "sessions": [
+        {
+          "id": "0e1c5a6a-a67d-4994-8a21-f9d57fb1cb21",
+          "title": null,
+          "timestamp": "2026-11-05T17:48:28.418Z",
+          "totalDurationMs": 98690
+        }
+      ]
+    },
+    {
       "projectName": "batch-5",
       "totalSessions": 1,
       "totalDurationMs": 96694,
@@ -2352,6 +2404,19 @@
       ]
     },
     {
+      "projectName": "batch-020",
+      "totalSessions": 1,
+      "totalDurationMs": 56465,
+      "sessions": [
+        {
+          "id": "e11712d6-521a-4e9d-a122-e9f14e8ceb07",
+          "title": null,
+          "timestamp": "2026-11-05T17:40:08.175Z",
+          "totalDurationMs": 56465
+        }
+      ]
+    },
+    {
       "projectName": "reviewer",
       "totalSessions": 1,
       "totalDurationMs": 54880,
@@ -2361,6 +2426,19 @@
           "title": null,
           "timestamp": "2026-11-02T01:29:37.898Z",
           "totalDurationMs": 54880
+        }
+      ]
+    },
+    {
+      "projectName": "batch-002",
+      "totalSessions": 1,
+      "totalDurationMs": 54519,
+      "sessions": [
+        {
+          "id": "4be28717-889f-4e60-95cc-7a1d010391b3",
+          "title": null,
+          "timestamp": "2026-11-05T17:24:58.949Z",
+          "totalDurationMs": 54519
         }
       ]
     },
@@ -2404,6 +2482,32 @@
       ]
     },
     {
+      "projectName": "batch-003",
+      "totalSessions": 1,
+      "totalDurationMs": 53540,
+      "sessions": [
+        {
+          "id": "489b1eda-872b-47a4-8c64-b7a425743509",
+          "title": null,
+          "timestamp": "2026-11-05T17:25:34.026Z",
+          "totalDurationMs": 53540
+        }
+      ]
+    },
+    {
+      "projectName": "batch-001",
+      "totalSessions": 1,
+      "totalDurationMs": 53161,
+      "sessions": [
+        {
+          "id": "c3523084-25b5-472b-b26f-91990cae7f27",
+          "title": null,
+          "timestamp": "2026-11-05T17:24:58.967Z",
+          "totalDurationMs": 53161
+        }
+      ]
+    },
+    {
       "projectName": "batch-002",
       "totalSessions": 1,
       "totalDurationMs": 52073,
@@ -2417,6 +2521,19 @@
       ]
     },
     {
+      "projectName": "batch-004",
+      "totalSessions": 1,
+      "totalDurationMs": 51546,
+      "sessions": [
+        {
+          "id": "89dcd676-b3dd-4933-bf8e-51a4a362e1c4",
+          "title": null,
+          "timestamp": "2026-11-05T17:25:52.833Z",
+          "totalDurationMs": 51546
+        }
+      ]
+    },
+    {
       "projectName": "disc-golf-focus",
       "totalSessions": 1,
       "totalDurationMs": 51530,
@@ -2426,6 +2543,19 @@
           "title": null,
           "timestamp": "2026-11-04T19:39:08.973Z",
           "totalDurationMs": 51530
+        }
+      ]
+    },
+    {
+      "projectName": "batch-000",
+      "totalSessions": 1,
+      "totalDurationMs": 51184,
+      "sessions": [
+        {
+          "id": "23de67ed-145d-4d14-afc5-be43eb226cff",
+          "title": null,
+          "timestamp": "2026-11-05T17:35:43.550Z",
+          "totalDurationMs": 51184
         }
       ]
     },
@@ -2456,6 +2586,71 @@
       ]
     },
     {
+      "projectName": "batch-006",
+      "totalSessions": 1,
+      "totalDurationMs": 49007,
+      "sessions": [
+        {
+          "id": "e712609c-490d-46c1-9fd0-2314870f9cf0",
+          "title": null,
+          "timestamp": "2026-11-05T17:37:13.931Z",
+          "totalDurationMs": 49007
+        }
+      ]
+    },
+    {
+      "projectName": "batch-006",
+      "totalSessions": 1,
+      "totalDurationMs": 48555,
+      "sessions": [
+        {
+          "id": "24390c51-9b93-4cb3-82a6-021bd1bd19b6",
+          "title": null,
+          "timestamp": "2026-11-05T17:26:28.267Z",
+          "totalDurationMs": 48555
+        }
+      ]
+    },
+    {
+      "projectName": "batch-001",
+      "totalSessions": 1,
+      "totalDurationMs": 47628,
+      "sessions": [
+        {
+          "id": "080ba037-da4e-44f7-a21e-67a9ddaf4782",
+          "title": null,
+          "timestamp": "2026-11-05T17:35:43.551Z",
+          "totalDurationMs": 47628
+        }
+      ]
+    },
+    {
+      "projectName": "batch-003",
+      "totalSessions": 1,
+      "totalDurationMs": 47343,
+      "sessions": [
+        {
+          "id": "edc7a9fe-6b83-4d7a-9cba-1e1f45cfde70",
+          "title": null,
+          "timestamp": "2026-11-05T17:36:26.144Z",
+          "totalDurationMs": 47343
+        }
+      ]
+    },
+    {
+      "projectName": "batch-015",
+      "totalSessions": 1,
+      "totalDurationMs": 47149,
+      "sessions": [
+        {
+          "id": "7352220b-deec-4946-8e0b-13e4fc588098",
+          "title": null,
+          "timestamp": "2026-11-05T17:39:14.294Z",
+          "totalDurationMs": 47149
+        }
+      ]
+    },
+    {
       "projectName": "batch-004",
       "totalSessions": 1,
       "totalDurationMs": 47071,
@@ -2482,6 +2677,19 @@
       ]
     },
     {
+      "projectName": "batch-005",
+      "totalSessions": 1,
+      "totalDurationMs": 46243,
+      "sessions": [
+        {
+          "id": "8c90a38d-72e5-4cb0-84d7-9dd37f721105",
+          "title": null,
+          "timestamp": "2026-11-05T17:36:35.365Z",
+          "totalDurationMs": 46243
+        }
+      ]
+    },
+    {
       "projectName": "batch-006",
       "totalSessions": 1,
       "totalDurationMs": 45644,
@@ -2491,6 +2699,32 @@
           "title": null,
           "timestamp": "2026-11-05T16:45:48.516Z",
           "totalDurationMs": 45644
+        }
+      ]
+    },
+    {
+      "projectName": "batch-019",
+      "totalSessions": 1,
+      "totalDurationMs": 45515,
+      "sessions": [
+        {
+          "id": "182b67f7-b092-41e9-a8a3-cbb24d5d8f88",
+          "title": null,
+          "timestamp": "2026-11-05T17:40:02.134Z",
+          "totalDurationMs": 45515
+        }
+      ]
+    },
+    {
+      "projectName": "batch-016",
+      "totalSessions": 1,
+      "totalDurationMs": 45468,
+      "sessions": [
+        {
+          "id": "1ffe6858-d0e4-4b41-816a-c4e66503b514",
+          "title": null,
+          "timestamp": "2026-11-05T17:39:21.990Z",
+          "totalDurationMs": 45468
         }
       ]
     },
@@ -2508,15 +2742,41 @@
       ]
     },
     {
-      "projectName": "expansion",
+      "projectName": "batch-012",
       "totalSessions": 1,
-      "totalDurationMs": 43911,
+      "totalDurationMs": 45027,
       "sessions": [
         {
-          "id": "630e2ff3-6cb9-4057-be0e-b6a91d0f27dc",
+          "id": "403d717b-9732-4559-8697-c1d7e1ac0a52",
           "title": null,
-          "timestamp": "2026-11-05T16:52:19.874Z",
-          "totalDurationMs": 43911
+          "timestamp": "2026-11-05T17:38:38.044Z",
+          "totalDurationMs": 45027
+        }
+      ]
+    },
+    {
+      "projectName": "batch-009",
+      "totalSessions": 1,
+      "totalDurationMs": 44202,
+      "sessions": [
+        {
+          "id": "c8938a03-499a-407e-89eb-a2e91b20ce6c",
+          "title": null,
+          "timestamp": "2026-11-05T17:37:52.994Z",
+          "totalDurationMs": 44202
+        }
+      ]
+    },
+    {
+      "projectName": "batch-005",
+      "totalSessions": 1,
+      "totalDurationMs": 43852,
+      "sessions": [
+        {
+          "id": "99f550cd-2e81-4665-9584-b32ca46ed0e6",
+          "title": null,
+          "timestamp": "2026-11-05T17:25:54.200Z",
+          "totalDurationMs": 43852
         }
       ]
     },
@@ -2547,6 +2807,58 @@
       ]
     },
     {
+      "projectName": "batch-002",
+      "totalSessions": 1,
+      "totalDurationMs": 41794,
+      "sessions": [
+        {
+          "id": "f4c96a39-4989-42b4-97b2-351dc94db615",
+          "title": null,
+          "timestamp": "2026-11-05T17:35:43.588Z",
+          "totalDurationMs": 41794
+        }
+      ]
+    },
+    {
+      "projectName": "batch-004",
+      "totalSessions": 1,
+      "totalDurationMs": 41425,
+      "sessions": [
+        {
+          "id": "ae5dfe49-614c-446c-b87e-ce1a50c3a1ff",
+          "title": null,
+          "timestamp": "2026-11-05T17:36:31.917Z",
+          "totalDurationMs": 41425
+        }
+      ]
+    },
+    {
+      "projectName": "batch-008",
+      "totalSessions": 1,
+      "totalDurationMs": 41281,
+      "sessions": [
+        {
+          "id": "7fd692ca-8479-4d6a-9707-2b3470e56335",
+          "title": null,
+          "timestamp": "2026-11-05T17:37:22.280Z",
+          "totalDurationMs": 41281
+        }
+      ]
+    },
+    {
+      "projectName": "batch-011",
+      "totalSessions": 1,
+      "totalDurationMs": 41174,
+      "sessions": [
+        {
+          "id": "16eba4ba-7354-45e5-bfd2-d38e012df538",
+          "title": null,
+          "timestamp": "2026-11-05T17:38:04.194Z",
+          "totalDurationMs": 41174
+        }
+      ]
+    },
+    {
       "projectName": "batch-007",
       "totalSessions": 1,
       "totalDurationMs": 40534,
@@ -2573,6 +2885,71 @@
       ]
     },
     {
+      "projectName": "batch-021",
+      "totalSessions": 1,
+      "totalDurationMs": 39456,
+      "sessions": [
+        {
+          "id": "e56e3dec-c5a8-41c7-aab1-3ad9a3020dc0",
+          "title": null,
+          "timestamp": "2026-11-05T17:40:39.943Z",
+          "totalDurationMs": 39456
+        }
+      ]
+    },
+    {
+      "projectName": "batch-023",
+      "totalSessions": 1,
+      "totalDurationMs": 39315,
+      "sessions": [
+        {
+          "id": "c4e87dcc-83e0-4350-95a6-66153e962390",
+          "title": null,
+          "timestamp": "2026-11-05T17:41:05.367Z",
+          "totalDurationMs": 39315
+        }
+      ]
+    },
+    {
+      "projectName": "batch-018",
+      "totalSessions": 1,
+      "totalDurationMs": 38243,
+      "sessions": [
+        {
+          "id": "597b93ee-cc89-4d13-a83d-24d5c6d319f7",
+          "title": null,
+          "timestamp": "2026-11-05T17:40:00.979Z",
+          "totalDurationMs": 38243
+        }
+      ]
+    },
+    {
+      "projectName": "batch-007",
+      "totalSessions": 1,
+      "totalDurationMs": 38150,
+      "sessions": [
+        {
+          "id": "27ce03a6-6a89-4a78-983e-3cbf59d8e8a9",
+          "title": null,
+          "timestamp": "2026-11-05T17:37:14.172Z",
+          "totalDurationMs": 38150
+        }
+      ]
+    },
+    {
+      "projectName": "batch-022",
+      "totalSessions": 1,
+      "totalDurationMs": 37573,
+      "sessions": [
+        {
+          "id": "68b44287-7184-4c49-a3a9-626b170bf516",
+          "title": null,
+          "timestamp": "2026-11-05T17:40:48.388Z",
+          "totalDurationMs": 37573
+        }
+      ]
+    },
+    {
       "projectName": "batch-02",
       "totalSessions": 1,
       "totalDurationMs": 37295,
@@ -2586,6 +2963,32 @@
       ]
     },
     {
+      "projectName": "batch-007",
+      "totalSessions": 1,
+      "totalDurationMs": 36491,
+      "sessions": [
+        {
+          "id": "e0470510-7d15-4437-b305-21a4f4112166",
+          "title": null,
+          "timestamp": "2026-11-05T17:26:38.720Z",
+          "totalDurationMs": 36491
+        }
+      ]
+    },
+    {
+      "projectName": "batch-017",
+      "totalSessions": 1,
+      "totalDurationMs": 36365,
+      "sessions": [
+        {
+          "id": "0081f327-2058-411b-b27e-1d1fd8b77a17",
+          "title": null,
+          "timestamp": "2026-11-05T17:39:23.797Z",
+          "totalDurationMs": 36365
+        }
+      ]
+    },
+    {
       "projectName": "batch-000",
       "totalSessions": 1,
       "totalDurationMs": 36081,
@@ -2595,6 +2998,58 @@
           "title": null,
           "timestamp": "2026-11-05T16:44:17.110Z",
           "totalDurationMs": 36081
+        }
+      ]
+    },
+    {
+      "projectName": "batch-014",
+      "totalSessions": 1,
+      "totalDurationMs": 35223,
+      "sessions": [
+        {
+          "id": "315b85a6-7595-410d-bf57-c40940af6e6d",
+          "title": null,
+          "timestamp": "2026-11-05T17:38:46.078Z",
+          "totalDurationMs": 35223
+        }
+      ]
+    },
+    {
+      "projectName": "batch-010",
+      "totalSessions": 1,
+      "totalDurationMs": 34759,
+      "sessions": [
+        {
+          "id": "3875ae74-e4e8-461f-b49d-835c803d372f",
+          "title": null,
+          "timestamp": "2026-11-05T17:38:03.698Z",
+          "totalDurationMs": 34759
+        }
+      ]
+    },
+    {
+      "projectName": "batch-013",
+      "totalSessions": 1,
+      "totalDurationMs": 34378,
+      "sessions": [
+        {
+          "id": "7d0642ee-4b19-438e-8ada-a69f291fb5d1",
+          "title": null,
+          "timestamp": "2026-11-05T17:38:39.253Z",
+          "totalDurationMs": 34378
+        }
+      ]
+    },
+    {
+      "projectName": "batch-000",
+      "totalSessions": 1,
+      "totalDurationMs": 34246,
+      "sessions": [
+        {
+          "id": "8b83cc07-d7ab-40ca-abd9-78bed3371785",
+          "title": null,
+          "timestamp": "2026-11-05T17:24:58.949Z",
+          "totalDurationMs": 34246
         }
       ]
     },
@@ -2743,8 +3198,8 @@
       "durationMs": 38115215
     },
     "2026-11-05": {
-      "sessions": 56,
-      "durationMs": 20771620
+      "sessions": 91,
+      "durationMs": 23704088
     },
     "2026-11-04": {
       "sessions": 117,
@@ -2772,18 +3227,18 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 914183,
-    "outputTokens": 45011775,
-    "cacheReadTokens": 6157540994,
-    "cacheCreationTokens": 194185520
+    "inputTokens": 914647,
+    "outputTokens": 45862720,
+    "cacheReadTokens": 6161999833,
+    "cacheCreationTokens": 195872153
   },
   "toolUsage": {
-    "Read": 7043,
+    "Read": 7167,
     "Glob": 159,
     "Grep": 519,
     "Bash": 7295,
-    "Write": 1033,
-    "Edit": 1272,
+    "Write": 1113,
+    "Edit": 1276,
     "mcp__ccd_turn__update_plan": 104,
     "ToolSearch": 73,
     "AskUserQuestion": 9,
