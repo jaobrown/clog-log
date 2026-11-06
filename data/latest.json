@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-11-05T21:00:10.354Z",
+  "generatedAt": "2026-11-06T13:00:10.348Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 343,
-    "totalDurationMs": 1287365367,
-    "totalTokens": 6404649353,
+    "totalSessions": 346,
+    "totalDurationMs": 1287688456,
+    "totalTokens": 6411198639,
     "projectCount": 179
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 53,
+      "totalSessions": 54,
       "totalDurationMs": 737314672,
       "sessions": [
+        {
+          "id": "b72cfc80-9cdc-4d9e-9346-d8e57d26bc80",
+          "title": "**********",
+          "timestamp": "2026-11-05T23:56:31.944Z",
+          "totalDurationMs": 0
+        },
         {
           "id": "1158e4e0-b5bf-4e28-b6e9-cff73450fa2c",
           "title": "**********",
@@ -288,9 +294,21 @@
     },
     {
       "projectName": "contra",
-      "totalSessions": 21,
-      "totalDurationMs": 82747365,
+      "totalSessions": 23,
+      "totalDurationMs": 83070454,
       "sessions": [
+        {
+          "id": "0c4fa512-d4a8-414b-bd89-937a9396293a",
+          "title": null,
+          "timestamp": "2026-11-05T23:57:23.040Z",
+          "totalDurationMs": 67477
+        },
+        {
+          "id": "278c950f-dd2d-498d-8ee2-55ca3b952b8b",
+          "title": null,
+          "timestamp": "2026-11-05T23:52:49.377Z",
+          "totalDurationMs": 255612
+        },
         {
           "id": "9874044d-8a4f-4de7-9493-c51275ced029",
           "title": null,
@@ -3081,6 +3099,10 @@
     }
   ],
   "activity": {
+    "2026-11-05": {
+      "sessions": 94,
+      "durationMs": 24027177
+    },
     "2026-10-28": {
       "sessions": 4,
       "durationMs": 1401628
@@ -3197,10 +3219,6 @@
       "sessions": 15,
       "durationMs": 38115215
     },
-    "2026-11-05": {
-      "sessions": 91,
-      "durationMs": 23704088
-    },
     "2026-11-04": {
       "sessions": 117,
       "durationMs": 37357226
@@ -3227,33 +3245,33 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 914647,
-    "outputTokens": 45862720,
-    "cacheReadTokens": 6161999833,
-    "cacheCreationTokens": 195872153
+    "inputTokens": 914797,
+    "outputTokens": 45876425,
+    "cacheReadTokens": 6168209452,
+    "cacheCreationTokens": 196197965
   },
   "toolUsage": {
-    "Read": 7167,
+    "Read": 7169,
     "Glob": 159,
     "Grep": 519,
-    "Bash": 7295,
+    "Bash": 7302,
     "Write": 1113,
     "Edit": 1276,
     "mcp__ccd_turn__update_plan": 104,
-    "ToolSearch": 73,
-    "AskUserQuestion": 9,
+    "ToolSearch": 82,
+    "AskUserQuestion": 10,
     "mcp__production-postgres-readonly__list_tables": 8,
     "mcp__production-postgres-readonly__execute_sql": 86,
     "mcp__Claude_Browser__preview_start": 16,
     "Artifact": 24,
     "Skill": 31,
-    "mcp__ccd_turn__wrap_up": 29,
+    "mcp__ccd_turn__wrap_up": 31,
     "mcp__exa__web_search_exa": 6,
     "Agent": 40,
     "PushNotification": 1,
     "mcp__ccd_session__start_session": 11,
     "SubagentHandback": 14,
-    "WebFetch": 119,
+    "WebFetch": 120,
     "Workflow": 7,
     "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__guide": 3,
     "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c__batch": 3,
@@ -3281,7 +3299,7 @@
     "mcp__Claude_Browser__browser_batch": 24,
     "mcp__Claude_Browser__resize_window": 36,
     "mcp__Claude_Browser__tabs_create": 3,
-    "SendUserFile": 2,
+    "SendUserFile": 4,
     "mcp__Claude_Browser__tabs_close": 4,
     "TaskCreate": 38,
     "TaskUpdate": 71,
@@ -3309,6 +3327,15 @@
     "mcp__Claude_Browser__read_page": 2,
     "mcp__Claude_Browser__find": 3,
     "mcp__Claude_Browser__form_input": 1,
+    "mcp__contra-studio__studio_list_models": 1,
+    "mcp__contra-studio__studio_quote_image": 1,
+    "mcp__contra-studio__studio_list_workflows": 1,
+    "mcp__contra-studio__studio_get_budget": 1,
+    "mcp__contra-studio__studio_create_workflow": 1,
+    "mcp__contra-studio__studio_generate_image": 1,
+    "mcp__contra-studio__studio_get_generation": 5,
+    "mcp__e7032509-9192-448e-b041-ea3950c2babb__whoami": 1,
+    "mcp__ccd_connectors__session_connectors_status": 1,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_file": 7,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 3,
     "mcp__ccd_session_mgmt__list_sessions": 1
