@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-09T13:06:57.623Z",
+  "generatedAt": "2026-11-09T17:00:10.812Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 346,
-    "totalDurationMs": 1287688456,
-    "totalTokens": 6411198639,
-    "projectCount": 179
+    "totalSessions": 360,
+    "totalDurationMs": 1289296491,
+    "totalTokens": 6453060999,
+    "projectCount": 180
   },
   "projects": [
     {
@@ -779,6 +779,97 @@
           "title": null,
           "timestamp": "2026-11-01T02:22:03.412Z",
           "totalDurationMs": 1789193
+        }
+      ]
+    },
+    {
+      "projectName": "review",
+      "totalSessions": 14,
+      "totalDurationMs": 1608035,
+      "sessions": [
+        {
+          "id": "2f7e5471-362c-4cb0-b465-96b876a1f67e",
+          "title": null,
+          "timestamp": "2026-11-09T16:39:46.303Z",
+          "totalDurationMs": 136170
+        },
+        {
+          "id": "22c3bb64-e870-4d00-9a1a-6884b1563565",
+          "title": null,
+          "timestamp": "2026-11-09T16:37:59.748Z",
+          "totalDurationMs": 103777
+        },
+        {
+          "id": "10fa94ea-63d4-4925-8662-003ee392f463",
+          "title": null,
+          "timestamp": "2026-11-09T16:36:04.407Z",
+          "totalDurationMs": 114216
+        },
+        {
+          "id": "8eb2eb86-ab2f-4355-83fd-47587bfe7cce",
+          "title": null,
+          "timestamp": "2026-11-09T16:33:55.005Z",
+          "totalDurationMs": 128384
+        },
+        {
+          "id": "7cd1cea1-5255-40d7-bd80-a1a932753b86",
+          "title": null,
+          "timestamp": "2026-11-09T16:31:20.354Z",
+          "totalDurationMs": 153567
+        },
+        {
+          "id": "142a43a2-d8ef-4412-8a17-90d6cb5d049c",
+          "title": null,
+          "timestamp": "2026-11-09T16:29:03.773Z",
+          "totalDurationMs": 135602
+        },
+        {
+          "id": "31d91806-a240-4c6f-9379-e9c6a61cd1e2",
+          "title": null,
+          "timestamp": "2026-11-09T16:26:29.491Z",
+          "totalDurationMs": 153301
+        },
+        {
+          "id": "c508dc72-dcb4-4ac8-ba22-46c7ac93efea",
+          "title": null,
+          "timestamp": "2026-11-09T16:23:53.535Z",
+          "totalDurationMs": 154875
+        },
+        {
+          "id": "a40e8147-c657-4b74-8f7d-be1f801fba5c",
+          "title": null,
+          "timestamp": "2026-11-09T16:21:54.614Z",
+          "totalDurationMs": 118145
+        },
+        {
+          "id": "8cb69a1f-7b1f-47ff-a688-f932d194f13d",
+          "title": null,
+          "timestamp": "2026-11-09T16:20:17.088Z",
+          "totalDurationMs": 96458
+        },
+        {
+          "id": "ffe3c0a1-f9af-43cb-b8e5-2c52c7967088",
+          "title": null,
+          "timestamp": "2026-11-09T16:18:28.192Z",
+          "totalDurationMs": 108065
+        },
+        {
+          "id": "a4fad3b4-5cbb-4c49-bb7b-cdf3f9de296b",
+          "title": null,
+          "timestamp": "2026-11-09T16:16:01.753Z",
+          "totalDurationMs": 145513
+        },
+        {
+          "id": "df0ddd7d-ce0e-4f49-8855-8dd1a0a8ddc9",
+          "title": null,
+          "timestamp": "2026-11-09T16:14:17.516Z",
+          "totalDurationMs": 58634
+        },
+        {
+          "id": "9a796a8a-b4e1-4216-b665-b0425cd75c0c",
+          "title": null,
+          "timestamp": "2026-11-09T16:12:07.871Z",
+          "totalDurationMs": 1328
         }
       ]
     },
@@ -3235,6 +3326,10 @@
       "sessions": 9,
       "durationMs": 6822252
     },
+    "2026-11-09": {
+      "sessions": 14,
+      "durationMs": 1608035
+    },
     "2026-11-03": {
       "sessions": 4,
       "durationMs": 353788
@@ -3245,17 +3340,17 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 914797,
-    "outputTokens": 45876425,
-    "cacheReadTokens": 6168209452,
-    "cacheCreationTokens": 196197965
+    "inputTokens": 915649,
+    "outputTokens": 46469845,
+    "cacheReadTokens": 6203655340,
+    "cacheCreationTokens": 202020165
   },
   "toolUsage": {
-    "Read": 7169,
+    "Read": 7587,
     "Glob": 159,
     "Grep": 519,
     "Bash": 7302,
-    "Write": 1113,
+    "Write": 1215,
     "Edit": 1276,
     "mcp__ccd_turn__update_plan": 104,
     "ToolSearch": 82,
