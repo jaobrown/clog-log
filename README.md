@@ -6,8 +6,8 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   464             Tokens     6.6B
-  Duration   361h 46m        Projects   259
+  Sessions   484             Tokens     6.6B
+  Duration   362h 8m         Projects   267
 
 ```
 
@@ -17,7 +17,7 @@ TOP PROJECTS
 
   top secret     ####################  204h 48m
   gdm-autorater  ##########----------    99h 4m
-  contra         ##------------------    23h 4m
+  contra         ##------------------   23h 10m
   design-weight... #-------------------    6h 33m
   artifact-revi... --------------------    4h 18m
 
@@ -27,11 +27,11 @@ TOP PROJECTS
 RECENT SESSIONS
 ==================================================
 
-  2026-11-09  design-re...  untitled                  179.4k        0m
-  2026-11-09  design-re...  untitled                  705.8k        3m
-  2026-11-09  design-re...  untitled                  125.5k        0m
-  2026-11-09  design-re...  untitled                  318.6k        1m
-  2026-11-09  design-re...  untitled                   76.5k        0m
+  2026-11-09  contra      untitled                    6.9M        5m
+  2026-11-09  design-re...  untitled                    3.6M        4m
+  2026-11-09  review-vi...  untitled                   49.6k        0m
+  2026-11-09  review-vi...  untitled                   41.8k        0m
+  2026-11-09  review      untitled                   35.9k        0m
 
 ```
 
