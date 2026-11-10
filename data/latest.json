@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-11-10T13:14:57.451Z",
+  "generatedAt": "2026-11-10T17:00:20.881Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 484,
-    "totalDurationMs": 1303722246,
-    "totalTokens": 6601704326,
-    "projectCount": 267
+    "totalSessions": 511,
+    "totalDurationMs": 1388653250,
+    "totalTokens": 7057698564,
+    "projectCount": 268
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 54,
-      "totalDurationMs": 737314672,
+      "totalSessions": 70,
+      "totalDurationMs": 754750339,
       "sessions": [
+        {
+          "id": "22196ce7-c298-4ff4-8c4c-2c0690abebe3",
+          "title": "**********",
+          "timestamp": "2026-11-10T14:50:15.388Z",
+          "totalDurationMs": 17430417
+        },
+        {
+          "id": "76183879-4fd7-4c40-a575-8cb2d37ec66e",
+          "title": "**********",
+          "timestamp": "2026-11-10T14:49:36.191Z",
+          "totalDurationMs": 5250
+        },
         {
           "id": "b72cfc80-9cdc-4d9e-9346-d8e57d26bc80",
           "title": "**********",
@@ -295,13 +307,13 @@
     {
       "projectName": "contra",
       "totalSessions": 24,
-      "totalDurationMs": 83423842,
+      "totalDurationMs": 144518394,
       "sessions": [
         {
           "id": "ff31cd22-a007-4055-8a10-3beec1cc98d7",
-          "title": null,
+          "title": "Command Session (/autocompact)",
           "timestamp": "2026-11-09T21:37:10.027Z",
-          "totalDurationMs": 353388
+          "totalDurationMs": 61447940
         },
         {
           "id": "0c4fa512-d4a8-414b-bd89-937a9396293a",
@@ -839,6 +851,79 @@
           "title": null,
           "timestamp": "2026-11-09T18:48:38.827Z",
           "totalDurationMs": 1072628
+        }
+      ]
+    },
+    {
+      "projectName": "creative-library",
+      "totalSessions": 11,
+      "totalDurationMs": 6400785,
+      "sessions": [
+        {
+          "id": "b0e7b284-1bce-4dda-9392-fd7a79cc546f",
+          "title": null,
+          "timestamp": "2026-11-10T16:55:40.436Z",
+          "totalDurationMs": 265659
+        },
+        {
+          "id": "0be1ff93-571d-4c4b-acd1-765795c8eca6",
+          "title": null,
+          "timestamp": "2026-11-10T15:26:45.986Z",
+          "totalDurationMs": 48459
+        },
+        {
+          "id": "fcd824f9-a148-4f9a-850a-d789126c1955",
+          "title": null,
+          "timestamp": "2026-11-10T14:58:22.555Z",
+          "totalDurationMs": 991
+        },
+        {
+          "id": "f41a2534-e927-4a17-8894-bf87bf1d9008",
+          "title": null,
+          "timestamp": "2026-11-10T14:47:05.237Z",
+          "totalDurationMs": 152521
+        },
+        {
+          "id": "dae1bb2d-5a0e-4d53-b4aa-2749d70031e5",
+          "title": null,
+          "timestamp": "2026-11-10T14:43:07.906Z",
+          "totalDurationMs": 222724
+        },
+        {
+          "id": "0df6aee7-b122-4c4e-b2a2-73ebd9791e70",
+          "title": null,
+          "timestamp": "2026-11-10T14:42:41.895Z",
+          "totalDurationMs": 902965
+        },
+        {
+          "id": "13344a2e-5321-4486-8a3c-9c4ec4f8c568",
+          "title": null,
+          "timestamp": "2026-11-10T14:42:41.826Z",
+          "totalDurationMs": 856849
+        },
+        {
+          "id": "75e4bc08-f65e-4733-b045-2103c96f598b",
+          "title": null,
+          "timestamp": "2026-11-10T14:42:41.820Z",
+          "totalDurationMs": 950155
+        },
+        {
+          "id": "470e933e-296e-4ffd-a54e-32585086841d",
+          "title": null,
+          "timestamp": "2026-11-10T14:42:33.911Z",
+          "totalDurationMs": 958448
+        },
+        {
+          "id": "2dabfd0c-f433-4352-bea8-2c5c4dd302bf",
+          "title": null,
+          "timestamp": "2026-11-10T14:42:01.338Z",
+          "totalDurationMs": 1058943
+        },
+        {
+          "id": "0d0bedce-285d-4240-bbb0-fbaeacea949d",
+          "title": null,
+          "timestamp": "2026-11-10T14:41:52.739Z",
+          "totalDurationMs": 983071
         }
       ]
     },
@@ -4543,6 +4628,10 @@
     }
   ],
   "activity": {
+    "2026-11-10": {
+      "sessions": 27,
+      "durationMs": 23836452
+    },
     "2026-11-05": {
       "sessions": 94,
       "durationMs": 24027177
@@ -4653,7 +4742,7 @@
     },
     "2026-11-09": {
       "sessions": 138,
-      "durationMs": 16033790
+      "durationMs": 77128342
     },
     "2026-11-02": {
       "sessions": 5,
@@ -4693,29 +4782,32 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 920031,
-    "outputTokens": 48968801,
-    "cacheReadTokens": 6342142512,
-    "cacheCreationTokens": 209672982
+    "inputTokens": 924958,
+    "outputTokens": 52411875,
+    "cacheReadTokens": 6781507778,
+    "cacheCreationTokens": 222853953
   },
   "toolUsage": {
-    "Read": 8428,
-    "Glob": 271,
-    "Grep": 573,
-    "Bash": 8424,
-    "Write": 1273,
-    "Edit": 1434,
+    "Bash": 9932,
+    "Agent": 59,
+    "ToolSearch": 87,
+    "SendMessage": 14,
+    "ListAgents": 1,
+    "Write": 1408,
+    "Skill": 34,
+    "Edit": 1486,
+    "mcp__t3-code__link_pull_request": 2,
+    "Read": 8842,
+    "Glob": 273,
+    "Grep": 587,
     "mcp__ccd_turn__update_plan": 114,
-    "ToolSearch": 82,
     "AskUserQuestion": 10,
     "mcp__production-postgres-readonly__list_tables": 8,
     "mcp__production-postgres-readonly__execute_sql": 86,
     "mcp__Claude_Browser__preview_start": 16,
     "Artifact": 24,
-    "Skill": 31,
     "mcp__ccd_turn__wrap_up": 32,
     "mcp__exa__web_search_exa": 6,
-    "Agent": 40,
     "PushNotification": 1,
     "mcp__ccd_session__start_session": 11,
     "SubagentHandback": 14,
