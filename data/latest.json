@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-10T17:00:20.881Z",
+  "generatedAt": "2026-11-10T21:00:12.961Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 511,
-    "totalDurationMs": 1388653250,
-    "totalTokens": 7057698564,
+    "totalSessions": 533,
+    "totalDurationMs": 1430703889,
+    "totalTokens": 8216885753,
     "projectCount": 268
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 70,
-      "totalDurationMs": 754750339,
+      "totalSessions": 92,
+      "totalDurationMs": 796636694,
       "sessions": [
         {
           "id": "22196ce7-c298-4ff4-8c4c-2c0690abebe3",
           "title": "**********",
           "timestamp": "2026-11-10T14:50:15.388Z",
-          "totalDurationMs": 17430417
+          "totalDurationMs": 59316772
         },
         {
           "id": "76183879-4fd7-4c40-a575-8cb2d37ec66e",
@@ -857,13 +857,13 @@
     {
       "projectName": "creative-library",
       "totalSessions": 11,
-      "totalDurationMs": 6400785,
+      "totalDurationMs": 6565069,
       "sessions": [
         {
           "id": "b0e7b284-1bce-4dda-9392-fd7a79cc546f",
           "title": null,
           "timestamp": "2026-11-10T16:55:40.436Z",
-          "totalDurationMs": 265659
+          "totalDurationMs": 429943
         },
         {
           "id": "0be1ff93-571d-4c4b-acd1-765795c8eca6",
@@ -4629,8 +4629,8 @@
   ],
   "activity": {
     "2026-11-10": {
-      "sessions": 27,
-      "durationMs": 23836452
+      "sessions": 49,
+      "durationMs": 65887091
     },
     "2026-11-05": {
       "sessions": 94,
@@ -4782,22 +4782,27 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 924958,
-    "outputTokens": 52411875,
-    "cacheReadTokens": 6781507778,
-    "cacheCreationTokens": 222853953
+    "inputTokens": 933044,
+    "outputTokens": 56728472,
+    "cacheReadTokens": 7920580081,
+    "cacheCreationTokens": 238644156
   },
   "toolUsage": {
-    "Bash": 9932,
-    "Agent": 59,
-    "ToolSearch": 87,
-    "SendMessage": 14,
+    "Bash": 11964,
+    "Agent": 95,
+    "ToolSearch": 93,
+    "SendMessage": 32,
     "ListAgents": 1,
-    "Write": 1408,
-    "Skill": 34,
-    "Edit": 1486,
-    "mcp__t3-code__link_pull_request": 2,
-    "Read": 8842,
+    "Write": 1561,
+    "Skill": 38,
+    "Edit": 1508,
+    "mcp__t3-code__link_pull_request": 13,
+    "Read": 9309,
+    "TaskStop": 31,
+    "Monitor": 44,
+    "bash": 1,
+    "mcp__playwright__browser_navigate": 1,
+    "mcp__diffviz-browser__browser_navigate": 1,
     "Glob": 273,
     "Grep": 587,
     "mcp__ccd_turn__update_plan": 114,
@@ -4828,12 +4833,10 @@
     "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_thread": 13,
     "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_channel": 2,
     "mcp__3939a9a2-3cb2-4e01-a036-83f4785bbeed__slack_read_file": 2,
-    "Monitor": 43,
     "mcp__ccd_session_mgmt__search_session_transcripts": 1,
     "mcp__visualize__read_me": 1,
     "mcp__visualize__show_widget": 1,
     "mcp__ccd_session__mark_chapter": 10,
-    "TaskStop": 27,
     "mcp__Claude_Browser__navigate": 67,
     "mcp__Claude_Browser__computer": 175,
     "mcp__Claude_Browser__browser_batch": 24,
