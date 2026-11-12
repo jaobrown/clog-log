@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-11-12T17:00:13.265Z",
+  "generatedAt": "2026-11-12T21:00:08.009Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 572,
-    "totalDurationMs": 1765343531,
-    "totalTokens": 10946667355,
+    "totalSessions": 573,
+    "totalDurationMs": 1765505863,
+    "totalTokens": 10950530255,
     "projectCount": 268
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 131,
-      "totalDurationMs": 1131276336,
+      "totalSessions": 132,
+      "totalDurationMs": 1131438668,
       "sessions": [
+        {
+          "id": "03b5d321-aa65-49e8-8550-470449a3c964",
+          "title": "**********",
+          "timestamp": "2026-11-12T17:24:03.177Z",
+          "totalDurationMs": 162332
+        },
         {
           "id": "6db22e06-bb1f-468a-82ed-f6b8545d283a",
           "title": "**********",
@@ -4646,6 +4652,10 @@
     }
   ],
   "activity": {
+    "2026-11-12": {
+      "sessions": 1,
+      "durationMs": 162332
+    },
     "2026-11-11": {
       "sessions": 4,
       "durationMs": 6565792
@@ -4804,15 +4814,17 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 953910,
-    "outputTokens": 64939097,
-    "cacheReadTokens": 10597824500,
-    "cacheCreationTokens": 282949848
+    "inputTokens": 953970,
+    "outputTokens": 64974270,
+    "cacheReadTokens": 10601179042,
+    "cacheCreationTokens": 283422973
   },
   "toolUsage": {
-    "ToolSearch": 146,
-    "Bash": 16895,
-    "WebFetch": 122,
+    "ToolSearch": 148,
+    "Skill": 45,
+    "WebSearch": 62,
+    "WebFetch": 144,
+    "Bash": 16901,
     "mcp__playwright__browser_navigate": 4,
     "Read": 10121,
     "Write": 1699,
@@ -4820,7 +4832,6 @@
     "Agent": 221,
     "SendMessage": 692,
     "ListAgents": 2,
-    "Skill": 43,
     "mcp__t3-code__link_pull_request": 31,
     "mcp__t3-code__t3_background_wait": 30,
     "mcp__claude_ai_Slack__slack_search_channels": 2,
@@ -4885,7 +4896,6 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_thread": 5,
     "mcp__Control_Chrome__open_url": 2,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public": 2,
-    "WebSearch": 57,
     "mcp__ccd_session__dismiss_task": 2,
     "mcp__Claude_Browser__tabs_context": 4,
     "mcp__Claude_Browser__javascript_tool": 187,
