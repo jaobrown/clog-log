@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-12T13:00:12.755Z",
+  "generatedAt": "2026-11-12T17:00:13.265Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 572,
-    "totalDurationMs": 1701565398,
-    "totalTokens": 10918483297,
+    "totalDurationMs": 1765343531,
+    "totalTokens": 10946667355,
     "projectCount": 268
   },
   "projects": [
     {
       "projectName": "top secret",
       "totalSessions": 131,
-      "totalDurationMs": 1067498203,
+      "totalDurationMs": 1131276336,
       "sessions": [
         {
           "id": "6db22e06-bb1f-468a-82ed-f6b8545d283a",
@@ -29,7 +29,7 @@
           "id": "22196ce7-c298-4ff4-8c4c-2c0690abebe3",
           "title": "**********",
           "timestamp": "2026-11-10T14:50:15.388Z",
-          "totalDurationMs": 223121525
+          "totalDurationMs": 286899658
         },
         {
           "id": "b642e131-7c1d-4587-8edc-b712ce081c6d",
@@ -4652,7 +4652,7 @@
     },
     "2026-11-10": {
       "sessions": 84,
-      "durationMs": 330182808
+      "durationMs": 393960941
     },
     "2026-11-05": {
       "sessions": 94,
@@ -4804,30 +4804,32 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 953568,
-    "outputTokens": 64800290,
-    "cacheReadTokens": 10570239285,
-    "cacheCreationTokens": 282490154
+    "inputTokens": 953910,
+    "outputTokens": 64939097,
+    "cacheReadTokens": 10597824500,
+    "cacheCreationTokens": 282949848
   },
   "toolUsage": {
-    "ToolSearch": 131,
-    "Bash": 16810,
+    "ToolSearch": 146,
+    "Bash": 16895,
     "WebFetch": 122,
     "mcp__playwright__browser_navigate": 4,
-    "Read": 10119,
+    "Read": 10121,
     "Write": 1699,
     "Edit": 1596,
     "Agent": 221,
     "SendMessage": 692,
     "ListAgents": 2,
     "Skill": 43,
-    "mcp__t3-code__link_pull_request": 30,
-    "mcp__t3-code__t3_background_wait": 26,
+    "mcp__t3-code__link_pull_request": 31,
+    "mcp__t3-code__t3_background_wait": 30,
     "mcp__claude_ai_Slack__slack_search_channels": 2,
     "mcp__claude_ai_Slack__slack_read_channel": 2,
     "mcp__claude_ai_Slack__slack_search_public": 8,
-    "TaskStop": 42,
-    "mcp__production-postgres-readonly__execute_sql": 91,
+    "TaskStop": 44,
+    "mcp__production-postgres-readonly__execute_sql": 104,
+    "mcp__t3-code__watch_pull_request": 1,
+    "mcp__t3-code__unwatch_pull_request": 2,
     "Monitor": 50,
     "bash": 2,
     "mcp__local-postgres__query": 2,
