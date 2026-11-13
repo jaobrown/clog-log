@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-11-13T17:00:13.795Z",
+  "generatedAt": "2026-11-13T21:00:34.997Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 617,
-    "totalDurationMs": 1878021585,
-    "totalTokens": 11554525840,
-    "projectCount": 288
+    "totalSessions": 632,
+    "totalDurationMs": 1907732358,
+    "totalTokens": 11675323938,
+    "projectCount": 302
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 152,
-      "totalDurationMs": 1234791729,
+      "totalSessions": 153,
+      "totalDurationMs": 1248937625,
       "sessions": [
+        {
+          "id": "a124bf4f-cf9c-4203-a65c-b3636a220f0b",
+          "title": "**********",
+          "timestamp": "2026-11-13T19:07:24.000Z",
+          "totalDurationMs": 248830
+        },
         {
           "id": "45de7cf0-1130-4ea6-9295-9a5bb3810f85",
           "title": "**********",
@@ -35,7 +41,7 @@
           "id": "0c4a5b16-9b22-42ea-b8e3-a27fb3d44c82",
           "title": "**********",
           "timestamp": "2026-11-13T02:39:18.073Z",
-          "totalDurationMs": 56847145
+          "totalDurationMs": 70744211
         },
         {
           "id": "03b5d321-aa65-49e8-8550-470449a3c964",
@@ -903,6 +909,19 @@
       ]
     },
     {
+      "projectName": "demo-2-06c2",
+      "totalSessions": 1,
+      "totalDurationMs": 10672499,
+      "sessions": [
+        {
+          "id": "eb6a2a3a-28ce-41ee-990c-d6336940dfe3",
+          "title": null,
+          "timestamp": "2026-11-13T17:16:44.388Z",
+          "totalDurationMs": 10672499
+        }
+      ]
+    },
+    {
       "projectName": "test-09b4",
       "totalSessions": 1,
       "totalDurationMs": 8630531,
@@ -985,6 +1004,19 @@
           "title": null,
           "timestamp": "2026-11-10T14:41:52.739Z",
           "totalDurationMs": 983071
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-b95e",
+      "totalSessions": 1,
+      "totalDurationMs": 4375344,
+      "sessions": [
+        {
+          "id": "c903bba4-c3c6-4365-a0e9-6d21441a2299",
+          "title": null,
+          "timestamp": "2026-11-13T16:45:32.366Z",
+          "totalDurationMs": 4375344
         }
       ]
     },
@@ -2013,6 +2045,19 @@
       ]
     },
     {
+      "projectName": "untitled-a99b",
+      "totalSessions": 1,
+      "totalDurationMs": 356703,
+      "sessions": [
+        {
+          "id": "cbf962a2-39a2-4bd1-a224-36b6442818e8",
+          "title": null,
+          "timestamp": "2026-11-13T19:48:20.083Z",
+          "totalDurationMs": 356703
+        }
+      ]
+    },
+    {
       "projectName": "artifact-draft",
       "totalSessions": 1,
       "totalDurationMs": 351030,
@@ -2177,19 +2222,6 @@
           "title": null,
           "timestamp": "2026-11-01T23:25:29.368Z",
           "totalDurationMs": 262469
-        }
-      ]
-    },
-    {
-      "projectName": "untitled-b95e",
-      "totalSessions": 1,
-      "totalDurationMs": 254837,
-      "sessions": [
-        {
-          "id": "c903bba4-c3c6-4365-a0e9-6d21441a2299",
-          "title": null,
-          "timestamp": "2026-11-13T16:45:32.366Z",
-          "totalDurationMs": 254837
         }
       ]
     },
@@ -2495,6 +2527,19 @@
           "title": null,
           "timestamp": "2026-11-04T17:20:04.677Z",
           "totalDurationMs": 143775
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-b789",
+      "totalSessions": 1,
+      "totalDurationMs": 133720,
+      "sessions": [
+        {
+          "id": "1ac352ec-ae50-45b0-a9c8-05fd0b8f802d",
+          "title": null,
+          "timestamp": "2026-11-13T20:30:59.732Z",
+          "totalDurationMs": 133720
         }
       ]
     },
@@ -3058,6 +3103,19 @@
       ]
     },
     {
+      "projectName": "untitled-cd77",
+      "totalSessions": 1,
+      "totalDurationMs": 50710,
+      "sessions": [
+        {
+          "id": "de9a92ad-1933-4102-a758-2c6cab98ccee",
+          "title": null,
+          "timestamp": "2026-11-13T19:56:33.730Z",
+          "totalDurationMs": 50710
+        }
+      ]
+    },
+    {
       "projectName": "batch-005",
       "totalSessions": 1,
       "totalDurationMs": 49388,
@@ -3067,6 +3125,19 @@
           "title": null,
           "timestamp": "2026-11-05T16:45:09.877Z",
           "totalDurationMs": 49388
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-75e8",
+      "totalSessions": 1,
+      "totalDurationMs": 49235,
+      "sessions": [
+        {
+          "id": "58b88268-240d-447b-889b-bb476d273c1c",
+          "title": null,
+          "timestamp": "2026-11-13T20:08:21.539Z",
+          "totalDurationMs": 49235
         }
       ]
     },
@@ -3305,6 +3376,19 @@
       ]
     },
     {
+      "projectName": "untitled-a57d",
+      "totalSessions": 1,
+      "totalDurationMs": 42253,
+      "sessions": [
+        {
+          "id": "cb41d273-02a3-44ab-9853-df6dd96357de",
+          "title": null,
+          "timestamp": "2026-11-13T20:10:21.836Z",
+          "totalDurationMs": 42253
+        }
+      ]
+    },
+    {
       "projectName": "batch-002",
       "totalSessions": 1,
       "totalDurationMs": 41794,
@@ -3509,6 +3593,19 @@
           "title": null,
           "timestamp": "2026-11-05T17:38:46.078Z",
           "totalDurationMs": 35223
+        }
+      ]
+    },
+    {
+      "projectName": "without-the-layer-b75a",
+      "totalSessions": 1,
+      "totalDurationMs": 35110,
+      "sessions": [
+        {
+          "id": "f828eab0-b092-4073-ae60-e991f5dd1c97",
+          "title": null,
+          "timestamp": "2026-11-13T20:09:16.204Z",
+          "totalDurationMs": 35110
         }
       ]
     },
@@ -4012,6 +4109,45 @@
       ]
     },
     {
+      "projectName": "untitled-d8e7",
+      "totalSessions": 1,
+      "totalDurationMs": 21301,
+      "sessions": [
+        {
+          "id": "12a134f0-916f-4a34-a235-af2fb1a30d1a",
+          "title": null,
+          "timestamp": "2026-11-13T19:18:43.112Z",
+          "totalDurationMs": 21301
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-4ab7",
+      "totalSessions": 1,
+      "totalDurationMs": 17456,
+      "sessions": [
+        {
+          "id": "c9f4070e-ed46-4c22-8552-9817a42f81eb",
+          "title": null,
+          "timestamp": "2026-11-13T18:50:52.537Z",
+          "totalDurationMs": 17456
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-5eca",
+      "totalSessions": 1,
+      "totalDurationMs": 16952,
+      "sessions": [
+        {
+          "id": "f140f49a-4ba4-4783-8590-0f22f2e2a816",
+          "title": null,
+          "timestamp": "2026-11-13T19:17:43.919Z",
+          "totalDurationMs": 16952
+        }
+      ]
+    },
+    {
       "projectName": "36",
       "totalSessions": 1,
       "totalDurationMs": 16858,
@@ -4099,6 +4235,32 @@
           "title": null,
           "timestamp": "2026-11-09T21:15:54.430Z",
           "totalDurationMs": 15515
+        }
+      ]
+    },
+    {
+      "projectName": "demo-a774",
+      "totalSessions": 1,
+      "totalDurationMs": 15470,
+      "sessions": [
+        {
+          "id": "e512ce72-89fa-46be-8f72-f139e6bab71a",
+          "title": null,
+          "timestamp": "2026-11-13T17:12:44.031Z",
+          "totalDurationMs": 15470
+        }
+      ]
+    },
+    {
+      "projectName": "without-the-layer-5420",
+      "totalSessions": 1,
+      "totalDurationMs": 15441,
+      "sessions": [
+        {
+          "id": "09e68842-3920-4f55-b8c7-9e997b53bb8d",
+          "title": null,
+          "timestamp": "2026-11-13T20:11:08.877Z",
+          "totalDurationMs": 15441
         }
       ]
     },
@@ -4203,6 +4365,19 @@
           "title": null,
           "timestamp": "2026-11-09T19:04:02.699Z",
           "totalDurationMs": 12394
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-3f16",
+      "totalSessions": 1,
+      "totalDurationMs": 12278,
+      "sessions": [
+        {
+          "id": "780453bc-4fea-47a3-b0ec-5854294a3462",
+          "title": null,
+          "timestamp": "2026-11-13T18:49:42.394Z",
+          "totalDurationMs": 12278
         }
       ]
     },
@@ -4868,6 +5043,19 @@
       ]
     },
     {
+      "projectName": "outside-agent-CSo4bo",
+      "totalSessions": 1,
+      "totalDurationMs": 5242,
+      "sessions": [
+        {
+          "id": "4985eb37-0440-4290-89eb-1947fcc992d8",
+          "title": null,
+          "timestamp": "2026-11-13T18:49:55.417Z",
+          "totalDurationMs": 5242
+        }
+      ]
+    },
+    {
       "projectName": "18",
       "totalSessions": 1,
       "totalDurationMs": 5074,
@@ -4961,8 +5149,8 @@
   ],
   "activity": {
     "2026-11-13": {
-      "sessions": 44,
-      "durationMs": 112515722
+      "sessions": 59,
+      "durationMs": 142226495
     },
     "2026-11-12": {
       "sessions": 1,
@@ -5126,32 +5314,34 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 961008,
-    "outputTokens": 71146887,
-    "cacheReadTokens": 11180286237,
-    "cacheCreationTokens": 302131708
+    "inputTokens": 962438,
+    "outputTokens": 71996042,
+    "cacheReadTokens": 11297355206,
+    "cacheCreationTokens": 305010252
   },
   "toolUsage": {
-    "Read": 10677,
-    "Bash": 18257,
-    "Write": 1971,
-    "Edit": 1758,
-    "Skill": 52,
-    "ToolSearch": 201,
-    "TaskStop": 47,
+    "ToolSearch": 227,
+    "WebFetch": 208,
+    "mcp__t3-code__t3_thread_search": 1,
+    "mcp__t3-code__t3_thread_read": 6,
+    "WebSearch": 160,
+    "Bash": 18489,
+    "Read": 10719,
+    "Write": 2023,
+    "Edit": 1798,
+    "Skill": 54,
+    "TaskStop": 51,
     "Agent": 244,
     "mcp__production-postgres-readonly__execute_sql": 132,
     "mcp__production-postgres-readonly__list_tables": 9,
     "Artifact": 32,
     "mcp__playwright__browser_resize": 2,
     "mcp__playwright__browser_navigate": 6,
-    "WebSearch": 154,
-    "WebFetch": 192,
     "mcp__claude_ai_Notion__notion-fetch": 4,
     "mcp__t3-code__html_preview": 5,
     "mcp__t3-code__html_render": 3,
     "mcp__t3-code__request_secret": 1,
-    "mcp__t3-code__t3_background_wait": 50,
+    "mcp__t3-code__t3_background_wait": 60,
     "AskUserQuestion": 11,
     "mcp__t3-code__orchestrator_capabilities": 2,
     "mcp__t3-code__delegate_task": 1,
@@ -5243,15 +5433,17 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_file": 7,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 3,
     "mcp__ccd_session_mgmt__list_sessions": 1,
-    "mcp__studio__studio_generate_image": 2,
-    "mcp__studio__studio_edit_image": 6,
-    "mcp__studio__pin_resolve": 40,
-    "mcp__studio__studio_transfer": 6,
+    "mcp__studio__pin_resolve": 59,
+    "mcp__studio__studio_transfer": 9,
+    "mcp__studio__design_guide": 7,
+    "mcp__studio__node_screenshot": 38,
+    "mcp__studio__studio_generate_image": 4,
+    "mcp__studio__studio_edit_image": 8,
     "mcp__studio__pin_ask": 2,
+    "mcp__studio__canvas_read": 7,
     "mcp__brand__brand_facts": 1,
-    "mcp__studio__canvas_read": 1,
-    "mcp__studio__canvas_write_file": 1,
-    "mcp__studio__canvas_read_file": 1
+    "mcp__studio__canvas_write_file": 2,
+    "mcp__studio__canvas_read_file": 2
   },
   "modelBreakdown": {
     "opus-4.5": {
