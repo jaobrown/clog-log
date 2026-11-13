@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-13T13:00:13.498Z",
+  "generatedAt": "2026-11-13T17:00:13.795Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 600,
-    "totalDurationMs": 1796489645,
-    "totalTokens": 11411522846,
-    "projectCount": 275
+    "totalSessions": 617,
+    "totalDurationMs": 1878021585,
+    "totalTokens": 11554525840,
+    "projectCount": 288
   },
   "projects": [
     {
       "projectName": "top secret",
       "totalSessions": 152,
-      "totalDurationMs": 1162346400,
+      "totalDurationMs": 1234791729,
       "sessions": [
         {
           "id": "45de7cf0-1130-4ea6-9295-9a5bb3810f85",
@@ -23,7 +23,7 @@
           "id": "2ed7a5b4-eb2d-44b5-811c-3687646852c2",
           "title": "**********",
           "timestamp": "2026-11-13T03:55:47.263Z",
-          "totalDurationMs": 1448087
+          "totalDurationMs": 39686861
         },
         {
           "id": "1084ad70-7137-4a8e-ad4b-c8587d93cf4d",
@@ -35,7 +35,7 @@
           "id": "0c4a5b16-9b22-42ea-b8e3-a27fb3d44c82",
           "title": "**********",
           "timestamp": "2026-11-13T02:39:18.073Z",
-          "totalDurationMs": 22640590
+          "totalDurationMs": 56847145
         },
         {
           "id": "03b5d321-aa65-49e8-8550-470449a3c964",
@@ -899,6 +899,19 @@
           "title": null,
           "timestamp": "2026-11-09T18:48:38.827Z",
           "totalDurationMs": 1072628
+        }
+      ]
+    },
+    {
+      "projectName": "test-09b4",
+      "totalSessions": 1,
+      "totalDurationMs": 8630531,
+      "sessions": [
+        {
+          "id": "58874939-2813-4b87-bda8-d5d65b16c35b",
+          "title": null,
+          "timestamp": "2026-11-13T14:00:56.415Z",
+          "totalDurationMs": 8630531
         }
       ]
     },
@@ -2168,6 +2181,19 @@
       ]
     },
     {
+      "projectName": "untitled-b95e",
+      "totalSessions": 1,
+      "totalDurationMs": 254837,
+      "sessions": [
+        {
+          "id": "c903bba4-c3c6-4365-a0e9-6d21441a2299",
+          "title": null,
+          "timestamp": "2026-11-13T16:45:32.366Z",
+          "totalDurationMs": 254837
+        }
+      ]
+    },
+    {
       "projectName": "final-analysis",
       "totalSessions": 1,
       "totalDurationMs": 250378,
@@ -2924,6 +2950,19 @@
           "title": null,
           "timestamp": "2026-11-01T03:41:49.678Z",
           "totalDurationMs": 54280
+        }
+      ]
+    },
+    {
+      "projectName": "fieldnote-launch-fa7b",
+      "totalSessions": 1,
+      "totalDurationMs": 53971,
+      "sessions": [
+        {
+          "id": "499c529e-ad8f-46d1-baa6-cda48cce3785",
+          "title": null,
+          "timestamp": "2026-11-13T14:24:46.361Z",
+          "totalDurationMs": 53971
         }
       ]
     },
@@ -3986,6 +4025,45 @@
       ]
     },
     {
+      "projectName": "untitled-889a",
+      "totalSessions": 1,
+      "totalDurationMs": 16744,
+      "sessions": [
+        {
+          "id": "8a28bea9-c78e-4102-a72d-d046aba1b96a",
+          "title": null,
+          "timestamp": "2026-11-13T16:10:41.206Z",
+          "totalDurationMs": 16744
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-1986",
+      "totalSessions": 1,
+      "totalDurationMs": 16632,
+      "sessions": [
+        {
+          "id": "9d8091f4-48ba-4e77-88f2-b1ad4243fba3",
+          "title": null,
+          "timestamp": "2026-11-13T16:13:34.414Z",
+          "totalDurationMs": 16632
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-f78f",
+      "totalSessions": 1,
+      "totalDurationMs": 16536,
+      "sessions": [
+        {
+          "id": "0ec1def8-63b8-42c0-97d8-b60cfa679acc",
+          "title": null,
+          "timestamp": "2026-11-13T16:42:09.964Z",
+          "totalDurationMs": 16536
+        }
+      ]
+    },
+    {
       "projectName": "12",
       "totalSessions": 1,
       "totalDurationMs": 15973,
@@ -3995,6 +4073,19 @@
           "title": null,
           "timestamp": "2026-11-09T19:06:59.075Z",
           "totalDurationMs": 15973
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-84e5",
+      "totalSessions": 1,
+      "totalDurationMs": 15888,
+      "sessions": [
+        {
+          "id": "e8334747-ac22-43bd-b3d1-41b1a717cc0a",
+          "title": null,
+          "timestamp": "2026-11-13T16:44:38.243Z",
+          "totalDurationMs": 15888
         }
       ]
     },
@@ -4012,6 +4103,19 @@
       ]
     },
     {
+      "projectName": "untitled-d551",
+      "totalSessions": 1,
+      "totalDurationMs": 15220,
+      "sessions": [
+        {
+          "id": "d7d0edeb-6a30-4a7a-af86-16568cfcbbae",
+          "title": null,
+          "timestamp": "2026-11-13T16:12:37.697Z",
+          "totalDurationMs": 15220
+        }
+      ]
+    },
+    {
       "projectName": "24",
       "totalSessions": 1,
       "totalDurationMs": 15202,
@@ -4021,6 +4125,32 @@
           "title": null,
           "timestamp": "2026-11-09T19:06:59.017Z",
           "totalDurationMs": 15202
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-188c",
+      "totalSessions": 1,
+      "totalDurationMs": 14791,
+      "sessions": [
+        {
+          "id": "75372e87-c2ba-4b64-b9d0-332590238ca6",
+          "title": null,
+          "timestamp": "2026-11-13T16:15:22.076Z",
+          "totalDurationMs": 14791
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-106d",
+      "totalSessions": 1,
+      "totalDurationMs": 14264,
+      "sessions": [
+        {
+          "id": "4f193ad7-3614-438d-b5c0-c50d3350e9ab",
+          "title": null,
+          "timestamp": "2026-11-13T16:28:07.770Z",
+          "totalDurationMs": 14264
         }
       ]
     },
@@ -4129,6 +4259,19 @@
       ]
     },
     {
+      "projectName": "trail-claude-code-9f8f",
+      "totalSessions": 1,
+      "totalDurationMs": 11674,
+      "sessions": [
+        {
+          "id": "064dc2ee-0d08-4808-a8ac-dc0f33e20efb",
+          "title": null,
+          "timestamp": "2026-11-13T16:38:01.517Z",
+          "totalDurationMs": 11674
+        }
+      ]
+    },
+    {
       "projectName": "18",
       "totalSessions": 1,
       "totalDurationMs": 11602,
@@ -4138,6 +4281,31 @@
           "title": null,
           "timestamp": "2026-11-09T19:04:39.573Z",
           "totalDurationMs": 11602
+        }
+      ]
+    },
+    {
+      "projectName": "probe",
+      "totalSessions": 3,
+      "totalDurationMs": 11527,
+      "sessions": [
+        {
+          "id": "a1519b02-6fa9-40bf-a4b2-453fc362ca88",
+          "title": null,
+          "timestamp": "2026-11-13T16:39:04.857Z",
+          "totalDurationMs": 3573
+        },
+        {
+          "id": "4e917f30-bb8d-4d53-a8d5-300a0559049d",
+          "title": null,
+          "timestamp": "2026-11-13T16:38:48.054Z",
+          "totalDurationMs": 4563
+        },
+        {
+          "id": "6fb9fbfe-153e-4deb-a4a4-0c19358724df",
+          "title": null,
+          "timestamp": "2026-11-13T16:38:30.820Z",
+          "totalDurationMs": 3391
         }
       ]
     },
@@ -4229,6 +4397,19 @@
           "title": null,
           "timestamp": "2026-11-09T19:04:49.505Z",
           "totalDurationMs": 10146
+        }
+      ]
+    },
+    {
+      "projectName": "trail-claude-code-9570",
+      "totalSessions": 1,
+      "totalDurationMs": 10052,
+      "sessions": [
+        {
+          "id": "8852a738-95f0-490c-83ee-c7d33897250d",
+          "title": null,
+          "timestamp": "2026-11-13T16:40:07.499Z",
+          "totalDurationMs": 10052
         }
       ]
     },
@@ -4532,6 +4713,31 @@
       ]
     },
     {
+      "projectName": "cc-probe",
+      "totalSessions": 3,
+      "totalDurationMs": 7218,
+      "sessions": [
+        {
+          "id": "71e1c9e3-d8dc-46a1-943d-d0392796dd12",
+          "title": null,
+          "timestamp": "2026-11-13T16:31:02.908Z",
+          "totalDurationMs": 2606
+        },
+        {
+          "id": "7b67beb4-c49b-482f-b21d-6900dad2309c",
+          "title": null,
+          "timestamp": "2026-11-13T16:03:26.571Z",
+          "totalDurationMs": 1338
+        },
+        {
+          "id": "95182177-a5c6-4f72-ad03-4eed85697734",
+          "title": null,
+          "timestamp": "2026-11-13T05:34:55.619Z",
+          "totalDurationMs": 3274
+        }
+      ]
+    },
+    {
       "projectName": "15",
       "totalSessions": 1,
       "totalDurationMs": 6994,
@@ -4727,19 +4933,6 @@
       ]
     },
     {
-      "projectName": "cc-probe",
-      "totalSessions": 1,
-      "totalDurationMs": 3274,
-      "sessions": [
-        {
-          "id": "95182177-a5c6-4f72-ad03-4eed85697734",
-          "title": null,
-          "timestamp": "2026-11-13T05:34:55.619Z",
-          "totalDurationMs": 3274
-        }
-      ]
-    },
-    {
       "projectName": "smoke-claude-code-7538",
       "totalSessions": 1,
       "totalDurationMs": 686,
@@ -4768,8 +4961,8 @@
   ],
   "activity": {
     "2026-11-13": {
-      "sessions": 27,
-      "durationMs": 30983782
+      "sessions": 44,
+      "durationMs": 112515722
     },
     "2026-11-12": {
       "sessions": 1,
@@ -4933,39 +5126,39 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 959148,
-    "outputTokens": 70046890,
-    "cacheReadTokens": 11041233502,
-    "cacheCreationTokens": 299283306
+    "inputTokens": 961008,
+    "outputTokens": 71146887,
+    "cacheReadTokens": 11180286237,
+    "cacheCreationTokens": 302131708
   },
   "toolUsage": {
-    "Read": 10648,
-    "Bash": 17949,
-    "Write": 1913,
-    "Edit": 1648,
-    "Skill": 49,
-    "ToolSearch": 174,
-    "TaskStop": 45,
+    "Read": 10677,
+    "Bash": 18257,
+    "Write": 1971,
+    "Edit": 1758,
+    "Skill": 52,
+    "ToolSearch": 201,
+    "TaskStop": 47,
     "Agent": 244,
     "mcp__production-postgres-readonly__execute_sql": 132,
     "mcp__production-postgres-readonly__list_tables": 9,
     "Artifact": 32,
     "mcp__playwright__browser_resize": 2,
     "mcp__playwright__browser_navigate": 6,
-    "WebSearch": 151,
+    "WebSearch": 154,
     "WebFetch": 192,
     "mcp__claude_ai_Notion__notion-fetch": 4,
-    "mcp__t3-code__html_preview": 1,
-    "mcp__t3-code__html_render": 2,
+    "mcp__t3-code__html_preview": 5,
+    "mcp__t3-code__html_render": 3,
     "mcp__t3-code__request_secret": 1,
-    "mcp__t3-code__t3_background_wait": 46,
+    "mcp__t3-code__t3_background_wait": 50,
     "AskUserQuestion": 11,
     "mcp__t3-code__orchestrator_capabilities": 2,
     "mcp__t3-code__delegate_task": 1,
     "mcp__context7__resolve-library-id": 1,
     "mcp__context7__query-docs": 1,
-    "mcp__exa__web_search_exa": 116,
-    "mcp__exa__web_fetch_exa": 19,
+    "mcp__exa__web_search_exa": 120,
+    "mcp__exa__web_fetch_exa": 22,
     "SendMessage": 692,
     "ListAgents": 2,
     "mcp__t3-code__link_pull_request": 31,
@@ -5050,7 +5243,11 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_file": 7,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 3,
     "mcp__ccd_session_mgmt__list_sessions": 1,
-    "mcp__studio__pin_resolve": 4,
+    "mcp__studio__studio_generate_image": 2,
+    "mcp__studio__studio_edit_image": 6,
+    "mcp__studio__pin_resolve": 40,
+    "mcp__studio__studio_transfer": 6,
+    "mcp__studio__pin_ask": 2,
     "mcp__brand__brand_facts": 1,
     "mcp__studio__canvas_read": 1,
     "mcp__studio__canvas_write_file": 1,
