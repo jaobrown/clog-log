@@ -1,23 +1,71 @@
 {
-  "generatedAt": "2026-11-14T21:00:16.356Z",
+  "generatedAt": "2026-11-15T13:18:27.941Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 740,
-    "totalDurationMs": 2112978822,
-    "totalTokens": 13510171282,
-    "projectCount": 366
+    "totalSessions": 933,
+    "totalDurationMs": 2587508377,
+    "totalTokens": 15108491208,
+    "projectCount": 495
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 172,
-      "totalDurationMs": 1443150842,
+      "totalSessions": 180,
+      "totalDurationMs": 1523298214,
       "sessions": [
+        {
+          "id": "e463cce8-0665-4f5c-a819-04f13c027260",
+          "title": "**********",
+          "timestamp": "2026-11-15T04:31:16.218Z",
+          "totalDurationMs": 10592871
+        },
+        {
+          "id": "5a911dd5-d534-41da-b3fe-cbbb9681437b",
+          "title": "**********",
+          "timestamp": "2026-11-15T02:58:24.771Z",
+          "totalDurationMs": 5205467
+        },
+        {
+          "id": "5ec5289f-7d54-44e6-8a1f-30818bc5f4c5",
+          "title": "**********",
+          "timestamp": "2026-11-15T01:41:02.946Z",
+          "totalDurationMs": 4533697
+        },
+        {
+          "id": "897b993a-1a39-4b00-9a1c-9cc74cbd896c",
+          "title": "**********",
+          "timestamp": "2026-11-15T01:40:48.370Z",
+          "totalDurationMs": 3675154
+        },
+        {
+          "id": "efe12e8f-a492-45a1-a04f-f7ece16260dc",
+          "title": "**********",
+          "timestamp": "2026-11-14T23:07:57.660Z",
+          "totalDurationMs": 4619039
+        },
+        {
+          "id": "8b33cb93-7025-42c7-8b95-2cbd776ca1b5",
+          "title": "**********",
+          "timestamp": "2026-11-14T22:33:16.709Z",
+          "totalDurationMs": 2020366
+        },
+        {
+          "id": "dfd15c04-154a-4e7c-9585-aaa2e6c08114",
+          "title": "**********",
+          "timestamp": "2026-11-14T21:41:45.143Z",
+          "totalDurationMs": 3403689
+        },
+        {
+          "id": "bc8130c3-1435-4b8d-948b-b92b6aed74e7",
+          "title": "**********",
+          "timestamp": "2026-11-14T21:41:17.426Z",
+          "totalDurationMs": 3069975
+        },
         {
           "id": "19b2f238-3270-4e4d-b552-7a12071b88b2",
           "title": "**********",
           "timestamp": "2026-11-14T20:00:59.352Z",
-          "totalDurationMs": 3546205
+          "totalDurationMs": 5968455
         },
         {
           "id": "7548e8d9-4e35-4894-b3cb-814ac000bd9d",
@@ -131,7 +179,7 @@
           "id": "0c4a5b16-9b22-42ea-b8e3-a27fb3d44c82",
           "title": "**********",
           "timestamp": "2026-11-13T02:39:18.073Z",
-          "totalDurationMs": 156415268
+          "totalDurationMs": 197020132
         },
         {
           "id": "20d89c90-32da-4924-b8ed-773ac5578c98",
@@ -528,6 +576,45 @@
       ]
     },
     {
+      "projectName": "demo-2-06c2",
+      "totalSessions": 1,
+      "totalDurationMs": 137639506,
+      "sessions": [
+        {
+          "id": "eb6a2a3a-28ce-41ee-990c-d6336940dfe3",
+          "title": null,
+          "timestamp": "2026-11-13T17:16:44.388Z",
+          "totalDurationMs": 137639506
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-b95e",
+      "totalSessions": 1,
+      "totalDurationMs": 128115299,
+      "sessions": [
+        {
+          "id": "c903bba4-c3c6-4365-a0e9-6d21441a2299",
+          "title": null,
+          "timestamp": "2026-11-13T16:45:32.366Z",
+          "totalDurationMs": 128115299
+        }
+      ]
+    },
+    {
+      "projectName": "demo-a774",
+      "totalSessions": 1,
+      "totalDurationMs": 126459703,
+      "sessions": [
+        {
+          "id": "e512ce72-89fa-46be-8f72-f139e6bab71a",
+          "title": null,
+          "timestamp": "2026-11-13T17:12:44.031Z",
+          "totalDurationMs": 126459703
+        }
+      ]
+    },
+    {
       "projectName": "design-weight-experiments",
       "totalSessions": 50,
       "totalDurationMs": 23611510,
@@ -848,19 +935,6 @@
       ]
     },
     {
-      "projectName": "demo-2-06c2",
-      "totalSessions": 1,
-      "totalDurationMs": 14447364,
-      "sessions": [
-        {
-          "id": "eb6a2a3a-28ce-41ee-990c-d6336940dfe3",
-          "title": null,
-          "timestamp": "2026-11-13T17:16:44.388Z",
-          "totalDurationMs": 14447364
-        }
-      ]
-    },
-    {
       "projectName": "design-reference-library",
       "totalSessions": 25,
       "totalDurationMs": 12407903,
@@ -1018,6 +1092,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-96fd",
+      "totalSessions": 4,
+      "totalDurationMs": 10720969,
+      "sessions": [
+        {
+          "id": "655b13a0-c629-4cee-ae4d-f7d6cac1cc9e",
+          "title": null,
+          "timestamp": "2026-11-15T01:23:39.335Z",
+          "totalDurationMs": 10720969
+        }
+      ]
+    },
+    {
       "projectName": "test-09b4",
       "totalSessions": 1,
       "totalDurationMs": 8630531,
@@ -1100,19 +1187,6 @@
           "title": null,
           "timestamp": "2026-11-10T14:41:52.739Z",
           "totalDurationMs": 983071
-        }
-      ]
-    },
-    {
-      "projectName": "untitled-b95e",
-      "totalSessions": 1,
-      "totalDurationMs": 4375344,
-      "sessions": [
-        {
-          "id": "c903bba4-c3c6-4365-a0e9-6d21441a2299",
-          "title": null,
-          "timestamp": "2026-11-13T16:45:32.366Z",
-          "totalDurationMs": 4375344
         }
       ]
     },
@@ -1862,6 +1936,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-7c1a",
+      "totalSessions": 4,
+      "totalDurationMs": 657666,
+      "sessions": [
+        {
+          "id": "af869d94-7e59-4a9d-b759-14fe5d56ea10",
+          "title": null,
+          "timestamp": "2026-11-15T06:11:18.899Z",
+          "totalDurationMs": 657666
+        }
+      ]
+    },
+    {
       "projectName": "solver-hardened",
       "totalSessions": 1,
       "totalDurationMs": 654219,
@@ -2037,6 +2124,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-a324",
+      "totalSessions": 4,
+      "totalDurationMs": 459973,
+      "sessions": [
+        {
+          "id": "4f76e188-642e-4613-8f70-2d2627ded80a",
+          "title": null,
+          "timestamp": "2026-11-15T05:55:31.009Z",
+          "totalDurationMs": 459973
+        }
+      ]
+    },
+    {
       "projectName": "artifact-draft",
       "totalSessions": 1,
       "totalDurationMs": 458887,
@@ -2046,6 +2146,32 @@
           "title": null,
           "timestamp": "2026-11-04T19:55:49.112Z",
           "totalDurationMs": 458887
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-6e86",
+      "totalSessions": 4,
+      "totalDurationMs": 451708,
+      "sessions": [
+        {
+          "id": "320b6cae-cd89-4697-981c-2503e1974e03",
+          "title": null,
+          "timestamp": "2026-11-15T06:24:34.024Z",
+          "totalDurationMs": 451708
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-6a3e",
+      "totalSessions": 4,
+      "totalDurationMs": 448521,
+      "sessions": [
+        {
+          "id": "52cdb01c-d389-4887-98fe-fae4b1376f54",
+          "title": null,
+          "timestamp": "2026-11-14T23:36:58.771Z",
+          "totalDurationMs": 448521
         }
       ]
     },
@@ -2115,6 +2241,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-9f71",
+      "totalSessions": 4,
+      "totalDurationMs": 413250,
+      "sessions": [
+        {
+          "id": "82935414-b3a7-4c43-947b-c5016750dd4f",
+          "title": null,
+          "timestamp": "2026-11-15T04:03:30.637Z",
+          "totalDurationMs": 413250
+        }
+      ]
+    },
+    {
       "projectName": "artifact-review-cmhqmmt4",
       "totalSessions": 1,
       "totalDurationMs": 406134,
@@ -2167,6 +2306,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-c279",
+      "totalSessions": 4,
+      "totalDurationMs": 381888,
+      "sessions": [
+        {
+          "id": "ae926329-67d8-41cf-9bb5-bfe57f330466",
+          "title": null,
+          "timestamp": "2026-11-15T07:15:31.942Z",
+          "totalDurationMs": 381888
+        }
+      ]
+    },
+    {
       "projectName": "untitled-f87c",
       "totalSessions": 1,
       "totalDurationMs": 375656,
@@ -2202,6 +2354,19 @@
           "title": null,
           "timestamp": "2026-11-13T19:48:20.083Z",
           "totalDurationMs": 356703
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-8308",
+      "totalSessions": 4,
+      "totalDurationMs": 355656,
+      "sessions": [
+        {
+          "id": "53f0e791-fcb2-42b6-a6ec-4fae21054f0d",
+          "title": null,
+          "timestamp": "2026-11-15T00:11:02.041Z",
+          "totalDurationMs": 355656
         }
       ]
     },
@@ -2357,6 +2522,32 @@
           "title": null,
           "timestamp": "2026-11-04T23:42:42.516Z",
           "totalDurationMs": 277936
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-17c6",
+      "totalSessions": 4,
+      "totalDurationMs": 274583,
+      "sessions": [
+        {
+          "id": "aeb75981-f07e-48a9-9d82-157a132730e6",
+          "title": null,
+          "timestamp": "2026-11-14T23:31:36.891Z",
+          "totalDurationMs": 274583
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-6900",
+      "totalSessions": 4,
+      "totalDurationMs": 269894,
+      "sessions": [
+        {
+          "id": "1eff03b9-56c8-4719-bad8-0e522a3b8dd2",
+          "title": null,
+          "timestamp": "2026-11-14T23:28:05.996Z",
+          "totalDurationMs": 269894
         }
       ]
     },
@@ -2666,6 +2857,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-73ed",
+      "totalSessions": 4,
+      "totalDurationMs": 190571,
+      "sessions": [
+        {
+          "id": "1dfcb132-209f-423f-8de3-9cccf3b919de",
+          "title": null,
+          "timestamp": "2026-11-14T23:25:31.175Z",
+          "totalDurationMs": 190571
+        }
+      ]
+    },
+    {
       "projectName": "confirmation-review",
       "totalSessions": 1,
       "totalDurationMs": 188896,
@@ -2679,6 +2883,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-5888",
+      "totalSessions": 1,
+      "totalDurationMs": 188791,
+      "sessions": [
+        {
+          "id": "e3a68b19-b0aa-4718-8ec6-eacfea92c52f",
+          "title": null,
+          "timestamp": "2026-11-15T04:10:45.303Z",
+          "totalDurationMs": 188791
+        }
+      ]
+    },
+    {
       "projectName": "untitled-9544",
       "totalSessions": 1,
       "totalDurationMs": 187597,
@@ -2688,6 +2905,19 @@
           "title": null,
           "timestamp": "2026-11-14T18:32:20.145Z",
           "totalDurationMs": 187597
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-e706",
+      "totalSessions": 1,
+      "totalDurationMs": 183554,
+      "sessions": [
+        {
+          "id": "52ce566b-3df4-4121-8660-aea1b205e48c",
+          "title": null,
+          "timestamp": "2026-11-14T21:20:05.747Z",
+          "totalDurationMs": 183554
         }
       ]
     },
@@ -2744,6 +2974,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-1099",
+      "totalSessions": 1,
+      "totalDurationMs": 171194,
+      "sessions": [
+        {
+          "id": "a8ca3ff9-b490-49cb-b757-7898e5f1a146",
+          "title": null,
+          "timestamp": "2026-11-15T00:05:28.855Z",
+          "totalDurationMs": 171194
+        }
+      ]
+    },
+    {
       "projectName": "input",
       "totalSessions": 1,
       "totalDurationMs": 170072,
@@ -2753,6 +2996,19 @@
           "title": null,
           "timestamp": "2026-11-01T02:52:21.789Z",
           "totalDurationMs": 170072
+        }
+      ]
+    },
+    {
+      "projectName": "three-directions-2177",
+      "totalSessions": 4,
+      "totalDurationMs": 168323,
+      "sessions": [
+        {
+          "id": "ae4f3897-a651-4d94-aa42-335820468d3b",
+          "title": null,
+          "timestamp": "2026-11-15T05:46:58.157Z",
+          "totalDurationMs": 168323
         }
       ]
     },
@@ -2848,6 +3104,45 @@
       ]
     },
     {
+      "projectName": "three-directions-7f26",
+      "totalSessions": 4,
+      "totalDurationMs": 137257,
+      "sessions": [
+        {
+          "id": "787e092a-3583-4992-9c37-fe5d6b94a7d6",
+          "title": null,
+          "timestamp": "2026-11-14T21:23:57.046Z",
+          "totalDurationMs": 137257
+        }
+      ]
+    },
+    {
+      "projectName": "three-directions-129b",
+      "totalSessions": 4,
+      "totalDurationMs": 136602,
+      "sessions": [
+        {
+          "id": "00f2ffa0-a090-46a0-8278-982843f8d827",
+          "title": null,
+          "timestamp": "2026-11-15T07:21:23.508Z",
+          "totalDurationMs": 136602
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-06b6",
+      "totalSessions": 1,
+      "totalDurationMs": 135579,
+      "sessions": [
+        {
+          "id": "7d98d894-497b-4dca-9e96-88450fc266d5",
+          "title": null,
+          "timestamp": "2026-11-14T22:58:42.871Z",
+          "totalDurationMs": 135579
+        }
+      ]
+    },
+    {
       "projectName": "untitled-b789",
       "totalSessions": 1,
       "totalDurationMs": 133720,
@@ -2896,6 +3191,19 @@
           "title": null,
           "timestamp": "2026-11-14T18:52:05.542Z",
           "totalDurationMs": 126278
+        }
+      ]
+    },
+    {
+      "projectName": "three-directions-6b95",
+      "totalSessions": 4,
+      "totalDurationMs": 124985,
+      "sessions": [
+        {
+          "id": "f2325147-652b-41b4-aa61-ac4a994709d4",
+          "title": null,
+          "timestamp": "2026-11-15T03:24:04.315Z",
+          "totalDurationMs": 124985
         }
       ]
     },
@@ -2965,6 +3273,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-4798",
+      "totalSessions": 1,
+      "totalDurationMs": 112505,
+      "sessions": [
+        {
+          "id": "108c869a-b7ab-44b5-ac19-677a50272a59",
+          "title": null,
+          "timestamp": "2026-11-14T22:31:09.487Z",
+          "totalDurationMs": 112505
+        }
+      ]
+    },
+    {
       "projectName": "author-b",
       "totalSessions": 1,
       "totalDurationMs": 110829,
@@ -2974,6 +3295,45 @@
           "title": null,
           "timestamp": "2026-11-04T23:31:40.721Z",
           "totalDurationMs": 110829
+        }
+      ]
+    },
+    {
+      "projectName": "three-directions-609b",
+      "totalSessions": 4,
+      "totalDurationMs": 110296,
+      "sessions": [
+        {
+          "id": "74abf0de-c0f7-415a-9755-8f586c8db7a2",
+          "title": null,
+          "timestamp": "2026-11-14T23:01:49.570Z",
+          "totalDurationMs": 110296
+        }
+      ]
+    },
+    {
+      "projectName": "three-directions-392a",
+      "totalSessions": 4,
+      "totalDurationMs": 109690,
+      "sessions": [
+        {
+          "id": "a43b188f-3355-4249-8a9c-1a5216857c04",
+          "title": null,
+          "timestamp": "2026-11-15T03:47:15.741Z",
+          "totalDurationMs": 109690
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-cc16",
+      "totalSessions": 1,
+      "totalDurationMs": 108804,
+      "sessions": [
+        {
+          "id": "ef17e3c7-5161-4a22-91f1-c8ead8785d11",
+          "title": null,
+          "timestamp": "2026-11-15T07:10:06.628Z",
+          "totalDurationMs": 108804
         }
       ]
     },
@@ -3013,6 +3373,19 @@
           "title": null,
           "timestamp": "2026-11-04T21:04:27.507Z",
           "totalDurationMs": 104118
+        }
+      ]
+    },
+    {
+      "projectName": "three-directions-1603",
+      "totalSessions": 4,
+      "totalDurationMs": 103722,
+      "sessions": [
+        {
+          "id": "04238cc8-8de8-4301-a85d-1d8ae26fbc16",
+          "title": null,
+          "timestamp": "2026-11-15T00:01:33.114Z",
+          "totalDurationMs": 103722
         }
       ]
     },
@@ -3147,6 +3520,32 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-9a9d",
+      "totalSessions": 1,
+      "totalDurationMs": 94727,
+      "sessions": [
+        {
+          "id": "9600683c-2f59-4bc0-9118-fab947c01a17",
+          "title": null,
+          "timestamp": "2026-11-15T06:19:24.788Z",
+          "totalDurationMs": 94727
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-028e",
+      "totalSessions": 1,
+      "totalDurationMs": 92837,
+      "sessions": [
+        {
+          "id": "4751c6b3-505a-421b-ae19-7a3c7adc7c67",
+          "title": null,
+          "timestamp": "2026-11-15T02:29:03.721Z",
+          "totalDurationMs": 92837
+        }
+      ]
+    },
+    {
       "projectName": "batch-6",
       "totalSessions": 1,
       "totalDurationMs": 92679,
@@ -3156,6 +3555,45 @@
           "title": null,
           "timestamp": "2026-11-04T21:06:12.401Z",
           "totalDurationMs": 92679
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-8afc",
+      "totalSessions": 1,
+      "totalDurationMs": 92421,
+      "sessions": [
+        {
+          "id": "93b5f023-4c19-454d-b0b9-2df3eb71341b",
+          "title": null,
+          "timestamp": "2026-11-15T03:57:24.028Z",
+          "totalDurationMs": 92421
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-8357",
+      "totalSessions": 1,
+      "totalDurationMs": 90541,
+      "sessions": [
+        {
+          "id": "bdc466bb-1aa1-4128-9ca7-3559dec414cf",
+          "title": null,
+          "timestamp": "2026-11-15T02:31:56.519Z",
+          "totalDurationMs": 90541
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-6bbc",
+      "totalSessions": 1,
+      "totalDurationMs": 88663,
+      "sessions": [
+        {
+          "id": "8a04175c-ceb4-4171-82a6-f5667ed74516",
+          "title": null,
+          "timestamp": "2026-11-15T03:44:00.333Z",
+          "totalDurationMs": 88663
         }
       ]
     },
@@ -3186,6 +3624,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-abf1",
+      "totalSessions": 1,
+      "totalDurationMs": 85323,
+      "sessions": [
+        {
+          "id": "8c8ee43a-7f58-460a-856c-6ba52834c8c2",
+          "title": null,
+          "timestamp": "2026-11-14T21:29:37.131Z",
+          "totalDurationMs": 85323
+        }
+      ]
+    },
+    {
       "projectName": "copy-audit",
       "totalSessions": 1,
       "totalDurationMs": 85101,
@@ -3195,6 +3646,19 @@
           "title": null,
           "timestamp": "2026-11-05T16:10:37.377Z",
           "totalDurationMs": 85101
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-76c9",
+      "totalSessions": 1,
+      "totalDurationMs": 84314,
+      "sessions": [
+        {
+          "id": "c69e369b-2748-49ba-b53a-af09d669d782",
+          "title": null,
+          "timestamp": "2026-11-14T23:58:00.047Z",
+          "totalDurationMs": 84314
         }
       ]
     },
@@ -3212,6 +3676,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-38d8",
+      "totalSessions": 1,
+      "totalDurationMs": 83543,
+      "sessions": [
+        {
+          "id": "80205ab7-1d44-4794-8f58-9f7d1ed390b8",
+          "title": null,
+          "timestamp": "2026-11-15T02:34:09.821Z",
+          "totalDurationMs": 83543
+        }
+      ]
+    },
+    {
       "projectName": "input",
       "totalSessions": 1,
       "totalDurationMs": 83447,
@@ -3221,6 +3698,45 @@
           "title": null,
           "timestamp": "2026-11-01T03:08:59.567Z",
           "totalDurationMs": 83447
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-5b3e",
+      "totalSessions": 1,
+      "totalDurationMs": 83137,
+      "sessions": [
+        {
+          "id": "a1442188-0d1b-4b76-a31c-bf98017818e2",
+          "title": null,
+          "timestamp": "2026-11-15T06:07:07.821Z",
+          "totalDurationMs": 83137
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-ddd7",
+      "totalSessions": 1,
+      "totalDurationMs": 81812,
+      "sessions": [
+        {
+          "id": "9df238f7-2e84-4ec4-948d-adbb3bcc047f",
+          "title": null,
+          "timestamp": "2026-11-15T02:52:48.797Z",
+          "totalDurationMs": 81812
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-fc84",
+      "totalSessions": 1,
+      "totalDurationMs": 80848,
+      "sessions": [
+        {
+          "id": "14321b3c-1a40-4e4a-8653-ae21f7d714db",
+          "title": null,
+          "timestamp": "2026-11-15T05:38:12.101Z",
+          "totalDurationMs": 80848
         }
       ]
     },
@@ -3238,6 +3754,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-9d16",
+      "totalSessions": 1,
+      "totalDurationMs": 80666,
+      "sessions": [
+        {
+          "id": "d3b73d30-e464-4858-a693-bf7bcf84e8f9",
+          "title": null,
+          "timestamp": "2026-11-15T06:51:45.410Z",
+          "totalDurationMs": 80666
+        }
+      ]
+    },
+    {
       "projectName": "baseline-review",
       "totalSessions": 1,
       "totalDurationMs": 77644,
@@ -3247,6 +3776,71 @@
           "title": null,
           "timestamp": "2026-11-04T23:43:57.673Z",
           "totalDurationMs": 77644
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-0342",
+      "totalSessions": 1,
+      "totalDurationMs": 75733,
+      "sessions": [
+        {
+          "id": "5d598b51-d6da-4d0b-ad29-f655b5be19c1",
+          "title": null,
+          "timestamp": "2026-11-15T05:51:09.115Z",
+          "totalDurationMs": 75733
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-5144",
+      "totalSessions": 1,
+      "totalDurationMs": 73975,
+      "sessions": [
+        {
+          "id": "8137d25b-bf40-4ccf-8ad0-ffe1f59562a5",
+          "title": null,
+          "timestamp": "2026-11-15T05:43:21.105Z",
+          "totalDurationMs": 73975
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-6442",
+      "totalSessions": 1,
+      "totalDurationMs": 73412,
+      "sessions": [
+        {
+          "id": "fd4d7597-b6c9-4534-9995-5b47429f1d31",
+          "title": null,
+          "timestamp": "2026-11-15T03:50:43.693Z",
+          "totalDurationMs": 73412
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-c7b0",
+      "totalSessions": 1,
+      "totalDurationMs": 72906,
+      "sessions": [
+        {
+          "id": "256dbe6f-a91d-460a-a985-c29033eba04e",
+          "title": null,
+          "timestamp": "2026-11-14T21:06:48.023Z",
+          "totalDurationMs": 72906
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-df8b",
+      "totalSessions": 1,
+      "totalDurationMs": 70243,
+      "sessions": [
+        {
+          "id": "9781b108-6dc2-48f8-974c-443ee3edd62b",
+          "title": null,
+          "timestamp": "2026-11-15T02:12:31.339Z",
+          "totalDurationMs": 70243
         }
       ]
     },
@@ -3264,6 +3858,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-431c",
+      "totalSessions": 1,
+      "totalDurationMs": 68367,
+      "sessions": [
+        {
+          "id": "ee1b941d-5d61-4d05-aea6-a8e386aa5b54",
+          "title": null,
+          "timestamp": "2026-11-15T06:55:10.837Z",
+          "totalDurationMs": 68367
+        }
+      ]
+    },
+    {
       "projectName": "untitled-canvas-673e",
       "totalSessions": 1,
       "totalDurationMs": 67380,
@@ -3277,6 +3884,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-e3fc",
+      "totalSessions": 1,
+      "totalDurationMs": 67124,
+      "sessions": [
+        {
+          "id": "3eacad07-c44a-4ba7-a08a-965c663375e2",
+          "title": null,
+          "timestamp": "2026-11-15T02:20:51.613Z",
+          "totalDurationMs": 67124
+        }
+      ]
+    },
+    {
       "projectName": "batch-01",
       "totalSessions": 1,
       "totalDurationMs": 67012,
@@ -3286,6 +3906,19 @@
           "title": null,
           "timestamp": "2026-11-05T00:37:29.946Z",
           "totalDurationMs": 67012
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-18fa",
+      "totalSessions": 1,
+      "totalDurationMs": 66788,
+      "sessions": [
+        {
+          "id": "c907afac-cc72-4b0e-b696-4672b66053a0",
+          "title": null,
+          "timestamp": "2026-11-14T22:16:00.104Z",
+          "totalDurationMs": 66788
         }
       ]
     },
@@ -3316,6 +3949,84 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-7ca8",
+      "totalSessions": 1,
+      "totalDurationMs": 65567,
+      "sessions": [
+        {
+          "id": "58133591-4f06-4bf4-a223-aa5b0717dbc8",
+          "title": null,
+          "timestamp": "2026-11-15T00:03:29.273Z",
+          "totalDurationMs": 65567
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-c1df",
+      "totalSessions": 1,
+      "totalDurationMs": 65477,
+      "sessions": [
+        {
+          "id": "d42b9aa6-b548-4a6c-ab33-4d6e35bd82cb",
+          "title": null,
+          "timestamp": "2026-11-14T21:31:14.924Z",
+          "totalDurationMs": 65477
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-d638",
+      "totalSessions": 1,
+      "totalDurationMs": 63984,
+      "sessions": [
+        {
+          "id": "00aedeb6-2613-4627-a263-4577df767386",
+          "title": null,
+          "timestamp": "2026-11-14T22:17:36.989Z",
+          "totalDurationMs": 63984
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-0855",
+      "totalSessions": 1,
+      "totalDurationMs": 63073,
+      "sessions": [
+        {
+          "id": "8a9c1698-33c9-4571-8da5-54fd1eca893f",
+          "title": null,
+          "timestamp": "2026-11-15T02:23:19.445Z",
+          "totalDurationMs": 63073
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-40e3",
+      "totalSessions": 1,
+      "totalDurationMs": 62537,
+      "sessions": [
+        {
+          "id": "57efd581-ba84-4cb6-87cb-3eb4558dc3f7",
+          "title": null,
+          "timestamp": "2026-11-15T03:54:04.056Z",
+          "totalDurationMs": 62537
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-8439",
+      "totalSessions": 1,
+      "totalDurationMs": 61573,
+      "sessions": [
+        {
+          "id": "f27bc6cd-4eed-429d-8e11-18733d42d900",
+          "title": null,
+          "timestamp": "2026-11-15T05:54:08.642Z",
+          "totalDurationMs": 61573
+        }
+      ]
+    },
+    {
       "projectName": "phase17",
       "totalSessions": 1,
       "totalDurationMs": 61181,
@@ -3325,6 +4036,19 @@
           "title": null,
           "timestamp": "2026-11-04T21:26:53.709Z",
           "totalDurationMs": 61181
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-80bb",
+      "totalSessions": 1,
+      "totalDurationMs": 60409,
+      "sessions": [
+        {
+          "id": "98184c68-6a5e-4a8f-bc94-2daf33ab09a5",
+          "title": null,
+          "timestamp": "2026-11-15T05:32:06.271Z",
+          "totalDurationMs": 60409
         }
       ]
     },
@@ -3342,6 +4066,45 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-3199",
+      "totalSessions": 1,
+      "totalDurationMs": 59459,
+      "sessions": [
+        {
+          "id": "3edec382-744c-406f-a163-39e4b846b431",
+          "title": null,
+          "timestamp": "2026-11-15T03:42:08.108Z",
+          "totalDurationMs": 59459
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-a134",
+      "totalSessions": 1,
+      "totalDurationMs": 59434,
+      "sessions": [
+        {
+          "id": "38c4e9ed-274e-4fed-99cb-b1925bf7a5d0",
+          "title": null,
+          "timestamp": "2026-11-15T04:22:35.515Z",
+          "totalDurationMs": 59434
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-bb2c",
+      "totalSessions": 1,
+      "totalDurationMs": 59011,
+      "sessions": [
+        {
+          "id": "fd4c6dbd-0077-4285-a7dd-b76d8ac2859d",
+          "title": null,
+          "timestamp": "2026-11-14T22:34:08.907Z",
+          "totalDurationMs": 59011
+        }
+      ]
+    },
+    {
       "projectName": "untitled-canvas-90ec",
       "totalSessions": 1,
       "totalDurationMs": 59002,
@@ -3351,6 +4114,32 @@
           "title": null,
           "timestamp": "2026-11-14T19:57:22.561Z",
           "totalDurationMs": 59002
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-71ea",
+      "totalSessions": 1,
+      "totalDurationMs": 58474,
+      "sessions": [
+        {
+          "id": "75dd5b51-873b-43ac-903f-99cea6bb9bc9",
+          "title": null,
+          "timestamp": "2026-11-14T21:28:06.889Z",
+          "totalDurationMs": 58474
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-ad19",
+      "totalSessions": 1,
+      "totalDurationMs": 58331,
+      "sessions": [
+        {
+          "id": "d4259216-acbc-4bfe-8ef8-56694ad54334",
+          "title": null,
+          "timestamp": "2026-11-15T06:47:57.163Z",
+          "totalDurationMs": 58331
         }
       ]
     },
@@ -3381,6 +4170,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-33f9",
+      "totalSessions": 1,
+      "totalDurationMs": 56487,
+      "sessions": [
+        {
+          "id": "92e47f9d-fcd4-4259-8ee1-bcc4517c38d7",
+          "title": null,
+          "timestamp": "2026-11-15T07:24:46.602Z",
+          "totalDurationMs": 56487
+        }
+      ]
+    },
+    {
       "projectName": "batch-020",
       "totalSessions": 1,
       "totalDurationMs": 56465,
@@ -3390,6 +4192,19 @@
           "title": null,
           "timestamp": "2026-11-05T17:40:08.175Z",
           "totalDurationMs": 56465
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-5227",
+      "totalSessions": 1,
+      "totalDurationMs": 56087,
+      "sessions": [
+        {
+          "id": "d6d6851a-f5d3-4c91-a8c1-56e4515c841c",
+          "title": null,
+          "timestamp": "2026-11-15T05:49:31.534Z",
+          "totalDurationMs": 56087
         }
       ]
     },
@@ -3498,6 +4313,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-cc68",
+      "totalSessions": 1,
+      "totalDurationMs": 53118,
+      "sessions": [
+        {
+          "id": "44a1cf71-e878-44aa-acc5-58b43862ae6b",
+          "title": null,
+          "timestamp": "2026-11-15T03:41:09.845Z",
+          "totalDurationMs": 53118
+        }
+      ]
+    },
+    {
       "projectName": "batch-002",
       "totalSessions": 1,
       "totalDurationMs": 52073,
@@ -3507,6 +4335,19 @@
           "title": null,
           "timestamp": "2026-11-05T16:44:17.084Z",
           "totalDurationMs": 52073
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-de6d",
+      "totalSessions": 1,
+      "totalDurationMs": 51672,
+      "sessions": [
+        {
+          "id": "0dc6d5e1-5c31-47fe-9e5c-62b2b2624561",
+          "title": null,
+          "timestamp": "2026-11-14T23:59:33.362Z",
+          "totalDurationMs": 51672
         }
       ]
     },
@@ -3550,6 +4391,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-6776",
+      "totalSessions": 1,
+      "totalDurationMs": 51119,
+      "sessions": [
+        {
+          "id": "fb0b914f-4d46-47fc-baa5-1b1a7ece4403",
+          "title": null,
+          "timestamp": "2026-11-15T03:49:46.430Z",
+          "totalDurationMs": 51119
+        }
+      ]
+    },
+    {
       "projectName": "untitled-cd77",
       "totalSessions": 1,
       "totalDurationMs": 50710,
@@ -3559,6 +4413,32 @@
           "title": null,
           "timestamp": "2026-11-13T19:56:33.730Z",
           "totalDurationMs": 50710
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-2203",
+      "totalSessions": 1,
+      "totalDurationMs": 50545,
+      "sessions": [
+        {
+          "id": "88ae5ffa-746a-4676-a17c-bb0ce3a130ad",
+          "title": null,
+          "timestamp": "2026-11-15T05:45:35.199Z",
+          "totalDurationMs": 50545
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-e92b",
+      "totalSessions": 1,
+      "totalDurationMs": 49997,
+      "sessions": [
+        {
+          "id": "e360eb1a-fa28-4511-aefd-41d6e7e5606a",
+          "title": null,
+          "timestamp": "2026-11-15T03:21:23.501Z",
+          "totalDurationMs": 49997
         }
       ]
     },
@@ -3615,6 +4495,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-b770",
+      "totalSessions": 1,
+      "totalDurationMs": 48871,
+      "sessions": [
+        {
+          "id": "7741b848-a3b5-4b7a-a127-d273597298d7",
+          "title": null,
+          "timestamp": "2026-11-15T00:23:24.910Z",
+          "totalDurationMs": 48871
+        }
+      ]
+    },
+    {
       "projectName": "untitled-46f4",
       "totalSessions": 1,
       "totalDurationMs": 48567,
@@ -3641,6 +4534,58 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-f0a1",
+      "totalSessions": 1,
+      "totalDurationMs": 48253,
+      "sessions": [
+        {
+          "id": "fb35c0c4-e3d7-4829-98e5-840fe82847da",
+          "title": null,
+          "timestamp": "2026-11-15T06:09:29.771Z",
+          "totalDurationMs": 48253
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-3b72",
+      "totalSessions": 1,
+      "totalDurationMs": 48130,
+      "sessions": [
+        {
+          "id": "3b439faa-e7c6-4d86-853f-71ede1fb9b04",
+          "title": null,
+          "timestamp": "2026-11-15T06:23:00.351Z",
+          "totalDurationMs": 48130
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-c7d4",
+      "totalSessions": 1,
+      "totalDurationMs": 47822,
+      "sessions": [
+        {
+          "id": "71259410-d78e-4bc5-b4ba-ebfcf648af2c",
+          "title": null,
+          "timestamp": "2026-11-15T07:13:53.627Z",
+          "totalDurationMs": 47822
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-a251",
+      "totalSessions": 1,
+      "totalDurationMs": 47778,
+      "sessions": [
+        {
+          "id": "0aa6a747-4407-48fc-acbe-58c1c405c210",
+          "title": null,
+          "timestamp": "2026-11-14T21:26:20.777Z",
+          "totalDurationMs": 47778
+        }
+      ]
+    },
+    {
       "projectName": "batch-001",
       "totalSessions": 1,
       "totalDurationMs": 47628,
@@ -3650,6 +4595,32 @@
           "title": null,
           "timestamp": "2026-11-05T17:35:43.551Z",
           "totalDurationMs": 47628
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-57c1",
+      "totalSessions": 1,
+      "totalDurationMs": 47439,
+      "sessions": [
+        {
+          "id": "b8b51876-1ec4-4607-8f86-dcf9741c5024",
+          "title": null,
+          "timestamp": "2026-11-15T03:22:35.652Z",
+          "totalDurationMs": 47439
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-c39d",
+      "totalSessions": 1,
+      "totalDurationMs": 47382,
+      "sessions": [
+        {
+          "id": "284d3695-8ba6-4705-a88f-3b6d571c028d",
+          "title": null,
+          "timestamp": "2026-11-15T03:48:46.796Z",
+          "totalDurationMs": 47382
         }
       ]
     },
@@ -3693,6 +4664,32 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-ad36",
+      "totalSessions": 1,
+      "totalDurationMs": 46971,
+      "sessions": [
+        {
+          "id": "7f1a55b7-5fe0-4819-a62f-cf72f8c98d16",
+          "title": null,
+          "timestamp": "2026-11-14T23:48:27.523Z",
+          "totalDurationMs": 46971
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-06d5",
+      "totalSessions": 1,
+      "totalDurationMs": 46712,
+      "sessions": [
+        {
+          "id": "ac88469c-35e8-49b8-8fd0-6656b1fab878",
+          "title": null,
+          "timestamp": "2026-11-15T03:15:49.430Z",
+          "totalDurationMs": 46712
+        }
+      ]
+    },
+    {
       "projectName": "batch-01",
       "totalSessions": 1,
       "totalDurationMs": 46259,
@@ -3719,6 +4716,32 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-7255",
+      "totalSessions": 1,
+      "totalDurationMs": 46239,
+      "sessions": [
+        {
+          "id": "dc5bd9f5-0370-4bdd-838f-7deba9bf0f33",
+          "title": null,
+          "timestamp": "2026-11-15T02:20:02.400Z",
+          "totalDurationMs": 46239
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-6103",
+      "totalSessions": 1,
+      "totalDurationMs": 46017,
+      "sessions": [
+        {
+          "id": "93fbf1b1-0c7a-4b42-beb9-80f91bf0bbc9",
+          "title": null,
+          "timestamp": "2026-11-15T05:53:17.150Z",
+          "totalDurationMs": 46017
+        }
+      ]
+    },
+    {
       "projectName": "batch-006",
       "totalSessions": 1,
       "totalDurationMs": 45644,
@@ -3728,6 +4751,19 @@
           "title": null,
           "timestamp": "2026-11-05T16:45:48.516Z",
           "totalDurationMs": 45644
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-9458",
+      "totalSessions": 1,
+      "totalDurationMs": 45527,
+      "sessions": [
+        {
+          "id": "65f16df9-e556-414b-99fb-514977fefa75",
+          "title": null,
+          "timestamp": "2026-11-14T22:09:05.021Z",
+          "totalDurationMs": 45527
         }
       ]
     },
@@ -3784,6 +4820,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-8a97",
+      "totalSessions": 1,
+      "totalDurationMs": 44603,
+      "sessions": [
+        {
+          "id": "85bbde45-2a11-4e47-9922-9e1dd5dcb4b0",
+          "title": null,
+          "timestamp": "2026-11-15T03:45:38.128Z",
+          "totalDurationMs": 44603
+        }
+      ]
+    },
+    {
       "projectName": "batch-009",
       "totalSessions": 1,
       "totalDurationMs": 44202,
@@ -3793,6 +4842,45 @@
           "title": null,
           "timestamp": "2026-11-05T17:37:52.994Z",
           "totalDurationMs": 44202
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-b0b7",
+      "totalSessions": 1,
+      "totalDurationMs": 44140,
+      "sessions": [
+        {
+          "id": "9397977d-7dd7-44b2-a7c4-5901ceb68646",
+          "title": null,
+          "timestamp": "2026-11-15T02:22:32.990Z",
+          "totalDurationMs": 44140
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-38bf",
+      "totalSessions": 1,
+      "totalDurationMs": 44131,
+      "sessions": [
+        {
+          "id": "174e227d-a43d-4ec9-b1e2-61b071042f70",
+          "title": null,
+          "timestamp": "2026-11-14T23:54:46.842Z",
+          "totalDurationMs": 44131
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-3577",
+      "totalSessions": 1,
+      "totalDurationMs": 43970,
+      "sessions": [
+        {
+          "id": "286bceea-a449-49be-8126-648b9b98c600",
+          "title": null,
+          "timestamp": "2026-11-15T07:24:00.144Z",
+          "totalDurationMs": 43970
         }
       ]
     },
@@ -3819,6 +4907,19 @@
           "title": null,
           "timestamp": "2026-11-05T17:25:54.200Z",
           "totalDurationMs": 43852
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-e597",
+      "totalSessions": 1,
+      "totalDurationMs": 43837,
+      "sessions": [
+        {
+          "id": "a11c99a3-98b2-4fc5-816a-092e29b4b2a1",
+          "title": null,
+          "timestamp": "2026-11-15T03:53:17.331Z",
+          "totalDurationMs": 43837
         }
       ]
     },
@@ -3858,6 +4959,19 @@
           "title": null,
           "timestamp": "2026-11-13T20:10:21.836Z",
           "totalDurationMs": 42253
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-b77a",
+      "totalSessions": 1,
+      "totalDurationMs": 42001,
+      "sessions": [
+        {
+          "id": "b77aefcf-02ad-4b21-9b67-861c28cc9b88",
+          "title": null,
+          "timestamp": "2026-11-15T00:09:35.565Z",
+          "totalDurationMs": 42001
         }
       ]
     },
@@ -3953,6 +5067,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-88b2",
+      "totalSessions": 1,
+      "totalDurationMs": 40377,
+      "sessions": [
+        {
+          "id": "fc4d88cf-6033-4e7e-91aa-98c2e11fd884",
+          "title": null,
+          "timestamp": "2026-11-15T06:47:14.194Z",
+          "totalDurationMs": 40377
+        }
+      ]
+    },
+    {
       "projectName": "batch-01",
       "totalSessions": 1,
       "totalDurationMs": 40152,
@@ -3962,6 +5089,19 @@
           "title": null,
           "timestamp": "2026-11-05T01:28:15.447Z",
           "totalDurationMs": 40152
+        }
+      ]
+    },
+    {
+      "projectName": "without-the-layer-9d0b",
+      "totalSessions": 1,
+      "totalDurationMs": 39546,
+      "sessions": [
+        {
+          "id": "e1cf3e11-e4a8-4785-ab7d-69cd8d66b99f",
+          "title": null,
+          "timestamp": "2026-11-15T03:43:13.304Z",
+          "totalDurationMs": 39546
         }
       ]
     },
@@ -3979,6 +5119,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-e960",
+      "totalSessions": 1,
+      "totalDurationMs": 39416,
+      "sessions": [
+        {
+          "id": "01daf7d3-dc3d-46db-bac6-723c8e800157",
+          "title": null,
+          "timestamp": "2026-11-15T06:10:24.548Z",
+          "totalDurationMs": 39416
+        }
+      ]
+    },
+    {
       "projectName": "batch-023",
       "totalSessions": 1,
       "totalDurationMs": 39315,
@@ -3988,6 +5141,32 @@
           "title": null,
           "timestamp": "2026-11-05T17:41:05.367Z",
           "totalDurationMs": 39315
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-e701",
+      "totalSessions": 1,
+      "totalDurationMs": 38794,
+      "sessions": [
+        {
+          "id": "e495e7f3-47a5-4c6e-986b-f59c68c86cba",
+          "title": null,
+          "timestamp": "2026-11-15T02:11:49.327Z",
+          "totalDurationMs": 38794
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-820b",
+      "totalSessions": 1,
+      "totalDurationMs": 38757,
+      "sessions": [
+        {
+          "id": "92d5b7d9-b92a-4671-bbdf-e4a015649224",
+          "title": null,
+          "timestamp": "2026-11-15T05:48:50.275Z",
+          "totalDurationMs": 38757
         }
       ]
     },
@@ -4018,6 +5197,19 @@
       ]
     },
     {
+      "projectName": "without-the-layer-681a",
+      "totalSessions": 1,
+      "totalDurationMs": 37621,
+      "sessions": [
+        {
+          "id": "041bb595-10dc-4553-844d-d2148ac028be",
+          "title": null,
+          "timestamp": "2026-11-14T23:55:36.580Z",
+          "totalDurationMs": 37621
+        }
+      ]
+    },
+    {
       "projectName": "batch-022",
       "totalSessions": 1,
       "totalDurationMs": 37573,
@@ -4031,6 +5223,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-4149",
+      "totalSessions": 1,
+      "totalDurationMs": 37570,
+      "sessions": [
+        {
+          "id": "032c0572-31b5-4699-b6f1-22204db3a9d7",
+          "title": null,
+          "timestamp": "2026-11-14T21:13:18.520Z",
+          "totalDurationMs": 37570
+        }
+      ]
+    },
+    {
       "projectName": "batch-02",
       "totalSessions": 1,
       "totalDurationMs": 37295,
@@ -4040,6 +5245,19 @@
           "title": null,
           "timestamp": "2026-11-05T01:28:15.483Z",
           "totalDurationMs": 37295
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-200e",
+      "totalSessions": 1,
+      "totalDurationMs": 37057,
+      "sessions": [
+        {
+          "id": "d6d6cf63-0ca4-4a73-8b22-7eeeb6865058",
+          "title": null,
+          "timestamp": "2026-11-15T04:02:09.491Z",
+          "totalDurationMs": 37057
         }
       ]
     },
@@ -4079,6 +5297,19 @@
           "title": null,
           "timestamp": "2026-11-05T17:39:23.797Z",
           "totalDurationMs": 36365
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-93bd",
+      "totalSessions": 1,
+      "totalDurationMs": 36086,
+      "sessions": [
+        {
+          "id": "bedfbc5d-1537-415f-add2-13dc704f035a",
+          "title": null,
+          "timestamp": "2026-11-14T23:54:01.760Z",
+          "totalDurationMs": 36086
         }
       ]
     },
@@ -4179,6 +5410,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-ad18",
+      "totalSessions": 1,
+      "totalDurationMs": 34394,
+      "sessions": [
+        {
+          "id": "97a3f870-cbcc-46ef-b537-88757ed0ca26",
+          "title": null,
+          "timestamp": "2026-11-14T22:33:26.649Z",
+          "totalDurationMs": 34394
+        }
+      ]
+    },
+    {
       "projectName": "batch-013",
       "totalSessions": 1,
       "totalDurationMs": 34378,
@@ -4188,6 +5432,19 @@
           "title": null,
           "timestamp": "2026-11-05T17:38:39.253Z",
           "totalDurationMs": 34378
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-3e38",
+      "totalSessions": 1,
+      "totalDurationMs": 34336,
+      "sessions": [
+        {
+          "id": "f6e003fa-5406-45e6-afb6-947b6d7a1645",
+          "title": null,
+          "timestamp": "2026-11-15T05:27:27.933Z",
+          "totalDurationMs": 34336
         }
       ]
     },
@@ -4227,6 +5484,19 @@
           "title": null,
           "timestamp": "2026-11-09T18:52:19.364Z",
           "totalDurationMs": 32439
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-e6a6",
+      "totalSessions": 1,
+      "totalDurationMs": 32116,
+      "sessions": [
+        {
+          "id": "7096cc40-fd9f-488b-9663-0e421e35af10",
+          "title": null,
+          "timestamp": "2026-11-15T05:25:59.679Z",
+          "totalDurationMs": 32116
         }
       ]
     },
@@ -4374,6 +5644,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-f42e",
+      "totalSessions": 1,
+      "totalDurationMs": 29088,
+      "sessions": [
+        {
+          "id": "f7b0de03-238a-43ec-b21c-9acfa535cdeb",
+          "title": null,
+          "timestamp": "2026-11-14T21:11:35.821Z",
+          "totalDurationMs": 29088
+        }
+      ]
+    },
+    {
       "projectName": "320",
       "totalSessions": 1,
       "totalDurationMs": 28963,
@@ -4452,6 +5735,32 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-0078",
+      "totalSessions": 1,
+      "totalDurationMs": 28316,
+      "sessions": [
+        {
+          "id": "fe7156a7-5279-4d2f-8b1b-c770bc1dcc8d",
+          "title": null,
+          "timestamp": "2026-11-14T23:01:18.355Z",
+          "totalDurationMs": 28316
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-5fcd",
+      "totalSessions": 1,
+      "totalDurationMs": 28156,
+      "sessions": [
+        {
+          "id": "bb17d76f-db71-4396-8f98-85503dc3a1c0",
+          "title": null,
+          "timestamp": "2026-11-15T07:20:52.686Z",
+          "totalDurationMs": 28156
+        }
+      ]
+    },
+    {
       "projectName": "untitled-canvas-351b",
       "totalSessions": 1,
       "totalDurationMs": 28106,
@@ -4513,6 +5822,19 @@
           "title": null,
           "timestamp": "2026-11-09T18:49:54.735Z",
           "totalDurationMs": 27721
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-16c7",
+      "totalSessions": 1,
+      "totalDurationMs": 27608,
+      "sessions": [
+        {
+          "id": "3a8d47d8-1084-485f-ace1-e455473e6e4a",
+          "title": null,
+          "timestamp": "2026-11-15T00:01:03.057Z",
+          "totalDurationMs": 27608
         }
       ]
     },
@@ -4608,6 +5930,45 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-09da",
+      "totalSessions": 1,
+      "totalDurationMs": 25602,
+      "sessions": [
+        {
+          "id": "ef82c62d-d703-44e4-8554-15190c9dae83",
+          "title": null,
+          "timestamp": "2026-11-15T05:35:26.814Z",
+          "totalDurationMs": 25602
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-04cb",
+      "totalSessions": 1,
+      "totalDurationMs": 25415,
+      "sessions": [
+        {
+          "id": "32266009-e481-4590-a5e7-60410cd67283",
+          "title": null,
+          "timestamp": "2026-11-15T03:23:35.545Z",
+          "totalDurationMs": 25415
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-c684",
+      "totalSessions": 1,
+      "totalDurationMs": 25233,
+      "sessions": [
+        {
+          "id": "e5dfad21-7354-42f9-817e-b1ff7a3b0b15",
+          "title": null,
+          "timestamp": "2026-11-15T05:29:25.637Z",
+          "totalDurationMs": 25233
+        }
+      ]
+    },
+    {
       "projectName": "60",
       "totalSessions": 1,
       "totalDurationMs": 25160,
@@ -4656,6 +6017,58 @@
           "title": null,
           "timestamp": "2026-11-09T18:52:48.464Z",
           "totalDurationMs": 24718
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-dbf4",
+      "totalSessions": 1,
+      "totalDurationMs": 24594,
+      "sessions": [
+        {
+          "id": "25a4e444-bc06-4b14-b778-4e5db5784e57",
+          "title": null,
+          "timestamp": "2026-11-14T21:23:29.353Z",
+          "totalDurationMs": 24594
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-77b5",
+      "totalSessions": 1,
+      "totalDurationMs": 24316,
+      "sessions": [
+        {
+          "id": "0747c73e-a2a9-4449-b0a5-dfb86893e571",
+          "title": null,
+          "timestamp": "2026-11-15T03:46:49.038Z",
+          "totalDurationMs": 24316
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-6940",
+      "totalSessions": 1,
+      "totalDurationMs": 23540,
+      "sessions": [
+        {
+          "id": "f86fc8fc-cc33-4d15-86ea-4847ed828f7d",
+          "title": null,
+          "timestamp": "2026-11-14T21:10:57.205Z",
+          "totalDurationMs": 23540
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-272d",
+      "totalSessions": 1,
+      "totalDurationMs": 23083,
+      "sessions": [
+        {
+          "id": "80274b51-b15f-4ebd-bff3-be2e244b36ec",
+          "title": null,
+          "timestamp": "2026-11-15T05:46:31.235Z",
+          "totalDurationMs": 23083
         }
       ]
     },
@@ -4725,6 +6138,45 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-d73c",
+      "totalSessions": 1,
+      "totalDurationMs": 20008,
+      "sessions": [
+        {
+          "id": "d4b5463b-0561-4e24-bab1-23efb2adf58b",
+          "title": null,
+          "timestamp": "2026-11-15T06:21:51.898Z",
+          "totalDurationMs": 20008
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-9014",
+      "totalSessions": 1,
+      "totalDurationMs": 19942,
+      "sessions": [
+        {
+          "id": "2b459671-883b-4b3c-88f8-c5ff7c03c0a9",
+          "title": null,
+          "timestamp": "2026-11-14T21:09:51.569Z",
+          "totalDurationMs": 19942
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-f0dc",
+      "totalSessions": 1,
+      "totalDurationMs": 19730,
+      "sessions": [
+        {
+          "id": "338af11b-2fd1-49cc-ac85-48d3996dfbf3",
+          "title": null,
+          "timestamp": "2026-11-14T21:00:19.994Z",
+          "totalDurationMs": 19730
+        }
+      ]
+    },
+    {
       "projectName": "untitled-6e5a",
       "totalSessions": 1,
       "totalDurationMs": 19627,
@@ -4751,6 +6203,32 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-fda5",
+      "totalSessions": 1,
+      "totalDurationMs": 18873,
+      "sessions": [
+        {
+          "id": "e7ecf82d-32b1-458c-b0da-a54caee84a42",
+          "title": null,
+          "timestamp": "2026-11-14T22:08:10.800Z",
+          "totalDurationMs": 18873
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-dfcb",
+      "totalSessions": 1,
+      "totalDurationMs": 18817,
+      "sessions": [
+        {
+          "id": "01bf8144-2103-4272-a179-06905287bdca",
+          "title": null,
+          "timestamp": "2026-11-15T00:04:59.350Z",
+          "totalDurationMs": 18817
+        }
+      ]
+    },
+    {
       "projectName": "untitled-66c3",
       "totalSessions": 1,
       "totalDurationMs": 18471,
@@ -4764,6 +6242,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-547b",
+      "totalSessions": 1,
+      "totalDurationMs": 18352,
+      "sessions": [
+        {
+          "id": "fcdd0991-05d4-45e3-904f-ffd2d0584fe1",
+          "title": null,
+          "timestamp": "2026-11-14T21:01:06.312Z",
+          "totalDurationMs": 18352
+        }
+      ]
+    },
+    {
       "projectName": "untitled-canvas-3c3d",
       "totalSessions": 1,
       "totalDurationMs": 18234,
@@ -4773,6 +6264,45 @@
           "title": null,
           "timestamp": "2026-11-14T20:56:08.814Z",
           "totalDurationMs": 18234
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-5a32",
+      "totalSessions": 1,
+      "totalDurationMs": 17903,
+      "sessions": [
+        {
+          "id": "19eb21ab-d1c2-47b8-a8c5-0d7b83a12e04",
+          "title": null,
+          "timestamp": "2026-11-14T21:08:26.134Z",
+          "totalDurationMs": 17903
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-c034",
+      "totalSessions": 1,
+      "totalDurationMs": 17838,
+      "sessions": [
+        {
+          "id": "a5cb6dc6-2955-4ffd-8f28-07715cb5792c",
+          "title": null,
+          "timestamp": "2026-11-14T21:06:13.212Z",
+          "totalDurationMs": 17838
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-c7d8",
+      "totalSessions": 1,
+      "totalDurationMs": 17789,
+      "sessions": [
+        {
+          "id": "a5d68a54-6c38-4d19-9d9d-abebe7b3e5e4",
+          "title": null,
+          "timestamp": "2026-11-15T07:12:47.887Z",
+          "totalDurationMs": 17789
         }
       ]
     },
@@ -4799,6 +6329,19 @@
           "title": null,
           "timestamp": "2026-11-13T19:17:43.919Z",
           "totalDurationMs": 16952
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-7259",
+      "totalSessions": 1,
+      "totalDurationMs": 16911,
+      "sessions": [
+        {
+          "id": "b335fa24-24ff-4c1d-8f18-e7963941c0ff",
+          "title": null,
+          "timestamp": "2026-11-14T21:01:45.388Z",
+          "totalDurationMs": 16911
         }
       ]
     },
@@ -4894,19 +6437,6 @@
       ]
     },
     {
-      "projectName": "demo-a774",
-      "totalSessions": 1,
-      "totalDurationMs": 15470,
-      "sessions": [
-        {
-          "id": "e512ce72-89fa-46be-8f72-f139e6bab71a",
-          "title": null,
-          "timestamp": "2026-11-13T17:12:44.031Z",
-          "totalDurationMs": 15470
-        }
-      ]
-    },
-    {
       "projectName": "without-the-layer-5420",
       "totalSessions": 1,
       "totalDurationMs": 15441,
@@ -4985,6 +6515,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-0a7d",
+      "totalSessions": 1,
+      "totalDurationMs": 14176,
+      "sessions": [
+        {
+          "id": "82672154-575c-48a6-acc6-a38ce9077c24",
+          "title": null,
+          "timestamp": "2026-11-15T06:44:34.005Z",
+          "totalDurationMs": 14176
+        }
+      ]
+    },
+    {
       "projectName": "5",
       "totalSessions": 1,
       "totalDurationMs": 14104,
@@ -5033,6 +6576,31 @@
           "title": null,
           "timestamp": "2026-11-09T19:07:16.120Z",
           "totalDurationMs": 13717
+        }
+      ]
+    },
+    {
+      "projectName": "hdr",
+      "totalSessions": 3,
+      "totalDurationMs": 13593,
+      "sessions": [
+        {
+          "id": "def73b93-bd7a-4c81-a0b7-4bc1d6c16149",
+          "title": null,
+          "timestamp": "2026-11-14T22:13:06.893Z",
+          "totalDurationMs": 4510
+        },
+        {
+          "id": "1b130b47-9b51-4b37-a96b-690bb580c92b",
+          "title": null,
+          "timestamp": "2026-11-14T22:12:49.583Z",
+          "totalDurationMs": 4392
+        },
+        {
+          "id": "5ba15c15-754b-4f13-8958-415a5ed66635",
+          "title": null,
+          "timestamp": "2026-11-14T22:12:28.986Z",
+          "totalDurationMs": 4691
         }
       ]
     },
@@ -5231,6 +6799,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-682b",
+      "totalSessions": 1,
+      "totalDurationMs": 10718,
+      "sessions": [
+        {
+          "id": "af49e595-e37d-43e6-a001-0a0e65476381",
+          "title": null,
+          "timestamp": "2026-11-14T23:49:20.435Z",
+          "totalDurationMs": 10718
+        }
+      ]
+    },
+    {
       "projectName": "2",
       "totalSessions": 1,
       "totalDurationMs": 10556,
@@ -5240,6 +6821,19 @@
           "title": null,
           "timestamp": "2026-11-09T19:03:51.678Z",
           "totalDurationMs": 10556
+        }
+      ]
+    },
+    {
+      "projectName": "outside-agent-Y65ZGo",
+      "totalSessions": 1,
+      "totalDurationMs": 10313,
+      "sessions": [
+        {
+          "id": "7a28440c-2692-4701-a419-3eb4c44ae08c",
+          "title": null,
+          "timestamp": "2026-11-14T23:49:29.292Z",
+          "totalDurationMs": 10313
         }
       ]
     },
@@ -5315,6 +6909,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-3bcf",
+      "totalSessions": 1,
+      "totalDurationMs": 9778,
+      "sessions": [
+        {
+          "id": "aa48e511-479f-4b96-ab68-77d5cb6b429a",
+          "title": null,
+          "timestamp": "2026-11-15T03:52:22.357Z",
+          "totalDurationMs": 9778
+        }
+      ]
+    },
+    {
       "projectName": "13",
       "totalSessions": 1,
       "totalDurationMs": 9721,
@@ -5380,6 +6987,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-5d9d",
+      "totalSessions": 1,
+      "totalDurationMs": 9278,
+      "sessions": [
+        {
+          "id": "9e392db4-7d41-40c8-ac3f-929c4f5d83d9",
+          "title": null,
+          "timestamp": "2026-11-14T22:18:54.611Z",
+          "totalDurationMs": 9278
+        }
+      ]
+    },
+    {
       "projectName": "9",
       "totalSessions": 1,
       "totalDurationMs": 9174,
@@ -5402,6 +7022,19 @@
           "title": null,
           "timestamp": "2026-11-09T19:09:55.713Z",
           "totalDurationMs": 8773
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-12e2",
+      "totalSessions": 1,
+      "totalDurationMs": 8693,
+      "sessions": [
+        {
+          "id": "f8525a83-b790-4020-b295-01c624efcaca",
+          "title": null,
+          "timestamp": "2026-11-14T22:57:29.816Z",
+          "totalDurationMs": 8693
         }
       ]
     },
@@ -5458,6 +7091,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-9861",
+      "totalSessions": 1,
+      "totalDurationMs": 8215,
+      "sessions": [
+        {
+          "id": "3fe18855-8334-405b-b8d6-08dd5bfad5f5",
+          "title": null,
+          "timestamp": "2026-11-14T23:56:34.421Z",
+          "totalDurationMs": 8215
+        }
+      ]
+    },
+    {
       "projectName": "9",
       "totalSessions": 1,
       "totalDurationMs": 8201,
@@ -5484,6 +7130,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-9528",
+      "totalSessions": 1,
+      "totalDurationMs": 8099,
+      "sessions": [
+        {
+          "id": "0a7b49e3-472c-451e-9add-0bc514836124",
+          "title": null,
+          "timestamp": "2026-11-15T00:08:30.982Z",
+          "totalDurationMs": 8099
+        }
+      ]
+    },
+    {
       "projectName": "22",
       "totalSessions": 1,
       "totalDurationMs": 8034,
@@ -5493,6 +7152,19 @@
           "title": null,
           "timestamp": "2026-11-09T19:10:09.771Z",
           "totalDurationMs": 8034
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-873f",
+      "totalSessions": 1,
+      "totalDurationMs": 8013,
+      "sessions": [
+        {
+          "id": "441fe37d-ece2-4a1a-b5a7-ca1f56a4c6f3",
+          "title": null,
+          "timestamp": "2026-11-14T22:30:44.819Z",
+          "totalDurationMs": 8013
         }
       ]
     },
@@ -5519,6 +7191,19 @@
           "title": null,
           "timestamp": "2026-11-09T19:09:31.889Z",
           "totalDurationMs": 7927
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-d400",
+      "totalSessions": 1,
+      "totalDurationMs": 7921,
+      "sessions": [
+        {
+          "id": "860858ff-6990-4cd2-8a0e-b9f7ca5eeb55",
+          "title": null,
+          "timestamp": "2026-11-14T22:10:20.871Z",
+          "totalDurationMs": 7921
         }
       ]
     },
@@ -5610,6 +7295,19 @@
           "title": null,
           "timestamp": "2026-11-09T19:04:47.862Z",
           "totalDurationMs": 7405
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-c890",
+      "totalSessions": 1,
+      "totalDurationMs": 7350,
+      "sessions": [
+        {
+          "id": "2c884743-25a0-49cf-8d45-2668692cec9c",
+          "title": null,
+          "timestamp": "2026-11-15T04:00:37.363Z",
+          "totalDurationMs": 7350
         }
       ]
     },
@@ -5821,6 +7519,19 @@
       ]
     },
     {
+      "projectName": "studio-plain-claude-qDToQ4",
+      "totalSessions": 1,
+      "totalDurationMs": 4733,
+      "sessions": [
+        {
+          "id": "dd8a970f-7e07-42a7-a9ee-353425fea11d",
+          "title": null,
+          "timestamp": "2026-11-14T21:23:23.316Z",
+          "totalDurationMs": 4733
+        }
+      ]
+    },
+    {
       "projectName": "untitled-8577",
       "totalSessions": 1,
       "totalDurationMs": 4684,
@@ -5912,6 +7623,19 @@
       ]
     },
     {
+      "projectName": "studio-plain-claude-SNZ1wi",
+      "totalSessions": 1,
+      "totalDurationMs": 4257,
+      "sessions": [
+        {
+          "id": "9c62daa5-926b-45db-96aa-b24699ce5345",
+          "title": null,
+          "timestamp": "2026-11-14T23:01:12.349Z",
+          "totalDurationMs": 4257
+        }
+      ]
+    },
+    {
       "projectName": "untitled-0e8b",
       "totalSessions": 1,
       "totalDurationMs": 4256,
@@ -5934,6 +7658,19 @@
           "title": null,
           "timestamp": "2026-11-14T20:02:01.512Z",
           "totalDurationMs": 4225
+        }
+      ]
+    },
+    {
+      "projectName": "studio-plain-claude-kO9nBV",
+      "totalSessions": 1,
+      "totalDurationMs": 3994,
+      "sessions": [
+        {
+          "id": "49453ff7-7186-4529-a44a-1941bf226fac",
+          "title": null,
+          "timestamp": "2026-11-15T00:00:51.819Z",
+          "totalDurationMs": 3994
         }
       ]
     },
@@ -6088,13 +7825,17 @@
     }
   ],
   "activity": {
+    "2026-11-15": {
+      "sessions": 122,
+      "durationMs": 41891434
+    },
     "2026-11-14": {
-      "sessions": 104,
-      "durationMs": 46115378
+      "sessions": 175,
+      "durationMs": 64772305
     },
     "2026-11-13": {
       "sessions": 63,
-      "durationMs": 301357581
+      "durationMs": 715338775
     },
     "2026-11-12": {
       "sessions": 1,
@@ -6258,27 +7999,27 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 979122,
-    "outputTokens": 81801016,
-    "cacheReadTokens": 13092764701,
-    "cacheCreationTokens": 334626443
+    "inputTokens": 994918,
+    "outputTokens": 87450788,
+    "cacheReadTokens": 14658618297,
+    "cacheCreationTokens": 361427205
   },
   "toolUsage": {
-    "Bash": 21463,
-    "Read": 11234,
-    "Write": 2353,
-    "ToolSearch": 361,
+    "Bash": 23375,
+    "Read": 11571,
+    "Skill": 61,
+    "Write": 2695,
+    "ToolSearch": 615,
+    "mcp__t3-code__t3_background_wait": 193,
+    "TaskStop": 77,
+    "WebFetch": 313,
+    "Monitor": 62,
+    "Edit": 2671,
     "mcp__t3-code__link_pull_request": 33,
-    "Edit": 2097,
-    "mcp__t3-code__t3_background_wait": 107,
-    "TaskStop": 71,
-    "Monitor": 56,
-    "WebFetch": 304,
     "mcp__t3-code__t3_thread_search": 1,
     "mcp__t3-code__t3_thread_read": 6,
     "WebSearch": 181,
-    "Skill": 60,
-    "Agent": 307,
+    "Agent": 415,
     "mcp__production-postgres-readonly__execute_sql": 132,
     "mcp__production-postgres-readonly__list_tables": 9,
     "Artifact": 39,
@@ -6287,26 +8028,27 @@
     "mcp__claude_ai_Notion__notion-fetch": 6,
     "mcp__t3-code__html_preview": 8,
     "mcp__t3-code__html_render": 5,
-    "mcp__t3-code__request_secret": 3,
+    "mcp__t3-code__request_secret": 6,
     "AskUserQuestion": 12,
     "mcp__t3-code__orchestrator_capabilities": 5,
-    "mcp__t3-code__delegate_task": 36,
+    "mcp__t3-code__delegate_task": 48,
     "mcp__context7__resolve-library-id": 2,
     "mcp__context7__query-docs": 2,
     "mcp__exa__web_search_exa": 190,
     "mcp__exa__web_fetch_exa": 28,
     "mcp__t3-code__t3_project_list": 2,
     "mcp__t3-code__t3_project_create": 1,
-    "ArtifactData": 34,
-    "mcp__t3-code__task_status": 3,
+    "ArtifactData": 53,
+    "mcp__t3-code__task_status": 4,
     "mcp__t3-code__link_pull_requests": 2,
     "mcp__t3-code__watch_pull_request": 5,
+    "mcp__t3-code__unwatch_pull_request": 6,
+    "mcp__t3-code__t3_thread_send": 11,
     "SendMessage": 692,
     "ListAgents": 2,
     "mcp__claude_ai_Slack__slack_search_channels": 2,
     "mcp__claude_ai_Slack__slack_read_channel": 2,
     "mcp__claude_ai_Slack__slack_search_public": 8,
-    "mcp__t3-code__unwatch_pull_request": 2,
     "bash": 2,
     "mcp__local-postgres__query": 2,
     "mcp__diffviz-browser__browser_navigate": 1,
@@ -6370,41 +8112,55 @@
     "mcp__Claude_Browser__read_page": 2,
     "mcp__Claude_Browser__find": 3,
     "mcp__Claude_Browser__form_input": 1,
-    "mcp__contra-studio__studio_list_models": 9,
+    "mcp__contra-studio__studio_list_models": 11,
     "mcp__contra-studio__studio_quote_image": 5,
     "mcp__contra-studio__studio_list_workflows": 1,
-    "mcp__contra-studio__studio_get_budget": 10,
-    "mcp__contra-studio__studio_create_workflow": 11,
-    "mcp__contra-studio__studio_generate_image": 9,
-    "mcp__contra-studio__studio_get_generation": 35,
+    "mcp__contra-studio__studio_get_budget": 12,
+    "mcp__contra-studio__studio_create_workflow": 13,
+    "mcp__contra-studio__studio_generate_image": 11,
+    "mcp__contra-studio__studio_get_generation": 43,
     "mcp__e7032509-9192-448e-b041-ea3950c2babb__whoami": 1,
     "mcp__ccd_connectors__session_connectors_status": 1,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_file": 7,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 3,
     "mcp__ccd_session_mgmt__list_sessions": 1,
-    "mcp__studio__pin_resolve": 61,
+    "mcp__studio__pin_resolve": 64,
     "mcp__studio__studio_transfer": 9,
     "mcp__studio__design_guide": 7,
-    "mcp__studio__node_screenshot": 40,
+    "mcp__studio__node_screenshot": 43,
     "mcp__studio__pin_ask": 3,
+    "mcp__canvas__node_screenshot": 1187,
+    "mcp__canvas__canvas_flag": 83,
+    "mcp__canvas__pin_resolve": 218,
     "mcp__studio__studio_generate_image": 4,
     "mcp__studio__studio_edit_image": 8,
-    "mcp__canvas__design_guide": 90,
-    "mcp__canvas__canvas_read": 42,
-    "mcp__canvas__node_screenshot": 313,
-    "mcp__canvas__pin_resolve": 40,
-    "mcp__canvas__canvas_write_file": 1,
-    "mcp__canvas__canvas_transfer": 1,
-    "mcp__canvas__media_budget": 16,
-    "mcp__contra-studio__studio_approve_task_budget": 4,
+    "mcp__canvas__design_guide": 288,
+    "mcp__canvas__canvas_read": 177,
+    "mcp__canvas__canvas_screenshot": 22,
+    "mcp__canvas__pin_ask": 8,
+    "mcp__canvas__canvas_transfer": 10,
+    "mcp__canvas__media_budget": 75,
+    "mcp__canvas__media_ask": 13,
+    "mcp__contra-studio-app__studio_list_models": 24,
+    "mcp__contra-studio-app__studio_create_workflow": 24,
+    "mcp__contra-studio-app__studio_approve_task_budget": 16,
+    "mcp__contra-studio-app__studio_quote_image": 18,
+    "mcp__contra-studio-app__studio_approve_budget_run": 34,
+    "mcp__contra-studio-app__studio_generate_image": 28,
+    "mcp__contra-studio-app__studio_get_generation": 50,
+    "mcp__canvas__canvas_add_asset": 58,
+    "mcp__canvas__canvas_write_file": 3,
+    "mcp__contra-studio__studio_approve_task_budget": 5,
     "mcp__contra-studio__studio_quote_media": 2,
-    "mcp__contra-studio__studio_approve_budget_run": 21,
-    "mcp__contra-studio__studio_generate_video": 8,
-    "mcp__canvas__canvas_add_asset": 18,
-    "mcp__canvas__media_ask": 1,
-    "mcp__contra-studio__studio_edit_image": 3,
+    "mcp__contra-studio__studio_approve_budget_run": 26,
+    "mcp__contra-studio__studio_generate_video": 10,
+    "mcp__contra-studio__studio_edit_image": 4,
+    "mcp__contra-studio-app__studio_generate_video": 6,
+    "mcp__contra-studio-app__studio_edit_image": 3,
     "mcp__studio__canvas_read": 7,
-    "mcp__canvas__canvas_screenshot": 4,
+    "mcp__contra-studio-app__studio_quote_media": 2,
+    "mcp__contra-studio-app__studio_get_budget": 9,
+    "mcp__canvas__canvas_read_file": 2,
     "mcp__brand__brand_facts": 1,
     "mcp__studio__canvas_write_file": 2,
     "mcp__studio__canvas_read_file": 2
