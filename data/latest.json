@@ -1,23 +1,35 @@
 {
-  "generatedAt": "2026-11-15T17:00:17.337Z",
+  "generatedAt": "2026-11-15T21:00:14.642Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 940,
-    "totalDurationMs": 2650020565,
-    "totalTokens": 15772723781,
+    "totalSessions": 942,
+    "totalDurationMs": 2697742480,
+    "totalTokens": 16436036856,
     "projectCount": 497
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 185,
-      "totalDurationMs": 1585477356,
+      "totalSessions": 187,
+      "totalDurationMs": 1633199271,
       "sessions": [
+        {
+          "id": "2e5bf17a-55b3-48a9-be52-49d2db41cc51",
+          "title": "**********",
+          "timestamp": "2026-11-15T19:10:04.435Z",
+          "totalDurationMs": 6191353
+        },
+        {
+          "id": "5b388edc-cba7-4d1c-b15a-09e7a1172e30",
+          "title": "**********",
+          "timestamp": "2026-11-15T18:08:39.335Z",
+          "totalDurationMs": 9929339
+        },
         {
           "id": "5ed20e96-4121-4c34-8005-86ff61e6e7ca",
           "title": "**********",
           "timestamp": "2026-11-15T15:08:54.000Z",
-          "totalDurationMs": 6558456
+          "totalDurationMs": 6813915
         },
         {
           "id": "1486c958-2bec-4826-ae8b-08e2b59670a5",
@@ -29,19 +41,19 @@
           "id": "b09a3cd1-ff16-44d3-88c1-747053a4e8db",
           "title": "**********",
           "timestamp": "2026-11-15T15:08:38.115Z",
-          "totalDurationMs": 4592140
+          "totalDurationMs": 7890771
         },
         {
           "id": "47532dd5-685b-45cb-8c62-375ea68b1c4f",
           "title": "**********",
           "timestamp": "2026-11-15T15:08:30.865Z",
-          "totalDurationMs": 6458307
+          "totalDurationMs": 14982326
         },
         {
           "id": "dc6a0874-f98a-4b7e-aea1-5e14831b0e87",
           "title": "**********",
           "timestamp": "2026-11-15T15:08:24.952Z",
-          "totalDurationMs": 6579775
+          "totalDurationMs": 10765885
         },
         {
           "id": "e463cce8-0665-4f5c-a819-04f13c027260",
@@ -209,7 +221,7 @@
           "id": "0c4a5b16-9b22-42ea-b8e3-a27fb3d44c82",
           "title": "**********",
           "timestamp": "2026-11-13T02:39:18.073Z",
-          "totalDurationMs": 229834898
+          "totalDurationMs": 245171902
         },
         {
           "id": "20d89c90-32da-4924-b8ed-773ac5578c98",
@@ -7882,8 +7894,8 @@
   ],
   "activity": {
     "2026-11-15": {
-      "sessions": 129,
-      "durationMs": 71588856
+      "sessions": 131,
+      "durationMs": 103973767
     },
     "2026-11-14": {
       "sessions": 175,
@@ -7891,7 +7903,7 @@
     },
     "2026-11-13": {
       "sessions": 63,
-      "durationMs": 748153541
+      "durationMs": 763490545
     },
     "2026-11-12": {
       "sessions": 1,
@@ -8055,20 +8067,20 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 998962,
-    "outputTokens": 90269756,
-    "cacheReadTokens": 15314230736,
-    "cacheCreationTokens": 367224327
+    "inputTokens": 1002358,
+    "outputTokens": 91833734,
+    "cacheReadTokens": 15972926087,
+    "cacheCreationTokens": 370274677
   },
   "toolUsage": {
-    "Bash": 24233,
-    "Write": 2780,
-    "Read": 11588,
-    "ToolSearch": 624,
+    "Bash": 24965,
+    "Read": 11622,
+    "Write": 2797,
+    "Edit": 2703,
+    "ToolSearch": 628,
+    "TaskStop": 90,
+    "mcp__t3-code__t3_background_wait": 230,
     "Monitor": 65,
-    "mcp__t3-code__t3_background_wait": 204,
-    "Edit": 2677,
-    "TaskStop": 85,
     "Skill": 61,
     "WebFetch": 313,
     "mcp__t3-code__link_pull_request": 33,
@@ -8087,19 +8099,19 @@
     "mcp__t3-code__request_secret": 6,
     "AskUserQuestion": 12,
     "mcp__t3-code__orchestrator_capabilities": 5,
-    "mcp__t3-code__delegate_task": 58,
+    "mcp__t3-code__delegate_task": 60,
     "mcp__context7__resolve-library-id": 2,
     "mcp__context7__query-docs": 2,
     "mcp__exa__web_search_exa": 190,
     "mcp__exa__web_fetch_exa": 28,
     "mcp__t3-code__t3_project_list": 2,
     "mcp__t3-code__t3_project_create": 1,
-    "ArtifactData": 58,
+    "ArtifactData": 74,
     "mcp__t3-code__task_status": 5,
     "mcp__t3-code__link_pull_requests": 2,
     "mcp__t3-code__watch_pull_request": 5,
     "mcp__t3-code__unwatch_pull_request": 6,
-    "mcp__t3-code__t3_thread_send": 11,
+    "mcp__t3-code__t3_thread_send": 15,
     "SendMessage": 692,
     "ListAgents": 2,
     "mcp__claude_ai_Slack__slack_search_channels": 2,
