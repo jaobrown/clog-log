@@ -1,18 +1,48 @@
 {
-  "generatedAt": "2026-11-15T13:18:27.941Z",
+  "generatedAt": "2026-11-15T17:00:17.337Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 933,
-    "totalDurationMs": 2587508377,
-    "totalTokens": 15108491208,
-    "projectCount": 495
+    "totalSessions": 940,
+    "totalDurationMs": 2650020565,
+    "totalTokens": 15772723781,
+    "projectCount": 497
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 180,
-      "totalDurationMs": 1523298214,
+      "totalSessions": 185,
+      "totalDurationMs": 1585477356,
       "sessions": [
+        {
+          "id": "5ed20e96-4121-4c34-8005-86ff61e6e7ca",
+          "title": "**********",
+          "timestamp": "2026-11-15T15:08:54.000Z",
+          "totalDurationMs": 6558456
+        },
+        {
+          "id": "1486c958-2bec-4826-ae8b-08e2b59670a5",
+          "title": "**********",
+          "timestamp": "2026-11-15T15:08:46.574Z",
+          "totalDurationMs": 5175698
+        },
+        {
+          "id": "b09a3cd1-ff16-44d3-88c1-747053a4e8db",
+          "title": "**********",
+          "timestamp": "2026-11-15T15:08:38.115Z",
+          "totalDurationMs": 4592140
+        },
+        {
+          "id": "47532dd5-685b-45cb-8c62-375ea68b1c4f",
+          "title": "**********",
+          "timestamp": "2026-11-15T15:08:30.865Z",
+          "totalDurationMs": 6458307
+        },
+        {
+          "id": "dc6a0874-f98a-4b7e-aea1-5e14831b0e87",
+          "title": "**********",
+          "timestamp": "2026-11-15T15:08:24.952Z",
+          "totalDurationMs": 6579775
+        },
         {
           "id": "e463cce8-0665-4f5c-a819-04f13c027260",
           "title": "**********",
@@ -179,7 +209,7 @@
           "id": "0c4a5b16-9b22-42ea-b8e3-a27fb3d44c82",
           "title": "**********",
           "timestamp": "2026-11-13T02:39:18.073Z",
-          "totalDurationMs": 197020132
+          "totalDurationMs": 229834898
         },
         {
           "id": "20d89c90-32da-4924-b8ed-773ac5578c98",
@@ -2539,6 +2569,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-7165",
+      "totalSessions": 1,
+      "totalDurationMs": 273318,
+      "sessions": [
+        {
+          "id": "6f45824a-8dde-4e66-88e6-12a0bdca4be1",
+          "title": null,
+          "timestamp": "2026-11-15T16:19:34.147Z",
+          "totalDurationMs": 273318
+        }
+      ]
+    },
+    {
       "projectName": "untitled-canvas-6900",
       "totalSessions": 4,
       "totalDurationMs": 269894,
@@ -4062,6 +4105,19 @@
           "title": null,
           "timestamp": "2026-11-04T04:35:01.824Z",
           "totalDurationMs": 59829
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-2072",
+      "totalSessions": 1,
+      "totalDurationMs": 59728,
+      "sessions": [
+        {
+          "id": "fd4327ff-07a1-42d9-9f21-9ece9c425203",
+          "title": null,
+          "timestamp": "2026-11-15T14:55:40.304Z",
+          "totalDurationMs": 59728
         }
       ]
     },
@@ -7826,8 +7882,8 @@
   ],
   "activity": {
     "2026-11-15": {
-      "sessions": 122,
-      "durationMs": 41891434
+      "sessions": 129,
+      "durationMs": 71588856
     },
     "2026-11-14": {
       "sessions": 175,
@@ -7835,7 +7891,7 @@
     },
     "2026-11-13": {
       "sessions": 63,
-      "durationMs": 715338775
+      "durationMs": 748153541
     },
     "2026-11-12": {
       "sessions": 1,
@@ -7999,22 +8055,22 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 994918,
-    "outputTokens": 87450788,
-    "cacheReadTokens": 14658618297,
-    "cacheCreationTokens": 361427205
+    "inputTokens": 998962,
+    "outputTokens": 90269756,
+    "cacheReadTokens": 15314230736,
+    "cacheCreationTokens": 367224327
   },
   "toolUsage": {
-    "Bash": 23375,
-    "Read": 11571,
+    "Bash": 24233,
+    "Write": 2780,
+    "Read": 11588,
+    "ToolSearch": 624,
+    "Monitor": 65,
+    "mcp__t3-code__t3_background_wait": 204,
+    "Edit": 2677,
+    "TaskStop": 85,
     "Skill": 61,
-    "Write": 2695,
-    "ToolSearch": 615,
-    "mcp__t3-code__t3_background_wait": 193,
-    "TaskStop": 77,
     "WebFetch": 313,
-    "Monitor": 62,
-    "Edit": 2671,
     "mcp__t3-code__link_pull_request": 33,
     "mcp__t3-code__t3_thread_search": 1,
     "mcp__t3-code__t3_thread_read": 6,
@@ -8031,15 +8087,15 @@
     "mcp__t3-code__request_secret": 6,
     "AskUserQuestion": 12,
     "mcp__t3-code__orchestrator_capabilities": 5,
-    "mcp__t3-code__delegate_task": 48,
+    "mcp__t3-code__delegate_task": 58,
     "mcp__context7__resolve-library-id": 2,
     "mcp__context7__query-docs": 2,
     "mcp__exa__web_search_exa": 190,
     "mcp__exa__web_fetch_exa": 28,
     "mcp__t3-code__t3_project_list": 2,
     "mcp__t3-code__t3_project_create": 1,
-    "ArtifactData": 53,
-    "mcp__t3-code__task_status": 4,
+    "ArtifactData": 58,
+    "mcp__t3-code__task_status": 5,
     "mcp__t3-code__link_pull_requests": 2,
     "mcp__t3-code__watch_pull_request": 5,
     "mcp__t3-code__unwatch_pull_request": 6,
@@ -8129,13 +8185,13 @@
     "mcp__studio__design_guide": 7,
     "mcp__studio__node_screenshot": 43,
     "mcp__studio__pin_ask": 3,
-    "mcp__canvas__node_screenshot": 1187,
-    "mcp__canvas__canvas_flag": 83,
-    "mcp__canvas__pin_resolve": 218,
+    "mcp__canvas__node_screenshot": 1198,
+    "mcp__canvas__canvas_flag": 85,
+    "mcp__canvas__pin_resolve": 222,
     "mcp__studio__studio_generate_image": 4,
     "mcp__studio__studio_edit_image": 8,
-    "mcp__canvas__design_guide": 288,
-    "mcp__canvas__canvas_read": 177,
+    "mcp__canvas__design_guide": 292,
+    "mcp__canvas__canvas_read": 179,
     "mcp__canvas__canvas_screenshot": 22,
     "mcp__canvas__pin_ask": 8,
     "mcp__canvas__canvas_transfer": 10,
