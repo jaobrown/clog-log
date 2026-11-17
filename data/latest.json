@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-17T13:00:21.458Z",
+  "generatedAt": "2026-11-17T17:00:30.474Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 1022,
-    "totalDurationMs": 3445600673,
-    "totalTokens": 18815269562,
+    "totalDurationMs": 3488984620,
+    "totalTokens": 18827938181,
     "projectCount": 545
   },
   "projects": [
     {
       "projectName": "top secret",
       "totalSessions": 195,
-      "totalDurationMs": 2045295732,
+      "totalDurationMs": 2088679679,
       "sessions": [
         {
           "id": "102c42ef-f566-4ea0-9fb7-4fe7354f1dd6",
@@ -251,7 +251,7 @@
           "id": "0c4a5b16-9b22-42ea-b8e3-a27fb3d44c82",
           "title": "**********",
           "timestamp": "2026-11-13T02:39:18.073Z",
-          "totalDurationMs": 359605754
+          "totalDurationMs": 402989701
         },
         {
           "id": "20d89c90-32da-4924-b8ed-773ac5578c98",
@@ -8567,7 +8567,7 @@
     },
     "2026-11-13": {
       "sessions": 66,
-      "durationMs": 1317860196
+      "durationMs": 1361244143
     },
     "2026-11-12": {
       "sessions": 1,
@@ -8731,18 +8731,18 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 1019810,
-    "outputTokens": 101199397,
-    "cacheReadTokens": 18310604080,
-    "cacheCreationTokens": 402446275
+    "inputTokens": 1020000,
+    "outputTokens": 101327777,
+    "cacheReadTokens": 18322369033,
+    "cacheCreationTokens": 403221371
   },
   "toolUsage": {
-    "Bash": 27668,
-    "Read": 12018,
-    "Write": 3098,
+    "Bash": 27722,
+    "Read": 12019,
+    "Write": 3106,
     "mcp__t3-code__t3_background_wait": 318,
-    "ToolSearch": 805,
-    "Edit": 2998,
+    "ToolSearch": 807,
+    "Edit": 3000,
     "mcp__t3-code__link_pull_request": 37,
     "mcp__playwright__browser_resize": 4,
     "mcp__playwright__browser_navigate": 8,
@@ -8770,7 +8770,7 @@
     "mcp__t3-code__html_preview": 11,
     "mcp__t3-code__html_render": 7,
     "mcp__t3-code__request_secret": 11,
-    "AskUserQuestion": 13,
+    "AskUserQuestion": 14,
     "mcp__t3-code__orchestrator_capabilities": 7,
     "mcp__t3-code__delegate_task": 112,
     "mcp__context7__resolve-library-id": 3,
@@ -8779,12 +8779,12 @@
     "mcp__exa__web_fetch_exa": 30,
     "mcp__t3-code__t3_project_list": 3,
     "mcp__t3-code__t3_project_create": 2,
-    "ArtifactData": 177,
+    "ArtifactData": 178,
     "mcp__t3-code__task_status": 13,
-    "mcp__t3-code__link_pull_requests": 8,
+    "mcp__t3-code__link_pull_requests": 10,
     "mcp__t3-code__watch_pull_request": 15,
     "mcp__t3-code__unwatch_pull_request": 16,
-    "mcp__t3-code__t3_thread_send": 65,
+    "mcp__t3-code__t3_thread_send": 75,
     "mcp__claude_ai_Slack__slack_search_channels": 4,
     "SendMessage": 692,
     "ListAgents": 2,
