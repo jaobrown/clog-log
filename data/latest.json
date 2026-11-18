@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-18T13:00:15.989Z",
+  "generatedAt": "2026-11-18T17:00:19.368Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 1028,
-    "totalDurationMs": 3533542109,
-    "totalTokens": 19030568000,
+    "totalDurationMs": 3602301397,
+    "totalTokens": 19037045793,
     "projectCount": 546
   },
   "projects": [
     {
       "projectName": "top secret",
       "totalSessions": 200,
-      "totalDurationMs": 2133219780,
+      "totalDurationMs": 2201979068,
       "sessions": [
         {
           "id": "bfc5a81c-cceb-4ed8-9a92-2dd4b6e20a75",
@@ -23,7 +23,7 @@
           "id": "2ec5dc2f-5c3e-40da-b1ab-c6cee487e4c6",
           "title": "**********",
           "timestamp": "2026-11-17T21:37:04.638Z",
-          "totalDurationMs": 1016714
+          "totalDurationMs": 69776002
         },
         {
           "id": "102c42ef-f566-4ea0-9fb7-4fe7354f1dd6",
@@ -8584,7 +8584,7 @@
     },
     "2026-11-17": {
       "sessions": 2,
-      "durationMs": 1034102
+      "durationMs": 69793390
     },
     "2026-11-16": {
       "sessions": 32,
@@ -8764,17 +8764,20 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 1022416,
-    "outputTokens": 102096294,
-    "cacheReadTokens": 18521371678,
-    "cacheCreationTokens": 406077612
+    "inputTokens": 1022534,
+    "outputTokens": 102127620,
+    "cacheReadTokens": 18527599048,
+    "cacheCreationTokens": 406296591
   },
   "toolUsage": {
-    "Bash": 28333,
+    "Bash": 28348,
     "Write": 3121,
+    "ToolSearch": 826,
+    "WebSearch": 187,
+    "AskUserQuestion": 15,
+    "mcp__t3-code__request_secret": 13,
+    "mcp__t3-code__t3_background_wait": 342,
     "Read": 12101,
-    "mcp__t3-code__t3_background_wait": 341,
-    "ToolSearch": 823,
     "Edit": 3012,
     "mcp__t3-code__link_pull_request": 40,
     "mcp__playwright__browser_resize": 4,
@@ -8788,7 +8791,6 @@
     "mcp__t3-code__preview_act": 39,
     "mcp__t3-code__preview_wait_for": 11,
     "WebFetch": 322,
-    "WebSearch": 186,
     "Skill": 66,
     "mcp__t3-code__t3_preview_close": 4,
     "TaskStop": 101,
@@ -8802,8 +8804,6 @@
     "mcp__claude_ai_Notion__notion-fetch": 8,
     "mcp__t3-code__html_preview": 11,
     "mcp__t3-code__html_render": 7,
-    "mcp__t3-code__request_secret": 11,
-    "AskUserQuestion": 14,
     "mcp__t3-code__orchestrator_capabilities": 8,
     "mcp__t3-code__delegate_task": 114,
     "mcp__context7__resolve-library-id": 3,
