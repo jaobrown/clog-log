@@ -1,23 +1,29 @@
 {
-  "generatedAt": "2026-11-20T17:00:17.690Z",
+  "generatedAt": "2026-11-20T21:00:17.421Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1061,
-    "totalDurationMs": 3754557312,
-    "totalTokens": 19774621082,
+    "totalSessions": 1069,
+    "totalDurationMs": 3714854469,
+    "totalTokens": 19112021869,
     "projectCount": 548
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 225,
-      "totalDurationMs": 2345395858,
+      "totalSessions": 233,
+      "totalDurationMs": 2305693015,
       "sessions": [
+        {
+          "id": "e405379b-a9b1-4adf-8cc7-66785bad800d",
+          "title": "**********",
+          "timestamp": "2026-11-20T20:55:48.948Z",
+          "totalDurationMs": 255391
+        },
         {
           "id": "153924a2-94df-4106-8b8c-05ccba859e1f",
           "title": "**********",
           "timestamp": "2026-11-20T15:53:45.686Z",
-          "totalDurationMs": 3648448
+          "totalDurationMs": 23893057
         },
         {
           "id": "bbbe1197-ac71-43f6-b84c-15d4a8dc5b82",
@@ -468,12 +474,6 @@
           "title": "**********",
           "timestamp": "2026-10-22T18:09:56.839Z",
           "totalDurationMs": 439844
-        },
-        {
-          "id": "055d51a3-c271-4005-b20e-128fe248379a",
-          "title": "**********",
-          "timestamp": "2026-10-21T00:37:49.171Z",
-          "totalDurationMs": 60202843
         },
         {
           "id": "1beb0e87-85b2-457c-bc55-dd582a76c08b",
@@ -8725,8 +8725,8 @@
   ],
   "activity": {
     "2026-11-20": {
-      "sessions": 8,
-      "durationMs": 11446308
+      "sessions": 17,
+      "durationMs": 31946308
     },
     "2026-11-19": {
       "sessions": 21,
@@ -8787,10 +8787,6 @@
     "2026-10-22": {
       "sessions": 1,
       "durationMs": 439844
-    },
-    "2026-10-21": {
-      "sessions": 1,
-      "durationMs": 60202843
     },
     "2026-10-15": {
       "sessions": 3,
@@ -8918,27 +8914,28 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 1031068,
-    "outputTokens": 106207665,
-    "cacheReadTokens": 19246751070,
-    "cacheCreationTokens": 420631279
+    "inputTokens": 1030140,
+    "outputTokens": 105863158,
+    "cacheReadTokens": 18586723101,
+    "cacheCreationTokens": 418405470
   },
   "toolUsage": {
-    "Bash": 30146,
-    "Read": 12320,
-    "Agent": 501,
-    "ToolSearch": 920,
+    "Bash": 29534,
+    "Read": 12463,
+    "Edit": 3170,
+    "ToolSearch": 924,
+    "mcp__t3-code__link_pull_request": 64,
+    "Agent": 509,
     "mcp__production-postgres-readonly__execute_sql": 146,
     "mcp__production-postgres-readonly__list_tables": 11,
     "Skill": 76,
     "mcp__t3-code__t3_background_wait": 368,
     "Artifact": 66,
-    "Write": 3174,
-    "Edit": 3144,
-    "mcp__t3-code__link_pull_request": 63,
+    "Write": 3245,
+    "mcp__t3-code__link_pull_requests": 23,
+    "mcp__t3-code__watch_pull_request": 69,
     "mcp__t3-code__pull_request_update": 1,
     "mcp__t3-code__pull_request_merge": 1,
-    "mcp__t3-code__watch_pull_request": 68,
     "mcp__t3-code__ci_logs": 2,
     "mcp__t3-code__ci_rerun": 1,
     "mcp__claude_ai_Slack__slack_read_thread": 8,
@@ -8982,7 +8979,6 @@
     "mcp__t3-code__t3_project_list": 3,
     "mcp__t3-code__t3_project_create": 2,
     "mcp__t3-code__task_status": 13,
-    "mcp__t3-code__link_pull_requests": 21,
     "mcp__claude_ai_Slack__slack_search_channels": 4,
     "SendMessage": 692,
     "ListAgents": 2,
@@ -8990,7 +8986,7 @@
     "bash": 2,
     "mcp__local-postgres__query": 2,
     "Glob": 273,
-    "Grep": 587,
+    "Grep": 577,
     "mcp__ccd_turn__update_plan": 114,
     "mcp__Claude_Browser__preview_start": 16,
     "mcp__ccd_turn__wrap_up": 32,
