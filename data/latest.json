@@ -1,18 +1,36 @@
 {
-  "generatedAt": "2026-11-22T13:00:22.068Z",
+  "generatedAt": "2026-11-22T17:04:57.594Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1096,
-    "totalDurationMs": 3935264072,
-    "totalTokens": 20388399954,
+    "totalSessions": 1102,
+    "totalDurationMs": 4014852219,
+    "totalTokens": 20431900627,
     "projectCount": 552
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 251,
-      "totalDurationMs": 2436468214,
+      "totalSessions": 254,
+      "totalDurationMs": 2458168909,
       "sessions": [
+        {
+          "id": "f47c3edf-b2f8-4f5b-9137-71d412292b7c",
+          "title": "**********",
+          "timestamp": "2026-11-22T14:19:39.700Z",
+          "totalDurationMs": 2479108
+        },
+        {
+          "id": "2f02651e-b542-4196-b02d-799ef26aec1d",
+          "title": "**********",
+          "timestamp": "2026-11-22T13:34:09.904Z",
+          "totalDurationMs": 500222
+        },
+        {
+          "id": "047c7f69-fbaa-472f-ab12-39be9f949a63",
+          "title": "**********",
+          "timestamp": "2026-11-22T13:32:52.685Z",
+          "totalDurationMs": 676472
+        },
         {
           "id": "f130e10f-28f9-4126-a8a6-228d6ac69a04",
           "title": "**********",
@@ -41,7 +59,7 @@
           "id": "6e008280-d711-475f-ace0-07721b53321a",
           "title": "**********",
           "timestamp": "2026-11-22T03:31:59.067Z",
-          "totalDurationMs": 20470590
+          "totalDurationMs": 38515483
         },
         {
           "id": "78f4ec36-7610-40f9-8c2c-cade6d99e274",
@@ -830,6 +848,19 @@
       ]
     },
     {
+      "projectName": "untitled-canvas-f5a8",
+      "totalSessions": 7,
+      "totalDurationMs": 147465304,
+      "sessions": [
+        {
+          "id": "c8b87208-a6eb-48e8-beec-907d9a2ca254",
+          "title": null,
+          "timestamp": "2026-11-20T21:02:55.777Z",
+          "totalDurationMs": 147465304
+        }
+      ]
+    },
+    {
       "projectName": "contra",
       "totalSessions": 24,
       "totalDurationMs": 144518394,
@@ -899,19 +930,6 @@
           "title": null,
           "timestamp": "2026-10-19T16:50:56.770Z",
           "totalDurationMs": 10732504
-        }
-      ]
-    },
-    {
-      "projectName": "untitled-canvas-f5a8",
-      "totalSessions": 4,
-      "totalDurationMs": 89577852,
-      "sessions": [
-        {
-          "id": "c8b87208-a6eb-48e8-beec-907d9a2ca254",
-          "title": null,
-          "timestamp": "2026-11-20T21:02:55.777Z",
-          "totalDurationMs": 89577852
         }
       ]
     },
@@ -8879,16 +8897,16 @@
   ],
   "activity": {
     "2026-11-22": {
-      "sessions": 6,
-      "durationMs": 26321767
+      "sessions": 9,
+      "durationMs": 48022462
     },
     "2026-11-21": {
       "sessions": 18,
       "durationMs": 51892993
     },
     "2026-11-20": {
-      "sessions": 21,
-      "durationMs": 174580995
+      "sessions": 24,
+      "durationMs": 232468447
     },
     "2026-11-19": {
       "sessions": 21,
@@ -9072,42 +9090,45 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 1041982,
-    "outputTokens": 111897975,
-    "cacheReadTokens": 19834344341,
-    "cacheCreationTokens": 441115656
+    "inputTokens": 1042748,
+    "outputTokens": 112394908,
+    "cacheReadTokens": 19875412910,
+    "cacheCreationTokens": 443050061
   },
   "toolUsage": {
-    "Bash": 32353,
-    "Read": 12779,
-    "ToolSearch": 1001,
+    "Bash": 32489,
+    "Read": 12785,
+    "Edit": 3308,
+    "ToolSearch": 1016,
+    "mcp__t3-code__link_pull_request": 102,
+    "mcp__t3-code__pull_request_read": 46,
+    "mcp__t3-code__pull_request_merge": 26,
+    "mcp__t3-code__watch_pull_request": 107,
+    "mcp__t3-code__t3_background_wait": 438,
+    "mcp__t3-code__unwatch_pull_request": 63,
+    "mcp__exa__web_search_exa": 193,
     "mcp__playwright__browser_navigate": 12,
-    "Write": 3304,
+    "Write": 3310,
     "mcp__t3-code__send_to_user": 10,
     "mcp__production-postgres-readonly__execute_sql": 181,
     "AskUserQuestion": 17,
     "mcp__t3-code__orchestrator_capabilities": 13,
     "mcp__t3-code__delegate_task": 162,
     "mcp__t3-code__pull_request_create": 2,
-    "mcp__t3-code__link_pull_request": 101,
-    "mcp__t3-code__watch_pull_request": 106,
     "mcp__t3-code__ci_logs": 17,
-    "mcp__t3-code__pull_request_read": 44,
-    "Edit": 3270,
     "mcp__t3-code__pull_request_respond": 92,
-    "mcp__t3-code__pull_request_merge": 25,
-    "mcp__t3-code__t3_background_wait": 434,
     "mcp__t3-code__ci_rerun": 12,
+    "mcp__claude_ai_Slack__slack_search_channels": 5,
+    "mcp__claude_ai_Slack__slack_read_channel": 8,
     "Skill": 78,
     "Artifact": 73,
     "mcp__t3-code__pull_request_update": 17,
     "mcp__t3-code__t3_thread_list": 16,
     "mcp__t3-code__t3_thread_read": 43,
     "mcp__t3-code__t3_thread_wait": 22,
-    "Agent": 522,
+    "Agent": 534,
     "PushNotification": 3,
     "mcp__t3-code__task_status": 14,
-    "mcp__t3-code__unwatch_pull_request": 62,
     "TaskStop": 104,
     "mcp__production-postgres-readonly__list_tables": 11,
     "mcp__t3-code__link_pull_requests": 23,
@@ -9121,7 +9142,6 @@
     "mcp__t3-code__list_thread_pull_requests": 1,
     "mcp__playwright__browser_resize": 6,
     "mcp__t3-code__request_secret": 13,
-    "mcp__claude_ai_Slack__slack_read_channel": 6,
     "mcp__diffviz-browser__browser_navigate": 5,
     "mcp__t3-code__preview_open": 5,
     "mcp__t3-code__preview_resize": 14,
@@ -9138,11 +9158,9 @@
     "mcp__t3-code__html_render": 7,
     "mcp__context7__resolve-library-id": 3,
     "mcp__context7__query-docs": 3,
-    "mcp__exa__web_search_exa": 192,
     "mcp__exa__web_fetch_exa": 30,
     "mcp__t3-code__t3_project_list": 3,
     "mcp__t3-code__t3_project_create": 2,
-    "mcp__claude_ai_Slack__slack_search_channels": 4,
     "SendMessage": 692,
     "ListAgents": 2,
     "mcp__claude_ai_Slack__slack_search_public": 8,
@@ -9214,9 +9232,13 @@
     "mcp__studio__design_guide": 7,
     "mcp__studio__node_screenshot": 43,
     "mcp__studio__pin_ask": 3,
-    "mcp__canvas__node_screenshot": 1616,
-    "mcp__canvas__canvas_flag": 155,
+    "mcp__canvas__node_screenshot": 1664,
+    "mcp__canvas__canvas_flag": 156,
     "mcp__canvas__pin_resolve": 307,
+    "mcp__canvas__canvas_read": 246,
+    "mcp__canvas__design_guide": 375,
+    "mcp__canvas__canvas_screenshot": 40,
+    "mcp__canvas__canvas_arrange": 21,
     "mcp__contra-studio__studio_list_models": 11,
     "mcp__contra-studio__studio_quote_image": 5,
     "mcp__contra-studio__studio_list_workflows": 1,
@@ -9229,10 +9251,6 @@
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_read_file": 7,
     "mcp__e038b537-e170-4c2e-904f-1d72b8aa51d3__slack_search_public_and_private": 3,
     "mcp__ccd_session_mgmt__list_sessions": 1,
-    "mcp__canvas__canvas_read": 245,
-    "mcp__canvas__design_guide": 375,
-    "mcp__canvas__canvas_screenshot": 37,
-    "mcp__canvas__canvas_arrange": 20,
     "mcp__canvas__media_budget": 114,
     "mcp__canvas__media_ask": 27,
     "mcp__contra-studio-app__studio_create_workflow": 41,
