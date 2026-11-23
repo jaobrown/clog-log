@@ -1,23 +1,59 @@
 {
-  "generatedAt": "2026-11-23T17:00:19.210Z",
+  "generatedAt": "2026-11-23T21:00:18.681Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1119,
-    "totalDurationMs": 4304634245,
-    "totalTokens": 21474563530,
-    "projectCount": 552
+    "totalSessions": 1126,
+    "totalDurationMs": 4341916694,
+    "totalTokens": 21838313340,
+    "projectCount": 553
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 268,
-      "totalDurationMs": 2652296481,
+      "totalSessions": 274,
+      "totalDurationMs": 2689218732,
       "sessions": [
+        {
+          "id": "6bb9a620-1df7-4f7c-8874-7c0ae830882f",
+          "title": "**********",
+          "timestamp": "2026-11-23T20:37:25.540Z",
+          "totalDurationMs": 1199810
+        },
+        {
+          "id": "0d7da62c-2cac-4812-9cff-59dd0bfbb27c",
+          "title": "**********",
+          "timestamp": "2026-11-23T19:55:05.207Z",
+          "totalDurationMs": 2545555
+        },
+        {
+          "id": "8940a977-5c39-48d5-8c2b-a22b4ca50e4c",
+          "title": "**********",
+          "timestamp": "2026-11-23T18:48:33.084Z",
+          "totalDurationMs": 5910549
+        },
+        {
+          "id": "ac7a152b-0a0f-4d50-880a-a882841fbae4",
+          "title": "**********",
+          "timestamp": "2026-11-23T18:40:42.066Z",
+          "totalDurationMs": 6366608
+        },
+        {
+          "id": "91ce2335-f18e-43d5-810c-9ecc2e658b8f",
+          "title": "**********",
+          "timestamp": "2026-11-23T18:25:05.193Z",
+          "totalDurationMs": 8898326
+        },
+        {
+          "id": "eecaca88-ee75-4917-8eb8-ee35c876302b",
+          "title": "**********",
+          "timestamp": "2026-11-23T18:25:05.193Z",
+          "totalDurationMs": 4425515
+        },
         {
           "id": "e2d0b7b0-aaee-43f1-b251-8b9e4c1e23cc",
           "title": "**********",
           "timestamp": "2026-11-23T16:22:17.286Z",
-          "totalDurationMs": 2024137
+          "totalDurationMs": 9600025
         },
         {
           "id": "c8cc755c-574d-4da9-8cca-0751d0008a59",
@@ -2787,6 +2823,19 @@
           "title": null,
           "timestamp": "2026-10-29T20:06:26.966Z",
           "totalDurationMs": 370831
+        }
+      ]
+    },
+    {
+      "projectName": "untitled-canvas-a3a9",
+      "totalSessions": 1,
+      "totalDurationMs": 360198,
+      "sessions": [
+        {
+          "id": "4ef20f55-2db8-4c56-b18a-705fcdc7a5a6",
+          "title": null,
+          "timestamp": "2026-11-23T19:24:41.417Z",
+          "totalDurationMs": 360198
         }
       ]
     },
@@ -8921,8 +8970,8 @@
   ],
   "activity": {
     "2026-11-23": {
-      "sessions": 5,
-      "durationMs": 10718275
+      "sessions": 12,
+      "durationMs": 48000724
     },
     "2026-11-22": {
       "sessions": 19,
@@ -9114,70 +9163,76 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 1052560,
-    "outputTokens": 117853105,
-    "cacheReadTokens": 20895970754,
-    "cacheCreationTokens": 459687111
+    "inputTokens": 1055860,
+    "outputTokens": 118766403,
+    "cacheReadTokens": 21255085219,
+    "cacheCreationTokens": 463405858
   },
   "toolUsage": {
-    "Skill": 82,
-    "ToolSearch": 1081,
-    "mcp__claude_ai_Slack__slack_read_thread": 9,
-    "Bash": 34595,
+    "ToolSearch": 1115,
+    "WebSearch": 203,
+    "Bash": 35259,
+    "Skill": 88,
+    "Write": 3390,
+    "mcp__t3-code__request_secret": 16,
+    "mcp__t3-code__send_to_user": 16,
+    "mcp__t3-code__schedule_task": 2,
+    "mcp__t3-code__t3_thread_list": 18,
+    "mcp__t3-code__t3_thread_wait": 24,
+    "mcp__t3-code__t3_thread_read": 47,
+    "mcp__t3-code__delete_scheduled_task": 1,
+    "Read": 12936,
+    "mcp__production-postgres-readonly__execute_sql": 244,
+    "mcp__t3-code__link_pull_request": 145,
+    "mcp__t3-code__watch_pull_request": 148,
+    "Edit": 3579,
+    "mcp__t3-code__ci_logs": 28,
+    "mcp__t3-code__ci_rerun": 23,
+    "mcp__claude_ai_Slack__slack_read_thread": 14,
+    "mcp__claude_ai_Slack__slack_read_file": 6,
+    "mcp__t3-code__link_pull_requests": 24,
+    "mcp__t3-code__t3_background_wait": 508,
+    "mcp__playwright__browser_run_code_unsafe": 2,
+    "mcp__playwright__browser_snapshot": 2,
+    "mcp__t3-code__pull_request_read": 87,
+    "mcp__t3-code__pull_request_respond": 186,
+    "mcp__t3-code__pull_request_merge": 61,
     "Agent": 562,
     "SendMessage": 694,
-    "mcp__t3-code__t3_background_wait": 488,
-    "Write": 3366,
-    "mcp__production-postgres-readonly__execute_sql": 222,
-    "Edit": 3569,
-    "mcp__t3-code__link_pull_request": 141,
-    "Read": 12918,
-    "mcp__t3-code__pull_request_read": 83,
-    "mcp__t3-code__pull_request_merge": 59,
-    "mcp__t3-code__watch_pull_request": 143,
+    "TaskStop": 109,
+    "mcp__playwright__browser_resize": 8,
+    "mcp__playwright__browser_navigate": 14,
+    "mcp__t3-code__preview_status": 1,
+    "mcp__t3-code__preview_open": 6,
+    "mcp__t3-code__preview_snapshot": 77,
+    "mcp__t3-code__preview_wait_for": 46,
+    "mcp__t3-code__preview_evaluate": 171,
+    "mcp__t3-code__preview_act": 84,
+    "mcp__t3-code__preview_navigate": 23,
+    "mcp__t3-code__preview_find": 1,
+    "mcp__t3-code__t3_preview_close": 6,
+    "AskUserQuestion": 20,
     "mcp__t3-code__unwatch_pull_request": 67,
     "mcp__exa__web_search_exa": 194,
-    "mcp__playwright__browser_navigate": 12,
-    "mcp__t3-code__send_to_user": 14,
-    "AskUserQuestion": 19,
     "mcp__t3-code__orchestrator_capabilities": 16,
     "mcp__t3-code__delegate_task": 181,
     "mcp__t3-code__pull_request_create": 6,
-    "mcp__t3-code__ci_logs": 24,
-    "mcp__t3-code__pull_request_respond": 179,
-    "mcp__t3-code__ci_rerun": 22,
     "mcp__claude_ai_Slack__slack_search_channels": 6,
     "mcp__claude_ai_Slack__slack_read_channel": 10,
     "mcp__t3-code__pull_request_update": 22,
-    "mcp__t3-code__t3_thread_read": 45,
     "mcp__exa__web_fetch_exa": 32,
     "Artifact": 73,
-    "mcp__t3-code__t3_thread_list": 16,
-    "mcp__t3-code__t3_thread_wait": 22,
     "PushNotification": 3,
     "mcp__t3-code__task_status": 14,
-    "TaskStop": 104,
     "mcp__production-postgres-readonly__list_tables": 11,
-    "mcp__t3-code__link_pull_requests": 23,
-    "mcp__claude_ai_Slack__slack_read_file": 5,
     "mcp__t3-code__t3_thread_send": 129,
-    "WebSearch": 198,
     "mcp__claude_ai_Notion__notion-fetch": 11,
     "mcp__claude_ai_Notion__notion-get-file-download-urls": 3,
     "ArtifactData": 218,
     "mcp__t3-code__list_thread_pull_requests": 1,
-    "mcp__playwright__browser_resize": 6,
-    "mcp__t3-code__request_secret": 13,
     "mcp__diffviz-browser__browser_navigate": 5,
-    "mcp__t3-code__preview_open": 5,
     "mcp__t3-code__preview_resize": 14,
-    "mcp__t3-code__preview_evaluate": 126,
-    "mcp__t3-code__preview_snapshot": 40,
-    "mcp__t3-code__preview_navigate": 7,
-    "mcp__t3-code__preview_act": 39,
-    "mcp__t3-code__preview_wait_for": 11,
     "WebFetch": 322,
-    "mcp__t3-code__t3_preview_close": 4,
     "Monitor": 65,
     "mcp__t3-code__t3_thread_search": 1,
     "mcp__t3-code__html_preview": 11,
@@ -9249,11 +9304,11 @@
     "mcp__Claude_Browser__read_page": 2,
     "mcp__Claude_Browser__find": 3,
     "mcp__Claude_Browser__form_input": 1,
-    "mcp__canvas__node_screenshot": 1672,
+    "mcp__canvas__node_screenshot": 1678,
     "mcp__canvas__canvas_read": 246,
-    "mcp__canvas__design_guide": 375,
+    "mcp__canvas__design_guide": 376,
     "mcp__canvas__canvas_screenshot": 41,
-    "mcp__canvas__canvas_flag": 156,
+    "mcp__canvas__canvas_flag": 160,
     "mcp__canvas__canvas_arrange": 21,
     "mcp__studio__studio_generate_image": 4,
     "mcp__studio__studio_edit_image": 9,
