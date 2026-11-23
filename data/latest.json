@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-11-22T21:05:04.933Z",
+  "generatedAt": "2026-11-23T13:00:55.168Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1102,
-    "totalDurationMs": 4014852219,
-    "totalTokens": 20431900627,
+    "totalSessions": 1113,
+    "totalDurationMs": 4195251374,
+    "totalTokens": 21318226609,
     "projectCount": 552
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 254,
-      "totalDurationMs": 2458168909,
+      "totalSessions": 265,
+      "totalDurationMs": 2638568064,
       "sessions": [
+        {
+          "id": "61a07507-fa63-44d5-9d09-ddf852afea20",
+          "title": "**********",
+          "timestamp": "2026-11-23T05:22:26.946Z",
+          "totalDurationMs": 3152536
+        },
+        {
+          "id": "3039dbe1-84e0-4805-81c4-9a7fd70c2f1a",
+          "title": "**********",
+          "timestamp": "2026-11-23T02:29:02.845Z",
+          "totalDurationMs": 3937780
+        },
         {
           "id": "f47c3edf-b2f8-4f5b-9137-71d412292b7c",
           "title": "**********",
@@ -59,7 +71,13 @@
           "id": "6e008280-d711-475f-ace0-07721b53321a",
           "title": "**********",
           "timestamp": "2026-11-22T03:31:59.067Z",
-          "totalDurationMs": 38515483
+          "totalDurationMs": 122941336
+        },
+        {
+          "id": "9333c2b7-2b3a-491b-bc6b-48debeab3ff3",
+          "title": "**********",
+          "timestamp": "2026-11-22T03:31:59.067Z",
+          "totalDurationMs": 89881157
         },
         {
           "id": "78f4ec36-7610-40f9-8c2c-cade6d99e274",
@@ -576,12 +594,6 @@
           "title": "**********",
           "timestamp": "2026-10-26T15:10:51.040Z",
           "totalDurationMs": 500049
-        },
-        {
-          "id": "abf2af48-f577-4c74-85ff-26b8cca3624b",
-          "title": "**********",
-          "timestamp": "2026-10-23T15:03:24.755Z",
-          "totalDurationMs": 998171
         },
         {
           "id": "1beb0e87-85b2-457c-bc55-dd582a76c08b",
@@ -8896,9 +8908,13 @@
     }
   ],
   "activity": {
+    "2026-11-23": {
+      "sessions": 2,
+      "durationMs": 7090316
+    },
     "2026-11-22": {
-      "sessions": 9,
-      "durationMs": 48022462
+      "sessions": 19,
+      "durationMs": 222329472
     },
     "2026-11-21": {
       "sessions": 18,
@@ -8959,10 +8975,6 @@
     "2026-10-26": {
       "sessions": 1,
       "durationMs": 500049
-    },
-    "2026-10-23": {
-      "sessions": 1,
-      "durationMs": 998171
     },
     "2026-10-15": {
       "sessions": 3,
@@ -9090,43 +9102,44 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 1042748,
-    "outputTokens": 112394908,
-    "cacheReadTokens": 19875412910,
-    "cacheCreationTokens": 443050061
+    "inputTokens": 1050630,
+    "outputTokens": 117176689,
+    "cacheReadTokens": 20743160453,
+    "cacheCreationTokens": 456838837
   },
   "toolUsage": {
-    "Bash": 32489,
-    "Read": 12785,
-    "Edit": 3308,
-    "ToolSearch": 1016,
-    "mcp__t3-code__link_pull_request": 102,
-    "mcp__t3-code__pull_request_read": 46,
-    "mcp__t3-code__pull_request_merge": 26,
-    "mcp__t3-code__watch_pull_request": 107,
-    "mcp__t3-code__t3_background_wait": 438,
-    "mcp__t3-code__unwatch_pull_request": 63,
-    "mcp__exa__web_search_exa": 193,
+    "Bash": 34189,
+    "Read": 12869,
+    "Edit": 3463,
+    "ToolSearch": 1065,
+    "mcp__t3-code__link_pull_request": 139,
+    "mcp__t3-code__pull_request_read": 78,
+    "mcp__t3-code__pull_request_merge": 56,
+    "mcp__t3-code__watch_pull_request": 138,
+    "mcp__t3-code__t3_background_wait": 482,
+    "mcp__t3-code__unwatch_pull_request": 67,
+    "mcp__exa__web_search_exa": 194,
     "mcp__playwright__browser_navigate": 12,
-    "Write": 3310,
-    "mcp__t3-code__send_to_user": 10,
-    "mcp__production-postgres-readonly__execute_sql": 181,
-    "AskUserQuestion": 17,
-    "mcp__t3-code__orchestrator_capabilities": 13,
-    "mcp__t3-code__delegate_task": 162,
-    "mcp__t3-code__pull_request_create": 2,
-    "mcp__t3-code__ci_logs": 17,
-    "mcp__t3-code__pull_request_respond": 92,
-    "mcp__t3-code__ci_rerun": 12,
-    "mcp__claude_ai_Slack__slack_search_channels": 5,
-    "mcp__claude_ai_Slack__slack_read_channel": 8,
-    "Skill": 78,
+    "Write": 3361,
+    "mcp__t3-code__send_to_user": 14,
+    "mcp__production-postgres-readonly__execute_sql": 215,
+    "AskUserQuestion": 19,
+    "mcp__t3-code__orchestrator_capabilities": 14,
+    "mcp__t3-code__delegate_task": 179,
+    "mcp__t3-code__pull_request_create": 6,
+    "mcp__t3-code__ci_logs": 24,
+    "mcp__t3-code__pull_request_respond": 171,
+    "mcp__t3-code__ci_rerun": 22,
+    "mcp__claude_ai_Slack__slack_search_channels": 6,
+    "mcp__claude_ai_Slack__slack_read_channel": 10,
+    "Agent": 554,
+    "mcp__t3-code__pull_request_update": 22,
+    "mcp__t3-code__t3_thread_read": 45,
+    "Skill": 79,
+    "mcp__exa__web_fetch_exa": 32,
     "Artifact": 73,
-    "mcp__t3-code__pull_request_update": 17,
     "mcp__t3-code__t3_thread_list": 16,
-    "mcp__t3-code__t3_thread_read": 43,
     "mcp__t3-code__t3_thread_wait": 22,
-    "Agent": 534,
     "PushNotification": 3,
     "mcp__t3-code__task_status": 14,
     "TaskStop": 104,
@@ -9158,7 +9171,6 @@
     "mcp__t3-code__html_render": 7,
     "mcp__context7__resolve-library-id": 3,
     "mcp__context7__query-docs": 3,
-    "mcp__exa__web_fetch_exa": 30,
     "mcp__t3-code__t3_project_list": 3,
     "mcp__t3-code__t3_project_create": 2,
     "SendMessage": 692,
@@ -9166,8 +9178,8 @@
     "mcp__claude_ai_Slack__slack_search_public": 8,
     "bash": 2,
     "mcp__local-postgres__query": 2,
-    "Glob": 263,
-    "Grep": 517,
+    "Glob": 253,
+    "Grep": 477,
     "mcp__ccd_turn__update_plan": 114,
     "mcp__Claude_Browser__preview_start": 16,
     "mcp__ccd_turn__wrap_up": 32,
