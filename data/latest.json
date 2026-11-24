@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-24T13:04:06.317Z",
+  "generatedAt": "2026-11-24T17:00:13.776Z",
   "username": "jaobrown",
   "summary": {
     "totalSessions": 1130,
-    "totalDurationMs": 4432901458,
-    "totalTokens": 22103841892,
+    "totalDurationMs": 4461294452,
+    "totalTokens": 22109182514,
     "projectCount": 553
   },
   "projects": [
     {
       "projectName": "top secret",
       "totalSessions": 278,
-      "totalDurationMs": 2780203496,
+      "totalDurationMs": 2808596490,
       "sessions": [
         {
           "id": "e24d9b45-65d1-4f85-9d35-64ecde583aa0",
@@ -29,7 +29,7 @@
           "id": "acd091b6-b66a-4ed7-8e35-92e3b596b61e",
           "title": "**********",
           "timestamp": "2026-11-23T21:41:39.856Z",
-          "totalDurationMs": 33197726
+          "totalDurationMs": 61590720
         },
         {
           "id": "6bb9a620-1df7-4f7c-8874-7c0ae830882f",
@@ -8993,7 +8993,7 @@
     },
     "2026-11-23": {
       "sessions": 14,
-      "durationMs": 126913053
+      "durationMs": 155306047
     },
     "2026-11-22": {
       "sessions": 19,
@@ -9185,32 +9185,32 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 1058684,
-    "outputTokens": 120234615,
-    "cacheReadTokens": 21513868866,
-    "cacheCreationTokens": 468679727
+    "inputTokens": 1058752,
+    "outputTokens": 120270876,
+    "cacheReadTokens": 21518753377,
+    "cacheCreationTokens": 469099509
   },
   "toolUsage": {
-    "Bash": 35837,
+    "Bash": 35851,
     "Artifact": 91,
     "Skill": 101,
     "Write": 3416,
-    "ToolSearch": 1144,
+    "ToolSearch": 1148,
     "mcp__t3-code__link_pull_request": 150,
     "mcp__t3-code__t3_background_wait": 522,
     "mcp__t3-code__watch_pull_request": 164,
     "mcp__t3-code__unwatch_pull_request": 70,
     "Read": 12961,
     "Agent": 564,
-    "mcp__production-postgres-readonly__execute_sql": 326,
+    "mcp__production-postgres-readonly__execute_sql": 342,
     "mcp__t3-code__html_preview": 21,
     "WebFetch": 324,
-    "Edit": 3625,
+    "Edit": 3627,
     "mcp__t3-code__pull_request_create": 7,
     "mcp__t3-code__pull_request_read": 90,
     "mcp__t3-code__pull_request_respond": 187,
     "mcp__t3-code__pull_request_merge": 64,
-    "mcp__t3-code__schedule_task": 3,
+    "mcp__t3-code__schedule_task": 5,
     "WebSearch": 203,
     "mcp__t3-code__request_secret": 17,
     "mcp__t3-code__send_to_user": 16,
