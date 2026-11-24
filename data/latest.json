@@ -1,47 +1,65 @@
 {
-  "generatedAt": "2026-11-23T21:00:18.681Z",
+  "generatedAt": "2026-11-24T13:04:06.317Z",
   "username": "jaobrown",
   "summary": {
-    "totalSessions": 1126,
-    "totalDurationMs": 4341916694,
-    "totalTokens": 21838313340,
+    "totalSessions": 1130,
+    "totalDurationMs": 4432901458,
+    "totalTokens": 22103841892,
     "projectCount": 553
   },
   "projects": [
     {
       "projectName": "top secret",
-      "totalSessions": 274,
-      "totalDurationMs": 2689218732,
+      "totalSessions": 278,
+      "totalDurationMs": 2780203496,
       "sessions": [
+        {
+          "id": "e24d9b45-65d1-4f85-9d35-64ecde583aa0",
+          "title": "**********",
+          "timestamp": "2026-11-24T03:42:40.684Z",
+          "totalDurationMs": 455460
+        },
+        {
+          "id": "6f6435af-51fa-47e6-b470-22ff8ee2502e",
+          "title": "**********",
+          "timestamp": "2026-11-24T00:37:00.047Z",
+          "totalDurationMs": 11616975
+        },
+        {
+          "id": "acd091b6-b66a-4ed7-8e35-92e3b596b61e",
+          "title": "**********",
+          "timestamp": "2026-11-23T21:41:39.856Z",
+          "totalDurationMs": 33197726
+        },
         {
           "id": "6bb9a620-1df7-4f7c-8874-7c0ae830882f",
           "title": "**********",
           "timestamp": "2026-11-23T20:37:25.540Z",
-          "totalDurationMs": 1199810
+          "totalDurationMs": 2779563
         },
         {
           "id": "0d7da62c-2cac-4812-9cff-59dd0bfbb27c",
           "title": "**********",
           "timestamp": "2026-11-23T19:55:05.207Z",
-          "totalDurationMs": 2545555
+          "totalDurationMs": 4470652
         },
         {
           "id": "8940a977-5c39-48d5-8c2b-a22b4ca50e4c",
           "title": "**********",
           "timestamp": "2026-11-23T18:48:33.084Z",
-          "totalDurationMs": 5910549
+          "totalDurationMs": 30981999
         },
         {
           "id": "ac7a152b-0a0f-4d50-880a-a882841fbae4",
           "title": "**********",
           "timestamp": "2026-11-23T18:40:42.066Z",
-          "totalDurationMs": 6366608
+          "totalDurationMs": 22199750
         },
         {
           "id": "91ce2335-f18e-43d5-810c-9ecc2e658b8f",
           "title": "**********",
           "timestamp": "2026-11-23T18:25:05.193Z",
-          "totalDurationMs": 8898326
+          "totalDurationMs": 10203487
         },
         {
           "id": "eecaca88-ee75-4917-8eb8-ee35c876302b",
@@ -8969,9 +8987,13 @@
     }
   ],
   "activity": {
+    "2026-11-24": {
+      "sessions": 2,
+      "durationMs": 12072435
+    },
     "2026-11-23": {
-      "sessions": 12,
-      "durationMs": 48000724
+      "sessions": 14,
+      "durationMs": 126913053
     },
     "2026-11-22": {
       "sessions": 19,
@@ -9163,41 +9185,50 @@
     }
   },
   "tokenUsage": {
-    "inputTokens": 1055860,
-    "outputTokens": 118766403,
-    "cacheReadTokens": 21255085219,
-    "cacheCreationTokens": 463405858
+    "inputTokens": 1058684,
+    "outputTokens": 120234615,
+    "cacheReadTokens": 21513868866,
+    "cacheCreationTokens": 468679727
   },
   "toolUsage": {
-    "ToolSearch": 1115,
+    "Bash": 35837,
+    "Artifact": 91,
+    "Skill": 101,
+    "Write": 3416,
+    "ToolSearch": 1144,
+    "mcp__t3-code__link_pull_request": 150,
+    "mcp__t3-code__t3_background_wait": 522,
+    "mcp__t3-code__watch_pull_request": 164,
+    "mcp__t3-code__unwatch_pull_request": 70,
+    "Read": 12961,
+    "Agent": 564,
+    "mcp__production-postgres-readonly__execute_sql": 326,
+    "mcp__t3-code__html_preview": 21,
+    "WebFetch": 324,
+    "Edit": 3625,
+    "mcp__t3-code__pull_request_create": 7,
+    "mcp__t3-code__pull_request_read": 90,
+    "mcp__t3-code__pull_request_respond": 187,
+    "mcp__t3-code__pull_request_merge": 64,
+    "mcp__t3-code__schedule_task": 3,
     "WebSearch": 203,
-    "Bash": 35259,
-    "Skill": 88,
-    "Write": 3390,
-    "mcp__t3-code__request_secret": 16,
+    "mcp__t3-code__request_secret": 17,
     "mcp__t3-code__send_to_user": 16,
-    "mcp__t3-code__schedule_task": 2,
     "mcp__t3-code__t3_thread_list": 18,
     "mcp__t3-code__t3_thread_wait": 24,
     "mcp__t3-code__t3_thread_read": 47,
     "mcp__t3-code__delete_scheduled_task": 1,
-    "Read": 12936,
-    "mcp__production-postgres-readonly__execute_sql": 244,
-    "mcp__t3-code__link_pull_request": 145,
-    "mcp__t3-code__watch_pull_request": 148,
-    "Edit": 3579,
+    "mcp__claude_ai_Slack__slack_search_public_and_private": 13,
+    "mcp__claude_ai_Slack__slack_read_thread": 20,
+    "mcp__claude_ai_Slack__slack_read_channel": 15,
+    "mcp__claude_ai_Slack__slack_send_message_draft": 11,
     "mcp__t3-code__ci_logs": 28,
     "mcp__t3-code__ci_rerun": 23,
-    "mcp__claude_ai_Slack__slack_read_thread": 14,
+    "mcp__t3-code__link_pull_requests": 26,
     "mcp__claude_ai_Slack__slack_read_file": 6,
-    "mcp__t3-code__link_pull_requests": 24,
-    "mcp__t3-code__t3_background_wait": 508,
+    "mcp__t3-code__pull_request_update": 23,
     "mcp__playwright__browser_run_code_unsafe": 2,
     "mcp__playwright__browser_snapshot": 2,
-    "mcp__t3-code__pull_request_read": 87,
-    "mcp__t3-code__pull_request_respond": 186,
-    "mcp__t3-code__pull_request_merge": 61,
-    "Agent": 562,
     "SendMessage": 694,
     "TaskStop": 109,
     "mcp__playwright__browser_resize": 8,
@@ -9212,16 +9243,11 @@
     "mcp__t3-code__preview_find": 1,
     "mcp__t3-code__t3_preview_close": 6,
     "AskUserQuestion": 20,
-    "mcp__t3-code__unwatch_pull_request": 67,
     "mcp__exa__web_search_exa": 194,
     "mcp__t3-code__orchestrator_capabilities": 16,
     "mcp__t3-code__delegate_task": 181,
-    "mcp__t3-code__pull_request_create": 6,
     "mcp__claude_ai_Slack__slack_search_channels": 6,
-    "mcp__claude_ai_Slack__slack_read_channel": 10,
-    "mcp__t3-code__pull_request_update": 22,
     "mcp__exa__web_fetch_exa": 32,
-    "Artifact": 73,
     "PushNotification": 3,
     "mcp__t3-code__task_status": 14,
     "mcp__production-postgres-readonly__list_tables": 11,
@@ -9232,10 +9258,8 @@
     "mcp__t3-code__list_thread_pull_requests": 1,
     "mcp__diffviz-browser__browser_navigate": 5,
     "mcp__t3-code__preview_resize": 14,
-    "WebFetch": 322,
     "Monitor": 65,
     "mcp__t3-code__t3_thread_search": 1,
-    "mcp__t3-code__html_preview": 11,
     "mcp__t3-code__html_render": 7,
     "mcp__context7__resolve-library-id": 3,
     "mcp__context7__query-docs": 3,
